@@ -103,9 +103,9 @@ Quando viene indicata una roccaforte, si tratta di una torre occupata o di una f
 |         |              |               | 4\. Mummie      | 5\. Spettri    | 6\. Vampiri   |
 | 2       | C            | Mago          | 1\. Basilischi  | 2\. Chimere    | 3\. Draghi    |
 |         |              |               | 4\. Efreet      | 5\. Elementale | 6\. Gargoyles |
-| 3       | C            | Guerrieri     | 1\. Antieroi    | 2\. Draghi     | 3\. Giganti   |
+| 3       | C            | Campioni     | 1\. Antieroi    | 2\. Draghi     | 3\. Giganti   |
 |         |              |               | 4\. Manticore   | 5\. Orchetti   | 6\. Troll     |
-| 4       | N            | Guerrieri     | 1\. Djinn       | 2\. Giganti    | 3\. Grifoni   |
+| 4       | N            | Campioni     | 1\. Djinn       | 2\. Giganti    | 3\. Grifoni   |
 |         |              |               | 4\. Eroi        | 5\. Licantropi | 6\. Viverne   |
 | 5       | N            | Mago          | 1\. Centauri    | 2\. Djinn      | 3\. Draghi    |
 |         |              |               | 4\. Elementale  | 5\. Gorgoni    | 6\. Minotauri |

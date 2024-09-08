@@ -393,7 +393,7 @@ La seguente tabella può essere utilizzata per determinare quali dispositivi di 
 |-------|-----------|-------|---------------------|-----|---------|
 | 1-2   | Nano      | 1     | Assassino           | 1-2 | Maschio |
 | 3-4   | Elfo      | 02-11 | Chierico            | 3-4 | Femmina |
-| 5     | Gnomo     | 12-26 | Guerriero           |     |         |
+| 5     | Gnomo     | 12-26 | Campione           |     |         |
 | 6     | Mezz'elfo | 27-28 | Illusionista        |     |         |
 | 7     | Mezz'Orco | 29-37 | Mago                |     |         |
 | 8-10  | Halfling  | 38    | Monaco              |     |         |

@@ -32,7 +32,7 @@ Ognuna delle opere citate (insieme a innumerevoli altre che ciascun giocatore pu
 - Mallory, Thomas - La Morte di Artù
 - Maria Letizia Magini e Gabriella Agrati (a cura di) - La saga irlandese di Cu Chulainn, i racconti Gallesi del Mabinogion
 - Martin, George R. R. - Cronache del ghiaccio e del fuoco, Il drago di Ghiaccio
-- Moorcock, Michael - Elric di Melniboné, La grande storia della Runa Magica, Le spade di Corum, Le Cronache di Corum, Il mastino della Guerra, Gloriana, Michael Kane il Guerriero di Marte, il Campione Eterno, I guerrieri d'argento, Il drago nella spada
+- Moorcock, Michael - Elric di Melniboné, La grande storia della Runa Magica, Le spade di Corum, Le Cronache di Corum, Il mastino della Guerra, Gloriana, Michael Kane il Campione di Marte, il Campione Eterno, I guerrieri d'argento, Il drago nella spada
 - Omero - Iliade, Odissea
 - Rice Burroughs, Edgar - ciclo di John Carter di Marte
 - Salgari, Emilio - Ciclo dei pirati della Malesia, Ciclo dei corsari delle Antille

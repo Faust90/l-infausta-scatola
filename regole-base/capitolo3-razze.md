@@ -15,11 +15,11 @@ I nani tendono a vivere in città sotterranee e, come tali, notano facilmente al
 
 #### Avanzamento del Personaggio
 
-I Nani possono scegliere tra due classi, il Guerriero o il Ladro (se usato), e in genere possono avanzare fino al 6° livello.
+I Nani possono scegliere tra due classi, il Campione o il Ladro (se usato), e in genere possono avanzare fino al 6° livello.
 
 #### Restrizioni su Armi e Armature
 
-Come i Guerrieri umani, i nani sono stati addestrati alla guerra e non hanno restrizioni sulle armi o sulle armature che possono utilizzare.
+Come i Campioni umani, i nani sono stati addestrati alla guerra e non hanno restrizioni sulle armi o sulle armature che possono utilizzare.
 
 #### Combattere i Giganti
 
@@ -95,7 +95,7 @@ Gli halfling sono bassi, spesso corpulenti, e vivono nelle contee, comunità rus
 
 #### Avanzamento del Personaggio
 
-Gli halfling possono scegliere tra due classi, il Guerriero o il Ladro (se disponibile) e in genere è permesso loro di avanzare fino al 4° come guerriero e al 6° come ladro.
+Gli halfling possono scegliere tra due classi, il Campione o il Ladro (se disponibile) e in genere è permesso loro di avanzare fino al 4° come guerriero e al 6° come ladro.
 
 #### Restrizioni su Armi e Armature
 

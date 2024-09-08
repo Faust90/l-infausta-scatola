@@ -5,7 +5,58 @@ parent: Regole Base
 
 # Capitolo 2: Classi Personaggio
 
-Il gioco prevede quattro possibili Classi Personaggio: il Chierico, il Guerriero, il Mago e il Ladro (opzionale). L'Arbitro è, ovviamente, libero di inventare o ammettere altre Classi Personaggio nel gioco.
+## Il Cacciatore
+A differenza dei combattenti e dei Campioni, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
+
+I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire le tracce dei mostri, e quindi preparare il gruppo al peggio...
+
+#### Tabella 4: Avanzamento del Cacciatore
+
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Caccia |
+| :-----: | :--------------: | :-------: | :---------: | :----: |
+|    1    |        0         |     1     |     +1      |   2    |
+|    2    |      2.000       |     2     |     +2      |   2    |
+|    3    |      4.000       |     3     |     +3      |   2    |
+|    4    |      8.000       |     4     |     +4      |   3    |
+|    5    |      16.000      |     5     |     +5      |   3    |
+|    6    |      32.000      |     6     |     +6      |   3    |
+|    7    |      64.000      |     7     |     +7      |   4    |
+|    8    |     128.000      |     8     |     +8      |   4    |
+|    9    |     256.000      |     9     |     +9      |   4    |
+|   10    |     512.000      |    10     |     +9      |   5    |
+
+
+### Abilità del Cacciatore
+
+#### Restrizioni su armi e armature
+I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
+
+#### Caccia
+I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, l'Arbitro effettua un tiro segreto di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante.
+
+#### Trofei
+Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
+- Demone
+- Essere magico (elementale, golem)
+- Non-morto
+- Gigante (gigante, bugbear, orco)
+- Draconico (coboldo, drago, viverne)
+- Pelle verde (goblin, orchi, troll)
+- Animale (ragni, cinghiali, uccelli)
+- Sottomondo (trogloditi, melme)
+
+Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti danno di 1d6. I Cacciatori possono avere più titoli.
+
+#### Tiro salvezza
+I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
+
+#### Uccisore
+Un Cacciatore di nono livello o di livello superiore può chiamarsi Uccisore. 
+
+I Cacciatori viaggiano per il mondo e sono rispettati da tutti. Le gilde e i nobili danno sempre il benvenuto agli Uccisori e le taverne permettono a questi eroi di soggiornare gratuitamente.
+
+#### Bonus di esperienza per la Destrezza
+La Destrezza è l'attributo principale dei Cacciatori, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
 ## Il Chierico
 
@@ -15,19 +66,19 @@ Il Chierico è un campione della sua fede e del suo allineamento morale. Il pers
 
 #### Tabella 3: Avanzamento del Chierico
 
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza |Incantesimi|     |     |     |     |
-| ------- | ---------------- | --------- | ----------- | ------------- | --------- | --- | --- | --- | --- |
-|         |                  |           |             |               | 1         | 2   | 3   | 4   | 5   |
-| 1       | 0                | 1         | +0          | 15            | –         | –   | –   | –   | –   |
-| 2       | 1,500            | 2         | +0          | 14            | 1         | –   | –   | –   | –   |
-| 3       | 3,000            | 3         | +0          | 13            | 2         | –   | –   | –   | –   |
-| 4       | 6,000            | 3+1       | +1          | 12            | 2         | 1   | –   | –   | –   |
-| 5       | 12,000           | 4         | +1          | 11            | 2         | 2   | 1   | –   | –   |
-| 6       | 24,000           | 5         | +2          | 10            | 2         | 2   | 1   | 1   | –   |
-| 7       | 48,000           | 6         | +2          | 9             | 2         | 2   | 2   | 1   | 1   |
-| 8       | 96,000           | 6+1       | +3          | 8             | 2         | 2   | 2   | 2   | 2   |
-| 9       | 192,000          | 7         | +4          | 7             | 3         | 3   | 3   | 2   | 2   |
-| 10      | 384,000          | 8         | +5          | 6             | 3         | 3   | 3   | 3   | 3   |
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Incantesimi |     |     |     |     |
+| ------- | ---------------- | --------- | ----------- | ----------- | --- | --- | --- | --- |
+|         |                  |           |             | 1           | 2   | 3   | 4   | 5   |
+| 1       | 0                | 1         | +0          | 1           | –   | –   | –   | –   |
+| 2       | 1,500            | 2         | +1          | 2           | –   | –   | –   | –   |
+| 3       | 3,000            | 3         | +1          | 3           | 1   | –   | –   | –   |
+| 4       | 6,000            | 3+1       | +2          | 3           | 2   | –   | –   | –   |
+| 5       | 12,000           | 4         | +2          | 3           | 2   | 1   | –   | –   |
+| 6       | 24,000           | 5         | +3          | 3           | 3   | 2   | 1   | –   |
+| 7       | 48,000           | 6         | +3          | 3           | 3   | 2   | 2   | 1   |
+| 8       | 96,000           | 6+1       | +4          | 3           | 2   | 3   | 2   | 2   |
+| 9       | 192,000          | 7         | +4          | 3           | 3   | 3   | 3   | 2   |
+| 10      | 384,000          | 8         | +5          | 3           | 3   | 3   | 3   | 3   |
 
 ### Abilità del Chierico
 
@@ -41,11 +92,11 @@ I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, co
 
 #### Tiro Salvezza
 
-I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
+I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi.
 
 #### Scacciare i non-morti
 
-I Chierici possono usare il loro potere divino per bandire i non-morti, facendoli fuggire.
+I Chierici possono usare il loro potere divino per Scacciare i non-morti, facendoli fuggire.
 
 #### Fondare un tempio
 
@@ -65,70 +116,68 @@ Per i Chierici allineati legalmente, se la tabella indica una "D" allora la crea
 
 #### Tabella 4: Scacciare i non-morti
 
-|     |             |Livello del Chierico|     |     |     |     |     |     |     |     |     |
-| --- | ----------- | ------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DV  | Esempio     | 1                  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
-| <1  | Scheletro   | 10                 | 7   | 4   | D   | D   | D   | D   | D   | D   | D   |
-| 1   | Zombie      | 13                 | 10  | 7   | 4   | D   | D   | D   | D   | D   | D   |
-| 2   | Ghoul       | 15                 | 13  | 10  | 7   | 4   | D   | D   | D   | D   | D   |
-| 3   | Errante     | 17                 | 15  | 13  | 10  | 7   | 4   | D   | D   | D   | D   |
-| 4   | Apparizione | –                  | 17  | 15  | 13  | 10  | 7   | 4   | D   | D   | D   |
-| 5   | Mummia      | –                  | –   | 17  | 15  | 13  | 10  | 7   | 4   | D   | D   |
-| 6   | Spettro     | –                  | –   | –   | 17  | 15  | 13  | 10  | 7   | 4   | D   |
-| 7   | Vampiro     | –                  | –   | –   | –   | 17  | 15  | 13  | 10  | 7   | 4   |
-| 8   | Vampiro     | –                  | –   | –   | –   | –   | 17  | 15  | 13  | 10  | 7   |
-| 9   | Vampiro     | –                  | –   | –   | –   | –   | –   | 17  | 15  | 13  | 10  |
-| 10  | Lich        | –                  | –   | –   | –   | –   | –   | –   | 17  | 15  | 13  |
+|     |             | Livello del Chierico |     |     |     |     |     |     |     |     |     |
+| --- | ----------- | -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DV  | Esempio     | 1                    | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| <1  | Scheletro   | 10                   | 7   | 4   | D   | D   | D   | D   | D   | D   | D   |
+| 1   | Zombie      | 13                   | 10  | 7   | 4   | D   | D   | D   | D   | D   | D   |
+| 2   | Ghoul       | 15                   | 13  | 10  | 7   | 4   | D   | D   | D   | D   | D   |
+| 3   | Errante     | 17                   | 15  | 13  | 10  | 7   | 4   | D   | D   | D   | D   |
+| 4   | Apparizione | –                    | 17  | 15  | 13  | 10  | 7   | 4   | D   | D   | D   |
+| 5   | Mummia      | –                    | –   | 17  | 15  | 13  | 10  | 7   | 4   | D   | D   |
+| 6   | Spettro     | –                    | –   | –   | 17  | 15  | 13  | 10  | 7   | 4   | D   |
+| 7   | Vampiro     | –                    | –   | –   | –   | 17  | 15  | 13  | 10  | 7   | 4   |
+| 8   | Vampiro     | –                    | –   | –   | –   | –   | 17  | 15  | 13  | 10  | 7   |
+| 9   | Vampiro     | –                    | –   | –   | –   | –   | –   | 17  | 15  | 13  | 10  |
+| 10  | Lich        | –                    | –   | –   | –   | –   | –   | –   | 17  | 15  | 13  |
 
-#### Scacciare i non-morti (variante)
+## Il Campione
 
-Gli Arbitri che desiderano limitare l'uso dell'abilità Scacciare i non-morti potrebbero provare a considerarlo come un semplice incantesimo da chierico di 1° livello.
+Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Campioni finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Campione del gruppo, il lavoro sporco spetta a voi.
 
-#### Chierici caotici e non-morti (opzionale)
+#### Tabella 5: Avanzamento del Campione
 
-Molti Arbitri permettono ai Chierici Caotici, così come ai Chierici Legali, di scacciare i non-morti. Se i Chierici Caotici possono scacciare i non-morti, trattate un risultato di "D" sulla tabella in modo leggermente diverso; invece di distruggere la creatura non-morta, il Chierico Caotico la costringe al suo servizio. Seguirà i comandi del personaggio, sebbene l'Arbitro stabilirà le limitazioni di questo potere. Il Chierico potrebbe tenere sotto controllo solo un certo numero di non-morti alla volta (o un certo numero di Dadi Vita) - il livello del Chierico è un buon riferimento da usare per questo limite, sia che si tratti di un numero massimo di creature non morte o di un numero massimo di Dadi Vita totali.
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Attacchi aggiuntivi |
+| ------- | ---------------- | :-------: | :---------: | :-----------------: |
+| 1       | 0                |    1+1    |     +1      |          0          |
+| 2       | 2,000            |     2     |     +2      |          0          |
+| 3       | 4,000            |     3     |     +3      |          1          |
+| 4       | 8,000            |     4     |     +4      |          1          |
+| 5       | 16,000           |     5     |     +5      |          1          |
+| 6       | 32,000           |     6     |     +6      |          2          |
+| 7       | 64,000           |     7     |     +7      |          2          |
+| 8       | 128,000          |     8     |     +8      |          2          |
+| 9       | 256,000          |     9     |     +9      |          3          |
+| 10      | 512,000          |    10     |     +9      |          3          |
 
-## Il Guerriero
-
-Il Guerriero è un soldato, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Guerrieri finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Guerriero del gruppo, il lavoro sporco spetta a voi.
-
-#### Tabella 5: Avanzamento del Guerriero
-
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza |
-| ------- | ---------------- | --------- | ----------- | ------------- |
-| 1       | 0                | 1+1       | +0          | 14            |
-| 2       | 2,000            | 2         | +1          | 13            |
-| 3       | 4,000            | 3         | +2          | 12            |
-| 4       | 8,000            | 4         | +2          | 11            |
-| 5       | 16,000           | 5         | +3          | 10            |
-| 6       | 32,000           | 6         | +4          | 9             |
-| 7       | 64,000           | 7         | +4          | 8             |
-| 8       | 128,000          | 8         | +5          | 7             |
-| 9       | 256,000          | 9         | +6          | 6             |
-| 10      | 512,000          | 10        | +6          | 5             |
-
-### Abilità del Guerriero
+### Abilità del Campione
 
 #### Restrizioni su Armi e Armature
 
-I Guerrieri sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
+I Campioni sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
 
 #### Furia in combattimento
 
-Contro i nemici con un dado vita (DV) o meno, i Guerrieri ottengono un attacco per livello in ogni round di combattimento.
+I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
+
+#### Posizione strategica
+
+I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
+* Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +3.
+* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di -3.
 
 #### Tiro salvezza
 
-I Guerrieri ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
+I Campioni ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno.
 
 #### Costruire un Castello
 
-Al nono livello, un Guerriero che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
+Al nono livello, un Campione che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
 Il personaggio può scegliere di attirare un seguito di soldati, che giureranno la loro lealtà come fedeli seguaci.
 
 ### Bonus di Esperienza per la Forza
 
-La Forza è l'Attributo Primario dei Guerrieri, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
+La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
 
 ## Il Mago
 
@@ -136,22 +185,20 @@ Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera.
 
 #### Tabella 6: Avanzamento del Mago
 
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza |            Incantesimi            |
-| ------- | ---------------- | --------- | ----------- | ------------- | --- | --- | --- | --- | --- | --- |
-|         |                  |           |             |               | 1   | 2   | 3   | 4   | 5   | 6   |
-| ------- | ---------------- | --------- | ----------- | ------------- | --- | --- | --- | --- | --- | --- |
-| 1       | 0                | 1         | +0          | 15            | 1   | –   | –   | –   | –   | –   |
-| 2       | 2,500            | 1+1       | +0          | 14            | 2   | –   | –   | –   | –   | –   |
-| 3       | 5,000            | 2         | +0          | 13            | 3   | 1   | –   | –   | –   | –   |
-| 4       | 10,000           | 2+1       | +0          | 12            | 4   | 2   | –   | –   | –   | –   |
-| 5       | 20,000           | 3         | +1          | 11            | 4   | 2   | 1   | –   | –   | –   |
-| 6       | 40,000           | 3+1       | +1          | 10            | 4   | 2   | 2   | –   | –   | –   |
-| 7       | 80,000           | 4         | +2          | 9             | 4   | 3   | 2   | 1   | –   | –   |
-| 8       | 160,000          | 4+1       | +2          | 8             | 4   | 3   | 3   | 2   | –   | –   |
-| 9       | 320,000          | 5         | +3          | 7             | 4   | 3   | 3   | 2   | 1   | –   |
-| 10      | 640,000          | 5+1       | +3          | 6             | 4   | 4   | 3   | 2   | 2   | –   |
-| 11      | –                | 6         | +4          | 5             | 4   | 4   | 4   | 3   | 3   | –   |
-| 12      | –                | 6+1       | +4          | 4             | 4   | 4   | 4   | 4   | 4   | 1   |
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Incantesimi |     |     |     |     |
+| ------- | ---------------- | --------- | ----------- | ----------- | --- | --- | --- | --- |
+|         |                  |           |             | 1           | 2   | 3   | 4   | 5   |
+| ------- | ---------------- | --------- | ----------- | ---         | --- | --- | --- | --- |
+| 1       | 0                | 1         | +0          | 1           | –   | –   | –   | –   |
+| 2       | 2,500            | 1+1       | +0          | 2           | –   | –   | –   | –   |
+| 3       | 5,000            | 2         | +0          | 3           | 1   | –   | –   | –   |
+| 4       | 10,000           | 2+1       | +0          | 4           | 2   | –   | –   | –   |
+| 5       | 20,000           | 3         | +0          | 4           | 3   | 1   | –   | –   |
+| 6       | 40,000           | 3+1       | +0          | 4           | 4   | 2   | –   | –   |
+| 7       | 80,000           | 4         | +0          | 4           | 4   | 3   | 1   | –   |
+| 8       | 160,000          | 4+1       | +0          | 4           | 4   | 4   | 2   | –   |
+| 9       | 320,000          | 5         | +0          | 4           | 4   | 4   | 3   | 1   |
+| 10      | 640,000          | 5+1       | +0          | 4           | 4   | 4   | 4   | 2   |
 
 ### Abilità del Mago
 
@@ -165,7 +212,7 @@ A differenza del Chierico, il Mago possiede un libro di incantesimi, che non inc
 
 #### Tiro Salvezza
 
-Il Mago riceve un bonus di +2 ai Tiri Salvezza contro gli incantesimi, compresi quelli lanciati da bacchette e bastoni (a meno che non venga utilizzata la "Matrice dei Tiri Salvezza" alternativa).
+Il Mago riceve un bonus di +2 ai Tiri Salvezza contro gli incantesimi, compresi quelli lanciati da bacchette e bastoni.
 
 #### Bonus di Esperienza per l'Intelligenza
 
@@ -175,7 +222,7 @@ L'Intelligenza è l'Attributo Primario dei maghi, il che significa che un punteg
 
 Al decimo livello, un Mago ottiene il titolo di "strega" o "stregone" e può costruire una roccaforte per ospitare la sua biblioteca e il suo laboratorio. Attirerà un mix di mercenari, strani servitori e persino alcuni mostri (come le scimmie volanti). Questo eterogeneo seguito giurerà fedeltà e servirà rispetto al livello di fedeltà che il Mago riuscirà a ispirare.
 
-## Il Ladro (Opzionale)
+## Il Ladro 
 
 Mentre ci sono molti che brandiscono spade e incantesimi mentre esplorano tombe e sotterranei, il Ladro spera di recuperare le ricchezze perdute attraverso l'uso di astuzia e furtività. Anche se addestrato alle armi, non è un combattente di professione. Colpisce invece dall'ombra e i suoi occhi acuti vedono i pericoli che i suoi compagni non vedono. I ladri raramente sono nobili, ma sono più spesso professionisti pragmatici che cercano opportunità per accumulare rapidamente grandi ricchezze. Tuttavia, le loro abilità uniche li rendono molto utili per gli avventurieri e gli esploratori e ci sono alcuni tra loro che si attengono a un codice di "onore tra i ladri".
 
@@ -183,18 +230,18 @@ I Ladri spesso vanno equipaggiati con poche armi e armature leggere, e si affida
 
 #### Tabella 7: Avanzamento del Ladro
 
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Tiro Salvezza | Furto |
-| ------- | ---------------- | --------- | ----------- | ------------- | ----- |
-| 1       | 0                | 1         | +0          | 14            | 2     |
-| 2       | 1,250            | 2         | +0          | 13            | 2     |
-| 3       | 2,500            | 3         | +0          | 12            | 2     |
-| 4       | 5,000            | 3+1       | +1          | 11            | 3     |
-| 5       | 10,000           | 4         | +1          | 10            | 3     |
-| 6       | 20,000           | 5         | +2          | 9             | 3     |
-| 7       | 40,000           | 6         | +2          | 8             | 4     |
-| 8       | 80,000           | 6+1       | +3          | 7             | 4     |
-| 9       | 160,000          | 7         | +4          | 6             | 4     |
-| 10      | 320,000          | 8         | +5          | 5             | 5     |
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Furto |
+| ------- | ---------------- | --------- | ----------- | ----- |
+| 1       | 0                | 1         | +0          | 2     |
+| 2       | 1,250            | 2         | +1          | 2     |
+| 3       | 2,500            | 3         | +1          | 2     |
+| 4       | 5,000            | 3+1       | +2          | 3     |
+| 5       | 10,000           | 4         | +2          | 3     |
+| 6       | 20,000           | 5         | +3          | 3     |
+| 7       | 40,000           | 6         | +3          | 4     |
+| 8       | 80,000           | 6+1       | +4          | 4     |
+| 9       | 160,000          | 7         | +4          | 4     |
+| 10      | 320,000          | 8         | +5          | 5     |
 
 ### Abilità del Ladro
 
@@ -204,7 +251,7 @@ I Ladri sono agili e abili nel combattimento e possono impugnare qualsiasi arma,
 
 #### Pugnalata alla schiena
 
-Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza, riceve un bonus di +2 al suo bonus di attacco base. Se l'attacco ha successo, il ladro può tirare due volte i danni della sua arma.
+Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza, riceve un bonus di +3 al suo bonus di attacco base. Se l'attacco ha successo, il ladro raddoppia i danni della sua arma.
 
 #### Tiro salvezza
 
@@ -221,3 +268,90 @@ Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio
 #### Bonus di esperienza per la Destrezza
 
 La Destrezza è l'Attributo Primario dei Ladri, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
+
+## Il Dvergar
+
+Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria, hanno una lunga barba scura e la loro pelle è colore della terra. Vivono in cunicoli sotterranei e fanno cose strane.
+
+#### Tabella 8: Avanzamento del Dvergar
+
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Sapere Dvergar |
+| ------- | ---------------- | --------- | ----------- | -------------- |
+| 1       | 0                | 1         | +0          | 2              |
+| 2       | 2,000            | 2         | +1          | 2              |
+| 3       | 4,00             | 3         | +1          | 2              |
+| 4       | 8,000            | 3+1       | +2          | 3              |
+| 5       | 16,000           | 4         | +2          | 3              |
+| 6       | 32,000           | 5         | +3          | 3              |
+| 7       | 64,000           | 6         | +3          | 4              |
+| 8       | 128,000          | 6+1       | +4          | 4              |
+| 9       | 256,000          | 7         | +4          | 4              |
+| 10      | 512,000          | 8         | +5          | 5              |
+
+### Abilità dei Dvergar
+
+#### Restrizioni su Armi e Armature
+
+I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani.
+
+#### Infravisione
+
+I Dvergar hanno una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
+
+#### Sapere Dvergar
+
+I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterranei: passaggi segreti, trappole, segni del passaggio di creature che vivono sottoterra. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
+
+#### Tiro Salvezza
+
+I Dvergar non sono creature magiche e sono in qualche modo resistenti alla magia; ricevono un bonus di +4 ai tiri salvezza contro la magia. 
+
+#### Lingue
+
+Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
+
+## Il Silvano
+
+È un piccolo umanoide (mediamente alto 80 cm) dalla pelle verde. Vive in armonia con la natura e si considera protettore di boschi e animali.
+
+#### Restrizioni su Armi e Armature
+
+I Silvani possono usare solo armi di legno. Possono indossare solo armature di cuoio.
+
+#### Lancio degli incantesimi
+I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
+
+#### Mutaforma
+Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. Il Silvano può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
+
+**Piccolo animale:** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. 
+
+**Grande animale:** non potete usare alcun oggetto, ma avete un bonus di +3 ai tiri per colpire, infliggete 1d6+1 danni con le vostre armi naturali e la vostra CA aumenta di +3.
+
+I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. 
+
+#### Difficile da colpire
+I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
+
+#### Lingue
+I Silvani sanno parlare con gnoll, goblin, orchi e hobgoblin.
+
+#### Boschetto sacro
+Un Silvano di nono livello o superiore può diventare un anziano e custode di un boschetto sacro. Il Silvano deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
+
+#### Tabella 9: Avanzamento del Silvano
+
+
+|         |                  |           |             |                Incantesimi               
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire |   1   |   2   |   3   |   4   |   5   |
+| :-----: | :--------------: | :-------: | :---------: | :---: | :---: | :---: | :---: | :---: |
+|    1    |        0         |     1     |     +0      |   1   |   -   |   -   |   -   |   -   |
+|    2    |      2,500       |    1+1    |     +0      |   2   |   -   |   -   |   -   |   -   |
+|    3    |      5,000       |     2     |     +0      |   2   |   1   |   -   |   -   |   -   |
+|    4    |      10,000      |    2+1    |     +0      |   3   |   2   |   -   |   -   |   -   |
+|    5    |      20,000      |     3     |     +0      |   3   |   2   |   1   |   -   |   -   |
+|    6    |      40,000      |    3+1    |     +0      |   3   |   3   |   2   |   -   |   -   |
+|    7    |      80,000      |     4     |     +0      |   3   |   3   |   2   |   1   |   -   |
+|    8    |     160,000      |    4+1    |     +0      |   3   |   3   |   3   |   2   |   -   |
+|    9    |     320,000      |     5     |     +0      |   3   |   3   |   3   |   2   |   1   |
+|   10    |     640,000      |    5+1    |     +0      |   3   |   3   |   3   |   3   |   2   |

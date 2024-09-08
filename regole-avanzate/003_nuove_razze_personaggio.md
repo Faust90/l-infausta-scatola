@@ -20,7 +20,7 @@ Gli Gnomi sono alti la metà dei nani, più bassi anche degli Halfling. Possono 
 ### Abilità degli gnomi
 
 #### Avanzamento del personaggio
-Gli Gnomi possono avanzare come Guerrieri o Maghi fino al 6° livello o Ladri o Illusionisti fino all'8° livello.
+Gli Gnomi possono avanzare come Campioni o Maghi fino al 6° livello o Ladri o Illusionisti fino all'8° livello.
 
 #### Difficile da colpire
 Gli Gnomi subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
@@ -43,7 +43,7 @@ Il Mezzorco può essere un guerriero feroce e selvaggio o una creatura tormentat
 ### Abilità dei Mezzorchi
 
 #### Avanzamento del personaggio
-La maggior parte dei Mezzorchi sono Guerrieri, ma possono essere Ranger, Ladri, Chierici o Assassini. Non possono avanzare oltre il 6° livello.
+La maggior parte dei Mezzorchi sono Campioni, ma possono essere Ranger, Ladri, Chierici o Assassini. Non possono avanzare oltre il 6° livello.
 
 #### Forza bruta
 I Mezzorchi ottengono un +1 ai tiri per i danni in combattimento, anche con proiettili o magia. Possono anche aprire porte/piegare sbarre più facilmente -- il loro raggio di successo è aumentato di 2 (1-4 invece di 1-2).
@@ -88,11 +88,11 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza con
 
 > **Suggerimento:** questi non sono cumulativi: il tiro salvezza contro una trappola velenosa è sempre solamente +2.
 
-### Il Guerriero-Ladro
+### Il Campione-Ladro
 
-**Nani**, **Elfi**, **Gnomi**, **Halfling** e **Mezzorchi** possono essere multiclasse Guerriero-Ladro. Sono limitati al 6° livello.
+**Nani**, **Elfi**, **Gnomi**, **Halfling** e **Mezzorchi** possono essere multiclasse Campione-Ladro. Sono limitati al 6° livello.
 
-#### Tabella 11: Avanzamento del Guerriero-Ladro
+#### Tabella 11: Avanzamento del Campione-Ladro
 
 | Livello | Punti Esperienza |  Dado Vita | Per Colpire | Tiro Salvezza | Furto |
 |:-------:|:----------------:|:----------:|:-----------:|:-------------:|:-----:|
@@ -103,19 +103,19 @@ I chierici-assassini ottengono un +2 per tutti i tiri salvezza tiri salvezza con
 |    5    |      32.000      |      4     |      +2     |       10      |   3   |
 |    6    |      64.000      |      5     |      +2     |       9       |   3   |
 
-### Abilità del Guerriero-Ladro
+### Abilità del Campione-Ladro
 
 #### Restrizioni su armature e armi
-I Guerrieri-Ladri possono indossare armature di pelle e portare scudi e possono usare qualsiasi arma.
+I Campioni-Ladri possono indossare armature di pelle e portare scudi e possono usare qualsiasi arma.
 
 #### Furia da combattimento
-I Guerrieri-Ladri  guadagnano Furia da combattimento come un guerriero quando attaccano creature con 1 DV o meno.
+I Campioni-Ladri  guadagnano Furia da combattimento come un guerriero quando attaccano creature con 1 DV o meno.
 
 #### Furto
-I Guerrieri-Ladri possiedono la capacità Furto. Possono pugnalare alle schiena come i Ladri con qualsiasi arma da mischia.
+I Campioni-Ladri possiedono la capacità Furto. Possono pugnalare alle schiena come i Ladri con qualsiasi arma da mischia.
 
 #### Tiro salvezza
-I Guerrieri-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro morte, veleno o trappole.
+I Campioni-Ladri ottengono un bonus di +2 per tutti i tiri salvezza contro morte, veleno o trappole.
 
 > **Suggerimento:** Questi non sono cumulativi: il tiro salvezza contro una trappola velenosa è sempre solamente +2.
 

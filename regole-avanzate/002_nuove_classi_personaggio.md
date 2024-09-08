@@ -129,58 +129,7 @@ Un Bardo di nono livello o superiore può scrivere un libro che racconti le legg
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Bardi, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Il Cacciatore
-A differenza dei combattenti e dei Paladini, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
 
-I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire le tracce dei mostri, e quindi preparare il gruppo al peggio...
-
-#### Tabella 4: Avanzamento del Cacciatore
-
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire 	| Tiro Salvezza | Caccia |
-|:-------:|:----------------:|:---------:|:-----------:	|:-------------:|:-------:|
-|    1    |         0        |     1     |      +0     	|       15      |    2    |
-|    2    |       2.000      |     2     |      +1     	|       14      |    2    |
-|    3    |       4.000      |     3     |      +1     	|       13      |    2    |
-|    4    |       8.000      |     4     |      +2     	|       12      |    3    |
-|    5    |      16.000      |     5     |      +3     	|       11      |    3    |
-|    6    |      32.000      |     6     |      +3     	|       10      |    3    |
-|    7    |      64.000      |     7     |      +4     	|       9       |    4    |
-|    8    |      128.000     |     8     |      +4     	|       8       |    4    |
-|    9    |      256.000     |     9     |      +5     	|       7       |    4    |
-|    10   |      512.000     |     10    |      +6     	|       6       |    5    |
-
-
-### Abilità del Cacciatore
-
-#### Restrizioni su armi e armature
-I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
-
-#### Caccia
-I Cacciatori hanno una statistica aggiuntiva: Caccia (vedi l'ultima colonna della tabella di avanzamento del Cacciatore). I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, l'Arbitro effettua un tiro segreto di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante. Se il tiro fallisce, l'Arbitro fa lo stesso, ma il 50% delle informazioni sono false.
-
-#### Trofei
-Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
-- Demone
-- Essere magico (elementale, golem)
-- Non-morto
-- Gigante (gigante, bugbear, orco)
-- Draconico (coboldo, drago, viverne)
-- Pelle verde (goblin, orchi, troll)
-- Animale (ragni, cinghiali, uccelli)
-- Sottomondo (trogloditi, melme)
-
-Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto venti trofei che rientrano in una  singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). I Cacciatori ricevono un bonus di danno di +2, quando combattono un mostro di una categoria padroneggiata. I Cacciatori possono avere più titoli.
-
-#### Tiro salvezza
-I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
-
-#### Uccisore
-Un Cacciatore di nono livello o di livello superiore può chiamarsi Uccisore. 
-
-I Cacciatori viaggiano per il mondo e sono rispettati da tutti. Le gilde e i nobili danno sempre il benvenuto agli Uccisori e le taverne permettono a questi eroi di soggiornare gratuitamente.
-
-#### Bonus di esperienza per la Destrezza
-La Destrezza è l'attributo principale dei Cacciatori, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
 ## Il Druido
 A differenza dei chierici o maghi, i druidi non prendono il loro potere dagli dei o dalle scritture mistiche. I druidi adorano la natura e l'ordine naturale delle cose. 

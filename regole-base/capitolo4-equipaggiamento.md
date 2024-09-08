@@ -10,10 +10,6 @@ Ogni personaggio inizia il gioco con 3d6x10 pezzi d'oro, che vengono usati per c
 
 Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se il tesoro è aggiunto a quest'ultimo, ogni moneta e gemma si presume pesi 0,1 libbre.
 
-## Danno dell'arma (opzionale)
-
-Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal tipo. *La Scatola Bianca* fornisce alcune piccole varianti. Per giocare il gioco originale come è stato scritto, ignorate semplicemente tutte le varianti nei danni delle armi - in tal caso tutte infliggono 1d6 danni indipendentemente dal fatto che l'arma sia una spada a due mani o un pugnale.
-
 #### Tabella 9: Equipaggiamento Vario
 
 | Oggetto                         | **Costo (po)** |
@@ -84,7 +80,7 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 | Bastone\*                         | 1d6       | 10       | 1              |
 | Clava                             | 1d6       | 10       | -              |
 | Flagello                          | 1d6       | 15       | 8              |
-| Lancia†‡                          | 1d6       | 10       | 2              |
+| Lancia‡                           | 1d6       | 10       | 2              |
 | Martello da guerra                | 1d6       | 10       | 5              |
 | Mazza                             | 1d6       | 10       | 5              |
 | Mazza Chiodata                    | 1d6       | 15       | 6              |
@@ -95,41 +91,39 @@ Nel gioco originale, tutte le armi infliggono 1d6 danni, indipendentemente dal t
 
 \* Arma a due mani
 
-† Può essere usata sia come arma a una mano che come arma a due mani
-
 ‡ Può essere usata sia come arma da mischia che come arma a distanza
 
 #### Tabella 12: Armi a distanza
 
-| Arma                 | **Danno** | **Cadenza di fuoco\*** | **Gittata** | **Peso** | **Costo (po)** |
-| -------------------- | --------- | ---------------------- | ----------- | -------- | -------------- |
-| Accetta              | 1d6       | 1                      | 10'         | 10       | 3              |
-| Arco, corto          | 1d6-1     | 2                      | 50'         | 5        | 25             |
-| Arco, lungo          | 1d6       | 2                      | 70'         | 5        | 40             |
-| Balestra, leggera    | 1d6-1     | 1                      | 60'         | 5        | 15             |
-| Balestra, pesante    | 1d6+1     | 1/2                    | 80'         | 5        | 25             |
-| Borsa (20 pietre)    | -         | -                      | -           | 1        | 1              |
-| Custodia (30 dardi)  | -         | -                      | -           | 1        | 5              |
-| Dardo, balestra (30) | -         | -                      | -           | 5        | 5              |
-| Faretra (20 frecce)  | -         | -                      | -           | 1        | 5              |
-| Fionda               | -         | 1                      | 30'         | 1        | 2              |
-| Frecce (20)          | -         | -                      | -           | 1        | 5              |
-| Freccia, argento     | -         | -                      | -           | 1        | 5              |
-| Lancia               | 1d6       | 1                      | 20'         | 10       | 2              |
-| Pietre (20)          | 1d6       | -                      | -           | 1        | 1              |
+| Arma                 | **Danno** | **Cadenza di fuoco\*** | **Gittata**† | **Peso** | **Costo (po)** |
+| -------------------- | --------- | ---------------------- | ------------ | -------- | -------------- |
+| Accetta              | 1d6       | 1                      | 10'          | 10       | 3              |
+| Arco, corto          | 1d6-1     | 2                      | 50'          | 5        | 25             |
+| Arco, lungo          | 1d6       | 2                      | 70'          | 5        | 40             |
+| Balestra, leggera    | 1d6-1     | 1                      | 60'          | 5        | 15             |
+| Balestra, pesante    | 1d6+1     | 1 ogni due Round       | 80'          | 5        | 25             |
+| Borsa (20 pietre)    | -         | -                      | -            | 1        | 1              |
+| Custodia (30 dardi)  | -         | -                      | -            | 1        | 5              |
+| Dardo, balestra (30) | -         | -                      | -            | 5        | 5              |
+| Faretra (20 frecce)  | -         | -                      | -            | 1        | 5              |
+| Fionda               | -         | 1                      | 30'          | 1        | 2              |
+| Frecce (20)          | -         | -                      | -            | 1        | 5              |
+| Freccia, argento     | -         | -                      | -            | 1        | 5              |
+| Lancia               | 1d6       | 1                      | 20'          | 10       | 2              |
+| Pietre (20)          | 1d6       | -                      | -            | 1        | 1              |
 
-\* La cadenza di fuoco è il numero di proiettili che possono essere tirati per round di combattimento
+\* La cadenza di fuoco è il umero di attacchi per Round di combattimento
 
-† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a breve corto raggio (x1), un bonus di +1 "per colpire" a medio raggio (x2) e nessun bonus o penalità per gli attacchi a lunga distanza (x3)
+† È previsto un bonus "per colpire" di +2 per le armi a distanza utilizzate a corto raggio ( Gittata x 1), un bonus di +1 "per colpire" a medio raggio (Gittata x 2) e nessun bonus o penalità per gli attacchi a lunga distanza (Gittata x 3)
 
 #### Tabella 13: Armature
 
-| Armatura           | **Effetto sulla CA \[CAA\]** | **Peso (lb.)\*** | **Costo (po)** |
+| Armatura           | **Effetto sulla CA** | **Peso (lb.)\*** | **Costo (po)** |
 | ------------------ | ---------------------------- | ---------------- | -------------- |
-| Armatura a piastre | -6 \[+6 \]                   | 75               | 50             |
-| Cotta di maglia    | -4 \[+4 \]                   | 50               | 30             |
-| Cuoio              | -2 \[+2]                     | 25               | 15             |
-| Scudo              | -1 \[+1]                     | 10               | 10             |
+| Armatura a piastre | +6                           | 75               | 50             |
+| Cotta di maglia    | +4                           | 50               | 30             |
+| Cuoio              | +2                           | 25               | 15             |
+| Scudo              | +1                           | 10               | 10             |
 
 \* A discrezione dell'Arbitro, l'armatura magica pesa la metà del suo peso normale o non pesa affatto.
 
@@ -143,15 +137,11 @@ Per calcolare la Classe Armatura di un personaggio, dovete decidere quale sistem
 
 ### Sistema AC Discendente
 
-In questo sistema, un umano senza armatura ha una CA di 9. Le armature che comprate abbassano la vostra CA e più bassa è la CA, più è difficile colpirvi. Per calcolare la vostra Classe Armatura, guardate la tabella delle armature qui sopra, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate acquistato, sottraete il numero indicato dalla vostra CA base di 9. Questa è la vostra nuova Classe Armatura.
-
-### Sistema di CA Ascendente
-
-Per il sistema ascendente, una persona senza armatura ha una CA di \[10]. CAA significa "Classe Armatura Ascendente" ed è usato tra parentesi per ricordare quale sistema è in uso. La vostra armatura si aggiunge alla vostra CAA, quindi più alta è la vostra CAA, più difficile è per i vostri nemici colpirvi. Per calcolare la vostra Classe Armatura Ascendente, guardate la tabella delle Armature, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate acquistato, aggiungete il numero indicato tra parentesi alla vostra CAA di base di 10\. Questa è la vostra nuova Classe Armatura.
+Una persona senza armatura ha una CA di \10. La vostra armatura si aggiunge alla vostra CA, quindi più alta è, più difficile è per i vostri nemici colpirvi. Per calcolare la vostra Classe Armatura, guardate la tabella delle Armature, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate acquistato, aggiungete il numero indicato tra parentesi alla vostra CA di base di 10\. Questa è la vostra nuova Classe Armatura.
 
 ### Conversione tra sistemi di classi d'armatura
 
-Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'armatura ascendente (CAA) e discendente (CA) devono sommarsi a 19. Quindi, CA 7 è uguale a CAA \[12\] (12+7=19).
+Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'armatura ascendente e discendente devono sommarsi a 19. Quindi, CA 7 è uguale a CAA \[12\] (12+7=19).
 
 ### Assumere Gregari
 
@@ -172,7 +162,7 @@ Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno 
 | Marinaio                                           | 3              |
 | Non combattente (servitore, portatore di fiaccole) | 2              |
 | Saggio                                             | 500            |
-| Soldato                                            | 5              |
+| Campione                                           | 5              |
 | Spia                                               | 125            |
 
 Queste tariffe si applicano solo agli umani. È più costoso assumere i semi-umani e con essi la promessa di pezzi d'oro potrebbe non essere sufficiente.

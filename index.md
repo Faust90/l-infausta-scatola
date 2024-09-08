@@ -2,15 +2,13 @@
 nav_exclude: true
 ---
 
-# La Scatola Bianca
+# L' Infausta Scatola
 
 ## Gioco fantasy medievale d'avventura
 
-Benvenuti sul Web SRD di ***La Scatola Bianca***.
+Benvenuti sul Web SRD di ***L' Infausta Scatola***.
 
-*La Scatola Bianca* è un Gioco di Ruolo retroclone.
-
-Questo manuale riproduce le regole e le meccaniche del "Gioco di Ruolo Fantasy Originale" pubblicato nel 1974, la prima versione del "più famoso gioco di ruolo del mondo".
+Questo manuale è una hack de la Scatola Bianca scritta da Jacopo "Faust" Buttiglieri.
 
 ## Licenza aperta
 

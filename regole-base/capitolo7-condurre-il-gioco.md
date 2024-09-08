@@ -134,7 +134,7 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 |                              10+                             |                                 |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
 
 
-Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 = Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Guerriero di livello 5, potrebbe essere un Orco Guerriero di livello 5. 
+Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 = Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Campione di livello 5, potrebbe essere un Orco Campione di livello 5. 
 
 ### Livello degli Incontri
 
@@ -148,8 +148,8 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   6  |          Orchetti          |       Ragno, Gigante       |       Anima Dannata       |
 |   7  |           Zombie           |          Hobgoblin         |          Bugbear          |
 |   8  |            Nano            |      Umano, Berserker      |           Ombra           |
-|   9  |            Elfo            |       Umano, Bandito       |    Guerriero, livello 3   |
-|  10  |          Hobgoblin         |    Guerriero, livello 2    |      Mago, livello 2      |
+|   9  |            Elfo            |       Umano, Bandito       |    Campione, livello 3   |
+|  10  |          Hobgoblin         |    Campione, livello 2    |      Mago, livello 2      |
 |  11  |           Stirge           |     Chierico, livello 2    |      Demone, Folletto     |
 |  12  | Scarabeo, di Fuoco Gigante |         Elfo, Scuro        |        Elfo, Scuro        |
 
@@ -164,7 +164,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   6  |         Worg         |        Mummia        | Cane Intermittente |
 |   7  |      Apparizione     |         Orco         |       Medusa       |
 |   8  |         Orco         |      Orco Mago       |       Spettro      |
-|   9  | Guerriero, livello 4 | Guerriero, livello 5 |        Troll       |
+|   9  | Campione, livello 4 | Campione, livello 5 |        Troll       |
 |  10  |  Chierico, livello 4 | Chierico, livello 5  |   Mago, livello 5  |
 |  11  |    Mago, livello 3   |   Mago, livello 4    |  Ladro, livello 6  |
 |  12  |   Ladro, livello 4   |   Ladro, livello 5   |        Sidhe       |
@@ -180,7 +180,7 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |   6  |    Drago, Verde   |          Vampiro         |        Chimera       |    Elementale, Aria   |
 |   7  |      Banshee      |     Elementale, Aria     |     Demone, Balor    |   Elementale, Terra   |
 |   8  |      Vampiro      |     Elementale, Terra    |        Vampiro       |   Elementale, Fuoco   |
-|   9  |  Demone, Succube  |     Elementale, Fuoco    | Guerriero, livello 9 |   Elementale, Acqua   |
+|   9  |  Demone, Succube  |     Elementale, Fuoco    | Campione, livello 9 |   Elementale, Acqua   |
 |  10  |     Salamandra    |     Elementale, Acqua    |  Chierico, livello 9 | Cavaliere della Morte |
 |  11  |      Viverna      |          Gorgone         |    Mago, livello 8   |    Lumaca, Gigante    |
 |  12  |      Djinni       |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
@@ -210,13 +210,13 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 |:----:|:---------------:|:------------:|:---------------:|:------------------------:|:-----------:|
 |   1  |       PNG       |     PNG      |       PNG       |            PNG           |     PNG     |
 |   2  |     Chierici    |  Berserker   |      Maghi      |         Berserker        |   Banditi   |
-|   3  |    Guerrieri    |  Guerrieri   |    Berserker    |         Guerrieri        |   Chierici  |
-|   4  |     Banditi     |    Pirati    |    Guerrieri    |          Banditi         |    Comune   |
+|   3  |    Campioni    |  Campioni   |    Berserker    |         Campioni        |   Chierici  |
+|   4  |     Banditi     |    Pirati    |    Campioni    |          Banditi         |    Comune   |
 |   5  |      Comune     |    Pirati    |     Banditi     |          Banditi         |    Comune   |
 |   6  |     Banditi     |   Banditi    |     Banditi     |          Banditi         |    Comune   |
-|   7  |     Soldati     |  Guerrieri   |    Guerrieri    |         Guerrieri        |   Soldati   |
-|   8  |    Guerrieri    |  Berserker   |    Berserker    |         Berserker        |   Soldati   |
-|   9  |    Berserker    |    Maghi     |      Maghi      |         Chierici         |  Guerrieri  |
+|   7  |     Campioni     |  Campioni   |    Campioni    |         Campioni        |   Campioni   |
+|   8  |    Campioni    |  Berserker   |    Berserker    |         Berserker        |   Campioni   |
+|   9  |    Berserker    |    Maghi     |      Maghi      |         Chierici         |  Campioni  |
 |  10  |      Maghi      |   Chierici   |     Chierici    |           Maghi          |    Maghi    |
 
 

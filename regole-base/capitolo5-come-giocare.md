@@ -26,11 +26,11 @@ La velocità di movimento base per tutte le razze è calcolata sulla tabella sot
 #### Tabella 15: Tasso di Movimento
 
 | Peso Portato (lb.) | **Elfo/Umano** | **Nano/Halfling** |
-|:------------------:|:--------------:|:-----------------:|
-| 0-75               | 12             | 9                 |
-| 76-100             | 9              | 6                 |
-| 101-150            | 6              | 3                 |
-| 151-300            | 3              | 3                 |
+| :----------------: | :------------: | :---------------: |
+|        0-75        |       12       |         9         |
+|       76-100       |       9        |         6         |
+|      101-150       |       6        |         3         |
+|      151-300       |       3        |         3         |
 
 Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
@@ -38,12 +38,12 @@ Il movimento di combattimento si usa quando i personaggi sono impegnati in comba
 
 #### Tabella 16: Adeguamenti al Tasso di Movimento
 
-| Tipo Movimento | **Adeguamento**                  |
-|:--------------:|:--------------------------------:|
-| Attento        | Metà della velocità di movimento |
+| Tipo Movimento |         **Adeguamento**          |
+| :------------: | :------------------------------: |
+|    Attento     | Metà della velocità di movimento |
 | Combattimento  | 1/3 della velocità di movimento  |
-| Corsa          | Tasso di movimento doppio        |
-| Normale        | Velocità di movimento            |
+|     Corsa      |    Tasso di movimento doppio     |
+|    Normale     |      Velocità di movimento       |
 
 ### Movimento all'aperto
 
@@ -77,102 +77,30 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
 1\) L'arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
-2\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
+2\) Tutte le parti fanno una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
+3\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
 - La parte che ha perso l'iniziativa agisce; i risultati hanno effetto.  
 - Il round è concluso; mantenere l'ordine dei turni per il round successivo se la battaglia non è stata risolta.
 
-### Intento (opzionale)
-
-Alcuni Arbitri preferiscono che tutte le parti facciano una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
-
-### Come funziona l'iniziativa
-
-All'inizio del primo round di combattimento, ogni parte tira l'iniziativa su un d6 - il tiro più alto vince. La parte vincente agisce per prima, lanciando incantesimi, muovendosi e attaccando. L'altra parte subisce danni e perdite e poi effettua il suo turno.
-
 I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si considera che entrambe le parti agiscono simultaneamente. L'Arbitro può gestire questa situazione nel modo che preferisce, con un'avvertenza. I danni inflitti dai combattenti durante qualsiasi iniziativa simultanea sono inflitti anche se uno dei combattenti muore durante il round. È possibile che due combattenti si uccidano a vicenda in questa situazione. Se volete giocare in modo più semplice, se c'è un pareggio tirate nuovamente l'iniziativa semplicemente fino a quando una parte o l'altra vince l'iniziativa.  
-
-### Sequenza di combattimento alternativa (opzionale)
-
-La sequenza di combattimento è una delle parti del gioco più comunemente governate dal caso. Ecco una possibilità, anch'essa basata sul Gioco Originale:
-
-- Tirate per la sorpresa. Chi non viene sorpreso ottiene un turno di combattimento gratuito nell'ordine normale (vedi sotto). Se nessuna delle due parti, o entrambe, sono sorprese, passate alla fase successiva.
-
-- Tirate per l'iniziativa (un tiro per ogni parte) e seguite la sequenza descritta:
-
-Per prima cosa, si lanciano gli incantesimi "preparati". È necessario un intero round di combattimento per preparare un incantesimo, ma uno può essere preparato in anticipo. Gli incantatori che hanno vinto l'iniziativa lanciano i propri incantesimi per primi. Possono poi iniziare a preparare un incantesimo per il turno successivo, se lo desiderano.
-
-Successivamente, vengono usate le armi a distanza (se l'arco era già nelle mani del personaggio e pronto a tirare). Anche questo avviene in ordine di iniziativa.
-
-Poi ha luogo il combattimento in mischia, in ordine di iniziativa. Infine, ha luogo il movimento, in ordine di iniziativa.
-
-Se è importante sapere quale personaggio del gruppo va prima di un altro, basta confrontare i loro punteggi di Destrezza e vedere qual è il più alto.
 
 ### Il Tiro d'Attacco
 
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore sottrae poi qualsiasi penalità "per colpire" che potrebbe avere dal suo tiro.
-
-Il Tiro d'Attacco viene poi confrontato con una tabella per vedere se l'attacco va a segno. Se il tiro di attacco è uguale o superiore al numero sulla tabella, l'attacco va a segno. Se state usando il sistema di CA ascendente, piuttosto che fare riferimento a queste tabelle, c'è un metodo veloce presentato qui sotto che potete usare. L'Arbitro decide quale sarà usato.
-
-Se un attacco va a segno, infligge un danno (determinato dal dado del danno dell'arma). Il danno viene sottratto dal totale dei punti ferita del difensore (si veda "Danno e Morte").
-
-#### Tabella 17: Tiri d'Attacco del Chierico/Ladro
-
-| Livello del Chierico/Ladro | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-| -------------------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-|                            | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-| 1–3                        | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
-| 4–5                        | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
-| 6–7                        | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
-| 8                          | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
-| 9                          | 6                                                           | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       |
-| 10                         | 5                                                           | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       |
-
-#### Tabella 18: Tiri d'Attacco del Guerriero
-
-| Livello del Guerriero | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-| --------------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-|                       | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-| 1                     | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
-| 2                     | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
-| 3–4                   | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
-| 5                     | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
-| 6–7                   | 6                                                           | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       |
-| 8                     | 5                                                           | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       |
-| 9–10                  | 4                                                           | 5        | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       |
-
-#### Tabella 19: Tiri d'Attacco del Mago
-
-| Livello del Mago | Classe Armatura Bersaglio or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-| ---------------- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-|                  | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-| 1–4              | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
-| 5–6              | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
-| 7–8              | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
-| 9–10             | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
-
-### Combattimento a CA ascendente - Metodo rapido
-
-Se state usando il sistema di CA ascendente, potrebbe essere più facile calcolare i vostri tiri per colpire secondo una semplice formula. I numeri sono gli stessi delle tabelle della CA Discendente - questo è solo un modo diverso di calcolare i risultati. Ecco come si fa:
-
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere un bonus alla forza (per gli attacchi con armi a mano), un bonus alla destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
-
-Nota: Questo sistema rapido funziona solo per il sistema di CA Ascendente. Per usare questo sistema, dovrete scrivere il vostro Bonus di base "per colpire" e aggiustarlo man mano che guadagnate livelli, ma dopo averlo fatto non dovrete controllare la tabella per vedere se ottenete un successo. Tutto quello che dovete sapere è se il risultato totale è stato uguale o superiore alla Classe Armatura del bersaglio.
+Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere il modificatiore di Forza (per gli attacchi con armi a mano), il modificatore di Destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
 
 ### Danno e Morte
 
-Quando un personaggio (o una creatura) viene colpito, la quantità di danni subiti viene dedotta dai suoi Punti Ferita. Quando i punti ferita raggiungono lo 0, il personaggio muore.
+Quando un personaggio (o una creatura) viene colpito, la quantità di danni subiti viene dedotta dai suoi Punti Ferita. Quando i punti ferita scendono sotto lo 0 di un numero di punti pari al livello, il personaggio muore.
 
-### Un metodo meno severo (opzionale)
+### Incantesimi in combattimento
 
-Gli Arbitri hanno idee diverse su quanto dovrebbe essere letale una partita. Per questo motivo molti permettono ai personaggi di cadere "incoscienti" a 0 PF, con la morte rimandata finché il personaggio non raggiunge un numero negativo predeterminato.
-
-Per esempio, molti Arbitri impiegano una regola della casa che permette ai PF di un personaggio di scendere sotto lo 0 di un numero di punti pari al livello, prima che il personaggio muoia; un personaggio di 4° livello potrebbe morire solo se scende sotto -4 PF. Generalmente, però, un personaggio con meno di 0 PF si considera in corso di dissanguamento a 1 PF per round finché le ferite non vengono fasciate.
+Se il PG o il PNG aveva dichiarato l'intenzione di lanciare un incantesimo in quel Round e subisce 1 o più Danni prima che questo abbia effetto (generalmente capita se ha perso l'iniziativa), l'incantesimo viene interrotto e sprecato.
 
 ### Guarigione
 
-Oltre ai vari mezzi magici per ripristinare i PF, un personaggio recupera 1 punto ferita completo per ogni giorno di riposo ininterrotto. Quattro settimane di riposo ripristineranno tutti i PF di un personaggio, indipendentemente da quanti ne abbia persi.
+Oltre ai vari mezzi magici per ripristinare i PF, un personaggio recupera 1 PF per ogni notte di riposo. Una settimana di riposo completo ripristinerà tutti i PF di un personaggio, indipendentemente da quanti ne abbia persi. Per riposo completo si intende che il PG non può combattere, studiare incantesimi, viaggiare nelle terre selvagge o fare attività faticose. L'Arbitro ha l'ultima parola a riguardo.
 
 ### Bendare le ferite (opzionale)
 
@@ -188,7 +116,7 @@ Un avversario invisibile può essere attaccato solo se la sua posizione è nota 
 
 ### Olio
 
-L'olio lanciato che viene successivamente incendiato da una torcia gettata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 8 \[11\]. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
+L'olio lanciato che viene successivamente incendiato da una torcia gettata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 11. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
 
 ### Attacco in mischia
 
@@ -196,7 +124,7 @@ Un attacco in mischia è un attacco con un'arma a mano come una spada, una lanci
 
 ### Attacco a distanza
 
-Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce lanciate. Quando si usano i proiettili per tirare in mischia, non è possibile scegliere quale avversario (o amico!) riceverà l'impatto dell'attacco.
+Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce lanciate. Quando si usano i proiettili per tirare in mischia, non è possibile scegliere quale avversario (o amico!) riceverà l'impatto dell'attacco. Ogni arma fa un numero di attacchi per Round pari alla sua *cadenza di fuoco*.
 
 ### Morale
 
@@ -206,13 +134,13 @@ Se c'è incertezza sul morale dei PNG o dei mostri, la tabella in questo paragra
 
 #### Tabella 20: Prova di Morale
 
-| **Tiro (2d6)** | **Morale**                           |
-|:--------------:|:------------------------------------:|
-| 2 o meno       | Resa                                 |
-| 3-5            | Fuga                                 |
-| 6-8            | Posizione mantenuta                  |
-| 9-11           | Combattimento per ottenere vantaggio |
-| 12             | Attacco!                             |
+| **Tiro (2d6)** |                 **Morale**                 |
+| :------------: | :----------------------------------------: |
+|    2 o meno    |                    Resa                    |
+|      3-5       |                    Fuga                    |
+|      6-8       |      Combatte per mantenere posizione      |
+|      9-11      | Combatte aggressivamente e inseguendo i PG |
+|       12       |   Combatte fanaticamente fino alla morte   |
 
 ### Negoziazione e diplomazia
 
@@ -228,11 +156,11 @@ Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalz
 
 #### Tabella 21: Punti Giostra
 
-| Condizione                      | **Punti** |
-|:-------------------------------:|:---------:|
-| Tiro d'Attacco di 12 o più alto | 1         |
-| Infliggere danni                | 2         |
-| Sconfiggere l'avversario        | 3         |
+|           Condizione            | **Punti** |
+| :-----------------------------: | :-------: |
+| Tiro d'Attacco di 12 o più alto |     1     |
+|        Infliggere danni         |     2     |
+|    Sconfiggere l'avversario     |     3     |
 
 I cavalli da guerra medi concedono un bonus di +1 all'attacco. I cavalli da guerra pesanti garantiscono un +2.
 
@@ -244,23 +172,21 @@ In un duello il perdente deve rinunciare alla sua cavalcatura e alla sua armatur
 
 Il lancio degli incantesimi parte all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
 
-Notate che nella Sequenza Alternativa di Combattimento il lancio degli incantesimi funziona diversamente. In quel sistema, è necessario un intero round per preparare un incantesimo, l'incantesimo viene lanciato all'inizio del round prima che succeda qualsiasi altra cosa e l'incantatore può passare il resto del round a preparare un nuovo incantesimo (o a fare qualcos'altro, come muoversi o anche combattere).
-
 ### Lealtà
 
 L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tirate 3d6 e consultate la tabella della lealtà per il risultato. Ricordate che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
 
 #### Tabella 22: Lealtà
 
-| Tiro  | **Lealtà**                       |
-|:-----:|:--------------------------------:|
-| 3     | Traditore                        |
-| 4-5   | -2 alla prossima prova di lealtà |
-| 6-8   | -1 alla prossima prova di lealtà |
-| 9-12  | Media                            |
+| Tiro  |            **Lealtà**            |
+| :---: | :------------------------------: |
+|   3   |            Traditore             |
+|  4-5  | -2 alla prossima prova di lealtà |
+|  6-8  | -1 alla prossima prova di lealtà |
+| 9-12  |              Media               |
 | 13-15 | +1 alla prossima prova di lealtà |
 | 16-17 | +2 alla prossima prova di lealtà |
-| 18    | Lealista                         |
+|  18   |             Lealista             |
 
 Un buon trattamento, il rispetto e un'equa quota del tesoro guadagnato dovrebbero garantire bonus alle prove di lealtà, mentre l'abuso, fisico o di altro tipo, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.
 
@@ -268,73 +194,7 @@ Se un PNG si trova in una situazione in cui una prova di morale può essere appr
 
 ### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tirate un d20. Se il risultato è uguale o superiore al numero obiettivo del tiro salvezza del personaggio, il tiro salvezza ha successo.
-
-### Regola alternativa: La Matrice dei Tiri Salvezza
-
-Il sistema di tiro salvezza di *La Scatola Bianca* è un adattamento dell'originale, che aveva parecchie categorie di rischi diversi invece di un singolo tiro salvezza di base come quello usato qui. I numeri ispirati al sistema originale sono forniti di seguito (il numero del singolo tiro salvezza è fornito per confronto):
-
-#### Tabella 23: Tiri Salvezza del Chierico
-
-| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
-| 1       | 11           | 12              | 14              | 16           | 15                  | 15       |
-| 2       | 10           | 11              | 13              | 15           | 14                  | 14       |
-| 3       | 10           | 11              | 13              | 15           | 14                  | 13       |
-| 4       | 9            | 10              | 12              | 14           | 13                  | 12       |
-| 5       | 9            | 10              | 12              | 14           | 13                  | 11       |
-| 6       | 8            | 9               | 11              | 13           | 12                  | 10       |
-| 7       | 8            | 9               | 11              | 13           | 12                  | 9        |
-| 8       | 7            | 8               | 10              | 12           | 11                  | 8        |
-| 9       | 7            | 8               | 10              | 12           | 11                  | 7        |
-| 10      | 6            | 7               | 9               | 11           | 10                  | 6        |
-
-#### Tabella 24: Tiri Salvezza del Guerriero
-
-| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
-| 1       | 12           | 13              | 14              | 15           | 16                  | 14       |
-| 2       | 12           | 13              | 14              | 15           | 16                  | 13       |
-| 3       | 10           | 11              | 12              | 15           | 14                  | 16       |
-| 4       | 10           | 11              | 12              | 12           | 14                  | 11       |
-| 5       | 10           | 11              | 12              | 12           | 14                  | 10       |
-| 6       | 8            | 9               | 10              | 12           | 12                  | 9        |
-| 7       | 8            | 9               | 10              | 12           | 12                  | 8        |
-| 8       | 8            | 9               | 10              | 9            | 12                  | 7        |
-| 9       | 6            | 7               | 8               | 9            | 10                  | 6        |
-| 10      | 6            | 7               | 8               | 9            | 10                  | 5        |
-
-#### Tabella 25: Tiri Salvezza del Mago
-
-| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
-| 1       | 13           | 14              | 13              | 16           | 15                  | 15       |
-| 2       | 12           | 13              | 12              | 15           | 15                  | 14       |
-| 3       | 12           | 13              | 12              | 15           | 15                  | 13       |
-| 4       | 11           | 12              | 11              | 14           | 12                  | 12       |
-| 5       | 11           | 12              | 11              | 14           | 12                  | 11       |
-| 6       | 10           | 11              | 10              | 13           | 12                  | 10       |
-| 7       | 10           | 11              | 10              | 13           | 12                  | 9        |
-| 8       | 9            | 10              | 9               | 12           | 9                   | 8        |
-| 9       | 9            | 10              | 9               | 12           | 9                   | 7        |
-| 10      | 8            | 9               | 8               | 11           | 9                   | 6        |
-
-#### Tabella 26: Tiri Salvezza del Ladro
-
-| Livello | Morte Veleno | Bacchette Raggi | Paralisi Pietra | Soffio Drago | Incantesimi Bastoni | TS Unico |
-| ------- | ------------ | --------------- | --------------- | ------------ | ------------------- | -------- |
-| 1       | 13           | 14              | 13              | 15           | 16                  | 14       |
-| 2       | 12           | 14              | 12              | 14           | 15                  | 13       |
-| 3       | 12           | 14              | 12              | 14           | 15                  | 16       |
-| 4       | 11           | 11              | 11              | 13           | 14                  | 11       |
-| 5       | 11           | 11              | 11              | 13           | 14                  | 10       |
-| 6       | 10           | 11              | 10              | 12           | 13                  | 9        |
-| 7       | 10           | 11              | 10              | 12           | 13                  | 8        |
-| 8       | 9            | 8               | 9               | 11           | 12                  | 7        |
-| 9       | 9            | 8               | 9               | 11           | 12                  | 6        |
-| 10      | 8            | 8               | 8               | 10           | 11                  | 5        |
-
-Queste tabelle non si integrano direttamente in *La Scatola Bianca*: se si volessero inserire come regola della casa, si dovrebbero eliminare i bonus di classe di *La Scatola Bianca* sui tiri salvezza (cioè i bonus elencati per ogni classe nella descrizione della classe, ma non i bonus razziali per i non umani).
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il tiro salvezza ha successo.
 
 ### Ricordate
 

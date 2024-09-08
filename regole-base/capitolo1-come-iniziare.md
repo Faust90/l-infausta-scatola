@@ -5,24 +5,24 @@ parent: Regole Base
 
 # Capitolo 1: Come iniziare
 
-*La Scatola Bianca* richiede due tipi di partecipanti: (1) L'Arbitro e (2) il Giocatore. Per i Giocatori, il primo passo per giocare è quello di creare un Personaggio Giocante (PG). Dovete semplicemente tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e acquistando l'equipaggiamento di gioco. Chi di voi è l'Arbitro, tuttavia, ha un po' più preparazione da fare - come trattato nel Capitolo 7.
-
-### Regola numero uno
-
-La regola più importante di *La Scatola Bianca* è che l'Arbitro ha sempre il diritto di modificare le regole. In effetti è incoraggiato a farlo! Questo è il vostro gioco, dopo tutto. Ci sono delle lacune nelle regole - buchi lasciati aperti di proposito - perché gran parte del divertimento dei giochi di ruolo è la possibilità di inventare regole a seconda delle necessità.
+Per giocare a *L'Infausta Scatola* occorrono: 
+* Un Arbitro 
+* Da due a sei Giocatori. 
+* Una Scheda del Personaggio per ciascun Giocatore
+ 
+il primo passo per giocare è quello di creare un Personaggio del Giocatore (PG). Dovete semplicemente tirare alcuni dadi per determinare gli attributi del vostro personaggio, scegliendo una classe, una razza (se non umana) e acquistando l'equipaggiamento di gioco. Chi di voi è l'Arbitro, tuttavia, ha un po' più preparazione da fare - come trattato nel Capitolo 7.
 
 ### Dadi
 
-*La Scatola Bianca* usa diversi tipi di dadi e sono qui indicati a seconda del numero di lati che hanno. Per esempio, un dado a quattro facce è indicato come "d4". Se si richiede che un giocatore tiri "3d4" significa che dovrà lanciare tre (3) dadi a quattro facce e sommare i risultati. Altri tipi di dadi (a sei facce, a otto facce, a dieci facce, a dodici facce e a venti facce) seguono lo stesso criterio.
+*L'Infausta Scatola*  usa diversi tipi di dadi e sono qui indicati a seconda del numero di lati che hanno. 
+Un dado a sei facce è indicato come "d6". Se si richiede che un giocatore tiri "3d6" significa che dovrà lanciare tre (3) dadi a sei facce e sommare i risultati. 
+Altri tipi di dadi (a sei facce, a otto facce, a dieci facce, a dodici facce e a venti facce) seguono lo stesso criterio.
 
-Non esiste un dado a 100 facce. Quando viene chiesto di tirare un d100, verranno tirati due (2) dadi a dieci facce, considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73".
+Non esiste un dado a 100 facce. Quando viene chiesto di tirare un d100, verranno tirati due (2) dadi a dieci facce, considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73". Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
 
-Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
+### Regola fondamentale
 
-### Riguardo alle regole opzionali
-
-*La Scatola Bianca* è molto facile da imparare a giocare, le regole sono semplici e chiare.
-Mentre create il vostro personaggio e leggete le regole, vedrete che ci sono diverse "regole opzionali" descritte. Queste servono a personalizzare il gioco per adattarlo al modo in cui volete giocarlo, ma se siete l'Arbitro e questa è la prima volta che gestite un gioco come questo, attenetevi alle regole di base e personalizzatele solo in seguito. Le regole opzionali, più qualsiasi ulteriore nuova regola che voi e il vostro gruppo inventerete, sono spesso chiamate "regole della casa", perché ogni gruppo di gioco userà un mix diverso di regole alternative inventate. Questo è bene, in quanto alla fine si suppone che personalizziate il vostro gioco per adattarlo a ciò che desiderate, non che seguiate le regole "ufficiali" per sempre.
+La regola più importante di *L'Infausta Scatola* è che l'Arbitro ha l'ultima parola sulle decisioni ("rulings") discusse insieme al resto del gruppo per gestire tutte le situazioni non previste dal regolamento. 
 
 ### Schede Personaggio
 
@@ -55,7 +55,7 @@ Un metodo opzionale per il bonus di punti esperienza è semplicemente quello di 
 
 ### Forza
 
-La Forza rappresenta la potenza fisica del personaggio. È l'Attributo Primario dei Guerrieri, quindi quando un personaggio Guerriero ha una Forza di 15+, ottiene un bonus del 5% ai PE. I Guerrieri possono usare il loro bonus di Forza per modificare il loro "tiro per colpire" e i risultati dei danni quando usano armi da mischia.
+La Forza rappresenta la potenza fisica del personaggio. È l'Attributo Primario dei Campioni, quindi quando un personaggio Campione ha una Forza di 15+, ottiene un bonus del 5% ai PE. I Personaggi possono usare il loro bonus di Forza per modificare il loro "tiro per colpire" e i risultati dei danni quando usano armi da mischia.
 
 ### Intelligenza
 
@@ -71,7 +71,7 @@ La Costituzione si riferisce alla salute e alla resistenza di un personaggio: un
 
 ### Destrezza
 
-La Destrezza è una combinazione di coordinazione e rapidità. È l'Attributo Primario dei Ladri (se vengono utilizzati). Un elevato punteggio di Destrezza (15+) conferisce a un personaggio un bonus ai tiri per colpire quando attacca con un arco o un'altra arma a distanza, mentre un punteggio basso (6 o meno) dà una penalità di -1 a tali tiri.
+La Destrezza è una combinazione di coordinazione e rapidità. È l'Attributo Primario dei Ladri (se vengono utilizzati). Un elevato punteggio di Destrezza (15+) conferisce a un personaggio un bonus alla Classe Armatura e i tiri per colpire quando attacca con un arco o un'altra arma a distanza. Un punteggio basso (6 o meno) dà una penalità di -1 a questi attributi.
 
 ### Carisma
 
@@ -95,7 +95,10 @@ I Punti Ferita (PF) rappresentano la quantità di "danni" che un personaggio pu�
 
 ### Allineamento
 
-Gli allineamenti nel gioco rappresentano le forze cosmiche e sono descritti come Legge, Caos e Neutralità. In generale, la Legge corrisponde anche all'essere "buono", il Caos corrisponde all'essere "malvagio" e la Neutralità significa semplicemente che il personaggio è indifferente alle due polarità morali. È possibile per l'Arbitro rendere il sistema di allineamento più complesso: Legale potrebbe significare solo che si è a favore delle gerarchie centralizzate nella società, nel qual caso si potrebbe essere Legale Malvagio così come Legale Buono. Rendere il sistema di allineamento più complesso è una questione di gusti.
+Gli allineamenti nel gioco rappresentano le forze cosmiche e sono descritti come Legge, Caos e Neutralità. 
+In generale, le creature legali credono che tutto risponda ad un preciso ordine cosmico, dove ogni azione avrà una precisa conseguenza e, alla fine, non sarà possibile sfuggire al proprio destino.
+Le creature caotiche rifiutano questa visione, preferendo la convizione al fatto che tutto è in balia del caos, dell'imponderabile e dell'imprevedibile. 
+Le creature neutrali sono meno polarizzate tra i due allineamenti. 
 
 ### Pensionamento del personaggio
 

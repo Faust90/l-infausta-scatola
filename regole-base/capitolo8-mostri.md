@@ -41,7 +41,7 @@ Il "Movimento" è la velocità del mostro e viene gestita come per i PG.
 
 ### Tiro Salvezza
 
-Il "Tiro Salvezza" non è una delle voci, ma tutte le creature hanno un tiro salvezza. È il numero sul d20 che il mostro deve raggiungere o superare per evitare una minaccia o diminuirne l'effetto. Si calcola sottraendo il DV del mostro da 19. Per esempio, un mostro con 4 DV ha un tiro salvezza di 15. In alternativa, un mostro può essere trattato semplicemente come un Guerriero o qualsiasi altra Classe Personaggio che abbia senso per quel mostro, con i Dadi Vita del mostro usati per determinare il suo livello.
+Il "Tiro Salvezza" non è una delle voci, ma tutte le creature hanno un tiro salvezza. È il numero sul d20 che il mostro deve raggiungere o superare per evitare una minaccia o diminuirne l'effetto. Si calcola sottraendo il DV del mostro da 19. Per esempio, un mostro con 4 DV ha un tiro salvezza di 15. In alternativa, un mostro può essere trattato semplicemente come un Campione o qualsiasi altra Classe Personaggio che abbia senso per quel mostro, con i Dadi Vita del mostro usati per determinare il suo livello.
 
 ### Speciale
 
@@ -965,7 +965,7 @@ La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se 
 *Movimento*: 6  
 *DVE/PE*: 1/15
 
-Le statistiche di cui sopra sono per il nano comune, senza particolari caratteristiche insolite. Un Nano d'armi di solito ha 7 DV, che riflettono l'abilità e la tenacità complessiva. Nani più forti (sergenti d'armi, per esempio) potrebbero avere più dadi vita o insoliti bonus "per colpire", anche abilità magiche se i nani sono magici nel vostro universo fantasy. Non preoccupatevi di trattare i PNG nani più potenti come Guerrieri o tipi di personaggi; assegnate semplicemente il giusto numero di DV e di abilità (se ce ne sono) e procedete con la fantasia.
+Le statistiche di cui sopra sono per il nano comune, senza particolari caratteristiche insolite. Un Nano d'armi di solito ha 7 DV, che riflettono l'abilità e la tenacità complessiva. Nani più forti (sergenti d'armi, per esempio) potrebbero avere più dadi vita o insoliti bonus "per colpire", anche abilità magiche se i nani sono magici nel vostro universo fantasy. Non preoccupatevi di trattare i PNG nani più potenti come Campioni o tipi di personaggi; assegnate semplicemente il giusto numero di DV e di abilità (se ce ne sono) e procedete con la fantasia.
 
 ### Ninfa
 
@@ -1190,7 +1190,7 @@ I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, 
 
 ## Umani
 
-Gli umani sono una razza così versatile tanto da poter creare qualsiasi numero di "mostri" e PNG da loro. Guerrieri berserker, uomini delle tribù, uomini delle caverne, principesse, sommi sacerdoti malvagi, capitani della guardia, fanti e locandieri sono tutti diversi "mostri" umani. Non cercate di costruire i vostri personaggi non giocanti secondo le regole dei personaggi giocanti. Qui ci sono alcuni esempi, altrimenti inventate le loro statistiche e abilità come meglio credete.
+Gli umani sono una razza così versatile tanto da poter creare qualsiasi numero di "mostri" e PNG da loro. Campioni berserker, uomini delle tribù, uomini delle caverne, principesse, sommi sacerdoti malvagi, capitani della guardia, fanti e locandieri sono tutti diversi "mostri" umani. Non cercate di costruire i vostri personaggi non giocanti secondo le regole dei personaggi giocanti. Qui ci sono alcuni esempi, altrimenti inventate le loro statistiche e abilità come meglio credete.
 
 ### Umano, Bandito
 
@@ -1225,7 +1225,7 @@ I Berserker sono esseri umani normali, ma combattono con una ferocia sbalorditiv
 
 I sergenti umani si trovano normalmente al comando di 1d6+5 soldati umani. Sono i leader delle unità di guardia cittadina e di altri piccoli gruppi militari nei castelli e negli eserciti.
 
-### Umano, Soldato
+### Umano, Campione
 
 *Classe Armatura*: 7 [12]  
 *Dadi Vita*: 1  
