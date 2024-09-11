@@ -1,5 +1,5 @@
 ---
-nav_order: 7
+nav_order: 6
 parent: Regole Base
 ---
 
@@ -12,32 +12,32 @@ I Chierici e i Maghi sono le uniche classi che possono lanciare incantesimi. Gli
 ### Tabella 27: Incantesimi del Chierico
 
 |               Livello 1               |        Livello 2        |
-|:-------------------------------------:|:-----------------------:|
-| Curare (Causare) le Ferite Leggere    | Benedire (Maledire)     |
-| Individuare Caos (Legge)              | Bloccare le Persone     |
-| Individuare la Magia                  | Trovare le Trappole     |
-| Luce (Oscurità)                       | Parlare con gli Animali |
-| Protezione dal Caos (dalla Legge)     |                         |
+| :-----------------------------------: | :---------------------: |
+|  Curare (Causare) le Ferite Leggere   |   Benedire (Maledire)   |
+|       Individuare Caos (Legge)        |   Bloccare le Persone   |
+|         Individuare la Magia          |   Trovare le Trappole   |
+|            Luce (Oscurità)            | Parlare con gli Animali |
+|   Protezione dal Caos (dalla Legge)   |                         |
 | Purificare (Putrefare) Cibo e Bevande |                         |
 
 
-|         Livello 3             |                  Livello 4                    |
-|:-----------------------------:|:---------------------------------------------:|
-| Curare (Causare) le Malattie  | Curare (Causare) le Ferite Gravi              |
-| Localizzare un Oggetto        | Neutralizzare Veleno                          |
-| Luce (Oscurità), Continua     | Protezione dal Caos (dalla Legge), raggio 10' |
-| Rimuovere una Maledizione     | Parlare con le Piante                         |
-|                               | Trasformare i Bastoni in Serpenti             |
+|          Livello 3           |                   Livello 4                   |
+| :--------------------------: | :-------------------------------------------: |
+| Curare (Causare) le Malattie |       Curare (Causare) le Ferite Gravi        |
+|    Localizzare un Oggetto    |             Neutralizzare Veleno              |
+|  Luce (Oscurità), Continua   | Protezione dal Caos (dalla Legge), raggio 10' |
+|  Rimuovere una Maledizione   |             Parlare con le Piante             |
+|                              |       Trasformare i Bastoni in Serpenti       |
 
 
-|           Livello 5           |             Livello 6             |
-|:-----------------------------:|:---------------------------------:|
-| Comunione                     | Incantesimi di 6 per il Chierico? |
-| Creare Cibo e Bevande         | Solo se gli Dei lo vogliono       |
-| Dissolvere il Caos (la Legge) |                                   |
-| Piaga di Insetti              |                                   |
-| Missione                      |                                   |
-| Resurrezione dei Morti        |                                   |
+|           Livello 5           |
+| :---------------------------: |
+|           Comunione           |
+|     Creare Cibo e Bevande     |
+| Dissolvere il Caos (la Legge) |
+|       Piaga di Insetti        |
+|           Missione            |
+|    Resurrezione dei Morti     |
 
 Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo — le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
 
@@ -45,53 +45,78 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 
 ### Tabella 28: Incantesimi del Mago
 
-|      Livello 1               |         Livello 2          |
-|:----------------------------:|:--------------------------:|
-| Ammaliare le Persone         | Forza Fantasma             |
-| Bloccare le Porte            | Individuare il Caos        |
-| Individuare la Magia         | Individuare l'Invisibilità |
-| Leggere le Lingue            | Invisibilità               |
-| Leggere la Magia             | Leggere il Pensiero        |
-| Luce                         | Levitare                   |
-| Sonno                        | Localizzare un Oggetto     |
-| Protezione dal Caos          | Luce, Continua             |
-|                              | Ragnatela                  |
-|                              | Scassinare                 |
-|                              | Serratura del Mago         |
+|      Livello 1       |         Livello 2          |
+| :------------------: | :------------------------: |
+| Ammaliare le Persone |       Forza Fantasma       |
+|  Bloccare le Porte   |    Individuare il Caos     |
+| Individuare la Magia | Individuare l'Invisibilità |
+|  Leggere le Lingue   |        Invisibilità        |
+|   Leggere la Magia   |    Leggere il Pensiero     |
+|         Luce         |          Levitare          |
+|        Sonno         |   Localizzare un Oggetto   |
+| Protezione dal Caos  |       Luce, Continua       |
+|                      |         Ragnatela          |
+|                      |         Scassinare         |
+|                      |     Serratura del Mago     |
 
 
-|              Livello 3              |         Livello 4         |
-|:-----------------------------------:|:-------------------------:|
-| Alterare il Tempo                   | Ammaliare i Mostri        |
-| Bloccare le Persone                 | Confusione                |
-| Dardo Elettrico                     | Crescita Vegetale         |
-| Dissolvere le Magie                 | Mutaforma di Massa        |
-| Invisibilità, raggio 10'            | Muro di Fuoco o Ghiaccio  |
-| Palla di Fuoco                      | Occhio del Mago           |
-| Protezione dal Caos, raggio 10'     | Polimorfismo              |
-| Protezione dai Proiettili Normali   | Portale Dimensionale      |
-| Respirare Sott'Acqua                | Rimuovere una Maledizione |
-| Scurovisione                        | Terreno Illusorio         |
-| Sfera di Cristallo                  |                           |
-| Volare                              |                           |
+|             Livello 3             |         Livello 4         |
+| :-------------------------------: | :-----------------------: |
+|         Alterare il Tempo         |    Ammaliare i Mostri     |
+|        Bloccare le Persone        |        Confusione         |
+|          Dardo Elettrico          |     Crescita Vegetale     |
+|        Dissolvere le Magie        |    Mutaforma di Massa     |
+|     Invisibilità, raggio 10'      | Muro di Fuoco o Ghiaccio  |
+|          Palla di Fuoco           |      Occhio del Mago      |
+|  Protezione dal Caos, raggio 10'  |       Polimorfismo        |
+| Protezione dai Proiettili Normali |   Portale Dimensionale    |
+|       Respirare Sott'Acqua        | Rimuovere una Maledizione |
+|           Scurovisione            |     Terreno Illusorio     |
+|        Sfera di Cristallo         |                           |
+|              Volare               |                           |
 
 
-|        Livello 5          |         Livello 6              |
-|:-------------------------:|:------------------------------:|
-| Animare i Cadaveri        | Controllo Atmosferico          |
-| Bloccare i Mostri         | Disintegrare                   |
-| Contattare altri Piani    | Incantesimo della Morte        |
-| Crescita Animale          | Inseguitore Invisibile         |
-| Evocare un Elementale     | Missione                       |
-| Muro di Pietra o Ferro    | Muovere l'Acqua                |
-| Nube Mortale              | Muovere la Terra               |
-| Passapareti               | Proiettare un'Immagine         |
-| Regressione Mentale       | Reincarnazione                 |
-| Telecinesi                | Scudo Anti-Magico              |
-| Teletrasporto             | Trasformare la Pietra in Carne |
-| Trasforma Roccia in Fango |                                |
-| Vaso Magico               |                                |
+|         Livello 5         |
+| :-----------------------: |
+|    Animare i Cadaveri     |
+|     Bloccare i Mostri     |
+|  Contattare altri Piani   |
+|     Crescita Animale      |
+|   Evocare un Elementale   |
+|  Muro di Pietra o Ferro   |
+|       Nube Mortale        |
+|        Passapareti        |
+|    Regressione Mentale    |
+|        Telecinesi         |
+|       Teletrasporto       |
+| Trasforma Roccia in Fango |
+|        Vaso Magico        |
 
+## Lista degli Incantesimi del Silvano
+
+#### Tabella 13: Incantesimi del Silvano
+
+|           Livello 1            |        Livello 2        |
+| :----------------------------: | :---------------------: |
+|             Bacche             |     Forza Selvaggia     |
+|            Bagliore            |   Messaggero animale    |
+| Conoscere il tempo atmosferico |         Nebbia          |
+|      Incantare un animale      | Parlare con gli Animali |
+|     Individuare un animale     |    Piegare il Legno     |
+|  Individuare trappole e fosse  |                         |
+
+|      Livello 3      |       Livello 4       |
+| :-----------------: | :-------------------: |
+| Cerchio protettivo  |  Camminare nell'aria  |
+| Chiamare il fulmine |  Chiamare un mostro   |
+| Evocare un animale  | Parlare con le Piante |
+|   Muro del vento    |      Passalberi       |
+
+|      Livello 5       |
+| :------------------: |
+|  Esplosione Solare   |
+| Risvegliare l'albero |
+|      Terremoto       |
 
 ## Descrizione degli Incantesimi
 Di seguito sono elencati tutti gli incantesimi per Chierici e Maghi, in ordine alfabetico. La versione in parentesi è disponibile solo per i Chierici caotici. 
@@ -172,11 +197,11 @@ Quest'incantesimo confonde le persone e i mostri, facendoli agire casualmente. G
 
 #### Tabella 29: Reazione Confusione
 
-| Tiro |                  Reazione                  |
-|:----:|:------------------------------------------:|
-| 2-5  | Attaccano l'incantatore e i suoi alleati.  |
-| 6-8  | Rimangono fermi e sconcertati              |
-| 9-12 | Si attaccano l'uno con l'altro             |
+| Tiro  |                 Reazione                  |
+| :---: | :---------------------------------------: |
+|  2-5  | Attaccano l'incantatore e i suoi alleati. |
+|  6-8  |       Rimangono fermi e sconcertati       |
+| 9-12  |      Si attaccano l'uno con l'altro       |
 
 L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo e ha effetto immediato. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d4. Queste creature devono effettuare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e ogni 10 minuti successivi oppure restano confusi per il resto della durata dell'incantesimo. 
 
@@ -189,14 +214,14 @@ L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geom
 
 #### Tabella 30: Contattare altri Piani
 
-| Piano (*)| Follia (†) | Giusto | Sbagliato (‡)  |
-|:---------:|:----------:|:------:|:-------------:|
-|     1     |     1-2    |  3-11  |     12-20     |
-|     2     |     1-4    |  4-13  |     14-20     |
-|     3     |     1-6    |  7-16  |     17-20     |
-|     4     |     1-8    |  9-17  |     18-20     |
-|     5     |    1-10    |  11-18 |     19-20     |
-|     6     |    1-12    |  13-19 |       20      |
+| Piano (*) | Follia (†) | Giusto | Sbagliato (‡) |
+| :-------: | :--------: | :----: | :-----------: |
+|     1     |    1-2     |  3-11  |     12-20     |
+|     2     |    1-4     |  4-13  |     14-20     |
+|     3     |    1-6     |  7-16  |     17-20     |
+|     4     |    1-8     |  9-17  |     18-20     |
+|     5     |    1-10    | 11-18  |     19-20     |
+|     6     |    1-12    | 13-19  |      20       |
 
 * \* I Piani sono la "profondità' a cui l'incantatore decide di cercare la verità; numero di domande Sì/No a cui ci sarà risposta. 
 * † La Follia temporanea dura per un numero di settimane pari alla profondità del piano dove la sanità mentale dell'incantatore è ceduta.
@@ -629,10 +654,10 @@ Il beneficiario dell'incantesimo può vedere nell'oscurità più totale. Il bene
 #### Tabella 31: Raggio della Scurovisione
 
 | Tirare 1d6 | Raggio di Visione (piedi) |
-|:----------:|:-------------------------:|
-|     1-2    |             40            |
-|     3-4    |             50            |
-|     5-6    |             60            |
+| :--------: | :-----------------------: |
+|    1-2     |            40             |
+|    3-4     |            50             |
+|    5-6     |            60             |
 
 ### Serratura del Mago
 *Livello:* M2  
@@ -659,12 +684,12 @@ Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza 
 
 #### Tabella 32: Affetti da Sonno
 
-|    DV della Vittima   | Creature Influenzate |
-|:---------------------:|:---------------------:|
-| Da meno di 1 DV a 1+1 |          3d6          |
-|        2 a 2+1        |          2d6          |
-|        3 a 3+1        |          1d6          |
-|        4 a 4+1        |           1           |
+|   DV della Vittima    | Creature Influenzate |
+| :-------------------: | :------------------: |
+| Da meno di 1 DV a 1+1 |         3d6          |
+|        2 a 2+1        |         2d6          |
+|        3 a 3+1        |         1d6          |
+|        4 a 4+1        |          1           |
 
 
 ### Terreno Illusorio
@@ -734,3 +759,160 @@ Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di a
 *Durata:* 1d6 turni + 1 turno/livello
 
 Questo incantesimo conferisce il potere di volare, con una velocità di movimento di 120' per round. L'Arbitro tira per la durata dell'incantesimo in segreto e non svela tale informazione al giocatore.
+
+
+### Bacche
+*Livello*: D1  
+*Raggio d'azione*: Nessuno  
+*Durata*: Finché non viene mangiato
+
+Il Druido crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF quando viene mangiata. Tutte le bacche magiche appassiscono al tramonto.
+
+### Bagliore
+*Livello*: D1  
+*Raggio d'azione*: 25'  
+*Durata*: Istantaneo
+
+Questo incantesimo emette un piccolo bagliore magico dal dito del Druido. Il bagliore può stordire un nemico per 1d6 round (tiro salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
+
+### Camminare nell'aria
+*Livello*: D4  
+*Raggio d'azione*: Incantatore  
+*Durata*: 30 minuti
+
+Il Druido può camminare sull'aria, come se fosse un terreno solido. I venti forti possono rompere l'incantesimo.
+
+### Cerchio protettivo
+*Livello*: D3  
+*Raggio d'azione*: 20'  
+*Durata*: 2 minuti per livello dell'incantatore
+
+Questo incantesimo crea un cerchio magico stazionario intorno al Druido, che blocca completamente fuoco, fulmini, acqua e ghiaccio.
+
+### Chiamare il Fulmine
+*Livello*: D3  
+*Raggio d'azione*: 240'  
+*Durata*: Istantaneo
+
+Un fulmine si abbatte sul bersaglio scelto e infligge 1d6 danni per livello dell'incantatore. Infligge 1d6 aggiuntivi se usato all'aperto e altri 1d6 se il bersaglio indossa oggetti metallici.
+
+### Chiamare un mostro
+*Livello*: D4  
+*Raggio d'azione*: n/a  
+*Durata*: Istantaneo
+
+Questo incantesimo richiama dalla natura un mostro casuale, a seconda del tipo di terreno in cui l'incantesimo è stato lanciato. C'è una probabilità di 1-2 che il mostro sia neutrale nei confronti del Druido. Anche se ostile, il mostro attaccherà sempre per primo i nemici del Druido.
+
+### Conoscere il Tempo Atmosferico
+*Livello*: D1  
+*Raggio d'azione*: 2 miglia per livello dell'incantatore  
+*Durata*: Istantaneo
+
+Questo incantesimo permette al Druido di prevedere il tempo nella posizione corrente. La previsione vale per le successive 12 ore.
+
+### Esplosione Solare
+*Livello*: D5  
+*Raggio d'azione*: 300'  
+*Durata*: Istantaneo
+
+Questo incantesimo crea un globo esplosivo (80') di luce. Tutte le creature all'interno del globo diventano cieche e subiscono 1d6 punti di danno per livello dell'incantatore.
+
+### Evocare un animale
+*Livello*: D3  
+*Raggio d'azione*: 90'  
+*Durata*: 1 giorno
+
+Questo incantesimo evoca un alleato animale con 4 DV. Il Druido può anche dividere i DV in creature più piccole (per esempio: può evocare quattro animali con 1 DV). Tutti gli animali evocati scompaiono alla fine del giorno.
+
+### Forza selvaggia
+*Livello*: D2  
+*Raggio d'azione*: Incantatore o tocco  
+*Durata*: 1 ora per livello dell'incantatore
+
+Questo incantesimo conferisce alla persona scelta un'immensa forza - in seguito al lancio la sua massa muscolare strappa i vestiti. Il personaggio riceve inoltre un bonus di +2 a tutti i danni inflitti in mischia e può piegare facilmente le sbarre e sollevare oggetti pesanti.
+
+
+### Incantare un animale
+*Livello*: D1  
+*Raggio d'azione*: 120'  
+*Durata*: Finché non viene annullato
+
+Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone del Mago, ma colpisce gli animali.
+
+### Individuare un animale
+*Livello*: D1  
+*Raggio d'azione*: 90'  
+*Durata*: 1 minuto per livello
+
+Funziona allo stesso modo dell'incantesimo Localizzare oggetto, ma ha effetto sugli animali.
+
+### Individuare trappole e fosse
+*Livello*: D1  
+*Raggio d'azione*: 90'  
+*Durata*: Istantaneo
+
+Funziona allo stesso modo dell'incantesimo Trovare trappole, ma colpisce le trappole e le fosse.
+
+### Messaggero animale
+*Livello*: D2  
+*Raggio d'azione*: Nessuno  
+*Durata*: Fino alla consegna del messaggio
+
+Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un ratto), che cercherà di raggiungere il suo destinatario. Il Druido può allegare una pergamena con un messaggio all'animale. Il messagero scompare quando raggiunge il suo destinatario.
+
+### Muro del vento
+*Livello*: D3  
+*Raggio d'azione*: 100'  
+*Durata*: 1 round per livello dell'incantatore
+
+Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
+
+### Nebbia
+*Livello*: D2  
+*Raggio d'azione*: 250'  
+*Durata*: Finché non viene dissipato
+
+Questo incantesimo crea una fitta nebbia magica nell'area. Ogni creatura, tranne il Druido, riesce a malapena a vedere in questa nebbia e riceve una penalità di -4 ai colpi mentre cerca di combattere in queste condizioni.
+
+### Parlare con gli Animali
+*Livello:* D2  
+*Raggio d'azione:* 30'  
+*Durata:* 1 ora
+
+L'incantatore può parlare con gli animali entro il raggio d'azione. C'è la possibilità che gli animali lo assistano e che non attacchino né lui né i suoi alleati (a meno che non dica qualcosa di particolarmente offensivo). 
+
+### Parlare con le Piante
+*Livello:* D4  
+*Raggio d'azione:* 30'  
+*Durata:* 1 ora
+
+L'incantatore può parlare alle piante e comprendere le loro risposte. Le piante obbediranno ai suoi comandi nei limiti del possibile (per esempio, girarsi o piegarsi di lato per facilitare il passaggio).
+
+### Passalberi
+*Livello*: D4  
+*Raggio d'azione*: Incantatore  
+*Durata*: 1 ora per livello dell'incantatore
+
+Questo incantesimo permette al Druido di fondersi (nascondersi all'interno) con un albero. Dopo la fusione, il Druido può "teletrasportarsi" liberamente in un altro albero vicino dello stesso tipo.
+Il Druido deve lasciare l'albero se la durata dell'incantesimo termina, o se l'albero viene abbattuto o bruciato.
+
+### Plasmare il Legno
+*Livello*: D2  
+*Raggio d'azione*: 30'  
+*Durata*: Permanente
+
+Questo incantesimo fa sì che il legno si pieghi e si deformi, distruggendo permanentemente la sua linearità, forma e forza. Una porta deformata si apre (o rimane bloccata, richiedendo una prova di Forza per aprirla, a vostra scelta). Una barca o una nave subisce una falla. Le armi a distanza deformate sono inutili. In alternativa, potete scardinare il legno (riportandolo effettivamente alla normalità) con questo incantesimo, raddrizzando il legno che è stato deformato da questo stesso incantesimo o da altri mezzi.
+
+### Risvegliare l'albero
+*Livello*: D5  
+*Raggio d'azione*: Toccare  
+*Durata*: Fino alla distruzione
+
+Questo incantesimo trasforma un albero toccato in un treant amichevole. I suoi DV dipendono dalle dimensioni dell'albero.
+
+### Terremoto
+*Livello*: D5  
+*Raggio d'azione*: 600'  
+*Durata*: fino a 1 minuto/round per livello dell'incantatore
+
+Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare tunnel e apre crepe nel terreno. Tutte le creature (tranne il Druido) nel raggio d'azione cadono a terra e non possono agire, finché il Druido continua a lanciare l'incantesimo (vedi Durata).

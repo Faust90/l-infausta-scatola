@@ -1,8 +1,8 @@
 ---
-nav_order: 5
+nav_order: 4
 parent: Regole Base
 ---
-# Capitolo 4: Equipaggiamento
+# Capitolo 3: Equipaggiamento
 
 Ogni personaggio inizia il gioco con 3d6x10 pezzi d'oro, che vengono usati per comprare l'equipaggiamento. Un pezzo d'oro (po) vale 10 pezzi d'argento (pa) o 100 pezzi di rame (pr). I prezzi dell'equipaggiamento sono elencati nelle tabelle sottostanti nella quantità di pezzi d'oro. L'Arbitro è incoraggiato a includere oggetti ed equipaggiamenti aggiuntivi.
 

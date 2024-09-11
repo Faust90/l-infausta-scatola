@@ -1,5 +1,5 @@
 ---
-nav_order: 10
+nav_order: 9
 parent: Regole Base
 ---
 # Capitolo 9: Tesori
