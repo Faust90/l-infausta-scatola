@@ -32,7 +32,7 @@ I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire
 I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
 
 #### Caccia
-I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, l'Arbitro effettua un tiro segreto di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante.
+I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, effettua un tiro di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante.
 
 #### Trofei
 Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
