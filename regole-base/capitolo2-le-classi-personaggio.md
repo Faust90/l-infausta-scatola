@@ -45,7 +45,7 @@ Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere u
 - Animale (ragni, cinghiali, uccelli)
 - Sottomondo (trogloditi, melme)
 
-Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti danno di 1d6. I Cacciatori possono avere più titoli.
+Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti di 1d6. I Cacciatori possono avere più titoli.
 
 #### Tiro salvezza
 I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
@@ -271,7 +271,7 @@ La Destrezza è l'Attributo Primario dei Ladri, il che significa che un punteggi
 
 ## Il Dvergar
 
-Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria, hanno una lunga barba scura e la loro pelle è colore della terra. Vivono in cunicoli sotterranei e fanno cose strane.
+Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura fatte di piccole radici, mentre la loro pelle ha l'aspetto della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per decorare i loro corpi terrosi: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
 
 #### Tabella 8: Avanzamento del Dvergar
 
@@ -304,7 +304,7 @@ I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterrane
 
 #### Tiro Salvezza
 
-I Dvergar non sono creature magiche e sono in qualche modo resistenti alla magia; ricevono un bonus di +4 ai tiri salvezza contro la magia. 
+I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannoso di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
 
 #### Lingue
 
@@ -312,7 +312,7 @@ Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero
 
 ## Il Silvano
 
-È un piccolo umanoide (mediamente alto 80 cm) dalla pelle verde. Vive in armonia con la natura e si considera protettore di boschi e animali.
+È un piccolo umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
 
 #### Restrizioni su Armi e Armature
 
