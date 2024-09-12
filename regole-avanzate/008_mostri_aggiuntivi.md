@@ -416,7 +416,7 @@ I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da so
 *Movimento*: 9/18  
 *DVE/PE*: 3/60
 
-I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a meno che non desiderino essere visti. Non sono malvagi, ma non amano le intrusioni e ogni 10 folletti possono causare congiuntamente un incantesimo di Sonno una volta al giorno che usano per dissuadere i potenziali trasgressori. Si armano di pugnali e archi corti e attaccano sempre a sorpresa, a meno che non vengano individuati con mezzi magici. Si noti che i combattenti di 8° livello e oltre percepiscono i folletti entro 3" anche senza vederli.
+I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a meno che non desiderino essere visti. Non sono malvagi, ma non amano le intrusioni e ogni 10 folletti possono causare congiuntamente un incantesimo di Sonno una volta al giorno che usano per dissuadere i potenziali trasgressori. Si armano di pugnali e archi corti e attaccano sempre a sorpresa, a meno che non vengano individuati con mezzi magici. 
 
 ### Ragno, Grande e Gigante
 

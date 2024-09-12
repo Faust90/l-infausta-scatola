@@ -14,15 +14,15 @@ I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Caccia |
 | :-----: | :--------------: | :-------: | :---------: | :----: |
-|    1    |        0         |     1     |     +1      |   2    |
-|    2    |      2.000       |     2     |     +2      |   2    |
-|    3    |      4.000       |     3     |     +3      |   2    |
-|    4    |      8.000       |     4     |     +4      |   3    |
-|    5    |      16.000      |     5     |     +5      |   3    |
-|    6    |      32.000      |     6     |     +6      |   3    |
-|    7    |      64.000      |     7     |     +7      |   4    |
-|    8    |     128.000      |     8     |     +8      |   4    |
-|    9    |     256.000      |     9     |     +9      |   4    |
+|    1    |        0         |     1     |     +0      |   2    |
+|    2    |      2.000       |     2     |     +1      |   2    |
+|    3    |      4.000       |     3     |     +2      |   2    |
+|    4    |      8.000       |     4     |     +3      |   3    |
+|    5    |      16.000      |     5     |     +4      |   3    |
+|    6    |      32.000      |     6     |     +5      |   3    |
+|    7    |      64.000      |     7     |     +6      |   4    |
+|    8    |     128.000      |     8     |     +7      |   4    |
+|    9    |     256.000      |     9     |     +8      |   4    |
 |   10    |     512.000      |    10     |     +9      |   5    |
 
 
@@ -139,15 +139,15 @@ Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e a
 
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Attacchi aggiuntivi |
 | ------- | ---------------- | :-------: | :---------: | :-----------------: |
-| 1       | 0                |    1+1    |     +1      |          0          |
-| 2       | 2,000            |     2     |     +2      |          0          |
-| 3       | 4,000            |     3     |     +3      |          1          |
-| 4       | 8,000            |     4     |     +4      |          1          |
-| 5       | 16,000           |     5     |     +5      |          1          |
-| 6       | 32,000           |     6     |     +6      |          2          |
-| 7       | 64,000           |     7     |     +7      |          2          |
-| 8       | 128,000          |     8     |     +8      |          2          |
-| 9       | 256,000          |     9     |     +9      |          3          |
+| 1       | 0                |    1+1    |     +0      |          0          |
+| 2       | 2,000            |     2     |     +1      |          0          |
+| 3       | 4,000            |     3     |     +2      |          1          |
+| 4       | 8,000            |     4     |     +3      |          1          |
+| 5       | 16,000           |     5     |     +4      |          1          |
+| 6       | 32,000           |     6     |     +5      |          2          |
+| 7       | 64,000           |     7     |     +6      |          2          |
+| 8       | 128,000          |     8     |     +7      |          2          |
+| 9       | 256,000          |     9     |     +8      |          3          |
 | 10      | 512,000          |    10     |     +9      |          3          |
 
 ### Abilità del Campione
@@ -156,7 +156,7 @@ Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e a
 
 I Campioni sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
 
-#### Furia in combattimento
+#### Attacchi aggiuntivi
 
 I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
 
@@ -188,7 +188,6 @@ Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera.
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Incantesimi |     |     |     |     |
 | ------- | ---------------- | --------- | ----------- | ----------- | --- | --- | --- | --- |
 |         |                  |           |             | 1           | 2   | 3   | 4   | 5   |
-| ------- | ---------------- | --------- | ----------- | ---         | --- | --- | --- | --- |
 | 1       | 0                | 1         | +0          | 1           | –   | –   | –   | –   |
 | 2       | 2,500            | 1+1       | +0          | 2           | –   | –   | –   | –   |
 | 3       | 5,000            | 2         | +0          | 3           | 1   | –   | –   | –   |
@@ -259,7 +258,7 @@ I Ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre
 
 #### Furto
 
-I ladri sono furtivi e dai piedi leggeri e l'abilità di furto può essere utilizzata per qualsiasi azione clandestina o basata sulla furtività: borseggiare o scassinare serrature, scoprire e disarmare trappole, rimanere silenziosi e nascosti mentre ci si muove o persino scalare muri a mani nude. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Ladro, il Ladro ha successo nel suo tentativo. I ladri non sono spesso consapevoli di quando i loro tentativi di rimanere furtivi falliscono, il ladro crede sempre di aver avuto successo.
+I Ladri hanno uno speciale addestramento che gli permette di **borseggiare senza essere notati** o **scassinare serrature**, **scoprire e disarmare trappole ordinarie e magiche** (due tiri separati), **rimanere silenziosi e nascosti mentre ci si muove nelle ombre** o persino **scalare muri lisci a mani nude**. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Ladro, il Ladro ha successo nel suo tentativo.
 
 #### Fondare una Gilda
 
@@ -300,7 +299,7 @@ I Dvergar hanno una speciale vista che gli permette di vedere il calore emanato 
 
 #### Sapere Dvergar
 
-I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterranei: passaggi segreti, trappole, segni del passaggio di creature che vivono sottoterra. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
+I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterranei** (passaggi segreti, trappole artificiali, pericoli naturali ecc.) oppure **storia e segni del passaggio di creature che vivono sottoterra**. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
 
 #### Tiro Salvezza
 
@@ -324,7 +323,7 @@ I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, 
 #### Mutaforma
 Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. Il Silvano può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
 
-**Piccolo animale:** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. 
+**Piccolo animale:** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6 (lanciato dall'Arbitro).
 
 **Grande animale:** non potete usare alcun oggetto, ma avete un bonus di +3 ai tiri per colpire, infliggete 1d6+1 danni con le vostre armi naturali e la vostra CA aumenta di +3.
 
