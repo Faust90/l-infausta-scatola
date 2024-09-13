@@ -64,8 +64,8 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 | :-------------------------------: | :-----------------------: |
 |         Alterare il Tempo         |    Ammaliare i Mostri     |
 |        Bloccare le Persone        |        Confusione         |
-|          Dardo Elettrico          |     Crescita Vegetale     |
-|        Dissolvere le Magie        |    Mutaforma di Massa     |
+|        Dissolvere le Magie        |     Crescita Vegetale     |
+|              Fulmine              |    Mutaforma di Massa     |
 |     Invisibilità, raggio 10'      | Muro di Fuoco o Ghiaccio  |
 |          Palla di Fuoco           |      Occhio del Mago      |
 |  Protezione dal Caos, raggio 10'  |       Polimorfismo        |
@@ -322,13 +322,6 @@ L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso 
 - Come Curare Ferite Gravi, l'incantatore cura 3d6+3 PF.
 - Come Causare Ferite Gravi, l'incantatore infligge 3d6+3 PF.
 
-### Dardo Elettrico
-*Livello:* M3  
-*Raggio d'azione:* 60'  
-*Durata:* Istantaneo
-
-Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
-
 ### Dissolvere il Caos (la Legge)
 *Livello:* C5  
 *Raggio d'azione:* 30'  
@@ -383,6 +376,12 @@ Questo incantesimo crea un'illusione realistica di fronte a chi lo osserva. L'il
 
 Questo incantesimo conferisce alla persona scelta un'immensa forza - in seguito al lancio la sua massa muscolare strappa i vestiti. Il personaggio riceve inoltre un bonus di +2 a tutti i danni inflitti in mischia e può piegare facilmente le sbarre e sollevare oggetti pesanti.
 
+### Fulmine
+*Livello:* M3  
+*Raggio d'azione:* 60'  
+*Durata:* Istantaneo
+
+Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
 
 ### Incantare un animale
 *Livello*: S1  
