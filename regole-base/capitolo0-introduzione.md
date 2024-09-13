@@ -5,7 +5,7 @@ parent: Regole Base
 
 # Introduzione
 
-*L'Infausta Scatola* (informalmente chiamata *"La Scatola Giacopo"*) è un gioco di Ruolo, hack de *La Scatola Bianca*. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.
+*L'Infausta Scatola* (informalmente chiamata *"La Scatola Giacopo"*) è un gioco di Ruolo, hack de *L'Infausta Scatola*. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.
 
 ### Come si gioca?
 

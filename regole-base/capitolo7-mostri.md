@@ -31,47 +31,26 @@ I "Punti Esperienza" sono presentati dopo il punteggio di Dado Vita Equivalente 
 
 Il "Dado Vita Equivalente" è usato per separare i mostri in "livelli di difficoltà" in modo che quando si crea un'avventura l'Arbitro abbia delle linee guida riguardo a ciò che i personaggi possono o non possono gestire. Alcuni mostri hanno più DVE elencati - questo perché alcuni mostri hanno una gamma di dadi vita. L'ordine è sempre dal DV più basso a quello più alto.
 
-### Resistenza alla Magia
-
-La "Resistenza alla Magia" non è una delle voci, ma alcune creature possono avere "resistenza alla magia". La percentuale fornita è la probabilità che qualsiasi magia usata contro la creatura (diversa dai bonus delle armi) non abbia effetto. Per determinare se la magia usata avrà o meno un effetto, tirate un d100. La magia fallisce se il risultato è inferiore alla percentuale indicata.
-
 ### Movimento
 
 Il "Movimento" è la velocità del mostro e viene gestita come per i PG.
 
+### Tiro per colpire
+
+Il  bonus "per colpire" del mostro è uguale ai suoi dadi vita. Per esempio, un mostro con 3 DV attacca con un bonus "per colpire" di +3.
+
 ### Tiro Salvezza
 
-Il "Tiro Salvezza" non è una delle voci, ma tutte le creature hanno un tiro salvezza. È il numero sul d20 che il mostro deve raggiungere o superare per evitare una minaccia o diminuirne l'effetto. Si calcola sottraendo il DV del mostro da 19. Per esempio, un mostro con 4 DV ha un tiro salvezza di 15. In alternativa, un mostro può essere trattato semplicemente come un Campione o qualsiasi altra Classe Personaggio che abbia senso per quel mostro, con i Dadi Vita del mostro usati per determinare il suo livello.
+ Per effettuare un tiro salvezza di un Mostro, l'Arbitro tira un d20 + DV del Mostro. Se il risultato è maggiore o uguale a 15, il tiro salvezza ha successo.
+
+### Resistenza alla Magia
+
+La "Resistenza alla Magia" non è una delle voci, ma alcune creature possono avere "resistenza alla magia". La percentuale fornita è la probabilità che qualsiasi magia usata contro la creatura (diversa dai bonus delle armi) non abbia effetto. Per determinare se la magia usata avrà o meno un effetto, tirate un d100. La magia fallisce se il risultato è inferiore alla percentuale indicata. La Resistenza alla magia viene determinata **prima** di fare eventuali Tiri Salvezza.
 
 ### Speciale
 
 "Speciale" è solo una sorta di "segnaposto" per l'Arbitro che serve a ricordare che un mostro ha un'abilità speciale.
 
-#### Tabella 40: Tiri d'Attacco dei Mostri
-
-| DV  | Classe Armatura Obiettivo or \[Classe Armatura Ascendente\] |          |          |          |          |          |          |          |          |          |
-| --- | ----------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-|     | 9 \[10\]                                                    | 8 \[11\] | 7 \[12\] | 6 \[13\] | 5 \[14\] | 4 \[15\] | 3 \[16\] | 2 \[17\] | 1 \[18\] | 0 \[19\] |
-| < 1 | 10                                                          | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       | 19       |
-| 1   | 9                                                           | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       | 18       |
-| 2   | 8                                                           | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       | 17       |
-| 3   | 7                                                           | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       | 16       |
-| 4   | 6                                                           | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       | 15       |
-| 5   | 5                                                           | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       | 14       |
-| 6   | 4                                                           | 5        | 6        | 7        | 8        | 9        | 10       | 11       | 12       | 13       |
-| 7   | 3                                                           | 4        | 5        | 6        | 7        | 8        | 9        | 10       | 11       | 12       |
-| 8   | 2                                                           | 3        | 4        | 5        | 6        | 7        | 8        | 9        | 10       | 11       |
-| 9   | 1                                                           | 2        | 3        | 4        | 5        | 6        | 7        | 8        | 9        | 10       |
-| 10  | 1                                                           | 1        | 2        | 3        | 4        | 5        | 6        | 7        | 8        | 9        |
-| 11  | 1                                                           | 1        | 1        | 2        | 3        | 4        | 5        | 6        | 7        | 8        |
-| 12  | 1                                                           | 1        | 1        | 1        | 2        | 3        | 4        | 5        | 6        | 7        |
-| 13  | 1                                                           | 1        | 1        | 1        | 1        | 2        | 3        | 4        | 5        | 6        |
-| 14  | 1                                                           | 1        | 1        | 1        | 1        | 1        | 2        | 3        | 4        | 5        |
-| 15+ | 1                                                           | 1        | 1        | 1        | 1        | 1        | 1        | 2        | 3        | 4        |
-
-### Nota
-
-Se state usando la formula rapida per calcolare gli attacchi usando il sistema di Classe Armatura Ascendente, il normale bonus "per colpire" del mostro è uguale ai suoi dadi vita (fino a un massimo di +15). Per esempio, un mostro con 3 DV attacca con un bonus "per colpire" di +3.
 
 ## Descrizioni dei Mostri
 
@@ -79,7 +58,7 @@ Di seguito sono presentati tutti i mostri in ordine alfabetico.
 
 ### Anima Dannata
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3  
 *Attacchi*: Artiglio (vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -90,7 +69,7 @@ Le anime dannate vivono in tombe, cimiteri e tumuli. Sono non-morti e quindi non
 
 ### Apparizione
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 4  
 *Attacchi*: Tocco (Vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -101,7 +80,7 @@ Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magi
 
 ### Arpia
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 3  
 *Attacchi*: Talenti  
 *Speciale*: Volo, canto della sirena  
@@ -112,7 +91,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 
 ### Banshee
 
-*Classe Armatura*: 0 [19]  
+*Classe Armatura*: 19  
 *Dadi Vita*: 7  
 *Attacchi*: Artigli  
 *Speciale*: Vedi sotto  
@@ -123,7 +102,7 @@ Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e al
 
 ### Basilisco
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 6  
 *Attacchi*: Morso  
 *Speciale*: Sguardo pietrificante  
@@ -134,7 +113,7 @@ I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque l
 
 ### Bugbear
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3+1  
 *Attacchi*: Arma o morso  
 *Speciale*: Sorprendere gli avversari  
@@ -145,7 +124,7 @@ Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la lor
 
 ### Centauro
 
-*Classe Armatura*: 5 [14], 4 [16] con scudo  
+*Classe Armatura*: 14, 16 con scudo  
 *Dadi Vita*: 4  
 *Attacchi*: Arma o calcio  
 *Speciale*: Nessuna  
@@ -156,7 +135,7 @@ Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature mitologi
 
 ### Cane Intermittente
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 6  
 *Attacchi*: Morso  
 *Speciale*: Teletrasporto  
@@ -167,7 +146,7 @@ I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amic
 
 ### Cavaliere della Morte
 
-*Classe Armatura*: 0 [20]  
+*Classe Armatura*: 20  
 *Dadi Vita*: 10  
 *Attacchi*: Spada a due mani (1d6+3)  
 *Speciale*: Vedi sotto  
@@ -178,11 +157,11 @@ Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandi
 
 ### Cavallo
 
-I cavalli hanno CA 7 [12], con i cavalli da corsa che hanno 2 DV e un movimento di 24 e i cavalli da guerra che hanno 3 DV e un movimento di 18. I cavalli da tiro hanno un movimento di 12.
+I cavalli hanno CA 12, con i cavalli da corsa che hanno 2 DV e un movimento di 24 e i cavalli da guerra che hanno 3 DV e un movimento di 18. I cavalli da tiro hanno un movimento di 12.
 
 ### Chimera
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 9  
 *Attacchi*: Morso (uguale al numero di teste)  
 *Speciale*: Soffia fuoco, vola  
@@ -193,7 +172,7 @@ La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra d
 
 ### Coboldi
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1/2  
 *Attacchi*: Arma  
 *Speciale*: Nessuno  
@@ -204,7 +183,7 @@ I coboldi sono umanoidi sotterranei, vagamente assomiglianti a goblin. Hanno una
 
 ### Coccatrice
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5  
 *Attacchi*: Morso  
 *Speciale*: Il morso trasforma in pietra  
@@ -215,7 +194,7 @@ Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il
 
 ### Cubo Gelatinoso
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 4  
 *Attacchi*: Colpo  
 *Speciale*: Vedi sotto  
@@ -230,7 +209,7 @@ I demoni sono creature dei piani inferiori dell'esistenza, ma si incontrano occa
 
 ### Demone, Balor
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 9  
 *Attacchi*: Spada o frusta (2d6)  
 *Speciale*: Vedi sotto  
@@ -241,7 +220,7 @@ Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di p
 
 ### Demone, Folletto
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 3  
 *Attacchi*: Pungiglione della coda velenoso (1d6-1)  
 *Speciale*: Vedi sotto  
@@ -252,7 +231,7 @@ Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occ
 
 ### Demone, Lemure
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 3  
 *Attacchi*: Artiglio  
 *Speciale*: Rigenerazione (1 HP/round)  
@@ -263,7 +242,7 @@ I lemuri sono vagamente umanoidi: la loro carne è simile al fango, mutevole e m
 
 ### Demone, Succube
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 6  
 *Attacchi*: Morso (1d6-1)  
 *Speciale*: Ammaliare Persone  
@@ -274,7 +253,7 @@ Una succube è un demone della lussuria che appare come una donna umana voluttuo
 
 ### Destriero Notturno
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 5+5  
 *Attacchi*: Zoccoli infuocati (2d6)  
 *Speciale*: Grido spaventoso  
@@ -285,7 +264,7 @@ Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di
 
 ### Djinni
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 7+1  
 *Attacchi*: Pugno o arma (2d6)  
 *Speciale*: Vedi sotto  
@@ -296,7 +275,7 @@ I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani el
 
 ### Doppelganger
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 4  
 *Attacchi*: Artiglio  
 *Speciale*: Vedi sotto  
@@ -340,7 +319,7 @@ Notate che i draghi, pur essendo avversari pericolosi, non sono affatto invincib
 
 ### Drago, Bianco
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 5-7  
 *Attacchi*: Morso (1d6 +1)  
 *Speciale*: Soffia gelo  
@@ -351,7 +330,7 @@ I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utili
 
 ### Drago, Blu
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8-10  
 *Attacchi*: Morso (2d6)  
 *Speciale*: Emette fulmini  
@@ -362,7 +341,7 @@ I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa 
 
 ### Drago, Oro
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 10-12  
 *Attacchi*: Morso (2d6+2)  
 *Speciale*: Soffia gas velenoso o fuoco  
@@ -373,7 +352,7 @@ I draghi d'oro sono di allineamento legale, possono sempre parlare e lanciano in
 
 ### Drago, Nero
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 6-8  
 *Attacchi*: Morso (1d6+2)  
 *Speciale*: Sputa acido  
@@ -384,7 +363,7 @@ I draghi neri sputano un acido mortale e corrosivo. L'acido copre tutto in una l
 
 ### Drago, Rosso
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 9-11  
 *Attacchi*: Morso (2d6+1)  
 *Speciale*: Sputa fuoco  
@@ -395,7 +374,7 @@ I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un co
 
 ### Drago, Verde
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 7-9  
 *Attacchi*: Morso (2d6)  
 *Speciale*: Soffia gas velenoso  
@@ -407,7 +386,7 @@ Un tiro salvezza riuscito dimezza il danno.
 
 ### Driade
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 2  
 *Attacchi*: Pugnale, legno  
 *Speciale*: Ammaliare Persone  
@@ -418,7 +397,7 @@ Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano
 
 ### Efreeti
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 10  
 *Attacchi*: Pugno o spada (2d6)  
 *Speciale*: Muro di fuoco  
@@ -433,7 +412,7 @@ Gli elementali sono manifestazioni viventi delle forme fondamentali della materi
 
 ### Elementale, Acqua
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8, 12, 16  
 *Attacchi*: Colpo (2d6)  
 *Speciale*: Rovesciare Navi  
@@ -444,7 +423,7 @@ Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'a
 
 ### Elementale, Aria
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8, 12, 16  
 *Attacchi*: Colpo (2d6)  
 *Speciale*: Vortice  
@@ -455,7 +434,7 @@ Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diamet
 
 ### Elementale, Fuoco
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8, 12, 16  
 *Attacchi*: Colpo (2d6)  
 *Speciale*: Dare fuoco  
@@ -466,7 +445,7 @@ Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagam
 
 ### Elementale, Terra
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8, 12, 16  
 *Attacchi*: Pugno (2d6)  
 *Speciale*: Distruzione della pietra  
@@ -477,7 +456,7 @@ Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscon
 
 ### Elfo
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arco lungo o spada  
 *Speciale*: Nessuna  
@@ -488,7 +467,7 @@ L'esempio di cui sopra è per un elfo tipico; i guerrieri addestrati avrebbero p
 
 ### Elfo, Scuro
 
-*Classe Armatura*: 5 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 2  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto  
@@ -499,7 +478,7 @@ Questi cugini degli elfi di superficie hanno la pelle scura e i capelli bianchi.
 
 ### Fata Drago
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 2  
 *Attacchi*: Morso (1d6-1)  
 *Speciale*: Soffio del sonno, Invisibilità  
@@ -510,7 +489,7 @@ Questi piccoli draghi con le ali di farfalla non sono più grandi di un gatto do
 
 ### Gargoyle
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 4  
 *Attacchi*: Artiglio  
 *Speciale*: Volo  
@@ -521,7 +500,7 @@ I gargoyle sono creature alate che assomigliano alle mostruosità scolpite che a
 
 ### Gelatina Ocra
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 5  
 *Attacchi*: Colpo acido  
 *Speciale*: I fulmini separano la creatura  
@@ -532,7 +511,7 @@ Le gelatine ocra sono delle melme amorfe che danneggiano gli avversari con la lo
 
 ### Ghoul
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 2  
 *Attacchi*: Artiglio  
 *Speciale*: Vedi sotto  
@@ -547,7 +526,7 @@ I giganti sono un punto di riferimento del gioco fantasy, creature enormi e peri
 
 ### Gigante, Collina
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 8  
 *Attacchi*: Arma (2d6)  
 *Speciale*: Scaglia massi  
@@ -558,7 +537,7 @@ I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono br
 
 ### Gigante, Firbolg
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 9+2  
 *Attacchi*: Arma (2d6)  
 *Speciale*: Scagliare massi, Individuazione del Magico  
@@ -569,7 +548,7 @@ Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firb
 
 ### Gigante, Fuoco
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 11+3  
 *Attacchi*: Arma (2d6)  
 *Speciale*: Lancia massi, immunità al fuoco  
@@ -580,7 +559,7 @@ I giganti di fuoco si trovano di solito vicino alle montagne vulcaniche, in gran
 
 ### Gigante, Gelo
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 10+1  
 *Attacchi*: Arma (2d6)  
 *Speciale*: Lancia massi, immunità al freddo  
@@ -591,7 +570,7 @@ I giganti del gelo abitano nelle regioni fredde, dove costruiscono (o conquistan
 
 ### Gigante, Nuvole
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 12+2  
 *Attacchi*: Arma (3d6)  
 *Speciale*: Lancia massi  
@@ -602,7 +581,7 @@ I giganti delle nuvole sono bestie astute, che spesso vivono in castelli di nuvo
 
 ### Gigante, Pietra
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 9  
 *Attacchi*: Mazza (2d6)  
 *Speciale*: Scaglia massi  
@@ -613,7 +592,7 @@ I giganti di pietra abitano nelle caverne, isolati nei pressi delle montagne. La
 
 ### Gigante, Tempesta
 
-*Classe Armatura*: 1 [18]  
+*Classe Armatura*: 18  
 *Dadi Vita*: 16  
 *Attacchi*: Arma (3d6)  
 *Speciale*: Vedi sotto  
@@ -624,7 +603,7 @@ I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, 
 
 ### Gnoll
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 2  
 *Attacchi*: Morso  
 *Speciale*: Nessuna  
@@ -647,7 +626,7 @@ Gli gnomi sono esseri industriosi e pacifici. Abitano per lo più nelle profondi
 
 ### Goblin
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1-1  
 *Attacchi*: Arma  
 *Speciale*: -1 "colpire" alla luce del sole  
@@ -662,7 +641,7 @@ I golem sono creature a forma di uomo costruite per servire i loro padroni, di s
 
 ### Golem, Carne
 
-*Classe Armatura*: 9 [10]  
+*Classe Armatura*: 10  
 *Dadi Vita*: 12  
 *Attacchi*: Pugno (1d6+2)  
 *Speciale*: Vedi sotto  
@@ -673,7 +652,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 
 ### Golem, Ferro
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 13  
 *Attacchi*: Pugno o Arma (3d6)  
 *Speciale*: Vedi sotto  
@@ -684,7 +663,7 @@ I golem di ferro sono enormi statue di ferro in movimento. Possono respirare una
 
 ### Golem, Legno
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 10  
 *Attacchi*: pugno (1d6+2)  
 *Speciale*: Vedi sotto  
@@ -695,7 +674,7 @@ Questi costrutti legnosi sono spesso scambiati per alberi e in genere proteggono
 
 ### Golem, Pietra
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 16  
 *Attacchi*: Pugno (2d6)  
 *Speciale*: Vedi sotto  
@@ -706,7 +685,7 @@ I golem di pietra sono enormi statue di pietra animate da magie molto potenti (m
 
 ### Golem, Vetro
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 9  
 *Attacchi*: Pugno o Arma (1d6)  
 *Speciale*: Vedi sotto  
@@ -717,7 +696,7 @@ Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagl
 
 ### Gorgone
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 8  
 *Attacchi*: Incornata (1d6+1)  
 *Speciale*: Soffio di pietra  
@@ -728,7 +707,7 @@ I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffi
 
 ### Grifone
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 7  
 *Attacchi*: Morso  
 *Speciale*: Volo  
@@ -739,7 +718,7 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 
 ### Hobgoblin
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno  
@@ -750,7 +729,7 @@ Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza sepa
 
 ### Idra
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 5-12 (uguale al numero di teste)  
 *Attacchi*: 5-12 morsi  
 *Speciale*: Vedi sotto  
@@ -761,7 +740,7 @@ Le Idre sono grandi creature simili a lucertole o serpenti con 5-12 teste. Ogni 
 
 ### Inseguitore Invisibile
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 8  
 *Attacchi*: Morso  
 *Speciale*: Volo, invisibilità  
@@ -772,7 +751,7 @@ Gli inseguitori invisibili si trovano generalmente solo come risultato dell'inca
 
 ### Ippogrifo
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3+1  
 *Attacchi*: Artigli  
 *Speciale*: Volo  
@@ -784,7 +763,7 @@ L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le 
 
 ### Kraken
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 15  
 *Attacchi*: Tentacolo (2d6) o Morso (4d6)  
 *Speciale*: Ingoia Tutto  
@@ -799,7 +778,7 @@ I licantropi sono creature mannare, in particolare quelli in cui la malattia per
 
 ### Licantropo, Lupo Mannaro
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3  
 *Attacchi*: Morso o Artiglio  
 *Speciale*: Licantropia  
@@ -810,7 +789,7 @@ I lupi mannari sono i tradizionali licantropi visti nei film horror. Possono ess
 
 ### Licantropo, Orso Mannaro
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 7+3  
 *Attacchi*: Morso (1d6+1)  
 *Speciale*: Licantropia  
@@ -821,7 +800,7 @@ Gli orsi mannari si trovano spesso nelle foreste temperate.
 
 ### Licantropo, Ratto Mannaro
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 3  
 *Attacchi*: Arma  
 *Speciale*: Controllo dei ratti, licantropia  
@@ -832,7 +811,7 @@ I ratti mannari si trovano per lo più nelle città, appostati in vicoli ombrosi
 
 ### Lich
 
-*Classe Armatura*: 0 [19]  
+*Classe Armatura*: 19  
 *Dadi Vita*: 12-18  
 *Attacchi*: Tocco  
 *Speciale*: Vedi sotto  
@@ -843,7 +822,7 @@ I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni delibe
 
 ### Lumaca, Gigante
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 12  
 *Attacchi*: Morso  
 *Speciale*: Sputa acido (2d6)  
@@ -854,7 +833,7 @@ Queste enormi masse di carne viscida e gommosa sono completamente immuni alle ar
 
 ### Manticora
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 6+4  
 *Attacchi*: Morso (1d6+1), o Punte della coda  
 (1d6)  
@@ -866,7 +845,7 @@ Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il c
 
 ### Medusa
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 6  
 *Attacchi*: Morso o arma avvelenata  
 *Speciale*: Sguardo pietrificante  
@@ -877,7 +856,7 @@ Le meduse sono orribili creature della mitologia greca con un volto femminile ma
 
 ### Minotauro
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 6+4  
 *Attacchi*: Arma (1d6+1)  
 *Speciale*: Mai perso nei labirinti  
@@ -888,7 +867,7 @@ Il minotauro è un predatore mangia-uomini della mitologia greca, con la testa d
 
 ### Mummia
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 5+1  
 *Attacchi*: Tocco (vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -899,7 +878,7 @@ Le mummie non possono essere colpite da armi normali e anche le armi magiche inf
 
 ### Melma Grigia
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 3  
 *Attacchi*: Colpo  
 *Speciale*: Vedi sotto  
@@ -914,7 +893,7 @@ La melma verde non è tecnicamente un mostro, solo un rischio estremamente peric
 
 ### Millepiedi, Gigante (piccolo)
 
-*Classe Armatura*: 9 [10]  
+*Classe Armatura*: 10  
 *Dadi Vita*: 1d2 DV  
 *Attacchi*: Morso  
 *Speciale*: Veleno (vedi sotto)  
@@ -925,7 +904,7 @@ I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno
 
 ### Millepiedi, Gigante (medio)
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 2  
 *Attacchi*: Morso  
 *Speciale*: Veleno (vedi sotto)  
@@ -936,7 +915,7 @@ Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti c
 
 ### Millepiedi, Gigante (grande)
 
-*Classe Armatura*: 0 [19]  
+*Classe Armatura*: 19  
 *Dadi Vita*: 4  
 *Attacchi*: Morso  
 *Speciale*: Veleno (vedi sotto)  
@@ -958,7 +937,7 @@ La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se 
 
 ### Nano
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 1+1  
 *Attacchi*: Martello da guerra  
 *Speciale*: Intuizione sulle costruzioni in pietra  
@@ -969,7 +948,7 @@ Le statistiche di cui sopra sono per il nano comune, senza particolari caratteri
 
 ### Ninfa
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 3  
 *Attacchi*: Nessuno  
 *Speciale*: Vedi sotto  
@@ -980,7 +959,7 @@ Le ninfe sono dei Fey che appaiono come donne nude o vestite di foglie di una be
 
 ### Ombra
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 3+3  
 *Attacchi*: Tocco (vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -991,7 +970,7 @@ Le ombre possono essere o meno creature non-morte: sono immuni a Sonno e ad Amma
 
 ### Orchetto
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Nessuna  
@@ -1002,7 +981,7 @@ Gli orchetti sono umanoidi stupidi e brutali che si riuniscono in tribù di cent
 
 ### Orco
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 4+1  
 *Attacchi*: Arma (1d6+2)  
 *Speciale*: Nessuna  
@@ -1013,7 +992,7 @@ Gli orchi sono normalmente abbastanza stupidi, ma si possono incontrare versioni
 
 ### Orco Mago
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 5+4  
 *Attacchi*: Arma (1d6+2)  
 *Speciale*: Magia  
@@ -1024,7 +1003,7 @@ L'orco mago è un orco con poteri magici, basato su una leggenda giapponese: un 
 
 ### Pegaso
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 2+2  
 *Attacchi*: Zoccoli  
 *Speciale*: Volo  
@@ -1035,7 +1014,7 @@ Il pegaso era il cavallo alato della mitologia greca. Altre creature pegaso potr
 
 ### Ragno, Gigante
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 2+2  
 *Attacchi*: Morso (Vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -1046,7 +1025,7 @@ I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono c
 
 ### Ratto, Gigante
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1-1  
 *Attacchi*: Morso  
 *Speciale*: 5% sono malati  
@@ -1057,7 +1036,7 @@ I ratti giganti si trovano spesso nei dungeon e sono grandi quanto un gatto o un
 
 ### Roc
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 12  
 *Attacchi*: Artiglio (1d6+2)  
 *Speciale*: Nessuna  
@@ -1068,18 +1047,18 @@ I roc sono i grandi uccelli mitologici, abbastanza grandi da predare gli elefant
 
 ### Salamandra
 
-*Classe Armatura*: 5 [14], 3 [16]  
+*Classe Armatura*: 14, 16  
 *Dadi Vita*: 7  
 *Attacchi*: Costrizione o tocco  
 *Speciale*: Calore, costrizione  
 *Movimento*: 9  
 *DVE/PE*: 8/800
 
-Le salamandre sono creature intelligenti dei piani elementali del fuoco. Hanno la parte superiore del corpo di un umano (CA 5 [14]) e quella inferiore di un serpente (CA 3 [16]), ed emanano un calore tremendo e intenso. Il solo tocco di una salamandra infligge 1d6 punti ferita di danni da fuoco, ed esse avvolgono le loro code attorno ai nemici per causare altri 2d6 punti di danno da schiacciamento per round. Le salamandre non possono essere asservite allo stesso modo dei djinn e degli efreet.
+Le salamandre sono creature intelligenti dei piani elementali del fuoco. Hanno la parte superiore del corpo di un umano (CA 14) e quella inferiore di un serpente (CA 16), ed emanano un calore tremendo e intenso. Il solo tocco di una salamandra infligge 1d6 punti ferita di danni da fuoco, ed esse avvolgono le loro code attorno ai nemici per causare altri 2d6 punti di danno da schiacciamento per round. Le salamandre non possono essere asservite allo stesso modo dei djinn e degli efreet.
 
 ### Sanguinaccio Nero
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 10  
 *Attacchi*: Colpo  
 *Speciale*: Acido  
@@ -1090,7 +1069,7 @@ I sanguinacci neri sono globi amorfi con una superficie acida. Sono predatori e 
 
 ### Scarabeo, di Fuoco Gigante
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 1+3  
 *Attacchi*: Morso  
 *Speciale*: Nessuna  
@@ -1101,7 +1080,7 @@ Le ghiandole luminose oleose di uno scarabeo di fuoco gigante brillano di rosso 
 
 ### Scheletro
 
-*Classe Armatura*: 8 [11], 7 [12] con scudo  
+*Classe Armatura*: 11, 12 con scudo  
 *Dadi Vita*: 1/2  
 *Attacchi*: Colpo o arma  
 *Speciale*: Nessuna  
@@ -1112,7 +1091,7 @@ Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo 
 
 ### Segugio Infernale
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 4-7  
 *Attacchi*: Morso  
 *Speciale*: Respira fuoco  
@@ -1123,7 +1102,7 @@ I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltr
 
 ### Serpente Marino
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 30  
 *Attacchi*: Morso (3d6)  
 *Speciale*: Vedi sotto  
@@ -1134,7 +1113,7 @@ La dimensione e la natura dei serpenti marini è una questione che spetta all'Ar
 
 ### Sidhe
 
-*Classe Armatura*: 3 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 5  
 *Attacchi*: Lama Fey (2d6)  
 *Speciale*: Vedi sotto  
@@ -1145,7 +1124,7 @@ Gli Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mort
 
 ### Spettro
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 6  
 *Attacchi*: Tocco (vedi sotto)  
 *Speciale*: Drena 2 livelli per colpo  
@@ -1156,7 +1135,7 @@ Gli spettri sono creature non-morte incorporee. Quando uno spettro colpisce un a
 
 ### Stirge
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 1-1  
 *Attacchi*: Pungiglione (1d6-1)  
 *Speciale*: Succhiare Sangue  
@@ -1167,7 +1146,7 @@ Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le 
 
 ### Treant
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 7-12  
 *Attacchi*: Colpo  
 *Speciale*: Controllo degli alberi 
@@ -1179,7 +1158,7 @@ I treant sono protettori e "pastori" degli alberi della foresta. A seconda della
 
 ### Troll
 
-*Classe Armatura*: 4 [15]  
+*Classe Armatura*: 15  
 *Dadi Vita*: 6+3  
 *Attacchi*: Artiglio (1d6+2)  
 *Speciale*: Rigenerazione  
@@ -1194,7 +1173,7 @@ Gli umani sono una razza così versatile tanto da poter creare qualsiasi numero 
 
 ### Umano, Bandito
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno  
@@ -1205,7 +1184,7 @@ I banditi sono gruppi di ladri erranti, a volte organizzati in piccole bande gui
 
 ### Umano, Berserker
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1+2  
 *Attacchi*: Arma  
 *Speciale*: Berserking  
@@ -1216,7 +1195,7 @@ I Berserker sono esseri umani normali, ma combattono con una ferocia sbalorditiv
 
 ### Umano, Sergente d'armi
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3  
 *Attacchi*: Arma  
 *Speciale*: Nessuna  
@@ -1227,7 +1206,7 @@ I sergenti umani si trovano normalmente al comando di 1d6+5 soldati umani. Sono 
 
 ### Umano, Campione
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno  
@@ -1238,7 +1217,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 
 ### Unicorno
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 4  
 *Attacchi*: Zoccolo o corno  
 *Speciale*: Vedi sotto  
@@ -1249,7 +1228,7 @@ Gli unicorni sono creature generalmente timide e benevole, che permetteranno sol
 
 ### Uomo Lucertola
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 2+1  
 *Attacchi*: Artiglio o spada  
 *Speciale*: Vedi sotto  
@@ -1260,7 +1239,7 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 
 ### Vampiro
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 7-9  
 *Attacchi*: Morso (Vedi sotto)  
 *Speciale*: Vedi sotto  
@@ -1275,7 +1254,7 @@ Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per e
 
 ### Verme Viola
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 15  
 *Attacchi*: Morso (2d6) o pungiglione  
 *Speciale*: Pungiglione velenoso  
@@ -1288,7 +1267,7 @@ Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo qu
 
 ### Viverna
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 7  
 *Attacchi*: Morso o pungiglione  
 *Speciale*: Volo, pungiglione velenoso  
@@ -1299,7 +1278,7 @@ Una viverna ha la forma di drago a due zampe e queste creature sono più piccole
 
 ### Worg
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 4  
 *Attacchi*: Morso  
 *Speciale*: Nessuna  
@@ -1310,7 +1289,7 @@ I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati
 
 ### Zombie
 
-*Classe Armatura*: 8 [11], 7 [12] con scudo  
+*Classe Armatura*: 11, 12 con scudo  
 *Dadi Vita*: 1  
 *Attacchi*: Colpo o arma  
 *Speciale*: Immune a Sonno e Ammaliare  

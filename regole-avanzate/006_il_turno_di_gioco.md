@@ -14,18 +14,18 @@ parent: Regole Avanzate
 {:toc}
 </details>
 
-*La Scatola Bianca* è un gioco di avventura e l'attività primaria nelle avventure è l'esplorazione. Anche se le regole per il combattimento coprono una parte rilevante, il gioco tende a concentrarsi più sull'esplorazione che sul combattimento. Che il gruppo stia indagando su un vecchio santuario in rovina, esplorando una miniera dei nani abbandonata, attraversando una zona selvaggia sconosciuta, navigando in acque inesplorate o librandosi nei cieli, l'esplorazione è centrale per l'avventura e quindi per il gioco.
+*L'Infausta Scatola* è un gioco di avventura e l'attività primaria nelle avventure è l'esplorazione. Anche se le regole per il combattimento coprono una parte rilevante, il gioco tende a concentrarsi più sull'esplorazione che sul combattimento. Che il gruppo stia indagando su un vecchio santuario in rovina, esplorando una miniera dei nani abbandonata, attraversando una zona selvaggia sconosciuta, navigando in acque inesplorate o librandosi nei cieli, l'esplorazione è centrale per l'avventura e quindi per il gioco.
 
 Sebbene l'esplorazione tenda ad essere risolta in modo più sciolto e libero rispetto al combattimento, dove la descrizione e la negoziazione sono centrali e le regole predefinite hanno un ruolo di secondo piano, ci sono comunque alcune procedure standard che aiuteranno l'Arbitro a risolvere queste attività in modo efficiente.
 
 ### Perlustrare un Dungeon
-Molte avventure della *La Scatola Bianca* coinvolgeranno i personaggi nell'esplorazione di qualche area chiusa, che siano i sotterranei sotto un castello o un tempio, un sistema di grotte e caverne naturali, una miniera abbandonata, le fogne sotto una città, una fortezza nemica, la torre di un mago o un santuario a qualche dio oscuro. Per comodità, e per tradizione, questi luoghi chiusi sono chiamati collettivamente "dungeon", che quindi si riferisce non solo ad un insieme di tunnel artificiali ma a qualsiasi luogo di avventura al chiuso. Dato che le avventure di questo tipo hanno caratteristiche simili lo stesso insieme di procedure e meccaniche di risoluzione suggerite si applica alla maggior parte di esse.
+Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'esplorazione di qualche area chiusa, che siano i sotterranei sotto un castello o un tempio, un sistema di grotte e caverne naturali, una miniera abbandonata, le fogne sotto una città, una fortezza nemica, la torre di un mago o un santuario a qualche dio oscuro. Per comodità, e per tradizione, questi luoghi chiusi sono chiamati collettivamente "dungeon", che quindi si riferisce non solo ad un insieme di tunnel artificiali ma a qualsiasi luogo di avventura al chiuso. Dato che le avventure di questo tipo hanno caratteristiche simili lo stesso insieme di procedure e meccaniche di risoluzione suggerite si applica alla maggior parte di esse.
 
 **Ordine di gioco**: Durante l'esplorazione in un dungeon, ogni turno viene risolto separatamente. L'ordine degli eventi in un turno di gioco è il seguente:
 
 1. **Controllo dei mostri erranti**: Ogni sei turni l'Arbitro tira per vedere se si incontrano mostri erranti (tipicamente 1 su 6).
 2. **Dichiarare l'azione**: Ogni giocatore descrive l'attività dei vari membri del gruppo, che vengono risolti come appropriato dall'Arbitro:
-    - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 di *La Scatola Bianca*);
+    - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 di *L'Infausta Scatola*);
     - **Ascoltare i rumori**: 1 turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
     - **Aprire una porta bloccata o chiusa a chiave**: 1 round per tentativo, 2 probabilità di successo su 6.
     - **Cercare trappole**: 1-4 round per tentativo, possibilità di successo determinata dalla razza (nano), classe (ladro o assassino) o negoziazione verbale in forma libera (a discrezione dall'Arbitro);

@@ -14,7 +14,7 @@ parent: Regole Avanzate
 {:toc}
 </details>
 
-Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necessario adattarle alla propria campagna.
+Le seguenti tabelle sono utili esempi di tabelle casuali che possono aiutare l'Arbitro a creare materiale d'avventura. Queste tabelle sono utili già così come sono, ma potrebbe essere necessario adattarle alla propria campagna.
 
 ## Dungeon al volo
 

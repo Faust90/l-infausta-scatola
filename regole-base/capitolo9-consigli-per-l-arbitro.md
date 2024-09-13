@@ -1,8 +1,8 @@
 ---
-nav_order: 12
-parent: Regole Avanzate
+nav_order: 9
+parent: Regole Base
 ---
-# Capitolo 11: Consigli per l'Arbitro
+# Capitolo 9: Consigli per l'Arbitro
 {: .no_toc }
 
 <details markdown="block">

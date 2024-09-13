@@ -14,7 +14,7 @@ parent: Regole Avanzate
 {:toc}
 </details>
 
-*La Scatola Bianca* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più dettagliate.
+*L'Infausta Scatola* contiene le regole di base per l'esplorazione delle Terre Selvagge. Per i gruppi di giocatori che volessero approfondire questo aspetto del gioco, questo capitolo fornisce regole più dettagliate.
 
 ### Determinare il terreno
 

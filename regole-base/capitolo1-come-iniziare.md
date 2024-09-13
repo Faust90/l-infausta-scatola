@@ -27,7 +27,7 @@ La regola più importante di *L'Infausta Scatola* è che l'Arbitro ha l'ultima p
 ### Schede Personaggio
 
 Una scheda Personaggio è un foglio di carta pensato per organizzare e contenere quasi tutte le informazioni necessarie del PG, a beneficio sia dell'Arbitro che del Giocatore.
-Per *La Scatola Bianca*, il foglio del personaggio può essere una cosa molto semplice, come un cartoncino formato A7, con equipaggiamento e incantesimi scritti sul retro.
+Per *L'Infausta Scatola*, il foglio del personaggio può essere una cosa molto semplice, come un cartoncino formato A7, con equipaggiamento e incantesimi scritti sul retro.
 
 ## Attributi
 
@@ -37,7 +37,7 @@ Alcuni Arbitri permettono una maggiore flessibilità (come opzione): un esempio 
 
 ### Modificatore di attributo
 
-La Scatola Bianca non fornisce molti modificatori per la gamma di punteggi degli attributi. Potete modificare il gioco per cambiare l'effetto che questi punteggi generano. La Tabella 1 fornisce la scala standard e gli effetti per i punteggi degli attributi. Sentitevi liberi di cambiare i valori. Per esempio, se preferite che il "Medio" rappresenti l'intervallo 9-12, modificate la tabella.
+L'Infausta Scatola non fornisce molti modificatori per la gamma di punteggi degli attributi. Potete modificare il gioco per cambiare l'effetto che questi punteggi generano. La Tabella 1 fornisce la scala standard e gli effetti per i punteggi degli attributi. Sentitevi liberi di cambiare i valori. Per esempio, se preferite che il "Medio" rappresenti l'intervallo 9-12, modificate la tabella.
 
 #### Tabella 1: Bonus Attributi
 

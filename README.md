@@ -3,7 +3,7 @@
 
 ## Gioco fantasy medievale d'avventura
 
-Benvenuti nel repository del testo sorgente di **L' Infausta Scatola***, una hack de *La Scatola Bianca*.
+Benvenuti nel repository del testo sorgente di **L' Infausta Scatola***, una hack de *L'Infausta Scatola*.
 
 ## Licenza aperta
 
@@ -12,11 +12,11 @@ Il testo è completamente rilasciato sotto Open Gaming License, questo significa
 1. È possibile effettuare il fork di questo repository per uso personale
 2. È possibile usare il testo per confezionare un layout personalizzato e metterlo persino in commercio
 3. È possibile usare il testo come base per i vostri giochi
-4. È possibile pubblicare materiale di gioco, espansioni, ambientazioni, regole, razze aggiuntive e così via, usando parti del testo e dichiarandoli compatibili con *La Scatola Bianca*. Questi prodotti possono essere distribuiti sia gratuitamente che a pagamento.
+4. È possibile pubblicare materiale di gioco, espansioni, ambientazioni, regole, razze aggiuntive e così via, usando parti del testo e dichiarandoli compatibili con *L'Infausta Scatola*. Questi prodotti possono essere distribuiti sia gratuitamente che a pagamento.
 
 a condizione che:
 1. sia mantenuto e riportato integralmente la Licenza OGL qui sotto, comprensiva della COPYRIGHT NOTICE, anche nei prodotti derivati. Il testo della OGL deve essere riportato in versione originale, non tradotto o alterato ed è proprietà della Wizard of the Coast;
-2. se il prodotto dichiara la compatibilità con *La Scatola Bianca* deve essere dichiarato: *Questo prodotto è una pubblicazione indipendente di [nome autore/editore] e non è affiliato con l'Italian Translation Alliance*.
+2. se il prodotto dichiara la compatibilità con *L'Infausta Scatola* deve essere dichiarato: *Questo prodotto è una pubblicazione indipendente di [nome autore/editore] e non è affiliato con l'Italian Translation Alliance*.
 
 Nel caso siano rispettate le condizioni sopra riportate è possibile utilizzare il **logo di compatibilità** disponibile [QUI](/assets/img/lsb_logo_compatibilità.png). Il logo utilizza un'[icona](https://game-icons.net/1x1/lorc/wyvern.html) di [Lorc](https://lorcblog.blogspot.com/) rilasciata sotto licenza CC-BY 3..0
 

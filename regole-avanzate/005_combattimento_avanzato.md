@@ -14,7 +14,7 @@ parent: Regole Avanzate
 {:toc}
 </details>
 
-Le regole di combattimento di *La Scatola Bianca* sono astratte e pensate per risoluzioni rapide. In questo capitolo sono presentate alcune opzioni aggiuntive per il combattimento corpo a corpo e si dettagliano le regole per i combattimenti marittimi e aerei
+Le regole di combattimento di *L'Infausta Scatola* sono astratte e pensate per risoluzioni rapide. In questo capitolo sono presentate alcune opzioni aggiuntive per il combattimento corpo a corpo e si dettagliano le regole per i combattimenti marittimi e aerei
 
 ### Parare
 Un difensore può rinunciare al suo attacco per parare e far subire all'avversario una penalità di -4 all'attacco. Se il suo avversario manca a causa di questa penalità, l'arma del difensore sarà strappata dalla sua presa da un'arma più pesante. Se, invece, il suo avversario manca indipendentemente da questa penalità, il difensore può contrattaccare se è dotato di un'arma più leggera.

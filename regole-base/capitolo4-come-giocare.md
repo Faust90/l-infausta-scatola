@@ -19,18 +19,59 @@ Ogni Classe Personaggio ha un Attributo Primario indicato nella sua descrizione 
 
 L'Arbitro dovrà stabilire delle regole generali sul passaggio del tempo nel corso di una campagna (per esempio: "Qualche ora dopo...") e dovrebbe essere guidato dal buon senso. Ci sono, comunque, due importanti misure di tempo che meritano una breve definizione: il "turno" e il "round di combattimento". Un turno (della durata di dieci minuti) è usato per tracciare e misurare azioni, movimenti e risorse quando gli intrepidi avventurieri sono in luoghi pericolosi. Il round di combattimento (della durata di un minuto) rappresenta la concitazione della battaglia.
 
+### Perlustrare un Dungeon
+Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'esplorazione di qualche area chiusa, che siano i sotterranei sotto un castello o un tempio, un sistema di grotte e caverne naturali, una miniera abbandonata, le fogne sotto una città, una fortezza nemica, la torre di un mago o un santuario a qualche dio oscuro. Per comodità, e per tradizione, questi luoghi chiusi sono chiamati collettivamente "dungeon", che quindi si riferisce non solo ad un insieme di tunnel artificiali ma a qualsiasi luogo di avventura al chiuso. Dato che le avventure di questo tipo hanno caratteristiche simili lo stesso insieme di procedure e meccaniche di risoluzione suggerite si applica alla maggior parte di esse.
+
+**Ordine di gioco**: Durante l'esplorazione in un dungeon, ogni turno viene risolto separatamente. L'ordine degli eventi in un turno di gioco è il seguente:
+
+1. **Controllo dei mostri erranti**: Ogni sei turni l'Arbitro tira per vedere se si incontrano mostri erranti (tipicamente 1 su 6).
+2. **Dichiarare l'azione**: Ogni giocatore descrive l'attività dei vari membri del gruppo, che vengono risolti come appropriato dall'Arbitro:
+    - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 di *L'Infausta Scatola*);
+    - **Ascoltare i rumori**: 1 turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
+    - **Aprire una porta bloccata o chiusa a chiave**: 1 round per tentativo, 2 probabilità di successo su 6.
+    - **Cercare trappole**: 1-4 round per tentativo, possibilità di successo determinata dalla razza (nano), classe (ladro o assassino) o negoziazione verbale in forma libera (a discrezione dall'Arbitro);
+    - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 turno per ogni stanza o area di 20 piedi×20 piedi;
+    - **Esaminare a fondo e cercare porte segrete**: 1 turno per ogni area di 10×10 piedi, 2 probabilità di successo su 6 (4 su 6 per elfi);
+    - **Lanciare un incantesimo**: vedere le descrizioni specifiche degli incantesimi per i tempi di lancio e gli effetti;
+    - **Riposare**: tipicamente 1 turno ogni 6 deve essere speso a riposare, più 1 turno dopo ogni combattimento  (cioè nessun movimento o altra attività faticosa);
+    - **Altre attività**: durata del tentativo e probabilità di successo determinate e risolte specificamente dall'Arbitro.
+3. **Incontri**: Se si verifica un incontro (sia con un mostro errante che con un incontro pianificato), l'Arbitro determina la sorpresa, la distanza, le reazioni e risolve l'incontro normalmente (tramite negoziazione, fuga o combattimento).
+4. **Registrazione**: L'Arbitro registra che è trascorso un turno e tutte le risorse che il gruppo ha utilizzato (punti ferita persi, durata degli incantesimi che scade, torce che si bruciano e così via).
+
+Poiché ogni turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso turno, per esempio. Le azioni più lunghe possono richiedere diversi turni per essere risolte (come fare una perlustrazione di un muro di 500 piedi quadrati) e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
+
+### Esplorare le Terre Selvagge
+L'unità di tempo di base per l'esplorazione della natura è il giorno. È una buona idea, se possibile, che l'Arbitro utilizzi una carta contrassegnata da una griglia esagonale ("carta esagonale") per pre-disegnare le mappe della regione selvaggia prima che i giocatori la esplorino.
+
+**Ordine di gioco**: Quando si inizia una sessione, ogni giorno dovrebbe essere risolto separatamente. L'ordine degli eventi è il seguente:
+
+1. **Inizio**: L'Arbitro avvisa il gruppo delle condizioni meteorologiche prevalenti e il gruppo decide da che parte andare.
+2. **Navigazione**: L'Arbitro controlla in segreto per determinare se il gruppo si è perso.
+3. **Controllare i mostri erranti**: Normalmente l'Arbitro dovrebbe fare due controlli ogni giorno e un terzo controllo di notte (riferirsi alla Tabella 34 Perdersi e Incontri delle regole base).
+4. **Movimento e azione**: I membri del gruppo si muovono, compiono azioni stazionarie o entrambe.
+5. **Incontro**: Qualsiasi incontro viene risolto.
+6. **Accamparsi**: L'Arbitro indica quali opzioni ha il gruppo per accamparsi. 
+
+    Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 o -10% sui punteggi di abilità, sui tiri per colpire, sui tiri per danni e sui tiri salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
+
+    Gli avventurieri di buon senso stabiliranno un turno di guardia durante la notte, con diversi personaggi che faranno a turno per garantire la sicurezza dei dormienti.
+
+7. **Controllare i mostri erranti**: L'Arbitro tira di nuovo per i mostri erranti e inizia l'incontro che eventualmente ne risulta.
+
+Nelle scale di tempo consentite per le avventure nelle Terre Selvagge, la maggior parte delle azioni statiche richiede un tempo trascurabile, quindi, come regola generale, un personaggio giocante può combinare molte azioni statiche con una normale mossa.
+
 ### Movimento
 
 La velocità di movimento base per tutte le razze è calcolata sulla tabella sottostante in decine di piedi per turno, permettendo due mosse per turno. 
 
-#### Tabella 15: Tasso di Movimento
+#### Tabella 15: Velocità base
 
-| Peso Portato (lb.) | **Elfo/Umano** | **Nano/Halfling** |
-| :----------------: | :------------: | :---------------: |
-|        0-75        |       12       |         9         |
-|       76-100       |       9        |         6         |
-|      101-150       |       6        |         3         |
-|      151-300       |       3        |         3         |
+| Peso Portato (lb.) | **Umani** | **Dvergar/Silvano** |
+| :----------------: | :-------: | :-----------------: |
+|        0-75        |   120'    |         90'         |
+|       76-100       |    90'    |         60'         |
+|      101-150       |    60'    |         30'         |
+|      151-300       |    30'    |         15'         |
 
 Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
@@ -38,12 +79,12 @@ Il movimento di combattimento si usa quando i personaggi sono impegnati in comba
 
 #### Tabella 16: Adeguamenti al Tasso di Movimento
 
-| Tipo Movimento |         **Adeguamento**          |
-| :------------: | :------------------------------: |
-|    Attento     | Metà della velocità di movimento |
-| Combattimento  | 1/3 della velocità di movimento  |
-|     Corsa      |    Tasso di movimento doppio     |
-|    Normale     |      Velocità di movimento       |
+| Tipo Movimento |      **Adeguamento**       |
+| :------------: | :------------------------: |
+|    Attento     |  Metà della Velocità base  |
+| Combattimento  |  1/3 della Velocità base   |
+|     Corsa      | Doppio della Velocità base |
+|    Normale     |       Velocità base        |
 
 ### Movimento all'aperto
 
@@ -76,7 +117,7 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'Arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Tutte le parti fanno una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
 3\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 
@@ -134,13 +175,13 @@ Se c'è incertezza sul morale dei PNG o dei mostri, la tabella in questo paragra
 
 #### Tabella 20: Prova di Morale
 
-| **Tiro (2d6)** |                 **Morale**                 |
-| :------------: | :----------------------------------------: |
-|    2 o meno    |                    Resa                    |
-|      3-5       |                    Fuga                    |
-|      6-8       |      Combatte per mantenere posizione      |
-|      9-11      | Combatte aggressivamente e inseguendo i PG |
-|       12       |   Combatte fanaticamente fino alla morte   |
+| **Tiro (2d6)** |                  **Morale**                  |
+| :------------: | :------------------------------------------: |
+|    2 o meno    |                     Resa                     |
+|      3-5       |                     Fuga                     |
+|      6-8       |       Combatte per mantenere posizione       |
+|      9-11      | Combatte inseguendo i PG per un breve tratto |
+|       12       |    Combatte fanaticamente fino alla morte    |
 
 ### Negoziazione e diplomazia
 
@@ -150,7 +191,7 @@ Alcuni combattimenti possono essere evitati con poche parole ben scelte (persino
 
 Una giostra è una gara in cui due combattenti si affrontano brandendo delle lance. L'obiettivo è quello di stabilire un contatto con l'armatura o lo scudo dell'avversario che sia abbastanza forte da rompere la lancia o da disarcionare effettivamente l'avversario.
 
-La giostra, come sport, consisteva in tre tornei. In *La Scatola Bianca*, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
+La giostra, come sport, consisteva in tre tornei. In *L'Infausta Scatola*, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
 
 Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni per la caduta.
 
@@ -198,4 +239,4 @@ Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di e
 
 ### Ricordate
 
-*La Scatola Bianca* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se essi non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.
+*L'Infausta Scatola* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se essi non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.

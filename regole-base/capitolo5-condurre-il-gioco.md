@@ -5,13 +5,13 @@ parent: Regole Base
 
 # Capitolo 5: Condurre il Gioco
 
-Condurre una partita di *La Scatola Bianca* è molto più semplice che gestire la maggior parte degli altri giochi di ruolo. Il motivo è che non contiene così tante regole e il vostro giudizio le oltrepasserà in ogni caso. La maggior parte delle situazioni sono gestite prendendo decisioni di buon senso riguardo a ciò che può accadere.
+Condurre una partita di *L'Infausta Scatola* è molto più semplice che gestire la maggior parte degli altri giochi di ruolo. Il motivo è che non contiene così tante regole e il vostro giudizio le oltrepasserà in ogni caso. La maggior parte delle situazioni sono gestite prendendo decisioni di buon senso riguardo a ciò che può accadere.
 
 Per esempio: i giocatori stanno combattendo con un gruppo di orchi e il guerriero vuole farne inciampare uno. Sta all'Arbitro decidere cosa debba fare il guerriero o quanto debba tirare per avere successo. Se il Giocatore decide che il suo personaggio sta per saltare attraverso un muro di fiamme, con svariate fiasche di olio infiammabile nel suo zaino, sta all'Arbitro determinare se esploderanno o meno.
 
 Questo significa inventarsi un sacco di cose sul momento. Se non siete dei bravi narratori o non siete abituati a pensare creativamente al volo, sarebbe meglio se provaste prima qualche altro gioco — uno che fornisca più regole e indicazioni per ogni situazione che potrebbe emergere. Ma se siete dei buoni narratori, creativi ed equi, il piccolo e spartano insieme di regole della *Scatola Bianca* libererà la vostra creatività per concretizzare un'esperienza di gioco di ruolo fantasy, completamente differente dal tipo di giochi che si basano su molte più regole. 
 
-*La Scatola Bianca* libererà la vostra creatività anche in termini di personalizzazione del gioco. A differenza di regolamenti più complessi, potete aggiungere regole della casa ovunque vogliate senza sbilanciare accidentalmente qualcosa sepolto da qualche altra parte nelle regole. Se volete usare i colpi o i fallimenti critici, aggiungeteli. Non romperete nulla — perché non c'è molto da rompere!
+*L'Infausta Scatola* libererà la vostra creatività anche in termini di personalizzazione del gioco. A differenza di regolamenti più complessi, potete aggiungere regole della casa ovunque vogliate senza sbilanciare accidentalmente qualcosa sepolto da qualche altra parte nelle regole. Se volete usare i colpi o i fallimenti critici, aggiungeteli. Non romperete nulla — perché non c'è molto da rompere!
 
 ### Preparare Un'Avventura
 L'"avventura" è solo l'ambientazione per il gioco — solitamente una mappa e delle note riguardo certe località sulla mappa. Mano a mano che i giocatori vi diranno dove andranno i loro personaggi e che cosa faranno, farete riferimento alla mappa e alle vostre note per descrivere cosa succederà come conseguenza. Non provate a pianificare tutte le circostanze — è garantito che i giocatori faranno qualcosa di inaspettato durante l'avventura e dovrete improvvisare, pensando su due piedi e inventando nuove cose al volo. Come voi sfidate i giocatori con l'avventura, essi sfidano voi a stare al passo con la loro creatività collettiva.

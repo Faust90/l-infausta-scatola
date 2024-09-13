@@ -24,7 +24,7 @@ Di seguito sono presentati tutti i mostri aggiuntivi in ordine alfabetico. Dove 
 
 ### Androide
 
-*Classe Armatura*: 9 [10]  
+*Classe Armatura*: 10  
 *Dadi Vita*: 2  
 *Attacchi*: Arma (1d6+1)  
 *Speciale*: Poteri mentali (vedi sotto)  
@@ -35,7 +35,7 @@ Gli androidi sono uomini artificiali. Spesso hanno qualità superiori come la sa
 
 ### Calamaro, Gigante
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 6  
 *Attacchi*: Tentacoli (vedi sotto)  
 *Speciale*: Nube d'inchiostro (vedi sotto)   
@@ -46,7 +46,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 
 ### Cane
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1  
 *Attacchi*: Artigli/morso (1d6-1)  
 *Speciale*: Nessuno   
@@ -57,7 +57,7 @@ I cani sono animali da branco dal naso acuto che abitano le pianure e le prateri
 
 ### Cavernicolo
 
-*Classe Armatura*: 9 [10]  
+*Classe Armatura*: 10  
 *Dadi Vita*: 2  
 *Attacchi*: Arma  
 *Speciale*: Nessuno   
@@ -68,7 +68,7 @@ I cavernicoli sono grandi ma primitivi tipi di Neanderthal che sono altrimenti s
 
 ### Ciclope
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 16  
 *Attacchi*: Mazza (vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -79,7 +79,7 @@ I ciclopi sono giganti alti 20 piedi con un solo grande occhio che causa una sca
 
 ### Cinghiale
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1+2  
 *Attacchi*: Zanne  
 *Speciale*: Nessuno   
@@ -90,7 +90,7 @@ I cinghiali sono maiali selvatici che si trovano nelle foreste e nelle pianure. 
 
 ### Cinghiale, Gigante
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 7  
 *Attacchi*: Zanne (2d6) 
 *Speciale*: Vedi sotto   
@@ -101,7 +101,7 @@ I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande 
 
 ### Coccodrillo
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 3  
 *Attacchi*: Fauci (1d6+2)  
 *Speciale*: Vedi sotto   
@@ -112,7 +112,7 @@ I coccodrilli sono rettili voraci che si trovano nei fiumi e nelle paludi delle 
 
 ### Coccodrillo, Gigante
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 7  
 *Attacchi*: Fauci (2d6)  
 *Speciale*: Vedi sotto   
@@ -123,7 +123,7 @@ I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma pe
 
 ### Cyborg
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 3+3  
 *Attacchi*: Arma (1d6+2)  
 *Speciale*: Vedi sotto   
@@ -138,7 +138,7 @@ I dinosauri sono grandi esseri preistorici e possono essere avversari temibili. 
 
 ### Dinosauro, Brontosauro
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 32  
 *Attacchi*: Colpo (3d6)  
 *Speciale*: Vedi sotto   
@@ -150,7 +150,7 @@ Fortunatamente, sono erbivori pacifici e difficilmente attaccano se non provocat
 
 ### Dinosuaro, Deinonychus
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 4  
 *Attacchi*: Artigli  
 *Speciale*: Vedi sotto   
@@ -161,7 +161,7 @@ I Deinonychus comprendono tutti i carnivori relativamente piccoli che cacciano i
 
 ### Dinosauro, Mosasauro
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 14  
 *Attacchi*: Pinne, fauci (3d6)  
 *Speciale*: Vedi sotto  
@@ -172,7 +172,7 @@ I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste l
 
 ### Dinosauro, Pterodattilo
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 2-7  
 *Attacchi*: Becco, artigli(1d6+2)  
 *Speciale*: Vedi sotto   
@@ -183,29 +183,29 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 ### Dinosauro, Stegosauro
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 17, /14  
 *Dadi Vita*: 8  
 *Attacchi*: Coda (2d6/3d6 vedi sotto)  
 *Speciale*: Vedi sotto  
 *Movimento*: 6  
 *DVE/PE*: 8/800
 
-Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 piedi e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 2 [17] contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe 2 piedi sulla coda che colpiscono per 2-12 punti di danno al fianco o alla parte posteriore; altrimenti, il danno è di 3-8 punti di danno.
+Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 piedi e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 17 contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe 2 piedi sulla coda che colpiscono per 2-12 punti di danno al fianco o alla parte posteriore; altrimenti, il danno è di 3-8 punti di danno.
 
 ### Dinosauro, Triceratopo
 
-*Classe Armatura*: 2 [17], 5 [/14]  
+*Classe Armatura*: 17, /14  
 *Dadi Vita*: 16  
 *Attacchi*: Corna (2d6)  
 *Speciale*: Vedi sotto  
 *Movimento*: 9  
 *DVE/PE*: 16/3.200
 
-I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minaccia al branco. Sono lunghi fino a 30 piedi e alti 10 piedi e possono pesare fino a 10 tonnellate. Un triceratopo ha un enorme cranio con un caratteristico bordo osseo e tre grandi corna che garantiscono CA 2 [17] dal davanti. Se carica un nemico, infligge 4-24 punti di danno; altrimenti, il danno è di 2-12 punti di danno.
+I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minaccia al branco. Sono lunghi fino a 30 piedi e alti 10 piedi e possono pesare fino a 10 tonnellate. Un triceratopo ha un enorme cranio con un caratteristico bordo osseo e tre grandi corna che garantiscono CA 17 dal davanti. Se carica un nemico, infligge 4-24 punti di danno; altrimenti, il danno è di 2-12 punti di danno.
 
 ### Dinosauro, Tyrannosaurus Rex
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 20  
 *Attacchi*: Zanne (4d6)  
 *Speciale*: Vedi sotto  
@@ -216,7 +216,7 @@ I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili
 
 ### Donnola, Gigante
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 2  
 *Attacchi*: Morso  
 *Speciale*: Vedi sotto  
@@ -227,7 +227,7 @@ Le donnole giganti sono astuti cacciatori abili a muoversi in branchi agguerriti
 
 ### Formica, Gigante
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 2  
 *Attacchi*: Fauci  
 *Speciale*: Vedi sotto  
@@ -238,7 +238,7 @@ Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano 
 
 ### Granchio, Gigante
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 3  
 *Attacchi*: Chele (due attacchi)  
 *Speciale*: Nessuno  
@@ -249,7 +249,7 @@ I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. 
 
 ### Halfling
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1  
 *Attacchi*: Arma (1d6-1)  
 *Speciale*: Vedi sotto   
@@ -260,7 +260,7 @@ Gli halfling sono un popolo piccolo e pacifico interessato principalmente alle c
 
 ### Juggernaut
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 37  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
@@ -275,7 +275,7 @@ Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5-30 pun
 
 ### Leone
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5+2  
 *Attacchi*: Fauci, artigli (1d6+1/2d6)  
 *Speciale*: Nessuno  
@@ -286,7 +286,7 @@ I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da 
 
 ### Leone, Maculato
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 6+2  
 *Attacchi*: Fauci, artigli (1d6+2/2d6+2)  
 *Speciale*: Vedi sotto  
@@ -297,7 +297,7 @@ I leoni maculati sono simili ai leoni normali, tranne che sono più grandi e si 
 
 ### Lucertole, Grandi e Giganti
 
-*Classe Armatura*: 5 [14], 8 [11]  
+*Classe Armatura*: 14, 11  
 *Dadi Vita*: ½, 3+1  
 *Attacchi*: Morso (vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -308,7 +308,7 @@ Si trovano in climi deserto e giungla. Le lucertole grandi possono essere fino a
 
 ### Lupo
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1  
 *Attacchi*: Artigli, fauci  
 *Speciale*: Nessuno   
@@ -319,7 +319,7 @@ I lupi si trovano principalmente nelle regioni fredde e cacciano in branco.
 
 ### Mammut lanosi
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 13  
 *Attacchi*: Zanne (3d6)  
 *Speciale*: Immunità al freddo   
@@ -330,7 +330,7 @@ I mammut lanosi sono mammiferi enormi, pelosi e simili a elefanti che si trovano
 
 ### Mastodonte
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 12  
 *Attacchi*: Carica (2d6+2)  
 *Speciale*: Nessuno   
@@ -341,7 +341,7 @@ I mastodonti sono proto-elefanti che si incontrano nelle pianure aperte in quals
 
 ### Nixie
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1-1  
 *Attacchi*: Arma (1d6-1)  
 *Speciale*: Vedi sotto   
@@ -354,7 +354,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 
 ### Orso
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5+5  
 *Attacchi*: Zampe (1d6+2/2d6+2)  
 *Speciale*: Nessuno   
@@ -365,7 +365,7 @@ Gli orsi sono onnivori ma favoriscono la carne. Hanno una vista piuttosto scarsa
 
 ### Orso, delle Caverne
 
-*Classe Armatura*: 6 [13] 
+*Classe Armatura*: 13 
 *Dadi Vita*: 6+6  
 *Attacchi*: Artigli (2d6-1/3d6)  
 *Speciale*: Nessuno   
@@ -387,7 +387,7 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 
 ### Pipistrello
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: ½  
 *Attacchi*: Morso (1d6-1)  
 *Speciale*: Nessuno   
@@ -398,7 +398,7 @@ I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono per lo
 
 ### Pipistrello, Gigante
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 4  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
@@ -409,7 +409,7 @@ I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da so
 
 ### Pixie
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1-1  
 *Attacchi*: Arma  
 *Speciale*: Vedi sotto   
@@ -420,7 +420,7 @@ I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a me
 
 ### Ragno, Grande e Gigante
 
-*Classe Armatura*: 5 [14], 8 [11]  
+*Classe Armatura*: 14, 11  
 *Dadi Vita*: ½, 4+4  
 *Attacchi*: Morso  
 *Speciale*: Ragnatela   
@@ -431,7 +431,7 @@ I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le 
 
 ### Ratto, Gigante
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: ½  
 *Attacchi*: Morso (vedi sotto)  
 *Speciale*: Malattia (vedi sotto)   
@@ -442,7 +442,7 @@ I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in pic
 
 ### Rinoceronte lanoso
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 10  
 *Attacchi*: Carica (2d6+2)  
 *Speciale*: Nessuno   
@@ -453,7 +453,7 @@ I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si 
 
 ### Robot
 
-*Classe Armatura*: 3 [16]  
+*Classe Armatura*: 16  
 *Dadi Vita*: 7  
 *Attacchi*: Colpo (1d6+2)  
 *Speciale*: Vedi sotto   
@@ -464,7 +464,7 @@ I robot sono complessi automi di metallo con insondabili cervelli elettronici. S
 
 ### Rospo, Gigante
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 2+4  
 *Attacchi*: Morso  
 *Speciale*: Vedi sotto   
@@ -475,7 +475,7 @@ I rospi giganti inghiottiranno interi halfling e persone più piccole ad ogni ti
 
 ### Sanguisuga, Gigante
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 2  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
@@ -486,7 +486,7 @@ Le sanguisughe giganti sono disgustosi parassiti di palude che si attaccheranno 
 
 ### Scimmione
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 4+1  
 *Attacchi*: Colpo (1d6+1)  
 *Speciale*: Nessuno   
@@ -497,7 +497,7 @@ Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si
 
 ### Scimmione Dannato
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5+2  
 *Attacchi*: Lancio di pietre (2d6-1)  
 *Speciale*: Vedi sotto   
@@ -508,7 +508,7 @@ Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il l
 
 ### Scorpione, Gigante
 
-*Classe Armatura*: 3 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5+4  
 *Attacchi*: Aculeo, tenaglia (vedi sotto)  
 *Speciale*: Vedi sotto   
@@ -519,7 +519,7 @@ Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni d
 
 ### Serpente, Grande e Gigante
 
-*Classe Armatura*: 6 [13], 8 [11]  
+*Classe Armatura*: 13, 11  
 *Dadi Vita*: ½, 7  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto   
@@ -534,7 +534,7 @@ Le statue viventi sono grandi e potenti automi umanoidi. Stando in silenzio sono
 
 ### Statua Vivente, Ferro
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 18  
 *Attacchi*: Colpo (4d6)  
 *Speciale*: Resistenza magica, gas velenoso   
@@ -545,7 +545,7 @@ Le statue viventi di ferro sono fuse in metallo solido. In combattimento possono
 
 ### Statua Vivente, Pietra
 
-*Classe Armatura*: 5 [14]  
+*Classe Armatura*: 14  
 *Dadi Vita*: 14  
 *Attacchi*: Colpo (3d6)   
 *Speciale*: Resistenza magica   
@@ -556,7 +556,7 @@ Le statue viventi di pietra sono scolpite nella roccia solida. Possono rallentar
 
 ### Tartaruga Drago
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 12  
 *Attacchi*: Vedi sotto  
 *Speciale*: Soffio   
@@ -569,7 +569,7 @@ Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante c
 
 ### Thull
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 3  
 *Attacchi*: Artigli  
 *Speciale*: Paralisi   
@@ -580,7 +580,7 @@ I thull sono spaventosi umanoidi simili agli hobgoblin nell'aspetto, ma sono mol
 
 ### Tigre
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 5+4  
 *Attacchi*: Artigli (1d6+1/2d6)  
 *Speciale*: Saltatore   
@@ -591,7 +591,7 @@ Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. 
 
 ### Tigre dai denti a sciabola
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 7+2  
 *Attacchi*: Denti, artigli (1d8+1/2d6+2)  
 *Speciale*: Vedi sotto   
@@ -602,7 +602,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 
 ### Titano
 
-*Classe Armatura*: 2 [17]  
+*Classe Armatura*: 17  
 *Dadi Vita*: 21  
 *Attacchi*: Arma (3d6+3)  
 *Speciale*: Vedi sotto   
@@ -613,7 +613,7 @@ Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quan
 
 ## Titanotteri
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 12  
 *Attacchi*: Carica (3d6)  
 *Speciale*: Vedi sotto   
@@ -624,7 +624,7 @@ I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate
 
 ### Tritoni
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arma  
 *Speciale*: Vedi sotto   
@@ -638,7 +638,7 @@ Per infoltire le schiere dei PNG umani delle regole base, di seguito è possibil
 
 ### Umano, Brigante
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Volontà di ferro  
@@ -649,7 +649,7 @@ I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, p
 
 ### Umano, Bucaniere
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno   
@@ -660,7 +660,7 @@ I bucanieri sono picconieri e rifiuti umani che solcano le coste in cerca di fac
 
 ### Umano, Derviscio
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arma  
 *Speciale*: Fanatismo   
@@ -671,7 +671,7 @@ I dervisci sono fanatici religiosi di tipo legale. Attaccano a +2 per colpire co
 
 ### Umano, Mercenario
 
-*Classe Armatura*: 6 [13]  
+*Classe Armatura*: 13  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno   
@@ -682,7 +682,7 @@ I Mercenari sono spadaccini professionisti e soldati di fortuna. Sono militari b
 
 ### Umano, Nomade
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Cavallerizzo   
@@ -693,7 +693,7 @@ I Nomadi sono razziatori del deserto o della steppa che sono sempre a cavallo. P
 
 ### Umano, Pirata
 
-*Classe Armatura*: 8 [11]  
+*Classe Armatura*: 11  
 *Dadi Vita*: 1  
 *Attacchi*: Arma  
 *Speciale*: Nessuno   
@@ -705,7 +705,7 @@ Hanno una correzione di +1 alle prove di morale.
 
 ### Umano, Zelota
 
-*Classe Armatura*: 7 [12]  
+*Classe Armatura*: 12  
 *Dadi Vita*: 1+1  
 *Attacchi*: Arma  
 *Speciale*: Fanatismo  
