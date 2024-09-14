@@ -31,7 +31,7 @@ Se non avete tempo di preparare un dungeon in anticipo, usate la seguente proced
     - 3-4:2 uscite
     - 5-6:3 uscite
 5. Aggiungete i corridoi che collegano le stanze a piacere.
-6. Per determinare con cosa riempa una stanza, tirate un d8:
+6. Per determinare con cosa riempa una stanza, tirate un d6+1:
     - 1-3: Vuoto
     - 4: Vuoto a parte il tesoro
     - 5: Mostro
@@ -288,7 +288,7 @@ Quando si progetta un dungeon, ci sono zone che contengono incontri o aree speci
 | 49-50 | Riscalda | 99-00 | Avvizzisce una parte del corpo |
 
 <sup>1</sup>Tirare 1d4; con intelligenza, 1; un messaggio preprogrammato, 2; cerca di convincere il gruppo a compiere un'azione, 3; cerca di condurre il gruppo in una trappola, 4 
-<sup>2</sup>Tirare 1d8; monete d'oro, 1; oro degli stolti, 2; oggetto magico, 3; cibo, 4; gemme, 5; acqua, 6; vino, 7; olio, 8
+<sup>2</sup>Tirare 1d6+1; monete d'oro, 1; oro degli stolti, 2; oggetto magico, 3; cibo, 4; gemme, 5; acqua, 6; vino, 7; olio, 8
 <sup>3</sup>Tirare 1d6; colore della pelle, 1; colore degli occhi, 2; colore dei capelli, 3; razza, 4; sesso, 5; altezza, 6
 <sup>4</sup>Tirare 1d6; FOR, 1; DES, 2; COS, 3; INT, 4; SAG, 5; CAR, 6
 

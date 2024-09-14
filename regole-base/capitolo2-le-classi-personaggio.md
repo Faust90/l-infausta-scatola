@@ -203,7 +203,7 @@ Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera.
 
 #### Restrizioni su Armi e Armature
 
-I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e pergamene arcane, per cui hanno poco tempo per allenarsi con le armi o per imparare a ingaggiare correttamente un combattimento fisico. I Maghi possono solo brandire pugnali o bastoni e non possono usare armature.
+I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e pergamene arcane, per cui hanno poco tempo per allenarsi con le armi o per imparare a ingaggiare correttamente un combattimento fisico. I Maghi possono solo brandire clave, pugnali o bastoni e non possono usare armature.
 
 #### Incantesimo
 
@@ -291,7 +291,7 @@ Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta pelur
 
 #### Restrizioni su Armi e Armature
 
-I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani.
+I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani o utilizzare armature non adattate alla loro statura.
 
 #### Infravisione
 
@@ -315,7 +315,7 @@ Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero
 
 #### Restrizioni su Armi e Armature
 
-I Silvani possono usare solo armi di legno. Possono indossare solo armature di cuoio.
+I Silvani possono usare solo clave, archi corti e balestre leggere. Possono indossare solo armature di cuoio fatte su misura per loro.
 
 #### Lancio degli incantesimi
 I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.

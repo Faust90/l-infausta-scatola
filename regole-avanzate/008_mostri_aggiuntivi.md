@@ -593,7 +593,7 @@ Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. 
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 7+2  
-*Attacchi*: Denti, artigli (1d8+1/2d6+2)  
+*Attacchi*: Denti, artigli (1d6+2/2d6+2)  
 *Speciale*: Vedi sotto   
 *Movimento*: 12  
 *DVE/PE*: 8/800

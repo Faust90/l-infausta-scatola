@@ -78,7 +78,7 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 | Ascia, da battaglia\*             | 1d6+1     | 15       | 7              |
 | Asta (berdiche, alabarde, ecc.)\* | 1d6+1     | 15       | 7              |
 | Bastone\*                         | 1d6       | 10       | 1              |
-| Clava                             | 1d6       | 10       | -              |
+| Clava                             | 1d6-1     | 10       | -              |
 | Flagello                          | 1d6       | 15       | 8              |
 | Lancia‡                           | 1d6       | 10       | 2              |
 | Martello da guerra                | 1d6       | 10       | 5              |
@@ -119,17 +119,17 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 #### Tabella 13: Armature
 
 | Armatura           | **Effetto sulla CA** | **Peso (lb.)\*** | **Costo (po)** |
-| ------------------ | ---------------------------- | ---------------- | -------------- |
-| Armatura a piastre | +6                           | 75               | 50             |
-| Cotta di maglia    | +4                           | 50               | 30             |
-| Cuoio              | +2                           | 25               | 15             |
-| Scudo              | +1                           | 10               | 10             |
+| ------------------ | -------------------- | ---------------- | -------------- |
+| Armatura a piastre | +6                   | 75               | 50             |
+| Cotta di maglia    | +4                   | 50               | 30             |
+| Cuoio              | +2                   | 25               | 15             |
+| Scudo              | +1                   | 10               | 10             |
 
-\* A discrezione dell'Arbitro, l'armatura magica pesa la metà del suo peso normale o non pesa affatto.
+\* Un'armatura magica pesa la metà del suo peso normale.
 
-### Importante
+### Armature su misura
 
-I numeri per il sistema di Classe Armatura "Ascendente" appaiono sempre tra parentesi \[così\].
+Silvani e Dvergar hanno bisogno di armature adatte alla loro statura. Il loro costo è identico a quello indicato in tabella, ma ovviamente non sarà possibile per loro indossare armature fatte per essere umani, come ad esempio quelle rubate da un gruppo di PNG umani sconfitti. È possibile far adattare per queste creature un'armatura umana presso un armaiolo, con una settimana di lavoro e pagando metà del suo valore. Le armature magiche si adattano automaticamente alla taglia del loro utilizzatore per via della loro natura sovrannaturale.
 
 ### Calcolo della Classe Armatura
 

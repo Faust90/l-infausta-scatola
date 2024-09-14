@@ -179,14 +179,14 @@ L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi 
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora + 10 minuti per livello
 
-L'incantatore può bersagliare 1d4 creature (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
+L'incantatore può bersagliare 1d6-1 (minimo 1) creature (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
 
 ### Bloccare le Persone
 *Livello:* C2, M3  
 *Raggio d'azione:* 180' (C)/120' (M)  
 *Durata:* 90 minuti (C), 1 ora + 10 minuti per livello (M)
 
-L'incantatore può bersagliare 1d4 persone (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
+L'incantatore può bersagliare 1d6-1 (minimo 1) persone (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
 
 ### Bloccare le Porte
 *Livello:* M1  
@@ -246,7 +246,7 @@ Quest'incantesimo confonde le persone e i mostri, facendoli agire casualmente. G
 |  6-8  |       Rimangono fermi e sconcertati       |
 | 9-12  |      Si attaccano l'uno con l'altro       |
 
-L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo e ha effetto immediato. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d4. Queste creature devono effettuare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e ogni 10 minuti successivi oppure restano confusi per il resto della durata dell'incantesimo. 
+L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo e ha effetto immediato. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d6-1 (minimo 1). Queste creature devono effettuare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e ogni 10 minuti successivi oppure restano confusi per il resto della durata dell'incantesimo. 
 
 ### Conoscere il Tempo Atmosferico
 *Livello*: S1  
@@ -783,8 +783,8 @@ L'incantatore può muovere oggetti usando solamente il potere della mente. La qu
 
 L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l'incantatore conosce (o perlomeno che conosce tramite un dipinto o una mappa). Il successo dipende da quanto bene l'incantatore conosce la posizione bersaglio:
 - Se l'incantatore ha solo esperienza indiretta della posizione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
-- Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d10x10' sotto la posizione voluta, possibilmente risultando nella morte se arriva dentro una sostanza solida. L'altra metà dei fallimenti porterà il viaggiatore 1d10x10' sopra la posizione voluta, la quale risulterà possibilmente in una caduta mortale. 
-- Se l'incantatore è familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 chance di fallimento si arrivi sopra o sotto la posizione bersaglio. In entrambi i casi, l'arrivo e 1d4x10' troppo alto o troppo basso. 
+- Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d20x5' sotto la posizione voluta, possibilmente risultando nella morte se arriva dentro una sostanza solida. L'altra metà dei fallimenti porterà il viaggiatore 1d20x5' sopra la posizione voluta, la quale risulterà possibilmente in una caduta mortale. 
+- Se l'incantatore è familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 chance di fallimento si arrivi sopra o sotto la posizione bersaglio. In entrambi i casi, l'arrivo e 1d6x10' troppo alto o troppo basso. 
 
 ### Trasformare la Roccia in Fango
 *Livello:* M5  
@@ -798,7 +798,7 @@ L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango 
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
-L'incantatore può tramutare fino a 2d8 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
+L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 
 ### Trovare le Trappole
 *Livello:* C2  

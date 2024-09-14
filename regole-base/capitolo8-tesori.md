@@ -12,12 +12,12 @@ Ecco una tabella che un Arbitro può usare come linea guida per aiutare a creare
 
 #### Tabella 44: Il valore del tesoro
 
-| Tiro | **Valore totale\*** | **PR** | **PA** | **PO** |
-|:----:|:-------------------:|:------:|:------:|:------:|
-| 1    | PE × 1              | 50%    | 30%    | 20%    |
-| 2-3  | PE × 2              | 20%    | 50%    | 30%    |
-| 4-5  | PE × 3              | 10%    | 40%    | 50%    |
-| 6    | PE × 4              | -      | 25%    | 75%    |
+| Tiro  | **Valore totale\*** | **PR** | **PA** | **PO** |
+| :---: | :-----------------: | :----: | :----: | :----: |
+|   1   |       PE × 1        |  50%   |  30%   |  20%   |
+|  2-3  |       PE × 2        |  20%   |  50%   |  30%   |
+|  4-5  |       PE × 3        |  10%   |  40%   |  50%   |
+|   6   |       PE × 4        |   -    |  25%   |  75%   |
 
 \* Il valore totale del tesoro è espresso in termini di monete d'oro. Se il valore totale del tesoro fosse 100 PE con un tiro di 1, il destinatario riceverebbe 20 po, 300 pa e 5.000 pr
 
@@ -53,21 +53,21 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle gemme/gioielli m
 
 #### Tabella 45: Gemma Maggiore/Gioiello
 
-| Tiro | **Valore**           |
-|:----:|:--------------------:|
-| 1    | 1d100 x 10 po        |
-| 2-3  | (1d100 x 10) x 8 po  |
-| 4-5  | (1d100 x 10) x 12 po |
-| 6    | (1d100 x 10) x 20 po |
+| Tiro  |      **Valore**      |
+| :---: | :------------------: |
+|   1   |    1d100 x 10 po     |
+|  2-3  | (1d100 x 10) x 8 po  |
+|  4-5  | (1d100 x 10) x 12 po |
+|   6   | (1d100 x 10) x 20 po |
 
 #### Tabella 46: Oggetto Magico Maggiore
 
-| Tiro | **Risultato**                                                       |
-|:----:|:-------------------------------------------------------------------:|
-| 1    | Tirate 6 volte sulla tabella delle Pozioni                          |
-| 2-3  | Tirate 1d8+12 sulla tabella delle Pergamene                         |
-| 4-5  | Tirate 1d8+12 sulla tabella delle Armi e Armature                   |
-| 6    | Tirate 1d20+40 sulla tabella delle Varie (include Anelli e Bastoni) |
+| Tiro  |                            **Risultato**                            |
+| :---: | :-----------------------------------------------------------------: |
+|   1   |             Tirate 6 volte sulla tabella delle Pozioni              |
+|  2-3  |             Tirate 1d6+13 sulla tabella delle Pergamene             |
+|  4-5  |          Tirate 1d6+13 sulla tabella delle Armi e Armature          |
+|   6   | Tirate 1d20+40 sulla tabella delle Varie (include Anelli e Bastoni) |
 
 #### Cambio per 1,000 po
 
@@ -75,21 +75,21 @@ Un tiro di 1–19 con un d20 significa un tiro sulla tabella Gemme/Gioielli Medi
 
 #### Tabella 47: Gemma/gioiello medio
 
-| Tiro | **Valore**          |
-|:----:|:-------------------:|
-| 1    | 1d100 po            |
-| 2-3  | 1d100 x 10 + 250 po |
-| 4-5  | 1d100 x 10 + 750 po |
-| 6    | 1d100 x 100 po      |
+| Tiro  |     **Valore**      |
+| :---: | :-----------------: |
+|   1   |      1d100 po       |
+|  2-3  | 1d100 x 10 + 250 po |
+|  4-5  | 1d100 x 10 + 750 po |
+|   6   |   1d100 x 100 po    |
 
 #### Tabella 48: Oggetto Magico Medio
 
-| Tiro | **Risultato**                                                       |
-|:----:|:-------------------------------------------------------------------:|
-| 1    | Tirate 3 volte sulla tabella delle Pozioni                          |
-| 2-3  | Tirate 1d6+6 sulla tabella delle Pergamene                          |
-| 4-5  | Tirate 1d6+6 sulla tabella delle Armi e Armature                    |
-| 6    | Tirate 1d20+20 sulla tabella delle Varie (include Anelli e Bastoni) |
+| Tiro  |                            **Risultato**                            |
+| :---: | :-----------------------------------------------------------------: |
+|   1   |             Tirate 3 volte sulla tabella delle Pozioni              |
+|  2-3  |             Tirate 1d6+6 sulla tabella delle Pergamene              |
+|  4-5  |          Tirate 1d6+6 sulla tabella delle Armi e Armature           |
+|   6   | Tirate 1d20+20 sulla tabella delle Varie (include Anelli e Bastoni) |
 
 ### Cambio per 100 po
 
@@ -97,50 +97,50 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 #### Tabella 49: Gemma/Gioiello Minore
 
-| Tiro | **Valore**    |
-|:----:|:-------------:|
-| 1    | 1d6 po        |
-| 2-3  | 1d100 + 25 po |
-| 4-5  | 1d100 + 75 po |
-| 6    | 1d100 x 10 po |
+| Tiro  |  **Valore**   |
+| :---: | :-----------: |
+|   1   |    1d6 po     |
+|  2-3  | 1d100 + 25 po |
+|  4-5  | 1d100 + 75 po |
+|   6   | 1d100 x 10 po |
 
 #### Tabella 50: Oggetto Magico Minore
 
-| Tiro | **Risultato**                                                           |
-|:----:|:-----------------------------------------------------------------------:|
-| 1    | Tirate una volta sulla tabella delle Pozioni                            |
-| 2-3  | Tirate 1d6 sulla tabella delle Pergamene                                |
-| 4-5  | Tirate 1d6 sulla tabella delle Armi e Armature                          |
-| 6    | Tirate 1d20 sulla tabella degli Oggetti Vari (include Anelli e Bastoni) |
+| Tiro  |                              **Risultato**                              |
+| :---: | :---------------------------------------------------------------------: |
+|   1   |              Tirate una volta sulla tabella delle Pozioni               |
+|  2-3  |                Tirate 1d6 sulla tabella delle Pergamene                 |
+|  4-5  |             Tirate 1d6 sulla tabella delle Armi e Armature              |
+|   6   | Tirate 1d20 sulla tabella degli Oggetti Vari (include Anelli e Bastoni) |
 
 ## Pozioni magiche
 
 #### Tabella 51: Pozioni Magiche
 
-| Tiro (d100) | **Tipo\***              |
-|:-----------:|:-----------------------:|
-| 1-3         | Controllo degli animali |
-| 4-6         | Chiaroudienza           |
-| 7-9         | Chiaroveggenza          |
-| 10-12       | Diminuzione             |
-| 13-15       | Controllo del drago     |
-| 16-18       | Etereità                |
-| 19-21       | Resistenza al fuoco     |
-| 22-24       | Volare                  |
-| 25-27       | Forma Gassosa           |
-| 28-30       | Forza Gigante           |
-| 31-33       | Crescita                |
-| 34-36       | Eroismo                 |
-| 37-39       | Invisibilità            |
-| 40-42       | Invulnerabilità         |
-| 43-45       | Levitare                |
-| 46-48       | Controllo delle piante  |
-| 49-55       | Avvelenamento           |
-| 56-58       | Scivolosità             |
-| 59-61       | Ritrovamento di tesori  |
-| 62-64       | Controllo dei non morti |
-| 65-75       | Guarigione extra        |
-| 76-00       | Guarigione              |
+| Tiro (d100) |       **Tipo\***        |
+| :---------: | :---------------------: |
+|     1-3     | Controllo degli animali |
+|     4-6     |      Chiaroudienza      |
+|     7-9     |     Chiaroveggenza      |
+|    10-12    |       Diminuzione       |
+|    13-15    |   Controllo del drago   |
+|    16-18    |        Etereità         |
+|    19-21    |   Resistenza al fuoco   |
+|    22-24    |         Volare          |
+|    25-27    |      Forma Gassosa      |
+|    28-30    |      Forza Gigante      |
+|    31-33    |        Crescita         |
+|    34-36    |         Eroismo         |
+|    37-39    |      Invisibilità       |
+|    40-42    |     Invulnerabilità     |
+|    43-45    |        Levitare         |
+|    46-48    | Controllo delle piante  |
+|    49-55    |      Avvelenamento      |
+|    56-58    |       Scivolosità       |
+|    59-61    | Ritrovamento di tesori  |
+|    62-64    | Controllo dei non morti |
+|    65-75    |    Guarigione extra     |
+|    76-00    |       Guarigione        |
 
 \* Le pozioni hanno una durata di 1d6+1 turni
 
@@ -152,7 +152,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 **Controllo del drago**: 1d3 draghi di un tipo specifico (determinato a caso dall'Arbitro) sono influenzati come da incantesimo Ammaliare i Mostri.
 
-**Controllo dei non morti**: 2d4 non-morti con meno di 4 DV e 1d4 non-morti con 4+ dadi vita cadono sotto il controllo di chi beve come da incantesimo Ammaliare i Mostri.
+**Controllo dei non morti**: 1d6+1 non-morti con meno di 4 DV e 1d6-1 non-morti con 4+ dadi vita cadono sotto il controllo di chi beve come da incantesimo Ammaliare i Mostri.
 
 **Controllo delle piante**: Risultati come da incantesimo Ammaliare i Mostri.
 
@@ -192,45 +192,45 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 ## Pergamene
 
-Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 52: Pergamene
 
-| Tiro  | \# di pergamene                                          | Livello Incantesimo |
-|:-----:|:--------------------------------------------------------:|:-------------------:|
-| 1     | 1                                                        | 1                   |
-| 2     | 1                                                        | 1d3                 |
-| 3     | 2                                                        | 1d2 per pergamena   |
-| 4     | 3                                                        | 1                   |
-| 5     | Pergamena Maledetta                                      |                     |
-| 6-7   | Pergamena di Protezione (durata normale)                 |                     |
-| 8     | 2                                                        | 1d4                 |
-| 9     | 2                                                        | 1d6 per pergamena   |
-| 10    | 1                                                        | 1d4+2               |
-| 11    | 5                                                        | 1d3 per pergamena   |
-| 12    | Pergamena Maledetta                                      |                     |
-| 13-14 | Pergamena di Protezione (durata doppia)                  |                     |
-| 15    | 5                                                        | 1d6 per pergamena   |
-| 16    | 6                                                        | 1d6 per pergamena   |
-| 17    | 7                                                        | 1d6 per pergamena   |
-| 18    | 8                                                        | 1d6 per pergamena   |
-| 19    | Pergamena Maledetta                                      |                     |
-| 20    | Pergamena di Protezione (durata tripla e doppio effetto) |                     |
+| Tiro  |                     \# di pergamene                      | Livello Incantesimo |
+| :---: | :------------------------------------------------------: | :-----------------: |
+|   1   |                            1                             |          1          |
+|   2   |                            1                             |         1d3         |
+|   3   |                            2                             |  1d3 per pergamena  |
+|   4   |                            3                             |          1          |
+|   5   |                   Pergamena Maledetta                    |                     |
+|  6-7  |         Pergamena di Protezione (durata normale)         |                     |
+|   8   |                            2                             |        1d6-1        |
+|   9   |                            2                             |  1d6 per pergamena  |
+|  10   |                            1                             |        1d6+1        |
+|  11   |                            5                             |  1d3 per pergamena  |
+|  12   |                   Pergamena Maledetta                    |                     |
+| 13-14 |         Pergamena di Protezione (durata doppia)          |                     |
+|  15   |                            5                             |  1d6 per pergamena  |
+|  16   |                            6                             |  1d6 per pergamena  |
+|  17   |                            7                             |  1d6 per pergamena  |
+|  18   |                            8                             |  1d6 per pergamena  |
+|  19   |                   Pergamena Maledetta                    |                     |
+|  20   | Pergamena di Protezione (durata tripla e doppio effetto) |                     |
 
 \* Tirate 1d6 per il tipo di incantatore (1-3 pergamene sono per i maghi, 4-6 per i chierici). Ricordate che non ci sono incantesimi di 6° livello per i Chierici, quindi tirate di nuovo per il livello dell'incantesimo con un risultato di 6
 
 #### Tabella 53: Pergamene di Protezione
 
-| Tiro | **Protezione Da:** |
-|:----:|:------------------:|
-| 1    | Demoni             |
-| 2    | Annegamento        |
-| 3    | Elementali         |
-| 4    | Licantropi         |
-| 5    | Magia              |
-| 6    | Metallo            |
-| 7    | Veleno             |
-| 8    | Non-morti          |
+| Tiro  | **Protezione Da:** |
+| :---: | :----------------: |
+|   1   |       Demoni       |
+|   2   |    Annegamento     |
+|   3   |     Elementali     |
+|   4   |     Licantropi     |
+|   5   |       Magia        |
+|   6   |      Metallo       |
+|   7   |       Veleno       |
+|   8   |     Non-morti      |
 
 ### Descrizioni delle Pergamene di Protezione
 
@@ -246,44 +246,44 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 **Metallo**: Il metallo non può danneggiare chi legge per la durata di 1 ora.
 
-**Non-morto**: Tutti coloro che si trovano in un raggio di 10' dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 2d12 non morti con DV inferiore a 4, e 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro tutti, tranne che contro una vera e propria orda di non-morti.
+**Non-morto**: Tutti coloro che si trovano in un raggio di 10' dal lettore sono protetti contro i non-morti, ma solo in misura limitata. In ogni round, 4d6 non morti con DV inferiore a 4, e 2d6 non morti con dadi vita 4-5, e 1d6 non morti con dadi vita 6+ sono sventati dalla protezione della pergamena. Pertanto, la pergamena è efficace contro tutti, tranne che contro una vera e propria orda di non-morti.
 
 **Veleno**: Il veleno non può danneggiare chi legge per un periodo di 6 ore, e qualsiasi veleno nel suo sistema viene rimosso.
 
 ## Armi e Armature Magiche
 
-Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
+Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
 
 #### Tabella 54: Armi e Armature Magiche
 
-| Tiro | **Tipo**                               |
-|:----:|:--------------------------------------:|
-| 1    | Armatura o Scudo Maledetto             |
-| 2    | +1 Arma/i a Distanza                   |
-| 3    | +1 Scudo                               |
-| 4-6  | +1 Arma da Mischia                     |
-| 7-8  | +1 Armatura                            |
-| 9    | Arma Maledetta                         |
-| 10   | +2 Arma/i a Distanza                   |
-| 11   | +2 Scudo                               |
-| 12   | +2 Arma da Mischia                     |
-| 13   | +2 Armatura                            |
-| 14   | +1 Arma da Mischia con Abilità Minore  |
-| 15   | +3 Arma/i a Distanza                   |
-| 16   | +3 Arma da Mischia                     |
-| 17   | +3 Scudo                               |
-| 18   | +3 Armatura                            |
-| 19   | Arma insolita (opzionale) o Ritira     |
-| 20   | Armatura insolita (opzionale) o Ritira |
+| Tiro  |                **Tipo**                |
+| :---: | :------------------------------------: |
+|   1   |       Armatura o Scudo Maledetto       |
+|   2   |          +1 Arma/i a Distanza          |
+|   3   |                +1 Scudo                |
+|  4-6  |           +1 Arma da Mischia           |
+|  7-8  |              +1 Armatura               |
+|   9   |             Arma Maledetta             |
+|  10   |          +2 Arma/i a Distanza          |
+|  11   |                +2 Scudo                |
+|  12   |           +2 Arma da Mischia           |
+|  13   |              +2 Armatura               |
+|  14   | +1 Arma da Mischia con Abilità Minore  |
+|  15   |          +3 Arma/i a Distanza          |
+|  16   |           +3 Arma da Mischia           |
+|  17   |                +3 Scudo                |
+|  18   |              +3 Armatura               |
+|  19   |   Arma insolita (opzionale) o Ritira   |
+|  20   | Armatura insolita (opzionale) o Ritira |
 
 #### Tabella 55: Armature, Armi e Scudi Maledetti
 
-| Tiro | **Tipo\***             |
-|:----:|:----------------------:|
-| 1-3  | -1 Arma o Armatura     |
-| 4    | -2 Arma o Armatura     |
-| 5    | -3 Arma o Armatura     |
-| 6    | Attira Proiettili \*\* |
+| Tiro  |       **Tipo\***       |
+| :---: | :--------------------: |
+|  1-3  |   -1 Arma o Armatura   |
+|   4   |   -2 Arma o Armatura   |
+|   5   |   -3 Arma o Armatura   |
+|   6   | Attira Proiettili \*\* |
 
 \* Non può essere posate senza l'aiuto dell'incantesimo Rimuovere Maledizione
 
@@ -291,63 +291,63 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 #### Tabella 56: Armi Magiche da Mischia
 
-| Tiro | **Tipo**           |
-|:----:|:------------------:|
-| 1    | Ascia, battaglia   |
-| 2    | Ascia, mano        |
-| 3    | Pugnale            |
-| 4    | Lancia             |
-| 5    | Mazza, pesante     |
-| 6    | Mazza, leggera     |
-| 7    | Lancia             |
-| 8    | Bastone            |
-| 9    | Spada lunga        |
-| 10   | Spada corta        |
-| 11   | Spada, a due mani  |
-| 12   | Martello da guerra |
+| Tiro  |      **Tipo**      |
+| :---: | :----------------: |
+|   1   |  Ascia, battaglia  |
+|   2   |    Ascia, mano     |
+|   3   |      Pugnale       |
+|   4   |       Lancia       |
+|   5   |   Mazza, pesante   |
+|   6   |   Mazza, leggera   |
+|   7   |       Lancia       |
+|   8   |      Bastone       |
+|   9   |    Spada lunga     |
+|  10   |    Spada corta     |
+|  11   | Spada, a due mani  |
+|  12   | Martello da guerra |
 
 #### Tabella 57: Armi Magiche a Distanza
 
-| Tiro  | **Tipo**            |
-|:-----:|:-------------------:|
-| 1-8   | 2d6 Frecce          |
-| 9-10  | 1d10 Pietre         |
-| 11    | Lancia              |
-| 12-15 | 2d4 Dardi           |
+| Tiro  |      **Tipo**       |
+| :---: | :-----------------: |
+|  1-8  |     2d6 Frecce      |
+| 9-10  |     1d10 Pietre     |
+|  11   |       Lancia        |
+| 12-15 |      2d6 Dardi      |
 | 16-20 | 2d6 Dardi, balestra |
 
 #### Tabella 58: Abilità minori per le armi da mischia
 
-| Tiro | **Tipo**              |
-|:----:|:---------------------:|
-| 1-4  | Danno addizionale (+1)|
-| 5    | Illumina, raggio 15'  |
-| 6    | Illumina, raggio 30'  |
+| Tiro  |        **Tipo**        |
+| :---: | :--------------------: |
+|  1-4  | Danno addizionale (+1) |
+|   5   |  Illumina, raggio 15'  |
+|   6   |  Illumina, raggio 30'  |
 
 #### Tabella 59: Armi Magiche Insolite
 
-| Tiro | **Tipo**                                         |
-|:----:|:------------------------------------------------:|
-| 1    | +1 Arma contundente che distrugge i non morti    |
-| 2    | +1 Arma lanciata che ritorna in mano             |
-| 3    | +1 Arma, garantisce 1 attacco addizionale/giorno |
-| 4    | +1, +2 contro un particolare tipo di nemico      |
-| 5    | +1, +4 contro un particolare tipo di nemico      |
-| 6    | +2, +3 contro un particolare tipo di nemico      |
-| 7    | Arma Fiammeggiante                               |
-| 8    | Arma Congelante                                  |
-| 9    | Arma Danzante                                    |
-| 10   | Arma Intelligente                                |
+| Tiro  |                     **Tipo**                     |
+| :---: | :----------------------------------------------: |
+|   1   |  +1 Arma contundente che distrugge i non morti   |
+|   2   |       +1 Arma lanciata che ritorna in mano       |
+|   3   | +1 Arma, garantisce 1 attacco addizionale/giorno |
+|   4   |   +1, +2 contro un particolare tipo di nemico    |
+|   5   |   +1, +4 contro un particolare tipo di nemico    |
+|   6   |   +2, +3 contro un particolare tipo di nemico    |
+|   7   |                Arma Fiammeggiante                |
+|   8   |                 Arma Congelante                  |
+|   9   |                  Arma Danzante                   |
+|  10   |                Arma Intelligente                 |
 
 ### Descrizioni delle Armi Insolite
 
 **Arma contundente che distrugge i non morti**: Le armi contundenti sono la mazza, la fionda, il bastone e il martello da guerra. I non-morti minori (meno di 4 DV) non hanno un tiro salvezza; quelli più potenti sì.
 
-**Arma Congelante**: 1d6 danni da freddo addizionali: lancia 1d4-1 per il bonus "per colpire".
+**Arma Congelante**: 1d6 danni da freddo addizionali: lancia 1d3 per il bonus "per colpire".
 
 **Arma Danzante**: Combatte in aria dopo 3 round, come un'arma +1d3.
 
-**Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tirate 1d4-1 per il bonus "per colpire".
+**Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tirate 1d3 per il bonus "per colpire".
 
 **Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile.
 
@@ -357,12 +357,12 @@ Tirate 1d8 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o 
 
 #### Tabella 60: Armature insolite
 
-| Tiro | **Tipo**                        |
-|:----:|:-------------------------------:|
-| 1    | Armatura che deflette le frecce |
-| 2    | Armatura Demoniaca              |
-| 3    | Armatura Eterea                 |
-| 4    | Armatura Fiammeggiante          |
+| Tiro  |            **Tipo**             |
+| :---: | :-----------------------------: |
+|   1   | Armatura che deflette le frecce |
+|   2   |       Armatura Demoniaca        |
+|   3   |         Armatura Eterea         |
+|   4   |     Armatura Fiammeggiante      |
 
 ### Descrizioni di armature insolite
 
@@ -380,49 +380,49 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 #### Tabella 61: Oggetti Vari
 
-| Tiro  | **Tipo**                      |
-|:-----:|:-----------------------------:|
-| 1     | Bacchetta Minore              |
-| 2     | Anello Minore                 |
-| 3-20  | Oggetto Magico Vario Minore   |
-| 21    | Bacchetta Minore              |
-| 22    | Bacchetta Minore              |
-| 23    | Bacchetta Maggiore            |
-| 24    | Anello Minore                 |
-| 25    | Anello Minore                 |
-| 26    | Anello Maggiore               |
-| 27-40 | Oggetto Magico Vario Medio    |
-| 41    | Bacchetta Grande              |
-| 42    | Bacchetta Grande              |
-| 43    | Anello Maggiore               |
-| 44    | Anello Maggiore               |
-| 45    | Bastone                       |
+| Tiro  |           **Tipo**            |
+| :---: | :---------------------------: |
+|   1   |       Bacchetta Minore        |
+|   2   |         Anello Minore         |
+| 3-20  |  Oggetto Magico Vario Minore  |
+|  21   |       Bacchetta Minore        |
+|  22   |       Bacchetta Minore        |
+|  23   |      Bacchetta Maggiore       |
+|  24   |         Anello Minore         |
+|  25   |         Anello Minore         |
+|  26   |        Anello Maggiore        |
+| 27-40 |  Oggetto Magico Vario Medio   |
+|  41   |       Bacchetta Grande        |
+|  42   |       Bacchetta Grande        |
+|  43   |        Anello Maggiore        |
+|  44   |        Anello Maggiore        |
+|  45   |            Bastone            |
 | 46-60 | Oggetto Magico Vario Maggiore |
 
 ## Bacchette
 
 #### Tabella 62: Bacchette Minori
 
-| Tiro | **Tipo**                                      |
-|:----:|:---------------------------------------------:|
-| 1-2  | Incantesimo di livello 1, contiene 10 cariche |
-| 3-4  | Incantesimo di livello 2, contiene 5 cariche  |
-| 5-6  | Incantesimo di livello 3, contiene 2 cariche  |
+| Tiro  |                   **Tipo**                    |
+| :---: | :-------------------------------------------: |
+|  1-2  | Incantesimo di livello 1, contiene 10 cariche |
+|  3-4  | Incantesimo di livello 2, contiene 5 cariche  |
+|  5-6  | Incantesimo di livello 3, contiene 2 cariche  |
 
 #### Tabella 63: Bacchette Maggiori
 
-| Tiro | **Tipo\***                                            |
-|:----:|:-----------------------------------------------------:|
-| 1    | Incantesimo di livello 3, contiene 10 cariche         |
-| 2    | Incantesimo di livello 4, contiene 10 cariche         |
-| 3    | Bacchetta d'individuazione (nemici)                   |
-| 4    | Bacchetta d'individuazione (metallo)                  |
-| 5    | Bacchetta d'individuazione (magia)                    |
-| 6    | Bacchetta d'individuazione (trappole e porte segrete) |
-| 7    | Bacchetta del Polimorfismo                            |
-| 8    | Bacchetta della Paura                                 |
-| 9    | Bacchetta del Freddo                                  |
-| 10   | Bacchetta della Paralisi                              |
+| Tiro  |                      **Tipo\***                       |
+| :---: | :---------------------------------------------------: |
+|   1   |     Incantesimo di livello 3, contiene 10 cariche     |
+|   2   |     Incantesimo di livello 4, contiene 10 cariche     |
+|   3   |          Bacchetta d'individuazione (nemici)          |
+|   4   |         Bacchetta d'individuazione (metallo)          |
+|   5   |          Bacchetta d'individuazione (magia)           |
+|   6   | Bacchetta d'individuazione (trappole e porte segrete) |
+|   7   |              Bacchetta del Polimorfismo               |
+|   8   |                 Bacchetta della Paura                 |
+|   9   |                 Bacchetta del Freddo                  |
+|  10   |               Bacchetta della Paralisi                |
 
 \* Le bacchette diventano inutilizzabili con 0 cariche. Una bacchetta può essere ricaricata lanciando un incantesimo in essa. C'è un 5% di possibilità per ogni ricarica che la bacchetta venga distrutta.
 
@@ -448,14 +448,14 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 #### Tabella 64: Anelli Minori
 
-| Tiro | **Tipo**                |
-|:----:|:-----------------------:|
-| 1    | Resistenza al fuoco     |
-| 2    | Invisibilità            |
-| 3    | Controllo dei mammiferi |
-| 4    | Resistenza al veleno    |
-| 5    | Protezione, +1          |
-| 6    | Protezione, +2          |
+| Tiro  |        **Tipo**         |
+| :---: | :---------------------: |
+|   1   |   Resistenza al fuoco   |
+|   2   |      Invisibilità       |
+|   3   | Controllo dei mammiferi |
+|   4   |  Resistenza al veleno   |
+|   5   |     Protezione, +1      |
+|   6   |     Protezione, +2      |
 
 ### Descrizioni degli Anelli Minori
 
@@ -473,18 +473,18 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 #### Tabella 65: Anelli Maggiori
 
-| Tiro | **Tipo**                         |
-|:----:|:--------------------------------:|
-| 1    | Controllo Umano                  |
-| 2    | Tre desideri                     |
-| 3    | Rigenerazione                    |
-| 4    | Evocazione dei Djinn             |
-| 5    | Stelle cadenti                   |
-| 6    | Visione a raggi X                |
-| 7    | Telecinesi                       |
-| 8    | Rifletti Incantesimi             |
-| 9    | Memorizza Incantesimi (Mago)     |
-| 10   | Memorizza Incantesimi (Chierico) |
+| Tiro  |             **Tipo**             |
+| :---: | :------------------------------: |
+|   1   |         Controllo Umano          |
+|   2   |           Tre desideri           |
+|   3   |          Rigenerazione           |
+|   4   |       Evocazione dei Djinn       |
+|   5   |          Stelle cadenti          |
+|   6   |        Visione a raggi X         |
+|   7   |            Telecinesi            |
+|   8   |       Rifletti Incantesimi       |
+|   9   |   Memorizza Incantesimi (Mago)   |
+|  10   | Memorizza Incantesimi (Chierico) |
 
 ### Descrizioni degli Anelli Maggiori
 
@@ -512,18 +512,18 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 #### Tabella 66: Bastoni
 
-| Tiro | **Tipo**            |
-|:----:|:-------------------:|
-| 1    | Guarigione          |
-| 2    | Comando             |
-| 3    | Serpente            |
-| 4    | Colpire             |
-| 5    | Appassimento        |
-| 6    | Potere              |
-| 7    | Stregoneria         |
-| 8    | Ammaliatore         |
-| 9    | Assorbimento        |
-| 10   | Potenza del Signore |
+| Tiro  |      **Tipo**       |
+| :---: | :-----------------: |
+|   1   |     Guarigione      |
+|   2   |       Comando       |
+|   3   |      Serpente       |
+|   4   |       Colpire       |
+|   5   |    Appassimento     |
+|   6   |       Potere        |
+|   7   |     Stregoneria     |
+|   8   |     Ammaliatore     |
+|   9   |    Assorbimento     |
+|  10   | Potenza del Signore |
 
 ### Descrizioni dei Bastoni
 
@@ -543,9 +543,9 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Potenza del Signore**: Questi bastoni hanno solo 10 cariche, ma una carica può essere usata per lanciare Resuscitare i Morti.
 
-**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e morde la vittima per 1d4 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
+**Serpente**: +1 "per colpire" e +1 danno. Quando viene comandato (usando una carica) il bastone si avvolge intorno al bersaglio con un colpo riuscito e morde la vittima per 1d6 × 10 minuti. La vittima deve avere le dimensioni di un umano o più piccolo per usare questo potere. Il bastone tornerà poi strisciando al suo proprietario a una velocità di 24. Solo i chierici possono utilizzare il Bastone del Serpente.
 
-**Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocare un Elementale (chiamando 1d4 alla volta), Bloccare le Persone, Muro di Fuoco, Passapareti, un incantesimo Ragnatela o Volare.
+**Stregoneria**: Il più potente dei bastoni. È un bastone del potere con abilità aggiuntive. Al costo di una carica, permette Invisibilità, Evocare un Elementale chiamandone 1d6-1 (minimo 1) alla volta, Bloccare le Persone, Muro di Fuoco, Passapareti, un incantesimo Ragnatela o Volare.
 
 **Cariche del bastone** - La maggior parte dei bastoni porta 200 cariche
 
@@ -553,82 +553,82 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 #### Tabella 67: Oggetti Magici Vari (Minore)
 
-| Tiro | **Oggetto**                                                      |
-| ---- |:----------------------------------------------------------------:|
-| 1    | Freccia di Direzione                                             |
-| 2    | Sacco di Raccolta                                                |
-| 3    | Stivali degli Elfi                                               |
-| 4    | Stivali della Velocità o del Balzo (50%)                         |
-| 5    | Bracciali della Difesa, CA 6 \[13\]                              |
-| 6    | Campana dell'Apertura                                            |
-| 7    | Mantello degli Elfi                                              |
-| 8    | Mantello della Protezione, +1                                    |
-| 9    | Oggetto Maledetto                                                |
-| 10   | Ampolla dell'Acqua Infinita                                      |
-| 11   | Polvere di Apparizione o Scomparsa (50%)                         |
-| 12   | Polvere di Starnuti e Soffocamento                               |
-| 13   | Guanti del Nuoto e dell'Arrampicata                              |
-| 14   | Ferri di Cavallo della Velocità                                  |
+| Tiro |                           **Oggetto**                            |
+| ---- | :--------------------------------------------------------------: |
+| 1    |                       Freccia di Direzione                       |
+| 2    |                        Sacco di Raccolta                         |
+| 3    |                        Stivali degli Elfi                        |
+| 4    |             Stivali della Velocità o del Balzo (50%)             |
+| 5    |               Bracciali della Difesa, CA 6 \[13\]                |
+| 6    |                      Campana dell'Apertura                       |
+| 7    |                       Mantello degli Elfi                        |
+| 8    |                  Mantello della Protezione, +1                   |
+| 9    |                        Oggetto Maledetto                         |
+| 10   |                   Ampolla dell'Acqua Infinita                    |
+| 11   |             Polvere di Apparizione o Scomparsa (50%)             |
+| 12   |                Polvere di Starnuti e Soffocamento                |
+| 13   |               Guanti del Nuoto e dell'Arrampicata                |
+| 14   |                 Ferri di Cavallo della Velocità                  |
 | 15   | Pietra della Fortuna (+1 ai tiri salvezza e ai tiri per colpire) |
-| 16   | Manuale di Esercizio Benefico                                    |
-| 17   | Tubi delle Fogne                                                 |
-| 18   | Corda dell'Arrampicata                                           |
-| 19   | Corda dell'Impigliamento                                         |
-| 20   | Vanga da Scavo                                                   |
+| 16   |                  Manuale di Esercizio Benefico                   |
+| 17   |                         Tubi delle Fogne                         |
+| 18   |                      Corda dell'Arrampicata                      |
+| 19   |                     Corda dell'Impigliamento                     |
+| 20   |                          Vanga da Scavo                          |
 
 ## Oggetti Magici Vari Medi
 
 #### Tabella 68: Oggetti Magici Vari (Medio)
 
-| Tiro | **Oggetto**                                          |
-|:----:|:----------------------------------------------------:|
-| 1    | Amuleto Contro la Scrittura                          |
-| 2    | Stivali di Levitazione                               |
-| 3    | Bracciali della Difesa, CA 4 \[15\] o 2 \[17\] (50%) |
-| 4    | Tappeto Volante                                      |
-| 5    | Mantello di Dislocazione                             |
-| 6    | Mantello di Protezione, +2 o +3                      |
-| 7    | Mazzo delle Molte Cose                               |
-| 8    | Figurina del Cane d'Onice                            |
-| 9    | Guanti del Potere Orchesco                           |
-| 10   | Elmo di Lettura del Magico e delle Lingue            |
-| 11   | Buco, portatile                                      |
-| 12   | Corno di Valhalla, bronzo                            |
-| 13   | Corno del Valhalla, argento                          |
-| 14   | Brocca dell'Alchimia                                 |
-| 15   | Manuale della Rapidità                               |
-| 16   | Medaglione del Rilevamento dei Pensieri (ESP)        |
-| 17   | Specchio di Scrittura Mentale                        |
-| 18   | Veste di Mimetizzazione                              |
-| 19   | Veste degli Occhi                                    |
-| 20   | Veste della Magia                                    |
+| Tiro  |                     **Oggetto**                      |
+| :---: | :--------------------------------------------------: |
+|   1   |             Amuleto Contro la Scrittura              |
+|   2   |                Stivali di Levitazione                |
+|   3   | Bracciali della Difesa, CA 4 \[15\] o 2 \[17\] (50%) |
+|   4   |                   Tappeto Volante                    |
+|   5   |               Mantello di Dislocazione               |
+|   6   |           Mantello di Protezione, +2 o +3            |
+|   7   |                Mazzo delle Molte Cose                |
+|   8   |              Figurina del Cane d'Onice               |
+|   9   |              Guanti del Potere Orchesco              |
+|  10   |      Elmo di Lettura del Magico e delle Lingue       |
+|  11   |                   Buco, portatile                    |
+|  12   |              Corno di Valhalla, bronzo               |
+|  13   |             Corno del Valhalla, argento              |
+|  14   |                 Brocca dell'Alchimia                 |
+|  15   |                Manuale della Rapidità                |
+|  16   |    Medaglione del Rilevamento dei Pensieri (ESP)     |
+|  17   |            Specchio di Scrittura Mentale             |
+|  18   |               Veste di Mimetizzazione                |
+|  19   |                  Veste degli Occhi                   |
+|  20   |                  Veste della Magia                   |
 
 ## Oggetti Magici Vari Maggiori
 
 #### Tabella 69: Oggetti Magici Vari (Maggiore)
 
-| Tiro | **Oggetto**                                                           |
-|:----:|:---------------------------------------------------------------------:|
-| 1    | Amuleto del Controllo dei Demoni                                      |
-| 2    | Bicchiere delle Pozioni                                               |
-| 3    | Incensiere, Ciotola, Braciere o Pietra del Controllo degli Elementali |
-| 4    | Sfera di Cristallo                                                    |
-| 5    | Bottiglia dell'Efreeti                                                |
-| 6    | Figurina dei Leoni Dorati                                             |
-| 7    | Guanti della Destrezza                                                |
-| 8    | Gemma del Vedere                                                      |
-| 9    | Cintura della Forza del Gigante                                       |
-| 10   | Elmo della Brillanza Ardente                                          |
-| 11   | Elmo di Teletrasporto                                                 |
-| 12   | Corno di Abbattimento                                                 |
-| 13   | Corno di Valhalla, di ferro                                           |
-| 14   | Lenti di Incanto                                                      |
-| 15   | Libram, magico (guadagno di livello)                                  |
-| 16   | Manuale dei Golem                                                     |
-| 17   | Manuale dell'Intelligenza                                             |
-| 18   | Manuale della Saggezza                                                |
-| 19   | Collana di Palle di Fuoco                                             |
-| 20   | Simbolo-Scarabeo della Follia                                         |
+| Tiro  |                              **Oggetto**                              |
+| :---: | :-------------------------------------------------------------------: |
+|   1   |                   Amuleto del Controllo dei Demoni                    |
+|   2   |                        Bicchiere delle Pozioni                        |
+|   3   | Incensiere, Ciotola, Braciere o Pietra del Controllo degli Elementali |
+|   4   |                          Sfera di Cristallo                           |
+|   5   |                        Bottiglia dell'Efreeti                         |
+|   6   |                       Figurina dei Leoni Dorati                       |
+|   7   |                        Guanti della Destrezza                         |
+|   8   |                           Gemma del Vedere                            |
+|   9   |                    Cintura della Forza del Gigante                    |
+|  10   |                     Elmo della Brillanza Ardente                      |
+|  11   |                         Elmo di Teletrasporto                         |
+|  12   |                         Corno di Abbattimento                         |
+|  13   |                      Corno di Valhalla, di ferro                      |
+|  14   |                           Lenti di Incanto                            |
+|  15   |                 Libram, magico (guadagno di livello)                  |
+|  16   |                           Manuale dei Golem                           |
+|  17   |                       Manuale dell'Intelligenza                       |
+|  18   |                        Manuale della Saggezza                         |
+|  19   |                       Collana di Palle di Fuoco                       |
+|  20   |                     Simbolo-Scarabeo della Follia                     |
 
 ### Descrizioni di vari oggetti magici
 
@@ -638,7 +638,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Amuleto del Controllo dei Demoni**: Funziona come un incantesimo di Protezione dal Caos e permette a chi lo indossa di tentare di lanciare Ammaliare i Mostri su un demone. In caso di successo, il demone viene schiavizzato per 1d6 settimane, dopodiché diventa libero. Utilizzabile da: maghi e chierici.
 
-**Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d4+1 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
+**Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d6 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
 
 **Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 10' × 5' × 3', ma la borsa può trasportare fino a 1.000 libbre di peso. Se non è vuota, la borsa pesa 50 libbre, non importa quanto peso contenga effettivamente. Utilizzabile da: tutte le classi.
 
@@ -656,19 +656,19 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Cintura della Forza Gigante**: Questa ampia cintura garantisce a chi la indossa la forza di un gigante delle colline (+8 danni alla forza, non cumulabili con eventuali bonus di forza esistenti). Non aumenta la probabilità di colpire. Utilizzabile da: tutte le classi. 
 
-**Collana di Palle di Fuoco**: Questa collana è appesa con 3d4 piccole palline. Quando viene lanciata, le palline esplodono in 6d6 palle di fuoco (secondo l'incantesimo). Utilizzabile da: tutte le classi. 
+**Collana di Palle di Fuoco**: Questa collana è appesa con 2d6 piccole palline. Quando viene lanciata, le palline esplodono in 6d6 palle di fuoco (secondo l'incantesimo). Utilizzabile da: tutte le classi. 
 
 **Corda dell'Arrampicata**: Una corda lunga 50' che salta magicamente verso l'alto e può legarsi e slegarsi a comando. Utilizzabile da: tutte le classi.
 
-**Corda dell'Impigliamento**: Questa corda, a comando, si attorciglia intorno a 2d4+1 nemici di taglia umana. La corda non può essere colpita se non con un tiro naturale di 20 (è magica), e può sostenere 20 punti ferita di danno prima di sfilacciarsi e diventare inutile. Utilizzabile da: tutte le classi.
+**Corda dell'Impigliamento**: Questa corda, a comando, si attorciglia intorno a 2d3+2 nemici di taglia umana. La corda non può essere colpita se non con un tiro naturale di 20 (è magica), e può sostenere 20 punti ferita di danno prima di sfilacciarsi e diventare inutile. Utilizzabile da: tutte le classi.
 
 **Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 100', e si allarga a una base di 20' (la "punta" del cono, alla bocca del corno, è larga 10'). Utilizzabile da: tutte le classi.
 
-**Corno del Valhalla, Argento**: Evoca 2d4 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
+**Corno del Valhalla, Argento**: Evoca 1d6+1 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
 
-**Corno di Valhalla, Bronzo**: Evoca 2d4 guerrieri berserk (3 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti e Clerici.
+**Corno di Valhalla, Bronzo**: Evoca 1d6+1 guerrieri berserk (3 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti e Clerici.
 
-**Corno del Valhalla, Ferro**: Evoca 2d4 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
+**Corno del Valhalla, Ferro**: Evoca 1d6+1 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
 
 **Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai tiri salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I Campioni che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30' e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
 
@@ -746,7 +746,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
   
   - *Regina*: Il personaggio muore all'istante.
   
-  - *Jack*: Un mostro casuale, con 1d4+6 DV, attacca gli avventurieri. Il mostro guadagna un turno di sorpresa, perché appare dal nulla.
+  - *Jack*: Un mostro casuale, con 1d3+7 DV, attacca gli avventurieri. Il mostro guadagna un turno di sorpresa, perché appare dal nulla.
 
 - **Quadri** (♦)
   
@@ -784,7 +784,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia a una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove a una velocità di 30. Utilizzabile da: tutte le classi.
 
-**Tubi delle Fogne**: Questi tubi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (che richiede 1d4 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che viene fatta (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
+**Tubi delle Fogne**: Questi tubi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (che richiede 1d6 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che viene fatta (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
 
 **Vanga da Scavo**: Questa vanga dall'aspetto ordinario scava da sola quando viene comandata, spalando fuori 1 metro cubo (3 x 3 x 3) ogni dieci minuti. Utilizzabile da: guerrieri.
 
@@ -800,22 +800,22 @@ Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratt
 
 #### Tabella 70: Oggetti Maledetti
 
-| Rotolo | **Articoli Maledetti**               |
-|:------:|:------------------------------------:|
-| 1      | Borsa del Divoramento                |
-| 2      | Incensiere degli Elementali Ostili   |
-| 3      | Mantello del Veleno                  |
-| 4      | Sfera di Cristallo della Suggestione |
-| 5      | Stivali Danzanti                     |
-| 6      | Fiaschetta delle Maledizioni Tappate |
-| 7      | Corno del Crollo                     |
-| 8      | Medaglione dei Pensieri Proiettati   |
-| 9      | Specchio dell'Opposizione            |
-| 10     | Veste della Debolezza                |
+| Rotolo |        **Articoli Maledetti**        |
+| :----: | :----------------------------------: |
+|   1    |        Borsa del Divoramento         |
+|   2    |  Incensiere degli Elementali Ostili  |
+|   3    |         Mantello del Veleno          |
+|   4    | Sfera di Cristallo della Suggestione |
+|   5    |           Stivali Danzanti           |
+|   6    | Fiaschetta delle Maledizioni Tappate |
+|   7    |           Corno del Crollo           |
+|   8    |  Medaglione dei Pensieri Proiettati  |
+|   9    |      Specchio dell'Opposizione       |
+|   10   |        Veste della Debolezza         |
 
 ### Descrizioni degli Oggetti Maledetti
 
-**Borsa del Divoramento**: Funziona come un sacchetto, ma divora qualsiasi oggetto posto al suo interno entro 1d4+1 ore.
+**Borsa del Divoramento**: Funziona come un sacchetto, ma divora qualsiasi oggetto posto al suo interno entro 1d3+2 ore.
 
 **Corno del Crollo**: Quando viene suonato, questo corno provoca un'esplosione distruttiva verso l'alto, sgretolando qualsiasi soffitto e facendolo crollare.
 
