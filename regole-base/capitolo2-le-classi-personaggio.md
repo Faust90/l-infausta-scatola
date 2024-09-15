@@ -309,6 +309,10 @@ I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di 
 
 Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
 
+#### Bonus di esperienza per la Costituzione
+
+La Costituzione è l'Attributo Primario dei Dvergar, il che significa che un punteggio di Costituzione di 15+ garantisce un ulteriore 5% di esperienza.
+
 ## Il Silvano
 
 È un piccolo umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
@@ -354,3 +358,8 @@ Un Silvano di nono livello o superiore può diventare un anziano e custode di un
 |    8    |     160,000      |    4+1    |     +0      |   3   |   3   |   3   |   2   |   -   |
 |    9    |     320,000      |     5     |     +0      |   3   |   3   |   3   |   2   |   1   |
 |   10    |     640,000      |    5+1    |     +0      |   3   |   3   |   3   |   3   |   2   |
+
+
+#### Bonus di esperienza per la Saggezza
+
+La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di CostSaggezzaituzione di 15+ garantisce un ulteriore 5% di esperienza.

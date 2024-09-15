@@ -143,7 +143,7 @@ Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la lor
 *Movimento*: 120' (40')   
 *DVE/PE*: 7/600
 
-I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1-6 tiri per attaccare a ogni turno i nemici eroici/supereroici con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre turni.
+I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1d6 tiri per attaccare a ogni Round con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre turni.
 
 ### Cane
 
@@ -151,7 +151,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 *Dadi Vita*: 1  
 *Attacchi*: Artigli/morso (1d6-1)  
 *Speciale*: Nessuno   
-*Movimento*: 150' (50') 
+*Movimento*: 150' (50')
 *DVE/PE*: 1/15
 
 I cani sono animali da branco dall'olfatto acuto che abitano le pianure e le praterie. Possono essere addestrati solo se separati dal branco da cuccioli, ma poi avranno +2 di lealtà.
@@ -881,6 +881,28 @@ I golem sono creature a forma di uomo costruite per servire i loro padroni, di s
 
 Una creazione cucita insieme da membra umane e altre parti, come il mostro di Frankenstein. I danni inflitti dai fulmini guariscono il golem, ed è rallentato dal fuoco e dal freddo. Nessun altro tipo di incantesimo che non sia il fulmine, il fuoco o il freddo colpisce un golem di carne. Solo le armi magiche +1 o migliori possono danneggiare un golem di carne.
 
+### Golem, Diamante
+
+*Classe Armatura*: 18  
+*Dadi Vita*: 17  
+*Attacchi*: Pugno o Arma (4d6)  
+*Speciale*: Vedi sotto  
+*Movimento*: 60' (20')  
+*DVE/PE*: 20/4,600
+
+I golem di Diamante sono enormi statue di diamantine in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro, ma le armi contundenti +3 fanno comunque solo 1 danno. Sono immuni a tutti gli incantesimi.
+
+### Golem, Fango
+
+*Classe Armatura*: 12  
+*Dadi Vita*: 8  
+*Attacchi*: Pugno (2d6)  
+*Speciale*: Vedi sotto  
+*Movimento*: 30' (10')  
+*DVE/PE*: 10/1,400
+
+I golem di fango sono enormi statue di fango animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole).  Prendono metà dei danni dagli incantesimi di fuoco, ma riducono il loro movimento della metà per un round dopo averli subiti. *Trasforma Fango in Roccia* lo trasforma in un *Golem di pietra*. Possono essere colpiti solo da armi magiche.
+
 ### Golem, Ferro
 
 *Classe Armatura*: 16  
@@ -912,7 +934,7 @@ Questi costrutti legnosi sono spesso scambiati per alberi e in genere proteggono
 *Movimento*: 60' (20')  
 *DVE/PE*: 16/3,200
 
-I golem di pietra sono enormi statue di pietra animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole). Sono rallentati dagli incantesimi di fuoco, e danneggiati/guariti dagli incantesimi da roccia a fango e viceversa. Gli incantesimi che danneggiano la roccia (e gli incantesimi di fuoco) sono le uniche magie che li feriscono. Possono essere colpiti solo da armi +2 o migliori.
+I golem di pietra sono enormi statue di pietra animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole). Sono rallentati (metà velocità) nel Round in cui subiscono incantesimi di fuoco. *Trasforma Roccia in fango* lo trasforma in un *Golem di fango*. Possono essere colpiti solo da armi +2 o migliori.
 
 ### Golem, Vetro
 
@@ -2009,3 +2031,8 @@ I mostri sono Personaggi Non Giocanti e le loro abilità non sono affatto determ
 |    13     |       2,300       |
 |    14     |       2,600       |
 |    15     |       2,900       |
+|    16     |       3,200       |
+|    17     |       3,500       |
+|    18     |       3,800       |
+|    19     |       4,200       |
+|    20     |       4,600       |

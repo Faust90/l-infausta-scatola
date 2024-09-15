@@ -15,7 +15,7 @@ il primo passo per giocare è quello di creare un Personaggio del Giocatore (PG)
 ### Dadi
 
 *L'Infausta Scatola* usa tre diversi tipi di dadi e sono qui indicati a seconda del numero di lati che hanno. 
-**Un dado a sei facce **è indicato come "d6". Se si richiede che un giocatore tiri "3d6" significa che dovrà lanciare tre (3) dadi a sei facce e sommare i risultati. 
+**Un dado a sei facce** è indicato come "d6". Se si richiede che un giocatore tiri "3d6" significa che dovrà lanciare tre (3) dadi a sei facce e sommare i risultati. 
 **I dadi venti** facce seguono lo stesso criterio.
 
 Quando viene chiesto di tirare **un d100, verranno tirati due dadi a dieci facce,** considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73". Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
@@ -31,13 +31,13 @@ Per *L'Infausta Scatola*, il foglio del personaggio può essere una cosa molto s
 
 ## Attributi
 
-Gli Attributi Primari sono numeri che rappresentano la Forza, la Destrezza, la Costituzione, l'Intelligenza, la Saggezza e il Carisma di un personaggio. Il metodo standard per determinare i punteggi degli attributi è quello di tirare 3d6 per ciascuno di essi nell'ordine menzionato in precedenza. Una volta che questi tiri sono stati effettuati, è spesso ovvio quale tipo di personaggio meglio si adatti alle abilità, sebbene il giocatore abbia sempre la possibilità di giocare qualsiasi classe desideri. Una volta che il giocatore ha scelto una classe, i punti degli altri attributi possono essere spostati (su una base di 2 a 1), ma solo nell'"Attributo Primario" di quella Classe Personaggio. In ogni caso, lo spostamento di punti non può comunque abbassare un altro punteggio di abilità sotto il 9. 
+Gli Attributi Primari sono numeri che rappresentano la Forza, la Destrezza, la Costituzione, l'Intelligenza, la Saggezza e il Carisma di un personaggio. Il metodo standard per determinare i punteggi degli attributi è quello di tirare 3d6 per ciascuno di essi nell'ordine menzionato in precedenza. Una volta che questi tiri sono stati effettuati, è spesso ovvio quale tipo di personaggio meglio si adatti alle abilità, sebbene il giocatore abbia sempre la possibilità di giocare qualsiasi classe desideri. 
 
-Alcuni Arbitri permettono una maggiore flessibilità (come opzione): un esempio è quello di permettere ai giocatori di tirare 3d6 per un totale di sei volte e disporre i tiri come preferiscono. Questo permette al giocatore di mettere i risultati migliori nelle abilità che meglio si adattano al tipo di personaggio che il giocatore vuole essere.
+Una volta che il giocatore ha scelto una classe, i punti degli altri attributi possono essere spostati (su una base di 2 a 1), ma solo nell'"Attributo Primario" di quella Classe Personaggio. In ogni caso, lo spostamento di punti non può comunque abbassare un altro punteggio di abilità sotto il 9. 
 
 ### Modificatore di attributo
 
-L'Infausta Scatola non fornisce molti modificatori per la gamma di punteggi degli attributi. Potete modificare il gioco per cambiare l'effetto che questi punteggi generano. La Tabella 1 fornisce la scala standard e gli effetti per i punteggi degli attributi. Sentitevi liberi di cambiare i valori. Per esempio, se preferite che il "Medio" rappresenti l'intervallo 9-12, modificate la tabella.
+L'Infausta Scatola non fornisce molti modificatori per la gamma di punteggi degli attributi. Potete modificare il gioco per cambiare l'effetto che questi punteggi generano. La Tabella 1 fornisce la scala standard e gli effetti per i punteggi degli attributi. 
 
 #### Tabella 1: Bonus Attributi
 

@@ -785,22 +785,23 @@ L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l
 - Se l'incantatore ha solo esperienza indiretta della posizione (conosciuta attraverso un'immagine o una mappa) c'è il 25% di probabilità di successo — e il fallimento rappresenta la morte.
 - Se l'incantatore ha visto ma non studiato la destinazione c'è il 20% di possibilità di fallimento. Metà dei fallimenti porterà il viaggiatore 1d20x5' sotto la posizione voluta, possibilmente risultando nella morte se arriva dentro una sostanza solida. L'altra metà dei fallimenti porterà il viaggiatore 1d20x5' sopra la posizione voluta, la quale risulterà possibilmente in una caduta mortale. 
 - Se l'incantatore è familiare con la posizione o l'ha studiata attentamente, c'è un 5% di possibilità, con 1 su 6 chance di fallimento si arrivi sopra o sotto la posizione bersaglio. In entrambi i casi, l'arrivo e 1d6x10' troppo alto o troppo basso. 
-
-### Trasformare la Roccia in Fango
-*Livello:* M5  
-*Raggio d'azione:* 120'  
-*Durata:* 3d6 giorni, o incantesimo invertito
-
-L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango o il fango in roccia. Un'area di circa 300' per 300' diventa una melma profonda, riducendo il movimento al 10% del normale. 
-
-### Trasformare i Bastoni in Serpenti
+- 
+### Trasformare Bastoni in Serpenti
 *Livello:* C4  
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
 L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 
-### Trovare le Trappole
+### Trasformare Roccia in Fango
+*Livello:* M5  
+*Raggio d'azione:* 120'  
+*Durata:* 3d6 giorni, o incantesimo invertito
+
+L'incantesimo trasforma la roccia (e qualunque altra forma di terreno) in fango o il fango in roccia. Un'area di circa 300' per 300' diventa una melma profonda, riducendo il movimento al 10% del normale. 
+
+
+### Trovare Trappole
 *Livello:* C2  
 *Raggio d'azione:* 30'  
 *Durata:* 20 minuti
