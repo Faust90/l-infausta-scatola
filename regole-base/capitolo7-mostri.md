@@ -895,13 +895,13 @@ I golem di Diamante sono temibili staute di diamante in movimento. Possono soffi
 ### Golem, Fango
 
 *Classe Armatura*: 12  
-*Dadi Vita*: 8  
-*Attacchi*: Pugno (2d6)  
+*Dadi Vita*: 7  
+*Attacchi*: Pugno (1d6-1)  
 *Speciale*: Vedi sotto  
 *Movimento*: 30' (10')  
 *DVE/PE*: 10/1,400
 
-I golem di fango sono enormi statue di fango animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole).  Prendono metà dei danni dagli incantesimi di fuoco, ma riducono il loro movimento della metà per un round dopo averli subiti. *Trasforma Fango in Roccia* lo trasforma in un *Golem di pietra*. Possono essere colpiti solo da armi magiche.
+I golem di fango sono statue di fango animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole). Prendono metà dei danni dagli incantesimi di fuoco, che inoltre dimezzano il loro movimento per un Round dopo averli subiti. *Trasforma Fango in Roccia* lo trasforma in un *Golem di pietra*. Possono essere colpiti solo da armi magiche.
 
 ### Golem, Ferro
 
