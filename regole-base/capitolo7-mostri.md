@@ -1000,22 +1000,22 @@ Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza sepa
 *Movimento*: 90' (30')  
 *DVE/PE*: 40/10.400
 
-Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Questi bestioni si avvistano da soli e possono assumere qualsiasi forma tra cui un grande cavaliere corazzato, un mammut e un rinoceronte. Un juggernaut è così massiccio che viene spinto su enormi rulli di pietra e tutto ciò che cade sul suo cammino viene schiacciato completamente sotto il suo peso.
+Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Questi bestioni si avvistano da soli e possono assumere qualsiasi forma tra cui un grande cavaliere corazzato, un mammut e un rinoceronte. Un juggernaut è così massiccio che si muove su enormi rulli di pietra e tutto ciò che cade sul suo cammino viene schiacciato completamente sotto il suo peso.
 
-Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini-tipo che avranno -2  al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
+Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
 
-Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. È invulnerabile alla maggior parte degli attacchi magici e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale e non può essere sottomesso.
+Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. È invulnerabile alla maggior parte degli attacchi magici e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
 
 ### Idra
 
 *Classe Armatura*: 14  
-*Dadi Vita*: 5-12 (uguale al numero di teste)  
-*Attacchi*: 5-12 morsi  
+*Dadi Vita*: 7-12 (uguale al numero di teste, 1d6+6)  
+*Attacchi*: 7-12 morsi  
 *Speciale*: Vedi sotto  
 *Movimento*: 90' (30')  
-*DVE/PE*: 6/400; 7/600; 8/800; 9/1,100; 10/1,400; 11/1,700; 12/2,000; 13/2,300
+*DVE/PE*: 8/800; 9/1,100; 10/1,400; 11/1,700; 12/2,000; 13/2,300
 
-Le Idre sono grandi creature simili a lucertole o serpenti con 5-12 teste. Ogni testa ha un proprio dado vita, e quando la testa viene uccisa, quella testa muore. Il corpo ha tanti dadi vita quanti sono quelli delle teste, quindi è una questione di buona strategia per gli avventurieri concentrarsi o sull'uccisione delle teste (quando tutte le teste sono morte il corpo muore) o sull'uccidere la creatura attaccando il corpo (nel qual caso anche le teste muoiono). Si sa che esistono idre che sputano fuoco o che rigenerano le loro teste. 
+Le Idre sono grandi creature simili a lucertole o serpenti con 7-12 teste. Ogni testa ha un proprio dado vita, e quando la testa viene uccisa, quella testa muore. Il corpo ha tanti dadi vita quanti sono quelli delle teste, quindi è una questione di buona strategia per gli avventurieri concentrarsi o sull'uccisione delle teste (quando tutte le teste sono morte il corpo muore) o sull'uccidere la creatura attaccando il corpo (nel qual caso anche le teste muoiono). Si sa che esistono idre che sputano fuoco o che rigenerano le loro teste. 
 
 ### Inseguitore Invisibile
 
