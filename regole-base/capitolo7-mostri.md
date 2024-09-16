@@ -890,7 +890,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 *Movimento*: 60' (20')  
 *DVE/PE*: 20/4,600
 
-I golem di Diamante sono temibili statue di diamante in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10' (Tiro Salvezza nega), oltre che ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di diamante, ma le armi contundenti +3 faranno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare* che li trasforma in *Golem di vetro*
+I golem di Diamante sono temibili statue di diamante in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10' (Tiro Salvezza nega), oltre che ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di diamante, ma le armi taglienti +3 faranno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare* che li trasforma in *Golem di vetro*
 
 ### Golem, Fango
 

@@ -321,24 +321,22 @@ Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio
 La Destrezza è l'Attributo Primario dei Ladri, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
 ## Il Paladino
-I Paladini sono santi cavalieri asceti della legge e della virtù. I combattenti possono combattere per il gusto di farlo, i Paladini invece seguono un codice rigoroso - ogni loro colpo di spada ha un significato e una conseguenza. I Paladini sono guerrieri mistici che sono la rovina di tutta la tirannia e del male. Molti Paladini servono anche un dio legale.
-
-I Paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-Paladini) che possono essere scelti se l'Arbitro è d'accordo.
+I Paladini sono cavalieri votati alla causa dell'ordine e della legge. I Campioni possono combattere per il gusto di farlo, i Paladini invece seguono un codice rigoroso - ogni loro colpo di spada ha un significato e una conseguenza. I Paladini sono guerrieri mistici che sono la rovina del caos e del disordine. I Paladini devono essere sempre legali.
 
 #### Tabella 7: Avanzamento del Paladino
 
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Orgoglio |
-|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
-|    1    |         0        |     1     |      +0     |       13      |     2    |
-|    2    |       2.500      |     2     |      +0     |       12      |     4    |
-|    3    |       5.000      |     3     |      +1     |       11      |     6    |
-|    4    |      10.000      |     4     |      +2     |       10      |     8    |
-|    5    |      20.000      |     5     |      +3     |       9       |    10    |
-|    6    |      40.000      |     6     |      +3     |       8       |    12    |
-|    7    |      80.000      |     7     |      +4     |       7       |    14    |
-|    8    |      160.000     |     8     |      +4     |       6       |    16    |
-|    9    |      320.000     |     9     |      +5     |       5       |    18    |
-|    10   |      640.000     |     10    |      +6     |       4       |    20    |
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Zelo  |
+| :-----: | :--------------: | :-------: | :---------: | :---: |
+|    1    |        0         |     1     |     +0      |   2   |
+|    2    |      2.500       |     2     |     +1      |   4   |
+|    3    |      5.000       |     3     |     +2      |   6   |
+|    4    |      10.000      |     4     |     +3      |   8   |
+|    5    |      20.000      |     5     |     +4      |  10   |
+|    6    |      40.000      |     6     |     +5      |  12   |
+|    7    |      80.000      |     7     |     +6      |  14   |
+|    8    |     160.000      |     8     |     +7      |  16   |
+|    9    |     320.000      |     9     |     +8      |  18   |
+|   10    |     640.000      |    10     |     +9      |  20   |
 
 ### Abilità del Paladino
 
@@ -346,20 +344,24 @@ I Paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi
 I Paladini sono cavalieri ben addestrati, quindi possono usare qualsiasi arma e indossare qualsiasi armatura.
 
 #### Voti
-I Paladini devono essere sempre legali. Possono mantenere solo le ricchezze sufficienti a mantenere se stessi (e i loro uomini, ai livelli più alti). Qualsiasi ricchezza in eccesso viene donata a istituzioni caritatevoli o religiose.
+I Paladini devono essere sempre legali. 
+Non possono mentire o rimangiarsi la parola data.
+Possono mantenere solo le ricchezze sufficienti a mantenere se stessi (e i loro uomini, ai livelli più alti). Qualsiasi ricchezza in eccesso viene donata a istituzioni politiche o religiose che rappresentano i loro ideali.
 
-Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che potrebbe influenzare la sua mente. Se un Paladino rompe i suoi voti, anche il suo attributo di Orgoglio viene dimezzato.
+Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che influenza la sua mente. Se un Paladino rompe i suoi voti, perde questa immunità e il suo Zelo viene azzerato.
+Per ottenere redenzione e avere indietro i suoi poteri, deve essere sottoposto all'incantesimo *Missione* da parte di un Chierico o un Mago legale e raggiungere l'obiettivo che gli viene dato.
+L'Arbitro ha l'ultima parola sul'adeguatezza del compito quando l'incantesimo è lanciato da un compagno del Paladino.
 
-#### Orgoglio
-Il Paladino ha un attributo extra -- l'Orgoglio (ultima colonna nella tabella dell'avanzamento). Può spendere i suoi punti Orgoglio (che vengono ripristinati dopo ogni riposo) in due modi:
-- **Rinvigorire:** il Paladino può toccare un alleato e spendere qualsiasi quantità di Orgoglio, per ripristinare la stessa quantità di PF.
-- **Colpire:** il Paladino può toccare un non morto o un demone e spendere una quantità qualsiasi di Orgoglio per infliggere la stessa quantità di danni alla creatura (non è necessario un tiro per attaccare).
+#### Zelo
+Il Paladino può spendere i suoi punti Zelo (che vengono ripristinati dopo ogni riposo) in due modi:
+- **Rinvigorire:** il Paladino può toccare un alleato e spendere qualsiasi quantità di Zelo per ripristinare così la stessa quantità di PF.
+- **Colpire:** il Paladino può toccare un non morto, un demone o un folletto e spendere una quantità qualsiasi di Zelo per infliggere la stessa quantità di danni alla creatura. Non occorre fare un tiro per colpire.
 
 #### Tiro salvezza
-I Paladini ricevono un bonus di +2 ai tiri salvezza contro qualsiasi effetto causato da non morti e demoni.
+I Paladini ricevono un bonus di +2 ai tiri salvezza contro qualsiasi effetto causato da non morti, folletti e demoni.
 
-#### Campione del Bene
-Un Paladino di decimo livello diventa un campione del bene. A questo livello il Paladino può iniziare la costruzione del proprio ordine. Il personaggio può scegliere di attirare altri cavalieri che combatteranno per la sua causa.
+#### Esemplare dell'ordine
+Un Paladino di decimo livello diventa un esemplare dell'ordine. A questo livello il Paladino può iniziare la costruzione del proprio santuario. Il personaggio può scegliere di attirare altri Paladini che combatteranno per la sua causa.
 
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.

@@ -192,7 +192,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 ## Pergamene
 
-Le pergamene sono scritti magici che contengono incantesimi. Possono essere usate solo dalla classe che può effettivamente lanciare l'incantesimo scritto sopra. Una volta usate, si sgretolano fino a diventare polvere. Le pergamene possono contenere rarissimi incantesimi di **sesto livello**, e sono l'unico modo per poter utilizzare magie di tale potenza
+Le pergamene sono scritti magici che contengono incantesimi. Possono essere usate solo dalla classe che può effettivamente lanciare l'incantesimo scritto sopra. Una volta usate, si sgretolano fino a diventare polvere. Le pergamene possono contenere rarissimi incantesimi di **sesto livello**, e sono l'unico modo per poter utilizzare magie di tale potenza. Solo i Chierici, i Maghi e i Silvani di 10° livello possono usare queste pergamene leggendarie
 
 Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio o maggiore.
 
