@@ -888,7 +888,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 *Attacchi*: Pugno o Arma (4d6)  
 *Speciale*: Vedi sotto  
 *Movimento*: 60' (20')  
-*DVE/PE*: 20/4,600
+*DVE/PE*: 20/4.000
 
 I golem di Diamante sono temibili statue di diamante in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10' (Tiro Salvezza nega), oltre che ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di diamante, ma le armi taglienti +3 faranno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare* che li trasforma in *Golem di vetro*
 
@@ -1737,7 +1737,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 *Movimento*: 180' (60')  
 *DVE/PE*: 23/5.300
 
-Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quanto gli uomini, alti il triplo e incredibilmente forti. Hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà altri 3d6 x 1.000 po.
+Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quanto gli uomini, alti il triplo e incredibilmente forti. Hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà 3d6 x 1.000 po.
 
 ## Titanotteri
 
@@ -2034,5 +2034,6 @@ I mostri sono Personaggi Non Giocanti e le loro abilità non sono affatto determ
 |    16     |       3,200       |
 |    17     |       3,500       |
 |    18     |       3,800       |
-|    19     |       4,200       |
-|    20     |       4,600       |
+|    19     |       4,100       |
+|    20     |       4,400       |
+|    +1     |       +300        |
