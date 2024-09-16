@@ -13,7 +13,7 @@ Quella che segue è una rapida guida di riferimento su come leggere le descrizio
 
 ### Classe Armatura
 
-La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. Se state usando il sistema di CA Discendente (dove una CA più bassa è migliore), ignorate i numeri tra parentesi. Se state usando il sistema di CA Ascendente (dove una CA più alta è migliore), usate i numeri tra parentesi.
+La "Classe Armatura" è spiegata in precedenza nelle regole di combattimento. 
 
 ### Attacchi
 
