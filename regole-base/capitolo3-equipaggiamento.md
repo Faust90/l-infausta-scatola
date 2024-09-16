@@ -131,16 +131,9 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 Silvani e Dvergar hanno bisogno di armature adatte alla loro statura. Il loro costo è identico a quello indicato in tabella, ma ovviamente non sarà possibile per loro indossare armature fatte per essere umani, come ad esempio quelle rubate da un gruppo di PNG umani sconfitti. È possibile far adattare per queste creature un'armatura umana presso un armaiolo, con una settimana di lavoro e pagando metà del suo valore. Le armature magiche si adattano automaticamente alla taglia del loro utilizzatore per via della loro natura sovrannaturale.
 
-### Calcolo della Classe Armatura
-
-Per calcolare la Classe Armatura di un personaggio, dovete decidere quale sistema utilizzare. I due sistemi hanno la stessa protezione dell'armatura, ma in uno di essi è meglio una Classe Armatura alta e nell'altro una Classe Armatura bassa. Decidete quale preferite:
-
-### Sistema AC Discendente
-
-Una persona senza armatura ha una CA di \10. La vostra armatura si aggiunge alla vostra CA, quindi più alta è, più difficile è per i vostri nemici colpirvi. Per calcolare la vostra Classe Armatura, guardate la tabella delle Armature, nella colonna "Effetto sulla...". Qualsiasi sia il tipo di armatura che voi abbiate acquistato, aggiungete il numero indicato tra parentesi alla vostra CA di base di 10\. Questa è la vostra nuova Classe Armatura.
-
 ### Conversione tra sistemi di classi d'armatura
 
+Questo gioco vuole essere compatibile con *La Scatola Bianca*, *B/X* e *BECMI*, che usano però una Classe Armatura decrescente.
 Per tradurre tra i sistemi di CA ascendente e discendente, i valori di classe d'armatura ascendente e discendente devono sommarsi a 19. Quindi, CA 7 è uguale a CAA \[12\] (12+7=19).
 
 ### Assumere Gregari

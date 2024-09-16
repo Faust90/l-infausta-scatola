@@ -16,7 +16,7 @@ il primo passo per giocare è quello di creare un Personaggio del Giocatore (PG)
 
 *L'Infausta Scatola* usa tre diversi tipi di dadi e sono qui indicati a seconda del numero di lati che hanno. 
 **Un dado a sei facce** è indicato come "d6". Se si richiede che un giocatore tiri "3d6" significa che dovrà lanciare tre (3) dadi a sei facce e sommare i risultati. 
-**I dadi venti** facce seguono lo stesso criterio.
+**I dadi a venti facce** seguono lo stesso criterio.
 
 Quando viene chiesto di tirare **un d100, verranno tirati due dadi a dieci facce,** considerando il primo tiro come le "decine" e il secondo come le "unità". Quindi, se con un lancio si ottenessero un "7" e poi un "3", il risultato sarebbe "73". Il tiro di due zeri equivale al risultato di "100", quindi non si può tirare uno "0" su un dado percentile. Il risultato più basso possibile è "1".
 

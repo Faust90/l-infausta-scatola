@@ -112,12 +112,12 @@ La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su 
 
 ### Nota sulla ricerca di porte segrete e trappole
 
-Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un portatorcia si apre una porta segreta e il giocatore dice "Esamino i portatorce sulla parete nord per trovare qualcosa di insolito", un Arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un tiro di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un tiro di dado o almeno un tiro con qualche tipo di adeguamento.
+Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da trovare automaticamente una trappola o una porta segreta. Per esempio, se spostando un portatorcia si apre una porta segreta e il giocatore dice "Esamino i portatorce sulla parete nord per trovare qualcosa di insolito", un Arbitro potrebbe automaticamente permettergli di capire come si apre la porta segreta. Se, invece, si limita a dire "cerco sul muro nord se ci sono porte segrete", l'Arbitro può richiedere un lancio di dado. Alcune caratteristiche potrebbero essere così ben nascoste da meritare sempre un lancio di dado o almeno un tiro con qualche tipo di adeguamento.
 
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'Arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un tiro di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+1\) L'Arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un lancio di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
 2\) Tutte le parti fanno una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
 3\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
 

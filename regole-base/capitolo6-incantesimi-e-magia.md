@@ -30,16 +30,17 @@ Gli incantesimi sono suddivisi in tre fasi. La prima è la memorizzazione (un pe
 |                              |       Trasformare i Bastoni in Serpenti       |
 
 
-|           Livello 5           |
-| :---------------------------: |
-|           Comunione           |
-|     Creare Cibo e Bevande     |
-| Dissolvere il Caos (la Legge) |
-|       Piaga di Insetti        |
+|           Livello 5           |       Livello 6\*       |
+| :---------------------------: | :---------------------: |
+|           Comunione           | Incantesimo della Morte |
+|     Creare Cibo e Bevande     |        Missione         |
+| Dissolvere il Caos (la Legge) |     Muovere l'Acqua     |
+|       Piaga di Insetti        |    Scudo Anti-Magico    |
 |           Missione            |
 |    Resurrezione dei Morti     |
 
 Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo — le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
+\* Possono essere lanciati solo dalle pergamene
 
 ## Lista degli Incantesimi del Mago
 
@@ -76,21 +77,23 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 |              Volare               |                           |
 
 
-|         Livello 5         |
-| :-----------------------: |
-|    Animare i Cadaveri     |
-|     Bloccare i Mostri     |
-|  Contattare altri Piani   |
-|     Crescita Animale      |
-|   Evocare un Elementale   |
-|  Muro di Pietra o Ferro   |
-|       Nube Mortale        |
-|        Passapareti        |
-|    Regressione Mentale    |
-|        Telecinesi         |
-|       Teletrasporto       |
-| Trasforma Roccia in Fango |
-|        Vaso Magico        |
+|         Livello 5         |          Livello 6\*           |
+| :-----------------------: | :----------------------------: |
+|    Animare i Cadaveri     |     Controllo Atmosferico      |
+|     Bloccare i Mostri     |          Disintegrare          |
+|  Contattare altri Piani   |    Incantesimo della Morte     |
+|     Crescita Animale      |     Inseguitore Invisibile     |
+|   Evocare un Elementale   |            Missione            |
+|  Muro di Pietra o Ferro   |        Muovere l'Acqua         |
+|       Nube Mortale        |        Muovere la Terra        |
+|        Passapareti        |     Proiettare un'Immagine     |
+|    Regressione Mentale    |         Reincarnazione         |
+|        Telecinesi         |       Scudo Anti-Magico        |
+|       Teletrasporto       | Trasformare la Pietra in Carne |
+| Trasforma Roccia in Fango |                                |
+|        Vaso Magico        |                                |
+
+\* Possono essere lanciati solo dalle pergamene
 
 ## Lista degli Incantesimi del Silvano
 
@@ -112,11 +115,14 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 | Evocare un animale  | Parlare con le Piante |
 |   Muro del vento    |      Passalberi       |
 
-|      Livello 5       |
-| :------------------: |
-|  Esplosione Solare   |
-| Risvegliare l'albero |
-|      Terremoto       |
+|      Livello 5       |      Livello 6\*      |
+| :------------------: | :-------------------: |
+|  Esplosione Solare   | Controllo Atmosferico |
+| Risvegliare l'albero |    Muovere l'Acqua    |
+|      Terremoto       |   Muovere la Terra    |
+|    Reincarnazione    |                       |
+
+\* Possono essere lanciati solo dalle pergamene
 
 ## Descrizione degli Incantesimi
 Di seguito sono elencati tutti gli incantesimi per Chierici, Maghi e Silvani in ordine alfabetico. La versione in parentesi è disponibile solo per i Chierici caotici. 
@@ -262,6 +268,14 @@ Questo incantesimo permette al Silvano di prevedere il tempo nella posizione cor
 
 L'incantatore crea un contatto mentale con i piani, le forze, i poteri e le geometrie dell'aldilà, affinché riceva risposte positive e negative alle domande che lo interessano. L'effetto dell'incantesimo dipende da quanto profondamente l'incantatore desidera inoltrarsi nel piano di esistenza. Tirare 1d20 nella tabella sotto. 
 
+### Controllo Atmosferico
+*Livello:* M6 o D6  
+*Raggio d'azione:* Raggio di 1 miglio
+*Durata:* 1 ora
+
+L'incantatore evoca o ferma la pioggia, i tornado, crea basse o alte temperature, schiarisce il cielo dalle nuvole o fa apparire delle nuvole.
+
+
 #### Tabella 30: Contattare altri Piani
 
 | Piano (*) | Follia (†) | Giusto | Sbagliato (‡) |
@@ -321,6 +335,13 @@ L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso 
 
 - Come Curare Ferite Gravi, l'incantatore cura 3d6+3 PF.
 - Come Causare Ferite Gravi, l'incantatore infligge 3d6+3 PF.
+
+### Disintegrare 
+*Livello:* M6  
+*Raggio d'azione:* 60'  
+*Durata:* Istantaneo
+
+L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o una statua e lo disintegra in polvere. Ai materiali magici non sono disintegrabili e alle creature viventi è concesso un tiro salvezza: per i materiali considerate che abbiano 7 DV + eventuali bonus magici, ad esempio una spada +3 sarà cosiderata avere 10 DV.
 
 ### Dissolvere il Caos (la Legge)
 *Livello:* C5  
@@ -390,6 +411,13 @@ Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantator
 
 Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone del Mago, ma colpisce gli animali.
 
+### Incantesimo di Morte
+*Livello:* M6  
+*Raggio d'azione:* 240'  
+*Durata:* Istantaneo
+
+Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
+
 ### Individuare il Caos (la Legge)
 *Livello:* C1, M2  
 *Raggio d'azione:* 120' (C), 60' (M)  
@@ -425,6 +453,14 @@ Funziona allo stesso modo dell'incantesimo Localizzare oggetto, ma ha effetto su
 *Durata*: Istantaneo
 
 Funziona allo stesso modo dell'incantesimo Trovare trappole, ma colpisce le trappole e le fosse.
+
+### Inseguitore Invisibile
+*Livello:* M6  
+*Raggio d'azione:* Vicino all'incantatore  
+*Durata:* Finché la missione non viene completata.
+
+Questo incantesimo evoca uno Inseguitore Invisibile con 8 DV. L'inseguitore compirà un solo compito come comandato dall'incantatore, indipendentemente da quanto sia lungo il compito o quanto debba viaggiare. L'inseguitore non può essere bandito per alcun motivo da Dissolvi Magie; deve essere ucciso per fermare la sua missione.
+
 
 ### Invisibilità 
 *Livello:* M2  
@@ -501,6 +537,29 @@ Questo incantesimo indica all'incantatore la direzione corretta (in linea d'aria
 *Durata*: Fino alla consegna del messaggio
 
 Il Silvano evoca un piccolo animale nella sua mano (per esempio: un uccello, un ratto), che cercherà di raggiungere il suo destinatario. Il Silvano può allegare una pergamena con un messaggio all'animale. Il messagero scompare quando raggiunge il suo destinatario.
+
+### Missione
+*Livello:* C5, M6  
+*Raggio d'azione:* 30'  
+*Durata:* Finché completo
+
+Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà totalmente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro dovrà determinare. 
+
+### Muovere l'Acqua
+*Livello:* M6, S6 
+*Raggio d'azione:* 240'  
+*Durata:* Vedere sotto 
+
+L'incantatore può annunciare quale delle due opzioni lancerà:
+- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
+- Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
+
+### Muovere la Terra
+*Livello:* M6, S6  
+*Raggio d'azione:* 240'  
+*Durata:* Istantaneo
+
+Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'incantatore di muovere le colline e alzare la terra o la pietra alla velocità di 6' al minuto per un'ora.
 
 ### Muro di Fuoco o Ghiaccio
 *Livello:* M4  
@@ -626,6 +685,13 @@ L'incantatore deve annunciare quale delle due opzioni sarà lanciata:
 
 Portale Dimensionale è una forma minore dell'incantesimo Teletrasporto che può essere gestita da maghi meno potenti. L'incantatore può teletrasportare se stesso, un oggetto o un'altra persona con precisione perfetto alla posizione prescelta, ammesso che sia nel raggio dell'incantesimo.
 
+### Proiettare un'Immagine
+*Livello:* M6  
+*Raggio d'azione:* 240'  
+*Durata:* 1 ora
+
+L'incantatore proietta l'immagine della sua persona fino a un massimo di 240'. Non solo l'immagine proiettata mima i rumori dell'incantatore e i gesti, ma ogni incantesimo lanciato sembrerà provenire dall'immagine. 
+
 ### Protezione dal Caos (dalla Legge)
 *Livello:* C1 , M1  
 *Raggio d'azione:* Solo incantatore  
@@ -671,6 +737,13 @@ Ragnatele appiccicose e fibrose riempiono un'area fino a 10' per 10' per 20'. È
 
 Regressione Mentale è un incantesimo che affligge solo i Maghi. Il tiro salvezza contro l'incantesimo è fatto con una penalità di -4 e, se il tiro salvezza fallisce, il Mago regredirà mentalmente finché la magia non viene dissolta.
 
+### Reincarnazione
+*Livello:* M6, S5  
+*Raggio d'azione:* Tocco  
+*Durata:* Istantaneo
+
+Questo incantesimo riporta l'anima di un personaggio morto dall'aldilà, ma l'anima riappare in un nuovo corpo completo dello stesso allineamento del deceduto. 
+
 ### Respirare Sott'Acqua
 *Livello:* M3  
 *Raggio d'azione:* 30'  
@@ -705,6 +778,13 @@ Questo incantesimo trasforma un albero toccato in un treant amichevole. I suoi D
 *Durata:* Istantaneo
 
 Questo incantesimo schiude e apre tutte le porte, cancelli e portali entro il suo raggio, includendo anche quelli bloccati o tenuti chiusi dalla normale magia.
+
+### Scudo Anti-Magico
+*Livello:* M6  
+*Raggio d'azione:* Incantatore  
+*Durata:* 2 ore
+
+Un bolla invisibile di forza circonda l'incantatore, impenetrabile alla magia. Incantesimi o altri effetti magici non possono passare dentro o fuori dallo scudo.
 
 ### Scurovisione
 *Livello:* M3  
@@ -792,6 +872,13 @@ L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l
 *Durata:* 1 ora
 
 L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
+
+### Trasformare la Pietra in Carne
+*Livello:* M6  
+*Raggio d'azione:* 120'  
+*Durata:* Permanente finché non viene invertito
+
+Questo incantesimo trasforma la carne in pietra o pietra in carne, come desiderato dall'incantatore. Un tiro salvezza è concesso per evitare di essere tramutato in roccia, ma se l'incantesimo riesce la vittima viene trasformata in una statua. 
 
 ### Trasformare Roccia in Fango
 *Livello:* M5  

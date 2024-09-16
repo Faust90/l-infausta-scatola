@@ -25,19 +25,23 @@ Detto questo, l'Arbitro deve ricordarsi di essere neutrale nelle sue decisioni. 
 ## Non eludere il risultato di un tiro
 È sempre più spesso consigliato agli Arbitri di ignorare o modificare il risultato dei tiri se questo va contro la trama dell'avventura o le possibilità di sopravvivenza dei personaggi. In un gioco della Vecchia Scuola, dove la sopravvivenza dei personaggi non è garantita e non è prevista alcuna "immunità di trama" (anzi dove la narrazione è più spesso di tipo emergente), è importante che l'Arbitro sia interprete imparziale del risultato dei dadi così come tirati. E anzi consigliabile tirare la maggior parte dei dadi, sopratutto in combattimento, allo scoperto e non dietro allo schermo. Si potrebbero mantenere celati dietro lo schermo i tiri che determinano l'esito di prove di cui il PG non deve essere consapevole (per esempio il successo delle abilità di Ladri o simili), oppure la generazione casuale di elementi di gioco il cui scopo è sorprendere i giocatori e mantenere vivo il gioco.
 
-## Condurre un gioco senza talenti
+## Condurre un gioco vecchia scuola
 
-La più grande differenza tra le versioni moderne e quelle più vecchie come *L'Infausta Scatola* è l'aggiunta dei talenti dei personaggi nelle versioni moderne. Se siete abituati a permettere ai giocatori di dire semplicemente "Sto cercando nella stanza. Cosa trovo?" e fare un tiro di ricerca o dire semplicemente "Cercherò di persuadere il barone a prestarci una catapulta" e fare un tiro di persuasione, condurre il gioco senza tiri sui talenti richiederà tanti cambiamenti al vostro modo di pensare quanti a quello dei vostri giocatori.
+La più grande differenza tra le versioni moderne e quelle più vecchie come *L'Infausta Scatola* è l'utilizzo delle abilità e caratteristiche dei personaggi come sostituto del dialogo al tavolo e dell'interazione attiva con il mondo di gioco. L'esempio più classico è il giocatore che dice "Entro nella stanza, cosa vedo?" con l'Arbitro che risponde "fammi un tiro di percezione".
 
-Per prima cosa, avete bisogno che i vostri giocatori vi dicano cosa stanno effettivamente facendo i loro personaggi nel mondo della campagna, invece di parlare in termini di quale talenti stanno usando. Poi dovete imparare ad ascoltare ciò che dicono e decidere se la loro descrizione di ciò che stanno facendo a) risolverebbe molto probabilmente il problema, b) non avrebbe la possibilità di risolvere il problema, c) potrebbe non risolvere immediatamente il problema ma fornirebbe più informazioni che aiuterebbero a risolvere il problema o d) non risolverebbe sicuramente il problema ma ha una buona possibilità di farlo. Solo l'opzione d richiederebbe un tiro di dado.
+Per prima cosa, avete bisogno che i vostri giocatori vi dicano **cosa stanno effettivamente facendo i loro personaggi** nel mondo della campagna, invece di parlare in termini di quale abilità stiano usando. Poi dovete **imparare ad ascoltare ciò che dicono** e **decidere** se la loro descrizione di ciò che stanno facendo 
+1. risolverebbe molto probabilmente il problema
+2. non avrebbe la possibilità di risolvere il problema
+3. potrebbe non risolvere immediatamente il problema ma fornirebbe più informazioni che aiuterebbero la sua risoluzione
+4. non risolverebbe sicuramente il problema ma ha una buona possibilità di farlo. Solo questa opzione richiede un lancio di dado.
 
 Prendiamo come esempio il controllare un forziere per cercare delle trappole. Chiedete ai giocatori di descrivere in termini generali come controlleranno il forziere per le trappole. Notate che i termini generali sono sufficienti, l'idea è quella di vedere cosa fanno i personaggi, non di richiedere loro di descrivere ogni singolo muscolo e movimento degli occhi che fanno.
 
 Diciamo che un giocatore dice: "Guarderò velocemente il forziere alla ricerca di trappole ovvie, prestando particolare attenzione al buco della serratura, alla chiusura e a tutto ciò che sembra fuori dall'ordinario. Non lo tocco ancora."
 
-Se il forziere avesse un ago avvelenato vicino alla chiusura o qualche buco da cui far uscire gas velenoso o aghi, questo dovrebbe essere sufficiente al personaggio per notarlo senza un tiro, anche se non è un Ladro o simile. Tuttavia, se il forziere è impostato per esplodere (o sparare pugnali dall'apertura quando viene aperto), un tipo di ricerca simile non scoprirà la trappola — di nuovo, non importa quale sia la classe del personaggio, poiché una trappola del genere non è visibile dall'esterno. Se vi sentite generosi, potreste far fare un tiro al Ladro e, se lo fa, dire al suo giocatore che anche se non vede una trappola c'è ancora qualcosa che non va nel forziere.
+Se il forziere avesse un ago avvelenato vicino alla chiusura o qualche buco da cui far uscire gas velenoso o aghi, questo dovrebbe essere sufficiente al personaggio per notarlo senza un tiro, anche se non è un Ladro o simile. Tuttavia, se il forziere è impostato per esplodere (o sparare pugnali dall'apertura quando viene aperto), un tipo di ricerca simile non scoprirà la trappola — di nuovo, non importa quale sia la classe del personaggio, poiché una trappola del genere non è visibile dall'esterno. L'Arbito potrò chiedere, in questo caso, ad un Ladro di usare la sua abilità che, se avrà successo,  gli permetterà di capire che c'è ancora qualcosa che non va nel forziere.
 
-Se il personaggio avesse detto che stava punzecchiando il forziere con un'asta invece che precipitarsi ad aprirlo, potrebbe sentire qualcosa di strano se il forziere avesse la suddetta trappola di pugnali. Naturalmente, a meno che non sia un Ladro, è probabile che non assocerà il rumore a una trappola, ma solo al fatto che c'è qualcosa che non va nel forziere.
+Se il personaggio avesse detto che stava punzecchiando il forziere con un'asta invece che precipitarsi ad aprirlo, potrebbe sentire qualcosa di strano se il forziere avesse la suddetta trappola eplosiva. Naturalmente, a meno che non sia un Ladro, è probabile che non assocerà il rumore a una trappola, ma solo al fatto che c'è qualcosa che non va nel forziere.
 
 ## Sul fallimento
 
@@ -115,9 +119,5 @@ Molte avventure scritte per i giochi della Vecchia Scuola sono progettate con l'
 
 - Assicuratevi che i giocatori sappiano che sono disponibili gregari e mercenari e che ne avranno sicuramente bisogno.
 - Permettere ad ogni giocatore di avere due personaggi. Mentre le edizioni moderne dei GDR lo rendono difficile a causa delle molte opzioni e di tutti i poteri dei PG che un giocatore deve tenere sotto controllo, le regole più semplici e la meccanica dei personaggi di *L'Infausta Scatola* permettono alla maggior parte dei giocatori un po' esperti di giocare due personaggi senza tanti problemi.
-- Usate le regole speciali nel capitolo **Gruppi ridotti**.
-- Calibrate le sfide in modo che rispondano meglio al numero di giocatori al vostro tavolo.
-
-Una combinazione di queste opzioni è anche una soluzione praticabile.
 
 Le migliori ambientazioni e avventure, comunque, sono quelle che create voi stessi per la vostra campagna. Non c'è bisogno che siano elaborate come quelle prodotte per l'uso da parte di altri, né tanto meno così fantasiose come quelle scritte per la pubblicazione professionale.

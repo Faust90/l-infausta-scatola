@@ -179,6 +179,51 @@ Il personaggio può scegliere di attirare un seguito di soldati, che giureranno 
 
 La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
 
+## Il Dvergar
+
+Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura fatte di piccole radici, mentre la loro pelle ha l'aspetto della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per decorare i loro corpi terrosi: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
+
+#### Tabella 8: Avanzamento del Dvergar
+
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Sapere Dvergar |
+| ------- | ---------------- | --------- | ----------- | -------------- |
+| 1       | 0                | 1         | +0          | 2              |
+| 2       | 2,000            | 2         | +1          | 2              |
+| 3       | 4,00             | 3         | +1          | 2              |
+| 4       | 8,000            | 3+1       | +2          | 3              |
+| 5       | 16,000           | 4         | +2          | 3              |
+| 6       | 32,000           | 5         | +3          | 3              |
+| 7       | 64,000           | 6         | +3          | 4              |
+| 8       | 128,000          | 6+1       | +4          | 4              |
+| 9       | 256,000          | 7         | +4          | 4              |
+| 10      | 512,000          | 8         | +5          | 5              |
+
+### Abilità dei Dvergar
+
+#### Restrizioni su Armi e Armature
+
+I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani o utilizzare armature non adattate alla loro statura.
+
+#### Infravisione
+
+I Dvergar possono utilizzare una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
+
+#### Sapere Dvergar
+
+I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterranei** (passaggi segreti, trappole artificiali, pericoli naturali ecc.) oppure **storia e segni del passaggio di creature che vivono sottoterra**. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
+
+#### Tiro Salvezza
+
+I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannoso di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
+
+#### Lingue
+
+Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
+
+#### Bonus di esperienza per la Costituzione
+
+La Costituzione è l'Attributo Primario dei Dvergar, il che significa che un punteggio di Costituzione di 15+ garantisce un ulteriore 5% di esperienza.
+
 ## Il Mago
 
 Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera. Possono essere avversari devastanti. Tuttavia, ai livelli più bassi, sono piuttosto vulnerabili e devono essere protetti dagli altri membri del gruppo. Man mano che progrediscono, i maghi diventano generalmente la più potente delle Classi Personaggio, in grado di influenzare i destini politici di grandi regni e di creare potenti artefatti magici.
@@ -268,50 +313,49 @@ Un ladro di nono livello o superiore può scegliere di stabilire un nascondiglio
 
 La Destrezza è l'Attributo Primario dei Ladri, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
 
-## Il Dvergar
+## Il Paladino
+I Paladini sono santi cavalieri asceti della legge e della virtù. I combattenti possono combattere per il gusto di farlo, i Paladini invece seguono un codice rigoroso - ogni loro colpo di spada ha un significato e una conseguenza. I Paladini sono guerrieri mistici che sono la rovina di tutta la tirannia e del male. Molti Paladini servono anche un dio legale.
 
-Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura fatte di piccole radici, mentre la loro pelle ha l'aspetto della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per decorare i loro corpi terrosi: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
+I Paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-Paladini) che possono essere scelti se l'Arbitro è d'accordo.
 
-#### Tabella 8: Avanzamento del Dvergar
+#### Tabella 8: Avanzamento del Paladino
 
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Sapere Dvergar |
-| ------- | ---------------- | --------- | ----------- | -------------- |
-| 1       | 0                | 1         | +0          | 2              |
-| 2       | 2,000            | 2         | +1          | 2              |
-| 3       | 4,00             | 3         | +1          | 2              |
-| 4       | 8,000            | 3+1       | +2          | 3              |
-| 5       | 16,000           | 4         | +2          | 3              |
-| 6       | 32,000           | 5         | +3          | 3              |
-| 7       | 64,000           | 6         | +3          | 4              |
-| 8       | 128,000          | 6+1       | +4          | 4              |
-| 9       | 256,000          | 7         | +4          | 4              |
-| 10      | 512,000          | 8         | +5          | 5              |
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Orgoglio |
+|:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
+|    1    |         0        |     1     |      +0     |       13      |     2    |
+|    2    |       2.500      |     2     |      +0     |       12      |     4    |
+|    3    |       5.000      |     3     |      +1     |       11      |     6    |
+|    4    |      10.000      |     4     |      +2     |       10      |     8    |
+|    5    |      20.000      |     5     |      +3     |       9       |    10    |
+|    6    |      40.000      |     6     |      +3     |       8       |    12    |
+|    7    |      80.000      |     7     |      +4     |       7       |    14    |
+|    8    |      160.000     |     8     |      +4     |       6       |    16    |
+|    9    |      320.000     |     9     |      +5     |       5       |    18    |
+|    10   |      640.000     |     10    |      +6     |       4       |    20    |
 
-### Abilità dei Dvergar
+### Abilità del Paladino
 
-#### Restrizioni su Armi e Armature
+#### Restrizioni su armi e armature
+I Paladini sono cavalieri ben addestrati, quindi possono usare qualsiasi arma e indossare qualsiasi armatura.
 
-I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani o utilizzare armature non adattate alla loro statura.
+#### Voti
+I Paladini devono essere sempre legali. Possono mantenere solo le ricchezze sufficienti a mantenere se stessi (e i loro uomini, ai livelli più alti). Qualsiasi ricchezza in eccesso viene donata a istituzioni caritatevoli o religiose.
 
-#### Infravisione
+Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che potrebbe influenzare la sua mente. Se un Paladino rompe i suoi voti, anche il suo attributo di Orgoglio viene dimezzato.
 
-I Dvergar hanno una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
+#### Orgoglio
+Il Paladino ha un attributo extra -- l'Orgoglio (ultima colonna nella tabella dell'avanzamento). Può spendere i suoi punti Orgoglio (che vengono ripristinati dopo ogni riposo) in due modi:
+- **Rinvigorire:** il Paladino può toccare un alleato e spendere qualsiasi quantità di Orgoglio, per ripristinare la stessa quantità di PF.
+- **Colpire:** il Paladino può toccare un non morto o un demone e spendere una quantità qualsiasi di Orgoglio per infliggere la stessa quantità di danni alla creatura (non è necessario un tiro per attaccare).
 
-#### Sapere Dvergar
+#### Tiro salvezza
+I Paladini ricevono un bonus di +2 ai tiri salvezza contro qualsiasi effetto causato da non morti e demoni.
 
-I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterranei** (passaggi segreti, trappole artificiali, pericoli naturali ecc.) oppure **storia e segni del passaggio di creature che vivono sottoterra**. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
+#### Campione del Bene
+Un Paladino di decimo livello diventa un campione del bene. A questo livello il Paladino può iniziare la costruzione del proprio ordine. Il personaggio può scegliere di attirare altri cavalieri che combatteranno per la sua causa.
 
-#### Tiro Salvezza
-
-I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannoso di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
-
-#### Lingue
-
-Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
-
-#### Bonus di esperienza per la Costituzione
-
-La Costituzione è l'Attributo Primario dei Dvergar, il che significa che un punteggio di Costituzione di 15+ garantisce un ulteriore 5% di esperienza.
+#### Bonus di esperienza per il Carisma
+Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
 ## Il Silvano
 

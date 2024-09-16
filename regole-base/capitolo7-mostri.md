@@ -879,7 +879,7 @@ I golem sono creature a forma di uomo costruite per servire i loro padroni, di s
 *Movimento*: 90' (30')  
 *DVE/PE*: 12/2,000
 
-Una creazione cucita insieme da membra umane e altre parti, come il mostro di Frankenstein. I danni inflitti dai fulmini guariscono il golem, ed è rallentato dal fuoco e dal freddo. Nessun altro tipo di incantesimo che non sia il fulmine, il fuoco o il freddo colpisce un golem di carne. Solo le armi magiche +1 o migliori possono danneggiare un golem di carne.
+Una creazione cucita insieme da membra umane e altre parti, come il mostro di Frankenstein. I danni inflitti dai fulmini guariscono il golem, ed è rallentato dal fuoco e dal freddo. *Trasforma Carne in Pietra* lo trasforma in un *Golem di pietra*. Nessun altro tipo di incantesimo che non sia il fulmine, il fuoco o il freddo colpisce un golem di carne. Solo le armi magiche +1 o migliori possono danneggiare un golem di carne.
 
 ### Golem, Diamante
 
@@ -890,7 +890,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 *Movimento*: 60' (20')  
 *DVE/PE*: 20/4,600
 
-I golem di Diamante sono enormi statue di diamantine in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro, ma le armi contundenti +3 fanno comunque solo 1 danno. Sono immuni a tutti gli incantesimi.
+I golem di Diamante sono enormi statue di diamantine in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro, ma le armi contundenti +3 fanno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare*, che lo trasforma in un *Golem di vetro*
 
 ### Golem, Fango
 
@@ -934,7 +934,7 @@ Questi costrutti legnosi sono spesso scambiati per alberi e in genere proteggono
 *Movimento*: 60' (20')  
 *DVE/PE*: 16/3,200
 
-I golem di pietra sono enormi statue di pietra animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole). Sono rallentati (metà velocità) nel Round in cui subiscono incantesimi di fuoco. *Trasforma Roccia in fango* lo trasforma in un *Golem di fango*. Possono essere colpiti solo da armi +2 o migliori.
+I golem di pietra sono enormi statue di pietra animate da magie molto potenti (molto più di un semplice oggetto animato, in altre parole). Sono rallentati (metà velocità) nel Round in cui subiscono incantesimi di fuoco. *Trasforma Roccia in fango* lo trasforma in un *Golem di fango*. *Trasforma pietra in carne* lo trasforma in un *Golem di carne*.  Possono essere colpiti solo da armi +2 o migliori.
 
 ### Golem, Vetro
 
