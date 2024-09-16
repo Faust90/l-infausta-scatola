@@ -871,7 +871,7 @@ L'incantesimo trasporta l'incantatore o un'altra persona alla destinazione che l
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora
 
-L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in serpenti, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
+L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in *serpenti grandi*, ognuno ha la possibilità del 50% di essere velenoso. I serpenti seguono i suoi comandi, ma tornano a essere bastoni alla fine dell'incantesimo o quando vengono uccisi. 
 
 ### Trasformare la Pietra in Carne
 *Livello:* M6  

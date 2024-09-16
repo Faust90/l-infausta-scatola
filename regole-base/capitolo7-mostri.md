@@ -890,7 +890,7 @@ Una creazione cucita insieme da membra umane e altre parti, come il mostro di Fr
 *Movimento*: 60' (20')  
 *DVE/PE*: 20/4,600
 
-I golem di Diamante sono enormi statue di diamantine in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di ferro, ma le armi contundenti +3 fanno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare*, che lo trasforma in un *Golem di vetro*
+I golem di Diamante sono temibili staute di diamante in movimento. Possono soffiare una nuvola pietrificante nel raggio di 10', oltre ad attaccare con grande potenza. Solo le armi magiche +3 o migliori possono danneggiare un golem di diamante, ma le armi contundenti +3 fanno comunque solo 1 danno. Sono immuni a tutti gli incantesimi, tranne a *Disintegrare* che li trasforma in *Golem di vetro*
 
 ### Golem, Fango
 
@@ -945,7 +945,7 @@ I golem di pietra sono enormi statue di pietra animate da magie molto potenti (m
 *Movimento*: 90' (30')  
 *DVE/PE*: 9/1,100
 
-Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagliati, questi colossi sono talvolta animati per proteggere le chiese e altri luoghi sacri. Sono immuni alle armi non magiche e subiscono solo un punto di danno dagli attacchi effettuati con armi magiche che non siano contundenti. Prendono metà dei danni dagli incantesimi di fuoco, ma riducono il loro movimento della metà per un round dopo averli subiti. Sono immuni a tutte le altre forme di magia.
+Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagliati, questi colossi sono talvolta animati per proteggere le chiese e altri luoghi sacri. Sono immuni alle armi non magiche e subiscono solo un punto di danno dagli attacchi effettuati con armi magiche che non siano contundenti. Prendono metà dei danni dagli incantesimi di fuoco, che inoltre dimezzano il loro movimento per un Round dopo averli subiti. Sono immuni a tutte le altre forme di magia.
 
 ### Gorgone
 

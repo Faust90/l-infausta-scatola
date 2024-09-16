@@ -88,7 +88,7 @@ A causa di pratiche religiose segrete, i Chierici possono usare solo armi contun
 
 #### Lancio degli Incantesimi
 
-I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, come da tabella di avanzamento dei Chierici. Ogni giorno, il Chierico prega per un certo numero di incantesimi, scegliendo qualsiasi incantesimo dalla lista standard. I Chierici di divinità specifiche potrebbero avere una scelta di incantesimi completamente diversa, definita dall'Arbitro, ma il Chierico standard utilizza la lista di incantesimi standard.
+I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, come da tabella di avanzamento dei Chierici. Ogni mattina, il Chierico prega per avere un certo numero di incantesimi, scegliendo qualsiasi incantesimo dalla lista standard in base alla disponibilità indicata nella **tabella 3**. 
 
 #### Tiro Salvezza
 
@@ -183,7 +183,7 @@ La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio
 
 Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura fatte di piccole radici, mentre la loro pelle ha l'aspetto della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per decorare i loro corpi terrosi: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
 
-#### Tabella 8: Avanzamento del Dvergar
+#### Tabella 5: Avanzamento del Dvergar
 
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Sapere Dvergar |
 | ------- | ---------------- | --------- | ----------- | -------------- |
@@ -202,7 +202,7 @@ Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta pelur
 
 #### Restrizioni su Armi e Armature
 
-I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani o utilizzare armature non adattate alla loro statura.
+I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani da mischia o utilizzare armature non adattate alla loro statura.
 
 #### Infravisione
 
@@ -214,11 +214,16 @@ I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterra
 
 #### Tiro Salvezza
 
-I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannoso di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
+I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
 
 #### Lingue
 
 Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
+
+#### Costruire una Comunità
+
+Al nono livello, un Dvergar che sceglie di costruire una comunità sotterranea si considera aver raggiunto il grado di "Patriarca Dvergar" o "Matriarca Dvergar".
+Il personaggio può attirare un seguito di Dvergar di ogni età, che vivranno sotto la sua protezione e gli giureranno lealtà come fedeli seguaci.
 
 #### Bonus di esperienza per la Costituzione
 
@@ -252,7 +257,9 @@ I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e perga
 
 #### Incantesimo
 
-A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" efficacemente per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi.
+A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" efficacemente per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. 
+
+Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi. In alternativa, in città con grandi biblioteche può copiare incantesimi al costo di 200 pezzi d'oro per livello dell'incantesimo: ad esempio un incantesimo di secondo livello costerà 400 pezzi d'oro. Copiare un incantesimo richiede mezza giorna di studio per livello, nella quale il mago non può fare altre attività impegnative
 
 #### Tiro Salvezza
 
@@ -264,7 +271,7 @@ L'Intelligenza è l'Attributo Primario dei maghi, il che significa che un punteg
 
 #### Costruire una Torre
 
-Al decimo livello, un Mago ottiene il titolo di "strega" o "stregone" e può costruire una roccaforte per ospitare la sua biblioteca e il suo laboratorio. Attirerà un mix di mercenari, strani servitori e persino alcuni mostri (come le scimmie volanti). Questo eterogeneo seguito giurerà fedeltà e servirà rispetto al livello di fedeltà che il Mago riuscirà a ispirare.
+Al decimo livello, un Mago ottiene il titolo di "arcimaga" o "arcimago" e può costruire una roccaforte per ospitare la sua biblioteca e il suo laboratorio. Attirerà un mix di mercenari, strani servitori e persino alcuni mostri (come le scimmie volanti). Questo eterogeneo seguito giurerà fedeltà e servirà rispetto al livello di fedeltà che il Mago riuscirà a ispirare.
 
 ## Il Ladro 
 
@@ -272,7 +279,7 @@ Mentre ci sono molti che brandiscono spade e incantesimi mentre esplorano tombe 
 
 I Ladri spesso vanno equipaggiati con poche armi e armature leggere, e si affidano a grimaldelli e strumenti per la sopravvivenza. Quando il combattimento è inevitabile, svaniscono nell'oscurità, pronti ad affondare un pugnale nella schiena dei nemici ignari. I pochi ladri che riescono ad accumulare fortuna e gloria è probabile che si ritirino e fondino una gilda di altre persone con abilità simili.
 
-#### Tabella 7: Avanzamento del Ladro
+#### Tabella 6: Avanzamento del Ladro
 
 | Livello | Punti Esperienza | Dado Vita | Per Colpire | Furto |
 | ------- | ---------------- | --------- | ----------- | ----- |
@@ -318,7 +325,7 @@ I Paladini sono santi cavalieri asceti della legge e della virtù. I combattenti
 
 I Paladini devono essere sempre legali, anche se esistono cavalieri neri malvagi (anti-Paladini) che possono essere scelti se l'Arbitro è d'accordo.
 
-#### Tabella 8: Avanzamento del Paladino
+#### Tabella 7: Avanzamento del Paladino
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Tiro Salvezza | Orgoglio |
 |:-------:|:----------------:|:---------:|:-----------:|:-------------:|:--------:|
@@ -369,7 +376,7 @@ I Silvani possono usare solo clave, archi corti e balestre leggere. Possono indo
 I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
 
 #### Mutaforma
-Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. Il Silvano può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
+Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. La trasformazione dura 24 ore ma il Silvano può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
 
 **Piccolo animale:** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6 (lanciato dall'Arbitro).
 
@@ -384,9 +391,9 @@ I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi de
 I Silvani sanno parlare con gnoll, goblin, orchi e hobgoblin.
 
 #### Boschetto sacro
-Un Silvano di nono livello o superiore può diventare un anziano e custode di un boschetto sacro. Il Silvano deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
+Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
 
-#### Tabella 9: Avanzamento del Silvano
+#### Tabella 8: Avanzamento del Silvano
 
 
 |         |                  |           |             |                Incantesimi               
