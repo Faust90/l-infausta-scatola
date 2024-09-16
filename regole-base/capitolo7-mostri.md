@@ -1113,13 +1113,13 @@ I ratti mannari si trovano per lo più nelle città, appostati in vicoli ombrosi
 ### Lich
 
 *Classe Armatura*: 19  
-*Dadi Vita*: 12-18  
+*Dadi Vita*: 12-17 (1d6+11) 
 *Attacchi*: Tocco  
 *Speciale*: Vedi sotto  
 *Movimento*: 60' (20')  
-*DVE/PE*: 15/2,900; 16/3,200; 17/3,500; 18/3,800; 19/4,100; 20/4,400; 21/4,700
+*DVE/PE*: 15/2,900; 16/3,200; 17/3,500; 18/3,800; 19/4,100; 20/4,400; 
 
-I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di incantatore del mago originale (e lo stesso livello dei suoi DV). Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono molto maligni e intelligenti.
+I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di un mago di 10° livello. Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono molto maligni e intelligenti.
 
 ### Lumaca, Gigante
 
