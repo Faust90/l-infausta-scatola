@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili creature Fey (o non-morte) che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. A discrezione dell'Arbitro, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -208,6 +208,18 @@ Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandi
 *Speciale*: Nessuno  
 *Movimento*: 120' (40') / 240' (80') / 180' (60')    
 
+
+### Cavallo della Tempesta
+
+*Classe Armatura*: 18  
+*Dadi Vita*:  15
+*Attacchi*: Zoccolo (2d6+2)
+*Speciale*: Tempesta di fulmini  
+*Movimento*: 240' (80'), vedi sotto
+*DVE/PE*: 17/3.500
+
+Leggendario costrutto magico a forma di un grande stallone di metallo, al cui centro risiede un nucleo magico in grado di generare tuoni e fulmini. Il Cavallo della Tempesta è intelligente e malevolo, lasciandosi cavalcare da chi ha bisogno dei suoi poteri ma chiedendo sempre un grande prezzo. Può correre nell'aria come se corresse sul terreno e quando subisce danni da elettricità viene curato dello stesso ammontare. Senza poter fare altro per il resto del Round, può generare dal suo corpo una tempesta di fulmini che colpisce tutte le creature a sua scelta entro 80', infliggendo a ciascuna 7d6 danni elettrici (TS dimezza). Il Cavallo della Tempesta è anche immune a tutti gli incantesimi di 5° livello o inferiori. Sono immuni ai danni delle armi non magiche. Esiste un solo Cavallo della Tempesta, e si nasconde di solito in luoghi leggendari situati a grandi altitudini.
+    
 ### Chimera
 
 *Classe Armatura*: 15  
@@ -864,7 +876,7 @@ Gli gnomi sono esseri industriosi e pacifici. Abitano per lo più nelle profondi
 *Movimento*: 90' (30')  
 *DVE/PE*: < 1/10
 
-I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e (forse) i regni ultraterreni dei Fey. Attaccano con un -1 "per colpire" in piena luce del sole.
+I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e i regni ultraterreni dei Folletti. Attaccano con un -1 "per colpire" in piena luce del sole.
 
 ## Golem
 
@@ -979,17 +991,6 @@ I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. 
 *DVE/PE*: 8/800
 
 I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori di un'aquila. Queste creature possono essere addomesticate e cavalcate. Di solito nidificano in alta montagna, dove depongono le uova e cacciano le loro prede. Poiché i piccoli possono essere addomesticati, i giovani grifoni e le uova di grifone hanno un prezzo molto alto nei mercati delle grandi città o per i baroni e gli stregoni.
-
-### Hobgoblin
-
-*Classe Armatura*: 14  
-*Dadi Vita*: 1+1  
-*Attacchi*: Arma  
-*Speciale*: Nessuno  
-*Movimento*: 90' (30')  
-*DVE/PE*: 1/15
-
-Gli hobgoblin sono semplicemente dei grandi goblin, probabilmente una razza separata che vive separata dai loro cugini più piccoli. Per una questione di varietà della campagna, l'Arbitro potrebbe scegliere di rendere gli hobgoblin i goblin "Fey" della leggenda irlandese, mentre i goblin normali sono gli abitanti del sottosuolo più in stile Tolkien.
 
 ### Juggernaut
 
@@ -1302,7 +1303,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-Le ninfe sono dei Fey che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un tiro salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e condurranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
+Le ninfe sono dei Folletti che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un tiro salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e condurranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
 
 ### Ombra
 
@@ -1329,24 +1330,16 @@ Gli orchetti sono umanoidi stupidi e brutali che si riuniscono in tribù di cent
 ### Orco
 
 *Classe Armatura*: 14  
-*Dadi Vita*: 4+1  
+*Dadi Vita*: 4+1 / 5+4 
 *Attacchi*: Arma (1d6+2)  
 *Speciale*: Nessuna  
 *Movimento*: 90' (30')  
-*DVE/PE*: 4/120
+*DVE/PE*: 4/120 / 7/600 
 
-Gli orchi sono normalmente abbastanza stupidi, ma si possono incontrare versioni più intelligenti qua e là. A volte gli orchi vengono scambiati per troll.
+Gli orchi sono malvagi e brutali, ma normalmente abbastanza stupidi. Vivono da soli cacciando umani e animali nelle zone circostanti alla loro caverna.
 
-### Orco Mago
+Tuttavia, si possono occasionalmente incontrare Orchi particolarmente intelligenti (1 su d6 quando l'Arbitro decide di usare un Orco in un'avventura) che vestono elegantemente e abitano in ville sfarzose che hanno fatto costruire dai loro 3d6 schiavi umani. Questi orchi sono in grado di usare alcune magie: possono volare, diventare invisibile (come da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare *Sonno* e *Ammaliare Persone* una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza).
 
-*Classe Armatura*: 15  
-*Dadi Vita*: 5+4  
-*Attacchi*: Arma (1d6+2)  
-*Speciale*: Magia  
-*Movimento*: 120' (40') /180' (60') quando vola  
-*DVE/PE*: 7/600  
-
-L'orco mago è un orco con poteri magici, basato su una leggenda giapponese: un orco mago può volare, diventare invisibile (da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare Sonno e Ammaliare Persone una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza). Il folklore occidentale contiene anche molti esempi di orchi magici che cambiano forma (l'esempio più famoso è quello del Gatto con gli stivali), quindi ci potrebbero essere molti tipi diversi di orchi magici, che si chiamino o meno "orchi maghi".
 
 ### Orso
 
@@ -1627,12 +1620,12 @@ La dimensione e la natura dei serpenti marini è una questione che spetta all'Ar
 
 *Classe Armatura*: 17  
 *Dadi Vita*: 5  
-*Attacchi*: Lama Fey (2d6)  
+*Attacchi*: Lama fatata (2d6)  
 *Speciale*: Vedi sotto  
 *Movimento*: 120' (40')   
 *DVE/PE*: 7/600
 
-Gli Sidhe (pron. /ʃiː/) sono nobili Fey che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. Gli Sidhe attaccano con le loro lame magiche fey che infliggono 2d6 punti di danno e possono lanciare Alterare il Tempo, Invisibilità e Forza Fantasma una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
+Gli Sidhe (pron. /ʃiː/) sono nobili Folletti che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. Gli Sidhe attaccano con le loro lame magiche fatate che infliggono 2d6 punti di danno e possono lanciare *Accelerare / Rallentare*, *Invisibilità* e *Forza Fantasma* una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
 
 ### Spettro
 
@@ -1779,11 +1772,11 @@ I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e
 *Classe Armatura*: 15  
 *Dadi Vita*: 6+3  
 *Attacchi*: Artiglio (1d6+2)  
-*Speciale*: Rigenerazione  
+*Speciale*: Rigenerazione, Odio dei Silvani
 *Movimento*: 120' (40')   
 *DVE/PE*: 8/800
 
-I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. I troll si rigenerano, vale a dire che qualsiasi danno inflitto loro guarisce in pochi minuti (3 punti ferita per round). L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati.
+I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. Sono nemici giurati dei Silvani, la cui vista induce il Troll ad una furia cieca che gli concede +2 ai tiri di Morale. I troll si rigenerano: qualsiasi danno inflitto loro guarisce al ritmo di 3 punti ferita per round. L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati. Se esposti alla luce solare, si trasformano in pietra fino al successivo tramonto. I Troll che non sono colti alla sprovvista dall'alba si raggomitolano su loro stessi per mimetizzarsi mentre sono pietrificati. In questo caso, un Troll è quasi indistingubile da un grosso masso: esaminandolo attentamente c'è solo 1-2 su d6 possibilità di capire che un pietrone è in realtà un Troll pietrificato.
 
 ## Umani
 
@@ -1831,18 +1824,7 @@ I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, p
 *Movimento*: 120' (40')   
 *DVE/PE*: 2/30
 
-I bucanieri sono picconieri e rifiuti umani che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade o mazze e pugnali come le manosinistre.
-
-### Umano, Derviscio
-
-*Classe Armatura*: 11  
-*Dadi Vita*: 1+1  
-*Attacchi*: Arma  
-*Speciale*: Fanatismo   
-*Movimento*: 120' (40')   
-*DVE/PE*: 2/30
-
-I dervisci sono fanatici religiosi di tipo legale. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente chierici.
+I bucanieri sono picconieri e rifiuti umani che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade, mazze e pugnali.
 
 ### Umano, Mercenario
 
@@ -1909,7 +1891,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 *Movimento*: 120' (40')   
 *DVE/PE*: 3/60
 
-Gli zeloti sono fanatici religiosi di tipo caotico. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente anti-chierici.
+Gli zeloti sono fanatici religiosi. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente chierici.
 
 ### Unicorno
 

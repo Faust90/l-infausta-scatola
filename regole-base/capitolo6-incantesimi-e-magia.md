@@ -39,7 +39,7 @@ Gli incantesimi sono suddivisi in tre fasi. La prima è la memorizzazione (un pe
 |           Missione            |
 |    Resurrezione dei Morti     |
 
-Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesimo — le conseguenze per i Chierici legali che impiegano incantesimi caotici sono determinate dall'Arbitro di Gioco. 
+Il nome dell'incantesimo fra parentesi indica la versione "invertita" dell'incantesimo. Alcune fedi di divinità buone o legali potrebbero non vedere di buon occhio l'utilizzo continuato di queste varianti.
 \* Possono essere lanciati solo dalle pergamene
 
 ## Lista degli Incantesimi del Mago
@@ -63,7 +63,7 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 
 |             Livello 3             |         Livello 4         |
 | :-------------------------------: | :-----------------------: |
-|         Alterare il Tempo         |    Ammaliare i Mostri     |
+|         Accelerare / Rallentare         |    Ammaliare i Mostri     |
 |        Bloccare le Persone        |        Confusione         |
 |        Dissolvere le Magie        |     Crescita Vegetale     |
 |              Fulmine              |    Mutaforma di Massa     |
@@ -127,14 +127,14 @@ Il nome dell'incantesimo fra parentesi indica la versione caotica dell'incantesi
 ## Descrizione degli Incantesimi
 Di seguito sono elencati tutti gli incantesimi per Chierici, Maghi e Silvani in ordine alfabetico. La versione in parentesi è disponibile solo per i Chierici caotici. 
 
-### Alterare il Tempo
+### Accelerare / Rallentare
 *Livello:* M3  
 *Raggio d'azione:* 240'  
 *Durata:* 30 minuti
 
 L'incantatore deve annunciare quale delle due opzioni sarà lanciata. Entrambe le opzioni hanno 60' di raggio ad area di effetto:
-- Come incantesimo di accelerazione, fino a 24 creature possono muoversi e attaccare al doppio della normale velocità. 
-- Come incantesimo di rallentamento, fino a 24 creature che falliscono il tiro salvezza si muovono e attaccano a metà della velocità.
+- Come incantesimo di accelerazione, fino a 24 creature possono muoversi della normale velocità e raddoppiare gli attacchi fatti in quel Round. 
+- Come incantesimo di rallentamento, fino a 24 creature che falliscono il Tiro Salvezza si muovono a metà della velocità e non possono muoversi e attaccare nello stesso Round. Inoltre, i loro attachi per Round sono dimezzati per difetto.
 
 ### Ammaliare i Mostri
 *Livello:* M4  

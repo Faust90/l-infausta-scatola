@@ -44,6 +44,7 @@ Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere u
 - Pelle verde (goblin, orchi, troll)
 - Animale (ragni, cinghiali, uccelli)
 - Sottomondo (trogloditi, melme)
+- Folletti (banshee, nixie, pixie)
 
 Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti di 1d6. I Cacciatori possono avere più titoli.
 
@@ -62,7 +63,7 @@ La Destrezza è l'attributo principale dei Cacciatori, il che significa che un p
 
 I Chierici sono sacerdoti in armatura che servono un particolare allineamento, religione o divinità patrona. I giocatori possono inventare i dettagli se l'Arbitro non usa una particolare mitologia per la campagna. Se l'Arbitro è agli inizi, la mitologia e gli altri dettagli del mondo per la campagna spesso si svilupperanno in un secondo momento.
 
-Il Chierico è un campione della sua fede e del suo allineamento morale. Il personaggio potrebbe essere un sinistro cacciatore di streghe, un esorcista di demoni, uno splendente cavaliere della fede, o un agente segreto della gerarchia del tempio. Poiché molte delle abilità del Chierico sono orientate alla guarigione e alla protezione, tendono a svolgere un ruolo di supporto durante il combattimento. Tuttavia, sono in grado di stare spalla a spalla con i guerrieri del gruppo, se necessario, almeno per un po'. I Chierici devono essere o Legali (buoni) o Caotici (malvagi); non esistono Chierici Neutrali, a meno che l'Arbitro non decida altrimenti.
+Il Chierico è un campione della sua fede e del suo allineamento morale. Il personaggio potrebbe essere un sinistro cacciatore di streghe, un esorcista di demoni, uno splendente templare, o un agente segreto della gerarchia del tempio. Poiché molte delle abilità del Chierico sono orientate alla guarigione e alla protezione, tendono a svolgere un ruolo di supporto durante il combattimento. Tuttavia, sono in grado di stare spalla a spalla con i guerrieri del gruppo, se necessario, almeno per un po'.
 
 #### Tabella 3: Avanzamento del Chierico
 
@@ -84,7 +85,7 @@ Il Chierico è un campione della sua fede e del suo allineamento morale. Il pers
 
 #### Restrizioni su Armi e Armature
 
-A causa di pratiche religiose segrete, i Chierici possono usare solo armi contundenti (clava, flagello, mazza, ecc.) e l'unica arma a distanza consentita è l'olio. I chierici non hanno restrizioni di armatura.
+I Chierici sono addestrati solo superficialmente alle armi, per questo possono usare solo armi contundenti (clava, flagello, mazza, ecc.) e l'unica arma a distanza consentita è l'olio. I chierici non hanno restrizioni di armatura.
 
 #### Lancio degli Incantesimi
 
@@ -214,7 +215,7 @@ I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterra
 
 #### Tiro Salvezza
 
-I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Abitro ha l'ultima parola a riguardo). 
+I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Arbitro ha l'ultima parola a riguardo). 
 
 #### Lingue
 
@@ -390,7 +391,7 @@ I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale,
 I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
 
 #### Lingue
-I Silvani sanno parlare con gnoll, goblin, orchi e hobgoblin.
+I Silvani sanno parlare con i Troll, loro mortali nemici, i folletti.
 
 #### Boschetto sacro
 Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
