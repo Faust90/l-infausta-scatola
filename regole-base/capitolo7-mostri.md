@@ -218,7 +218,7 @@ Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandi
 *Movimento*: 240' (80'), vedi sotto
 *DVE/PE*: 17/3.500
 
-Leggendario costrutto magico a forma di un grande stallone di metallo, al cui centro risiede un nucleo magico in grado di generare tuoni e fulmini. Il Cavallo della Tempesta è intelligente e malevolo, lasciandosi cavalcare da chi ha bisogno dei suoi poteri ma chiedendo sempre un grande prezzo. Può correre nell'aria come se corresse sul terreno e quando subisce danni da elettricità viene curato dello stesso ammontare. Senza poter fare altro per il resto del Round, può generare dal suo corpo una tempesta di fulmini che colpisce tutte le creature a sua scelta entro 80', infliggendo a ciascuna 7d6 danni elettrici (TS dimezza). Il Cavallo della Tempesta è anche immune a tutti gli incantesimi di 5° livello o inferiori. Sono immuni ai danni delle armi non magiche. Esiste un solo Cavallo della Tempesta, e si nasconde di solito in luoghi leggendari situati a grandi altitudini.
+Leggendario costrutto magico a forma di un grande stallone di metallo, al cui centro risiede un nucleo magico in grado di generare tuoni e fulmini. Il Cavallo della Tempesta è intelligente e malevolo, lasciandosi cavalcare da chi ha bisogno dei suoi poteri ma chiedendo sempre un grande prezzo. Può correre nell'aria come se corresse sul terreno e quando subisce danni da elettricità viene curato dello stesso ammontare. Senza poter fare altro per il resto del Round, può generare dal suo corpo una tempesta di fulmini che colpisce tutte le creature a sua scelta entro 80', infliggendo a ciascuna 7d6 danni elettrici (TS dimezza). Può anche lanciare *Controllo Atmosferico* una volta al giorno. Il Cavallo della Tempesta è anche immune a tutti gli incantesimi di 5° livello o inferiori. Sono immuni ai danni delle armi non magiche. Esiste un solo Cavallo della Tempesta, e si nasconde di solito in luoghi leggendari situati a grandi altitudini.
     
 ### Chimera
 
@@ -262,7 +262,7 @@ I cinghiali sono maiali selvatici che si trovano nelle foreste e nelle pianure. 
 *Movimento*: 120' (40')   
 *DVE/PE*: 8/800
 
-I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio causando 2d6 punti di danno. Non fuggiranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita.
+I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio. Non fuggiranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita.
 
 ### Coboldi
 
@@ -279,12 +279,12 @@ I coboldi sono umanoidi sotterranei, vagamente assomiglianti a goblin. Hanno una
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 5  
-*Attacchi*: Morso  
-*Speciale*: Il morso trasforma in pietra  
+*Attacchi*: Beccata (1d6-1) 
+*Speciale*: Il becco trasforma in pietra  
 *Movimento*: 60' (30')/180' (60') quando vola  
 *DVE/PE*: 7/600
 
-Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il suo morso trasforma i nemici in pietra a meno che non venga effettuato con successo un tiro salvezza.
+Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il suo becco trasforma i nemici in pietra a meno che non venga effettuato con successo un tiro salvezza.
 
 ### Coccodrillo
 
@@ -332,7 +332,7 @@ I cyborg una volta erano uomini ma ora sono per lo più macchine; disumani e mal
 
 ## Demoni
 
-I demoni sono creature dei piani inferiori dell'esistenza, ma si incontrano occasionalmente in luoghi dove sono stati asserviti come guardiani da potenti maghi o chierici caotici. Le varietà più intelligenti possono anche essere sorprese mentre tramano per conto proprio. Non esiste una distinzione di gioco significativa tra demoni e diavoli.
+I demoni sono creature caotiche dei piani inferiori dell'esistenza, ma si incontrano occasionalmente in luoghi dove sono stati asserviti come guardiani da potenti maghi o chierici caotici. Le varietà più intelligenti possono anche essere sorprese mentre tramano per conto proprio. Non esiste una distinzione di gioco significativa tra demoni e diavoli.
 
 ### Demone, Balor
 
@@ -345,7 +345,7 @@ I demoni sono creature dei piani inferiori dell'esistenza, ma si incontrano occa
 
 Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di pipistrello; bruciano di fiamme infernali e ne sono avvolti. Gli incantesimi degli incantatori di livello inferiore al 6° non hanno effetto su di loro e contro gli incantatori di livello superiore sono ancora immuni al 75% a tutti gli incantesimi. In combattimento, un Balor usa la frusta e la spada; la frusta può essere usata per raggiungere grandi distanze - con un colpo riuscito la vittima viene tirata vicino al Balor e bruciata dalle fiamme del corpo del demone (3d6 danni). I Balor sono talvolta indicati nei testi antichi come Baalroch, che potrebbe essere il nome di un singolo demone anziché un termine che li indica tutti. Un Balor potrebbe essere costretto o ingannato al servizio di un potente mago, ma il rischio sarebbe immenso.
 
-### Demone, Folletto
+### Demone, Imp
 
 *Classe Armatura*: 16  
 *Dadi Vita*: 3  
@@ -376,7 +376,7 @@ I lemuri sono vagamente umanoidi: la loro carne è simile al fango, mutevole e m
 *Movimento*: 120' (40') / 150' (50') quando vola  
 *DVE/PE*: 6/400
 
-Una succube è un demone della lussuria che appare come una donna umana voluttuosa e poco vestita, con un grande paio di ali di pipistrello che le spuntano dalle scapole. Sebbene non sia efficace nel combattimento diretto, può Ammaliare con una parola o un bacio e spesso si circonda di un'orda di schiavi piegati al suo volere. Questa capacità permette alla Succube di lanciare Ammaliare le Persone a volontà. Se uccisa, il suo corpo fisico ritorna ai piani infernali di cui è originaria.
+Una succube è un demone della lussuria che appare come una donna umana voluttuosa e poco vestita, con un grande paio di ali di pipistrello che le spuntano dalle scapole. Sebbene non sia granché nel combattimento diretto, può *Ammaliare* con una parola o un bacio e spesso si circonda di un'orda di schiavi piegati al suo volere. Questa capacità permette alla Succube di lanciare *Ammaliare le Persone* a volontà. Se uccisa, il suo corpo fisico ritorna ai piani infernali di cui è originaria.
 
 ### Destriero Notturno
 
@@ -503,15 +503,13 @@ Le donnole giganti sono astuti cacciatori abili a muoversi in branchi agguerriti
 *Movimento*: 90' (30')  
 *DVE/PE*: 5/240
 
-Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compresi i vestiti e l'equipaggiamento) di qualsiasi persona. Queste creature sono immuni a Sonno e ad Ammaliare, e sono considerate resistenti alla magia per scopi quali lo scassinamento delle Serrature del Mago e incantesimi simili. Hanno un ottimo tiro salvezza (+5) contro la magia di qualsiasi tipo.
+Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compresi i vestiti e l'equipaggiamento) di qualsiasi persona. Queste creature sono immuni a *Sonno* e ad *Ammaliare*, e sono resistenti alla magia: hanno il 50% di ignorare gli incantesimi di livello 1 e 2.
 
 ## Draghi
 
 Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'Arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
 
-L'Arbitro non dovrebbe tirare per i punti ferita del drago, come si farebbe per altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per dado vita che quanti punti di danno dell'arma del respiro per dado vita il drago infligge.
-
-Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo respiro come arma.
+L'Arbitro non dovrebbe tirare per i punti ferita del drago, come per gli altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per DV che quanti punti di danno dell'arma del respiro per dado vita il drago infligge. Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo respiro come arma.
 
 #### Tabella 41: Categorie di Età dei Draghi
 
@@ -536,7 +534,7 @@ Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'a
 
 * Le dimensioni del soffio di un drago differiscono a seconda del tipo di drago.
 
-Notate che i draghi, pur essendo avversari pericolosi, non sono affatto invincibili. In un mondo fantasy di tipo medievale, i draghi sono un problema comune e non una creatura divina leggendaria, quindi le statistiche dei draghi riflettono un nemico mortale ma non mitico. L'Arbitro è, ovviamente, libero di creare statistiche per una concezione più "mitica" dei draghi. Poiché i dadi non vengono tirati per i punti ferita dei draghi, è possibile per un drago veramente mitico avere più "numeri" per dado di quanti sia effettivamente possibile tirare su un dado vita.
+Notate che i draghi, pur essendo avversari pericolosi, non sono affatto invincibili. I draghi sono un problema comune e non una creatura divina leggendaria, quindi le loro statistiche riflettono un nemico mortale ma non mitico. L'Arbitro è, ovviamente, libero di creare statistiche per una concezione più "mitica" dei draghi. Poiché i dadi non vengono tirati per i punti ferita dei draghi, è possibile per un drago veramente mitico avere più "numeri" per dado di quanti sia effettivamente possibile tirare su un dado vita.
 
 ### Drago, Bianco
 
@@ -614,7 +612,7 @@ Un tiro salvezza riuscito dimezza il danno.
 *Movimento*: 120' (40')   
 *DVE/PE*: 3/60
 
-Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un potente incantesimo di tipo Ammaliare Persone con un tiro salvezza di -2. Coloro che vengono incantati raramente ritornano o potrebbero essere trattenuti per cento anni e un giorno.
+Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un potente incantesimo di tipo *Ammaliare Persone* con un tiro salvezza di -2. Una driade è legata ad un albero magico dentro il quale si può fondere. Se questo albero viene distrutto, la driade muore. Coloro che vengono incantati vengono trattenuti come protettori dell'albero della Driade fino alla loro morte.
 
 ### Dvergar
 
@@ -686,27 +684,16 @@ Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagam
 
 Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscono gli avversari con i loro grandi pugni, anche se il danno è ridotto di 1d6 se l'avversario non è in piedi su terra o roccia. Gli elementali di terra possono fare a pezzi le strutture di pietra e sono in grado di abbattere anche le mura di un castello in 1d6+2 minuti.
 
-### Elfo
-
-*Classe Armatura*: 14  
-*Dadi Vita*: 1+1  
-*Attacchi*: Arco lungo o spada  
-*Speciale*: Nessuna  
-*Movimento*: 120' (40')   
-*DVE/PE*: 1/ 150' (50')
-
-L'esempio di cui sopra è per un elfo tipico; i guerrieri addestrati avrebbero probabilmente il massimo di 7 DV. Ovviamente, gli Elfi incontrati nel corso delle avventure di un gruppo di avventurieri avranno una varietà di poteri e attributi diversi. L'Arbitro assegnerà tali poteri come meglio crede, in accordo con il modo in cui immagina gli Elfi. Potrebbero essere gli abitanti dei boschi de Lo Hobbit di Tolkien, o gli alti Elfi del Signore degli Anelli, o potrebbero essere i folletti della leggenda irlandese. In ogni caso, come per i Nani, non preoccupatevi di cercare di far rientrare i vostri elfi "avanzati" nei vincoli delle classi personaggio - inventate semplicemente i loro attributi per adattarli a ciò che vi serve. I PNG non sono soggetti alle regole che governano la costruzione di un personaggio giocatore; sono i vostri strumenti per un buon fantasy, non un esercizio di applicazione di formule.
-
-### Elfo, Scuro
+### Èlph-edal
 
 *Classe Armatura*: 16  
-*Dadi Vita*: 2  
+*Dadi Vita*: 3  
 *Attacchi*: Vedi sotto  
 *Speciale*: Vedi sotto  
 *Movimento*: 120' (40')   
-*DVE/PE*: 2/30
+*DVE/PE*: 3/60
 
-Questi cugini degli elfi di superficie hanno la pelle scura e i capelli bianchi. Razziano tutti gli abitanti della superficie, ma soprattutto gli elfi che odiano di più. Solitamente brandiscono spade corte (1d6 danni) e balestre leggere i cui dardi sono rivestiti di un veleno paralizzante (1d6 danni, salvando o rimanendo paralizzati per un turno). Sono straordinariamente furtivi, sorprendendo i loro nemici con 1-4 su 1d6. Sono anche molto resistenti alla magia, ricevendo un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
+Umanoidi dalla pelle nero onice e dai capelli, gli occhi e i denti bianchissimi. Hanno corpi androgini dai lineamenti atletici ma delicati. Odiano gli altri esseri in modo totalmente irrazionale ed istintivo, ma sono abbastanza astuti da non uccidere chiunque vedano a vista: piuttosto, preferiscono capire come sfruttarli e prolungare le loro sofferenze. Vivono nei pressi di luoghi dove la magia è molto forte, come antiche fortezze di maghi leggendari o di Lich decaduti. Forse sono stati creati durante le grandi guerre degli arcimaghi per essere usati come esercito. Solitamente brandiscono spade +1 (1d6+1 danni) e balestre leggere i cui dardi sono rivestiti di un veleno paralizzante (1d6 danni, salvando o rimanendo paralizzati per un turno). Sono straordinariamente furtivi, sorprendendo i loro nemici con 1-4 su 1d6. Sono anche molto resistenti alla magia: ignorano gli incantesimi il 50% delle volte.
 
 ### Fata Drago
 
@@ -842,7 +829,7 @@ I giganti di pietra abitano nelle caverne, isolati nei pressi delle montagne. La
 *Movimento*: 150' (50') 
 *DVE/PE*: 16/3,200
 
-I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, i più magici e i più propensi a parlare con gli umani piuttosto che semplicemente a divorarli. I giganti della tempesta possono vivere in castelli sottomarini così come sulle alture delle montagne, lanciano massi per 7d6 punti di danno e hanno il potere di lanciare Controllo Atmosferico.
+I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, i più magici e i più propensi a parlare con gli umani piuttosto che semplicemente a divorarli. I giganti della tempesta possono vivere in castelli sottomarini così come sulle alture delle montagne, lanciano massi per 7d6 punti di danno e hanno il potere di lanciare *Controllo Atmosferico* a volontà.
 
 ### Gnoll
 
@@ -853,30 +840,19 @@ I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, 
 *Movimento*: 90' (30')  
 *DVE/PE*: 2/30
 
-Gli gnoll sono umanoidi alti con teste simili a iene. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia.
-
-### Gnomo
-
-*Classe Armatura*: 7  
-*Dadi Vita*: 1  
-*Attacchi*: Arco corto o Spada corta  
-(1d6-1)  
-*Speciale*: Forza fantasma  
-*Movimento*: 90' (30')  
-*DVE/PE*: 1/15
-
-Gli gnomi sono esseri industriosi e pacifici. Abitano per lo più nelle profondità del sottosuolo. Raramente sono più alti di 3' e hanno barbe lunghe e nasi appuntiti. Sono pacifici per natura, cercando solo di estrarre gemme e altri oggetti di valore, impegnandosi in scherzi occasionali. Gli gnomi sono nemici naturali di goblin e coboldi, nonché abili illusionisti. Tutti gli gnomi possono lanciare Forza Fantasma una volta al giorno.
+Gli gnoll sono crudeli umanoidi con teste simili a orrende iene. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia. Sono frutto della corruzione demoniaca di uomini e animali comuni: per questo venerano i demoni e le creature infernali.
 
 ### Goblin
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 1-1  
-*Attacchi*: Arma  
+*Attacchi*: Morso (1d6-1)  
 *Speciale*: -1 "colpire" alla luce del sole  
 *Movimento*: 90' (30')  
 *DVE/PE*: < 1/10
 
-I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e i regni ultraterreni dei Folletti. Attaccano con un -1 "per colpire" in piena luce del sole.
+I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e i regni ultraterreni dei Folletti. Hanno una grossa testa sproporzionata e una bocca piena di piccoli denti acuminati. Attaccano con un -1 "per colpire" in piena luce del sole.
+I capi goblin sono sciamani che hanno 2 DV e lanciano incantesimi come un Chierico di 2° Livello. Venerano una divinità del mondo fatato che non è in grado di ascoltare le loro preghiere dal mondo materiale, per questo non è ben chiaro chi conceda agli sciamani le loro capacità clericali.
 
 ## Golem
 
@@ -1005,7 +981,7 @@ Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Que
 
 Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
 
-Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. È invulnerabile alla maggior parte degli attacchi magici e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
+Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
 
 ### Idra
 
@@ -1045,12 +1021,12 @@ L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le 
 
 *Classe Armatura*: 17  
 *Dadi Vita*: 15  
-*Attacchi*: Tentacolo (2d6) o Morso (4d6)  
+*Attacchi*: 8 Tentacoli (2d6 ciascuno) o Morso (4d6)  
 *Speciale*: Ingoia Tutto  
 *Movimento*: 150' (50')nuotare  
 *DVE/PE*: 15/2,900
 
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno tipicamente otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
 
 ### Leone
 
@@ -1314,31 +1290,18 @@ Le ninfe sono dei Folletti che appaiono come donne nude o vestite di foglie di u
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-Le ombre possono essere o meno creature non-morte: sono immuni a Sonno e ad Ammaliare, ma l'Arbitro può decidere se sono creature non-morte soggette allo scacciare o se sono qualche orribile cosa "altra", una manifestazione forse, o una creatura di un'altra dimensione. Le creature ombre sono oscure e assomigliano a normali ombre, anche se possono essere più scure. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di forza con un colpo riuscito, e se una vittima viene portata ad una forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti.
-
-### Orchetto
-
-*Classe Armatura*: 13  
-*Dadi Vita*: 1  
-*Attacchi*: Arma  
-*Speciale*: Nessuna  
-*Movimento*: 120' (40')   
-*DVE/PE*: 1/15
-
-Gli orchetti sono umanoidi stupidi e brutali che si riuniscono in tribù di centinaia di persone. La maggior parte di essi vive nei sotterranei e combatte con una penalità di -1 ai colpi quando sono alla luce del sole. Occasionalmente, bande da guerra o addirittura intere tribù di orchetti escono dalle loro caverne per razziare e saccheggiare di notte. I capi orcheschi sono grandi bruti con DV addizionali, e nelle tribù più grandi si possono trovare anche sciamani che usano la magia. Le tribù orchesche si odiano a vicenda e combatteranno selvaggiamente a meno che non siano tenute a freno da un comandante potente e temuto, come un sacerdote malvagio o uno stregone mistico.
+Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma sono soggette allo scacciare. Assomigliano a normali ombre più scure della notte. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di Forza con un colpo riuscito: se una vittima viene portata ad una Forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti.
 
 ### Orco
 
 *Classe Armatura*: 14  
-*Dadi Vita*: 4+1 / 5+4 
+*Dadi Vita*: 5+4 
 *Attacchi*: Arma (1d6+2)  
 *Speciale*: Nessuna  
 *Movimento*: 90' (30')  
-*DVE/PE*: 4/120 / 7/600 
+*DVE/PE*: 7/600 
 
-Gli orchi sono malvagi e brutali, ma normalmente abbastanza stupidi. Vivono da soli cacciando umani e animali nelle zone circostanti alla loro caverna.
-
-Tuttavia, si possono occasionalmente incontrare Orchi particolarmente intelligenti (1 su d6 quando l'Arbitro decide di usare un Orco in un'avventura) che vestono elegantemente e abitano in ville sfarzose che hanno fatto costruire dai loro 3d6 schiavi umani. Questi orchi sono in grado di usare alcune magie: possono volare, diventare invisibile (come da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare *Sonno* e *Ammaliare Persone* una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza).
+Gli orchi sono malvagi, brutali e, nonostante l'aspetto grottesco, particolarmente intelligenti. Vestono elegantemente e abitano in ville sfarzose che hanno fatto costruire dai loro 3d6 schiavi umani. Sono in grado di usare alcune magie: possono diventare invisibili (come da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare *Sonno* e *Ammaliare Persone* una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza).
 
 
 ### Orso
@@ -1350,9 +1313,9 @@ Tuttavia, si possono occasionalmente incontrare Orchi particolarmente intelligen
 *Movimento*: 120' (40')   
 *DVE/PE*: 6/400
 
-Gli orsi sono onnivori ma favoriscono la carne. Hanno una vista piuttosto scarsa ma un eccellente senso dell'olfatto e possono fiutare il cibo a chilometri di distanza. Possono essere cacciatori aggressivi e sono molto forti. C
+Gli orsi sono onnivori ma preferiscono la carne. Hanno una vista piuttosto scarsa ma un eccellente senso dell'olfatto e possono fiutare il cibo a chilometri di distanza. Possono essere cacciatori aggressivi e sono molto forti. 
 
-### Orso, delle Caverne
+### Orso delle Caverne
 
 *Classe Armatura*: 13 
 *Dadi Vita*: 6+6  
@@ -1416,7 +1379,7 @@ I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da so
 *Movimento*: 90' (30')/18  
 *DVE/PE*: 3/60
 
-I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a meno che non desiderino essere visti. Non sono malvagi, ma non amano le intrusioni e ogni 10 folletti possono causare congiuntamente un incantesimo di Sonno una volta al giorno che usano per dissuadere i potenziali trasgressori. Si armano di pugnali e archi corti e attaccano sempre a sorpresa, a meno che non vengano individuati con mezzi magici. 
+I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a meno che non desiderino essere visti. Non sono malvagi, ma non amano le intrusioni e 10 Pixie insieme possono lanciare un incantesimo di *Sonno* una volta al giorno, in modo da dissuadere i potenziali intrusi. Si armano di pugnali e archi corti e attaccano sempre a sorpresa, a meno che non vengano individuati con mezzi magici. 
 
 ### Ragno, Gigante
 
@@ -1476,13 +1439,13 @@ I robot sono complessi automi di metallo con insondabili cervelli elettronici. S
 ### Roc
 
 *Classe Armatura*: 15  
-*Dadi Vita*: 12  
+*Dadi Vita*: da 12 a 18  
 *Attacchi*: Artiglio (1d6+2)  
 *Speciale*: Nessuna  
 *Movimento*: 3/48 (quando vola)  
 *DVE/PE*: 12/2,000
 
-I roc sono i grandi uccelli mitologici, abbastanza grandi da predare gli elefanti. Possono essere addestrati da pulcini per servire come destrieri, quindi le uova di roc o i pulcini possono essere un bel bottino, che vale grandi somme d'oro. I roc potrebbero crescere fino a 18 DV, con statistiche proporzionalmente aumentate.
+I roc sono i grandi uccelli mitologici, abbastanza grandi da predare gli elefanti. Possono essere addestrati da pulcini per servire come destrieri, quindi le uova di roc o i pulcini possono essere un bel bottino, che vale grandi somme d'oro. 
 
 ### Rospo, Gigante
 
@@ -1561,7 +1524,7 @@ Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo 
 
 Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si arrampicheranno sugli alberi per rifugiarsi, ma se provocati possono colpire per 1d6+1 punti di danno.
 
-### Scimmione Dannato
+### Scimmione crudele
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 5+2  
@@ -1570,7 +1533,7 @@ Gli scimmioni non sono solitamente non aggressivi ma sono estremamente forti. Si
 *Movimento*: 120' (40') /12  
 *DVE/PE*: 6/400
 
-Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il loro aspetto spaventoso. Si trovano in piccole bande nelle giungle dense e intorno alle catacombe in rovina. Sono più grandi e più aggressivi degli scimmioni normali e hanno un gusto per la carne. Peggio ancora, possiedono un'astuzia maligna che utilizza rocce e pietre come strumenti.
+Gli scimmioni crudeli sono così chiamati per la loro colorazione pallida e il loro aspetto spaventoso. Si trovano in piccole bande nelle giungle dense e intorno alle catacombe in rovina. Sono più grandi e più aggressivi degli scimmioni normali e hanno un gusto per la carne. Utilizzano rocce e pietre come armi e tendono trappole alle loro prede, le quali vengono torturate a morte prima di essere divorate.
 
 ### Scorpione, Gigante
 
@@ -1688,17 +1651,6 @@ Le tartarughe drago sono tartarughe di 30 piedi di diametro con colli lunghi e s
 
 Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante che funziona come il soffio di drago. Può emergere anche sotto una grande nave, avendo una probabilità del 50% di capovolgere l'imbarcazione.
 
-### Thull
-
-*Classe Armatura*: 13  
-*Dadi Vita*: 3  
-*Attacchi*: Artigli  
-*Speciale*: Paralisi   
-*Movimento*: 90' (30')  
-*DVE/PE*: 5/240
-
-I thull sono spaventosi umanoidi simili agli hobgoblin nell'aspetto, ma sono molto più pericolosi. Un thull rigenera 1 punto ferita perso all'inizio di ogni turno e un graffio dalle sue unghie nere provoca la paralisi per 1 turno nei normali umanoidi (essi stessi ne sono immuni).
-
 ### Tigre
 
 *Classe Armatura*: 13  
@@ -1815,17 +1767,6 @@ I Berserker sono esseri umani normali, ma combattono con una ferocia sbalorditiv
 
 I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, portano scudi, sono armati di spade, asce, mazze, archi corti o lance e hanno un bonus di +1 alle prove di morale.
 
-### Umano, Bucaniere
-
-*Classe Armatura*: 11  
-*Dadi Vita*: 1  
-*Attacchi*: Arma  
-*Speciale*: Nessuno   
-*Movimento*: 120' (40')   
-*DVE/PE*: 2/30
-
-I bucanieri sono picconieri e rifiuti umani che solcano le coste in cerca di facili prelievi da schifi e picchetti. Sono senza armatura e veloci e portano spade, mazze e pugnali.
-
 ### Umano, Mercenario
 
 *Classe Armatura*: 13  
@@ -1857,8 +1798,7 @@ I Nomadi sono razziatori del deserto o della steppa che sono sempre a cavallo. P
 *Movimento*: 120' (40')   
 *DVE/PE*: 1/15
 
-I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. 
-Hanno una correzione di +1 alle prove di morale.
+I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. Hanno +1 alle prove di morale.
 
 ### Umano, Sergente d'armi
 
@@ -1963,7 +1903,7 @@ Una viverna ha la forma di drago a due zampe e queste creature sono più piccole
 *Movimento*: 180' (60')  
 *DVE/PE*: 4/120
 
-I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati dagli orchi. Possono avere origini soprannaturali.
+I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati dai Goblin. Possono avere origini soprannaturali.
 
 ### Zombie
 
