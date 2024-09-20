@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -132,7 +132,7 @@ I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque l
 *Movimento*: 90' (30')  
 *DVE/PE*: 3/60
 
-Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6 (50% delle volte).
+Questi grandi umanoidi pelosi imparentati con i Goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6.
 
 ### Calamaro, Gigante
 
@@ -143,7 +143,7 @@ Questi grandi umanoidi pelosi simili a goblin sono più furtivi di quanto la lor
 *Movimento*: 120' (40')   
 *DVE/PE*: 7/600
 
-I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1d6 tiri per attaccare a ogni Round con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre turni.
+I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1d6 tiri per attaccare a ogni Round con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre Round.
 
 ### Cane
 
@@ -187,7 +187,7 @@ Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature mitologi
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso turno - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus).
+I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso Round - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus).
 
 ### Cavaliere della Morte
 
@@ -198,7 +198,7 @@ I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amic
 *Movimento*: 120' (40')   
 *DVE/PE*: 12/2000
 
-Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un Cavaliere della Morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I Cavalieri della Morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi non magiche e non possono essere scacciati da un Chierico.
+Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un Cavaliere della Morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I Cavalieri della Morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi non magiche e non possono essere scacciati da un Chierico. Hanno sempre con sé 2d6 zombie o scheletri (a discrezione dell'Arbitro).
 
 ### Cavallo da Tiro / da Corsa / da Guerra
 
@@ -262,7 +262,7 @@ I cinghiali sono maiali selvatici che si trovano nelle foreste e nelle pianure. 
 *Movimento*: 120' (40')   
 *DVE/PE*: 8/800
 
-I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio. Non fuggiranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita.
+I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande dimensione e il loro comportamento aggressivo. Attaccano chiunque entri nel loro territorio. Non fuggiranno mai e faranno sempre un altro tiro di attacco dopo essere stati ridotti a 0 o meno punti ferita. La loro spessa pellaccia li rende immuni alle armi a distanza non magiche.
 
 ### Coboldi
 
@@ -295,7 +295,7 @@ Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il
 *Movimento*: 90' (30')/ 150' (50')
 *DVE/PE*: 4/120
 
-I coccodrilli sono rettili voraci che si trovano nei fiumi e nelle paludi delle regioni calde. Sono difficili da individuare quando galleggiano semi sommersi nell'acqua e spesso attaccano a sorpresa. Se un tiro di attacco supera il numero richiesto per colpire di 4 o più, il coccodrillo trascinerà la sua vittima nell'acqua dove si rotolerà più e più volte finché la vittima non sarà annegata. I coccodrilli sono pigri e non si spingono per più di un turno fuori dall'acqua.
+I coccodrilli sono rettili voraci che si trovano nei fiumi e nelle paludi delle regioni calde. Sono difficili da individuare quando galleggiano semi sommersi nell'acqua e spesso attaccano a sorpresa. Se un tiro di attacco supera il numero richiesto per colpire di 4 o più, il coccodrillo trascinerà la sua vittima nell'acqua dove si rotolerà più e più volte finché la vittima non sarà annegata. I coccodrilli sono pigri e non si spingono per più di un Turno fuori dall'acqua.
 
 ### Coccodrillo, Gigante
 
@@ -317,7 +317,7 @@ I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma pe
 *Movimento*: 60' (20')  
 *DVE/PE*: 5/240
 
-I cubi gelatinosi sono cubi semitrasparenti che strisciano nei passaggi sotterranei, inglobando detriti e carogne da digerire. Tutta la loro sostanza è acida: se il cubo colpisce con successo, la vittima deve effettuare un tiro salvezza o rimanere paralizzata per 6 turni - durante i quali il cubo tenterà di divorare la sua vittima. La maggior parte dei cubi gelatinosi contiene vari tesori metallici o gemme che hanno inghiottito ma non ancora digerito. I cubi gelatinosi sono immuni ai fulmini e al freddo.
+I cubi gelatinosi sono cubi semitrasparenti che strisciano nei passaggi sotterranei, inglobando detriti e carogne da digerire. Tutta la loro sostanza è acida: se il cubo colpisce con successo, la vittima deve effettuare un tiro salvezza o rimanere paralizzata per 6 Round - durante i quali il cubo tenterà di divorare la sua vittima. La maggior parte dei cubi gelatinosi contiene vari tesori metallici o gemme che hanno inghiottito ma non ancora digerito. I cubi gelatinosi sono immuni ai fulmini e al freddo.
 
 ### Cyborg
 
@@ -361,7 +361,7 @@ Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occ
 *Classe Armatura*: 12  
 *Dadi Vita*: 3  
 *Attacchi*: Artiglio  
-*Speciale*: Rigenerazione (1 HP/round)  
+*Speciale*: Rigenerazione (1 HP/Round)  
 *Movimento*: 30' (10')  
 *DVE/PE*: 4/120
 
@@ -387,7 +387,7 @@ Una succube è un demone della lussuria che appare come una donna umana voluttuo
 *Movimento*: 150' (50') / 180' (60') quando vola  
 *DVE/PE*: 5/240
 
-Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di fuoco. Anche i suoi zoccoli bruciano di fuoco infernale e può volare tanto facilmente quanto correre. Attaccano con i loro zoccoli infuocati e una volta al giorno possono emettere un grido terribile che richiede a tutti coloro che lo sentono di effettuare un tiro salvezza o fuggire in preda al terrore del destriero notturno per 1d6 round.
+Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di fuoco. Anche i suoi zoccoli bruciano di fuoco infernale e può volare tanto facilmente quanto correre. Attaccano con i loro zoccoli infuocati e una volta al giorno possono emettere un grido terribile che richiede a tutti coloro che lo sentono di effettuare un tiro salvezza o fuggire in preda al terrore del destriero notturno per 1d6 Round.
 
 
 ## Dinosauri
@@ -404,7 +404,7 @@ I dinosauri sono grandi esseri preistorici e possono essere avversari temibili. 
 *DVE/PE*: 33/8.000
 
 I  Brontosauri sono tra le creature più grandi che camminano sulla terra. Sono lunghi fino a 80 piedi, alti 20 piedi alla spalla e possono pesare più di 30 tonnellate. Passano il loro tempo pascolando la vegetazione delle grandi pianure e delle paludi. 
-Fortunatamente, sono erbivori pacifici e difficilmente attaccano se non provocati. Il principale pericolo che presentano è lo schiacciamento, il barcollamento o la fuga davanti ai predatori o al fuoco. I colpi infliggono 3-18 punti di danno a causa della loro immensa mole.
+Fortunatamente, sono erbivori pacifici e difficilmente attaccano se non provocati. Il principale pericolo che presentano è lo schiacciamento o la fuga in preda al panico davanti ai predatori o al fuoco.
 
 ### Dinosuaro, Deinonychus
 
@@ -426,7 +426,7 @@ I Deinonychus comprendono tutti i carnivori relativamente piccoli che cacciano i
 *Movimento*: 3/ 150' (50')
 *DVE/PE*: 15/2.900
 
-I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste lucertole marine hanno arti a forma di pagaia, code pinnate, e mascelle enormi irte di denti ricurvi. Si trovano in tutte le acque profonde ma devono emergere per respirare aria. Un colpo provoca 3-18 punti di danno, ma se mai un tiro di attacco supera di 4 o più il numero necessario per colpire, o è comunque un 20, un mosasauro ingoia un bersaglio di dimensioni umane.
+I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste lucertole marine hanno arti a forma di pagaia, code pinnate, e mascelle enormi irte di denti ricurvi. Si trovano in tutte le acque profonde ma devono emergere per respirare aria. Se mai un tiro di attacco supera di 4 o più il numero necessario per colpire, o è comunque un 20, un mosasauro ingoia un bersaglio di dimensioni umane.
 
 ### Dinosauro, Pterodattilo
 
@@ -441,14 +441,14 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 
 ### Dinosauro, Stegosauro
 
-*Classe Armatura*: 17, /14  
+*Classe Armatura*: 17, 14 se attaccato ai fianchi
 *Dadi Vita*: 8  
 *Attacchi*: Coda (2d6/3d6 vedi sotto)  
 *Speciale*: Vedi sotto  
 *Movimento*: 60' (20')  
 *DVE/PE*: 8/800
 
-Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 piedi e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 17 contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe 2 piedi sulla coda che colpiscono per 2-12 punti di danno al fianco o alla parte posteriore; altrimenti, il danno è di 3-8 punti di danno.
+Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 piedi e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 17 contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe 2 piedi sulla coda che colpiscono al fianco o alla parte posteriore; altrimenti, il danno è ridotto.
 
 ### Dinosauro, Triceratopo
 
@@ -507,22 +507,22 @@ Un doppelganger può cambiare forma per assomigliare all'aspetto fisico (compres
 
 ## Draghi
 
-Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'Arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi turno.
+Tutti i draghi hanno come arma un soffio di qualche tipo, che può essere usato fino a tre volte in un giorno. L'Arbitro sceglie quando un drago userà un soffio come arma o può tirare per esso (50% di possibilità) in qualsiasi Round.
 
 L'Arbitro non dovrebbe tirare per i punti ferita del drago, come per gli altri mostri. Invece, determina la categoria di età del drago - questo darà sia i punti ferita del drago per DV che quanti punti di danno dell'arma del respiro per dado vita il drago infligge. Per esempio, un drago "Adulto" ha sia 4 punti ferita che 4 punti di danno dell'arma del respiro per dado vita. Quindi un drago nero "Adulto" con 6 DV avrebbe 24 PF e infliggerebbe 24 punti di danno da acido quando usa il suo respiro come arma.
 
 #### Tabella 41: Categorie di Età dei Draghi
 
-| Tiro  |         **Età**          | **Punti Ferita e Danno per Dado Vita** |
-| :---: | :----------------------: | :------------------------------------: |
-|   1   |      Molto giovane       |                   1                    |
-|   2   |         Giovane          |                   2                    |
-|   3   |         Immaturo         |                   3                    |
-|   4   |          Adulto          |                   4                    |
-|   5   |         Vecchio          |                   5                    |
-|   6   | Molto vecchio (100 anni) |                   6                    |
-|   7   |  Invecchiato (100-400)   |                   7                    |
-|   8   |      Antico (400+)       |                   8                    |
+| Tiro  |    **Età**    | **Punti Ferita e Danno per Dado Vita** |
+| :---: | :-----------: | :------------------------------------: |
+|   1   | Molto giovane |                   1                    |
+|   2   |    Giovane    |                   2                    |
+|   3   |   Immaturo    |                   3                    |
+|   4   |    Adulto     |                   4                    |
+|   5   |    Vecchio    |                   5                    |
+|   6   | Molto vecchio |                   6                    |
+|   7   |    Antico     |                   7                    |
+|   8   |    Arcaico    |                   8                    |
 
 #### Tabella 42: Soffio del Drago
 
@@ -612,7 +612,7 @@ Un tiro salvezza riuscito dimezza il danno.
 *Movimento*: 120' (40')   
 *DVE/PE*: 3/60
 
-Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un potente incantesimo di tipo *Ammaliare Persone* con un tiro salvezza di -2. Una driade è legata ad un albero magico dentro il quale si può fondere. Se questo albero viene distrutto, la driade muore. Coloro che vengono incantati vengono trattenuti come protettori dell'albero della Driade fino alla loro morte.
+Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano dai loro alberi. Possono lanciare (come potere magico innato) un potente incantesimo di tipo *Ammaliare Persone* con un Tiro Salvezza che ha un malus di -2. Una driade è legata ad un albero magico dentro il quale si può fondere. Se questo albero viene distrutto, la driade muore. Coloro che vengono incantati vengono trattenuti come protettori dell'albero della driade fino alla loro morte o fino a che la Driade viene convinta a liberarli dall'effetto.
 
 ### Dvergar
 
@@ -623,7 +623,7 @@ Le driadi sono bellissimi spiriti arborei femminili e non si avventurano lontano
 *Movimento*: 60' (20')  
 *DVE/PE*: 1/15
 
-Le statistiche di cui sopra sono per il Dvergar comune, senza particolari caratteristiche insolite. Un Dvergar d'armi di solito ha 7 DV. Dvergar più forti (sergenti d'armi, per esempio) potrebbero avere più dadi vita o insoliti bonus "per colpire". Magari anche abilità magiche che hanno ottenuto in modi esotici e bizzarri.
+Le statistiche di cui sopra sono per il Dvergar comune, senza particolari caratteristiche insolite.
 
 ### Efreeti
 
@@ -634,7 +634,7 @@ Le statistiche di cui sopra sono per il Dvergar comune, senza particolari caratt
 *Movimento*: 90' (30')/ 240' (80') quando vola  
 *DVE/PE*: 12/2,000
 
-Gli Efreet sono un tipo di genio, associato al fuoco (a differenza dei djinn, che hanno poteri sull'aria). Gli efreet possono trasportare fino a mille libbre di peso, e nelle giuste circostanze possono essere asserviti (finché non capiscono come liberarsi). Un efreeti può lanciare Muro di Fuoco. Appaiono come umani giganti dai tratti crudeli, la loro pelle tremolante di fiamme.
+Gli Efreet sono un tipo di genio, associato al fuoco (a differenza dei djinn, che hanno poteri sull'aria). Gli efreet possono trasportare fino a mille libbre di peso, e nelle giuste circostanze possono essere asserviti (finché non capiscono come liberarsi). Un efreeti può lanciare *Muro di Fuoco*. Appaiono come umani giganti dai tratti crudeli e dalle barbe con acconciature elaborate, la loro pelle tremolante di fiamme.
 
 ## Elementali
 
@@ -649,7 +649,7 @@ Gli elementali sono manifestazioni viventi delle forme fondamentali della materi
 *Movimento*: 60' (30')/ 180' (60') quando nuota  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d6+2 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti.
+Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'acqua e il loro danno è ridotto di 1d6 se l'avversario non sopra (o dentro) un corpo d'acqua. Questi potenti esseri possono rovesciare piccole imbarcazioni e possono persino rovesciare una nave se gli si danno 1d6+2 minuti per farlo. Sull'acqua, possono attaccare le navi, facendole a pezzi in un'ora se non vengono impediti o distratti. Possono essere feriti solo da armi magiche.
 
 ### Elementale, Aria
 
@@ -660,7 +660,7 @@ Gli elementali d'acqua non possono muoversi a più di 60' da un grande corpo d'a
 *Movimento*: 360' (120') vola sempre  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30', scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 100'.
+Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diametro di 30', scagliando qualsiasi creatura di 1 DV o meno per grandi distanze (quasi certamente uccidendola). I vortici elementali sono alti circa 100'. Possono essere feriti solo da armi magiche.
 
 ### Elementale, Fuoco
 
@@ -671,7 +671,7 @@ Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diamet
 *Movimento*: 120' (40')   
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagamente umana. I loro attacchi causano l'incendio di materiali infiammabili se questi ultimi falliscono un tiro salvezza (determinato dall'Arbitro).
+Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagamente umana. I loro attacchi causano l'incendio di materiali infiammabili se questi ultimi falliscono un tiro salvezza (determinato dall'Arbitro). Possono essere feriti solo da armi magiche.
 
 ### Elementale, Terra
 
@@ -682,7 +682,7 @@ Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagam
 *Movimento*: 60' (20')  
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscono gli avversari con i loro grandi pugni, anche se il danno è ridotto di 1d6 se l'avversario non è in piedi su terra o roccia. Gli elementali di terra possono fare a pezzi le strutture di pietra e sono in grado di abbattere anche le mura di un castello in 1d6+2 minuti.
+Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscono gli avversari con i loro grandi pugni, anche se il danno è ridotto di 1d6 se l'avversario non è in piedi su terra o roccia. Gli elementali di terra possono fare a pezzi le strutture di pietra e sono in grado di abbattere anche le mura di un castello in 1d6+2 minuti. Possono essere feriti solo da armi magiche.
 
 ### Èlph-edal
 
@@ -693,7 +693,7 @@ Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscon
 *Movimento*: 120' (40')   
 *DVE/PE*: 3/60
 
-Umanoidi dalla pelle nero onice e dai capelli, gli occhi e i denti bianchissimi. Hanno corpi androgini dai lineamenti atletici ma delicati. Odiano gli altri esseri in modo totalmente irrazionale ed istintivo, ma sono abbastanza astuti da non uccidere chiunque vedano a vista: piuttosto, preferiscono capire come sfruttarli e prolungare le loro sofferenze. Vivono nei pressi di luoghi dove la magia è molto forte, come antiche fortezze di maghi leggendari o di Lich decaduti. Forse sono stati creati durante le grandi guerre degli arcimaghi per essere usati come esercito. Solitamente brandiscono spade +1 (1d6+1 danni) e balestre leggere i cui dardi sono rivestiti di un veleno paralizzante (1d6 danni, salvando o rimanendo paralizzati per un turno). Sono straordinariamente furtivi, sorprendendo i loro nemici con 1-4 su 1d6. Sono anche molto resistenti alla magia: ignorano gli incantesimi il 50% delle volte.
+Umanoidi dalla pelle nero onice e dai capelli, gli occhi e i denti bianchissimi. Hanno corpi androgini dai lineamenti atletici ma delicati. Odiano gli altri esseri in modo totalmente irrazionale ed istintivo, ma sono abbastanza astuti da non uccidere a vista chiunque vedano: piuttosto, preferiscono capire come sfruttarli e prolungare le loro sofferenze. Vivono nei pressi di luoghi dove la magia è molto forte, come antiche fortezze di maghi leggendari o di Lich decaduti. Forse sono stati creati durante le grandi guerre degli arcimaghi per essere usati come esercito. Solitamente brandiscono spade +1 (1d6+1 danni) e balestre leggere i cui dardi sono rivestiti di un veleno paralizzante (1d6 danni e TS per non rimanere paralizzati per un Turno). Sono straordinariamente furtivi, sorprendendo i loro nemici con 1-4 su 1d6. Sono anche molto resistenti alla magia: ignorano gli incantesimi il 50% delle volte.
 
 ### Fata Drago
 
@@ -737,7 +737,7 @@ I gargoyle sono creature alate che assomigliano alle mostruosità scolpite che a
 *Movimento*: 30' (10')  
 *DVE/PE*: 6/400
 
-Le gelatine ocra sono delle melme amorfe che danneggiano gli avversari con la loro superficie acida. Dissolvono gli avventurieri che uccidono, rendendo l'incantesimo Resurrezione dei Morti praticamente impossibile.
+Le gelatine ocra sono delle melme amorfe che danneggiano gli avversari con la loro superficie acida. Consumano completamente i corpi degli avventurieri che uccidono, rendendo l'incantesimo *Resurrezione dei Morti* praticamente impossibile.
 
 ### Ghoul
 
@@ -748,7 +748,7 @@ Le gelatine ocra sono delle melme amorfe che danneggiano gli avversari con la lo
 *Movimento*: 90' (30')  
 *DVE/PE*: 3/60
 
-I ghoul sono non-morti che cacciano in branco, mangiatori di cadaveri. Sono immuni, come la maggior parte dei non morti, agli incantesimi Sonno e Ammaliare. La caratteristica più pericolosa di queste orride e astute creature è il loro tocco paralizzante: ogni colpo inferto da un ghoul richiede un tiro salvezza o la vittima rimane paralizzata per 3d6 turni.
+I ghoul sono non-morti che cacciano in branco, mangiatori di carne umana. Sono immuni agli incantesimi *Sonno* e *Ammaliare*. La caratteristica più pericolosa di queste orride e astute creature è il loro tocco paralizzante: ogni colpo inferto da un ghoul richiede un Tiro Salvezza o la vittima rimane paralizzata per 1d6 Turni.
 
 ## Giganti
 
@@ -763,18 +763,7 @@ I giganti sono un punto di riferimento del gioco fantasy, creature enormi e peri
 *Movimento*: 120' (40')   
 *DVE/PE*: 9/1,100
 
-I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono brutali abitanti delle caverne che si vestono con pelli e pelli non curate. Lanciano massi per 3d6 punti di danno.
-
-### Gigante, Firbolg
-
-*Classe Armatura*: 16  
-*Dadi Vita*: 9+2  
-*Attacchi*: Arma (2d6)  
-*Speciale*: Scagliare massi, Individuazione del Magico  
-*Movimento*: 120' (40')   
-*DVE/PE*: 10/1,400
-
-Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firbolg abitano le regioni rocciose e vulcaniche dove vivono in clan di minatori e coltivatori di funghi sotterranei. A differenza degli altri giganti, non sono bellicosi per natura e preferiscono invece fare un uso prodigioso della loro capacità di lanciare massi e combattere a distanza, che infliggono 2d6 punti di danno. Sono intelligenti come gli umani e hanno la capacità naturale di lanciare la magia a volontà. 
+I giganti di collina sono l'ultima delle razze giganti; la maggior parte sono brutali abitanti delle caverne che si vestono con pelli e pelli non curate. Lanciano massi per 3d6 punti di danno. Occasionalmente (1 volta su sei) hanno con sé un Orso come animale domestico.
 
 ### Gigante, Fuoco
 
@@ -785,7 +774,7 @@ Con l'aspetto di uomini giganti (alti 10') con barbe rosse fiammeggianti, i firb
 *Movimento*: 120' (40')   
 *DVE/PE*: 12/2,000
 
-I giganti di fuoco si trovano di solito vicino alle montagne vulcaniche, in grandi castelli di basalto o anche di ferro. Lanciano massi per 5d6 punti ferita e sono immuni al fuoco.
+I giganti di fuoco si trovano di solito vicino alle montagne vulcaniche, in grandi castelli di basalto o anche di ferro. Lanciano massi per 5d6 punti ferita e sono immuni al fuoco. Occasionalmente (1 volta su 6) hanno con se delle Viverne addomesticate. 
 
 ### Gigante, Gelo
 
@@ -796,18 +785,18 @@ I giganti di fuoco si trovano di solito vicino alle montagne vulcaniche, in gran
 *Movimento*: 120' (40')   
 *DVE/PE*: 12/2,000
 
-I giganti del gelo abitano nelle regioni fredde, dove costruiscono (o conquistano) castelli in luoghi remoti di ghiaccio e neve. Lanciano massi o grandi pezzi di ghiaccio per 4d6 punti di danno e sono immuni al freddo.
+I giganti del gelo abitano nelle regioni fredde, dove costruiscono (o conquistano) castelli in luoghi remoti di ghiaccio e neve. Lanciano massi o grandi pezzi di ghiaccio per 4d6 punti di danno e sono immuni al freddo. Occasionalmente (1 volta su 6) cavalcano dei Mammut o dei Rinoceronti lanosi.
 
 ### Gigante, Nuvole
 
 *Classe Armatura*: 15  
 *Dadi Vita*: 12+2  
 *Attacchi*: Arma (3d6)  
-*Speciale*: Lancia massi  
+*Speciale*: Lancia massi, olfatto acuto  
 *Movimento*: 150' (50') 
 *DVE/PE*: 13/2,300
 
-I giganti delle nuvole sono bestie astute, che spesso vivono in castelli di nuvole nel cielo (da cui il loro nome) e lanciano massi per 6d6 punti ferita di danno. I giganti delle nuvole sono famosi per la loro capacità di fiutare il cibo, i nemici e gli inglesi.
+I giganti delle nuvole sono bestie astute, che spesso vivono in castelli di nuvole nel cielo (da cui il loro nome) e lanciano massi per 6d6 punti ferita di danno. I giganti delle nuvole sono famosi il loro finissimo olfatto, che gli permette di individuare creature anche invisibili entro 1 miglio.
 
 ### Gigante, Pietra
 
@@ -836,11 +825,11 @@ I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, 
 *Classe Armatura*: 14  
 *Dadi Vita*: 2  
 *Attacchi*: Morso  
-*Speciale*: Nessuna  
+*Speciale*: Bava lurida  
 *Movimento*: 90' (30')  
 *DVE/PE*: 2/30
 
-Gli gnoll sono crudeli umanoidi con teste simili a orrende iene. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia. Sono frutto della corruzione demoniaca di uomini e animali comuni: per questo venerano i demoni e le creature infernali.
+Gli gnoll sono crudeli umanoidi con teste simili a orrende iene sbavanti. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia. Sono frutto della corruzione demoniaca di uomini e animali comuni: per questo venerano i demoni e le creature infernali. La loro bava lurida e schiumosa è vettore di malattie: la vittima deve superare un TS con un bonus di +3 o essere debilitata da una forte febbre che da -2 a tutti i tiri per 1d6 Turni. 
 
 ### Goblin
 
@@ -852,6 +841,7 @@ Gli gnoll sono crudeli umanoidi con teste simili a orrende iene. Possono essere 
 *DVE/PE*: < 1/10
 
 I goblin sono piccole creature (alte circa 4') che abitano i boschi oscuri, le caverne sotterranee e i regni ultraterreni dei Folletti. Hanno una grossa testa sproporzionata e una bocca piena di piccoli denti acuminati. Attaccano con un -1 "per colpire" in piena luce del sole.
+
 I capi goblin sono sciamani che hanno 2 DV e lanciano incantesimi come un Chierico di 2° Livello. Venerano una divinità del mondo fatato che non è in grado di ascoltare le loro preghiere dal mondo materiale, per questo non è ben chiaro chi conceda agli sciamani le loro capacità clericali.
 
 ## Golem
@@ -944,7 +934,7 @@ Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagl
 *Movimento*: 120' (40')   
 *DVE/PE*: 10/1,400
 
-I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffio trasforma le persone in pietra (raggio di 60', si applica un tiro salvezza).
+I gorgoni sono creature simili a tori con la pelle coperta da scaglie metalliche. Il loro soffio trasforma le persone in pietra (raggio di 60', tiro salvezza nega).
 
 ### Granchio, Gigante
 
@@ -955,7 +945,7 @@ I gorgoni sono creature simili a tori con scaglie simili a draghi. Il loro soffi
 *Movimento*: 60' (20')  
 *DVE/PE*: 4/120
 
-I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. Hanno carapaci duri e corazzati e se un tiro di attacco supera di 4 o più il numero richiesto per colpire o è comunque un 20, causano 1-11 punti di danno.
+I granchi giganti si trovano sott'acqua, negli estuari costieri e nelle paludi. Hanno carapaci duri e corazzati e se un tiro di attacco supera di 4 o più il numero richiesto per colpire o è comunque un 20, causano 2d6-1 punti di danno.
 
 ### Grifone
 
@@ -1014,8 +1004,7 @@ Gli inseguitori invisibili si trovano generalmente solo come risultato dell'inca
 *Movimento*: 120' (40') /360' (120') vola sempre  
 *DVE/PE*: 3/60
 
-L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. Il poema Orlando Furioso (scritto nel 1516) suggerisce che l'ippogrifo è la progenie di un grifone e di un cavallo, ma sono apparentemente una razza indipendente, perché la tradizione folcloristica sostiene che i grifoni attaccano spesso gli ippogrifi. Gli ippogrifi non sono così difficili da addestrare come i grifoni - di nuovo, dall'Orlando Furioso: 
-> "Quivi per forza lo tirò d’incanto; e poi che l’ebbe, ad altro non attese, e con studio e fatica operò tanto, ch’a sella e briglia il cavalcò in un mese: cosí ch’in terra e in aria e in ogni canto lo facea volteggiar senza contese."
+L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le ali di un'aquila, ma invece del corpo di un leone, ha il corpo di un cavallo. L'ippogrifo è la progenie di un grifone e di un cavallo.
 
 ### Kraken
 
@@ -1026,7 +1015,7 @@ L'ippogrifo è simile a un grifone, avendo la testa, gli artigli anteriori e le 
 *Movimento*: 150' (50')nuotare  
 *DVE/PE*: 15/2,900
 
-Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili con otto (o più) appendici contorte. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo round, tenta di morderlo nel secondo round e poi lo ingoia per intero nel terzo round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni round di combattimento.
+Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili. Attaccano intere navi, facendole a pezzi e ingoiandone l'intero equipaggio con la loro enorme bocca dentata. Quando un kraken attacca, afferra un bersaglio con uno dei suoi tentacoli nel primo Round, tenta di morderlo nel secondo Round e poi lo ingoia per intero nel terzo Round. Un bersaglio che è stato inghiottito intero viene ucciso. I Kraken hanno otto tentacoli e possono effettuare un attacco con ognuno di essi a ogni Round di combattimento.
 
 ### Leone
 
@@ -1141,7 +1130,7 @@ I lupi si trovano principalmente nelle regioni fredde e cacciano in branco.
 *Movimento*: 120' (40') /8(quando vola)  
 *DVE/PE*: 8/800
 
-Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il corpo di un leone e una coda dotata di 24 spine di ferro. La manticora può lanciare fino a 6 spine di ferro dalla sua coda per round, con una portata massima di 180'.
+Un orribile mostro con ali di pipistrello, la faccia di un umano selvaggio, il corpo di un leone e una coda dotata di 24 spine di ferro. La manticora può lanciare fino a 6 spine di ferro dalla sua coda per Round, con una portata massima di 180'.
 
 ### Mammut lanosi
 
@@ -1174,7 +1163,7 @@ I mastodonti sono proto-elefanti che si incontrano nelle pianure aperte in quals
 *Movimento*: 90' (30')  
 *DVE/PE*: 8/800
 
-Le meduse sono orribili creature della mitologia greca con un volto femminile ma capelli di serpenti contorti; non hanno gambe, ma il corpo di un serpente. Lo sguardo di una medusa trasforma in pietra chiunque la guardi. Oltre all'attacco in mischia relativamente debole della medusa, i capelli-serpente effettuano un attacco per round, che non provoca danni ma è mortalmente velenoso in caso di successo (si applica il tiro salvezza).
+Le meduse sono orribili creature della mitologia greca con un volto femminile ma capelli di serpenti contorti; non hanno gambe, ma il corpo di un serpente. Lo sguardo di una medusa trasforma in pietra chiunque la guardi. Oltre all'attacco in mischia relativamente debole della medusa, i capelli-serpente effettuano un attacco per Round, che non provoca danni ma è mortalmente velenoso in caso di successo (si applica il tiro salvezza).
 
 ### Minotauro
 
@@ -1266,7 +1255,7 @@ La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se 
 *Movimento*: 60' (30')/12  
 *DVE/PE*: 2/30
 
-I nixie sono piccoli e graziosi folletti d'acqua dolce che non sono malvagi ma costringeranno gli intrusi a servire i loro bisogni. Qualsiasi 10 nixies possono congiuntamente incantare un bersaglio con un incantesimo Ammaliare le Persone e un incantesimo di Respirare sott'Acqua. Un personaggio che non riesce a salvare contro gli incantesimi procederà immediatamente verso la tana sottomarina e vi rimarrà in servitù. Dopo un periodo di un anno tornerà in superficie illeso. *Dissolvere le Magie *può rompere prematuramente l'incantesimo, ma ha sempre una probabilità di fallimento del 25%.
+I nixie sono piccoli e graziosi folletti d'acqua dolce che non sono malvagi ma costringeranno gli intrusi a servire i loro bisogni. Qualsiasi 10 nixies possono congiuntamente incantare un bersaglio con un incantesimo *Ammaliare le Persone* e un incantesimo di *Respirare sott'Acqua*. Un personaggio che non riesce a salvare contro gli incantesimi procederà immediatamente verso la tana sottomarina e vi rimarrà in servitù. Dopo un periodo di un anno tornerà in superficie illeso. *Dissolvere le Magie *può rompere prematuramente l'incantesimo, ma ha sempre una probabilità di fallimento del 25%.
 
 I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottomarina contenente 2-16 prigionieri incantati di vario tipo e protetta da 2d6 x 10 pesci giganti come gar o lucci. Questi obbediscono ai nixie ma possono essere tenuti a bada da qualsiasi fuoco che bruci sott'acqua. Qualsiasi gruppo di 40 o più nixie può tentare di afferrare una nave di superficie.
 
@@ -1368,7 +1357,7 @@ I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono per lo
 *Movimento*: 3/ 150' (50')
 *DVE/PE*: 5/240
 
-I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da sorprendere la loro preda con un tiro di 3 o più su un dado a sei facce. Se la loro preda resiste, strilleranno, inducendo le persone normali a coprirsi le orecchie per un turno piuttosto che combattere.
+I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da sorprendere la loro preda con un tiro di 3 o più su un dado a sei facce. Se la loro preda resiste, strilleranno, inducendo le persone normali a coprirsi le orecchie per un Round piuttosto che combattere.
 
 ### Pixie
 
@@ -1390,7 +1379,7 @@ I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a me
 *Movimento*: 180' (60')  
 *DVE/PE*: 5/240
 
-I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un tiro salvezza per evitare di rimanerci bloccati. Coloro che effettuano il tiro salvezza possono combattere e muoversi (5' per round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
+I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un tiro salvezza per evitare di rimanerci bloccati. Coloro che effettuano il tiro salvezza possono combattere e muoversi (5' per Round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
 
 ### Ratto, Gigante
 
@@ -1401,7 +1390,7 @@ I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono c
 *Movimento*: 120' (40') /6  
 *DVE/PE*: 2/30
 
-I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
+I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
 
 ### Ratto, Mostruoso
 
@@ -1412,7 +1401,7 @@ I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in pic
 *Movimento*: 120' (40')   
 *DVE/PE*: < 1/10
 
-I ratti mostruosi si trovano spesso nei dungeon e sono grandi quanto un gatto o una lince. Il morso di alcuni (1 su 20) ratti giganti causa malattie. È consentito un tiro salvezza contro il veleno. Gli effetti della malattia sono decisi dall'Arbitro.
+I ratti mostruosi si trovano spesso nei dungeon e sono grandi quanto un cane di grossa taglia. Il morso di alcuni (1 su 20) ratti giganti causa malattie. È consentito un tiro salvezza contro il veleno. Gli effetti della malattia sono decisi dall'Arbitro.
 
 ### Rinoceronte lanoso
 
@@ -1456,7 +1445,7 @@ I roc sono i grandi uccelli mitologici, abbastanza grandi da predare gli elefant
 *Movimento*: 60' (30')/6  
 *DVE/PE*: 3/60
 
-I rospi giganti inghiottiranno interi Silvani e persone più piccole ad ogni tiro di attacco che superi di 4 o più il numero richiesto per colpire. Possono saltare 18" ogni due turni, nuotare, respirare sott'acqua e hanno il 50% di probabilità di essere velenosi.
+I rospi giganti inghiottiranno interi Silvani e persone più piccole ad ogni tiro di attacco che superi di 4 o più il numero richiesto per colpire. Possono saltare 18" ogni due Round, nuotare, respirare sott'acqua e hanno il 50% di probabilità di essere velenosi.
 
 ### Salamandra
 
@@ -1467,7 +1456,7 @@ I rospi giganti inghiottiranno interi Silvani e persone più piccole ad ogni tir
 *Movimento*: 90' (30')  
 *DVE/PE*: 8/800
 
-Le salamandre sono creature intelligenti dei piani elementali del fuoco. Hanno la parte superiore del corpo di un umano (CA 14) e quella inferiore di un serpente (CA 16), ed emanano un calore tremendo e intenso. Il solo tocco di una salamandra infligge 1d6 punti ferita di danni da fuoco, ed esse avvolgono le loro code attorno ai nemici per causare altri 2d6 punti di danno da schiacciamento per round. Le salamandre non possono essere asservite allo stesso modo dei djinn e degli efreet.
+Le salamandre sono creature intelligenti dei piani elementali del fuoco. Hanno la parte superiore del corpo di un umano (CA 14) e quella inferiore di un serpente (CA 16), ed emanano un calore tremendo e intenso. Il solo tocco di una salamandra infligge 1d6 punti ferita di danni da fuoco, ed esse avvolgono le loro code attorno ai nemici per causare altri 2d6 punti di danno da schiacciamento per Round. Le salamandre non possono essere asservite allo stesso modo dei djinn e degli efreet.
 
 ### Sanguinaccio Nero
 
@@ -1555,7 +1544,7 @@ Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni d
 *Movimento*: 120' (40')   
 *DVE/PE*: 5/240; 6/400; 7/600; 8/800
 
-I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni round, infliggendo 2 danni PF per dado colpito (raggio di 10', tiro salvezza per metà danno).
+I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni Round, infliggendo 2 danni PF per dado colpito (raggio di 10', tiro salvezza per metà danno).
 
 ### Serpente, Grande e Gigante
 
@@ -1566,7 +1555,7 @@ I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltr
 *Movimento*: 60' (30')/6, 9/9  
 *DVE/PE*: 2/30, 8/800
 
-I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1d2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2d6 punti di danno a turno. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1d6 turni.
+I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1d2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2d6 punti di danno a Round. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1d6 Round.
 
 ### Serpente Marino
 
@@ -1610,33 +1599,7 @@ Gli spettri sono creature non-morte incorporee. Quando uno spettro colpisce un a
 *Movimento*: 150' (50')in volo  
 *DVE/PE*: 1/15
 
-Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le loro vittime e poi prosciugare loro il sangue. Ogni volta che uno stirge effettua con successo un attacco in mischia, rimane attaccato al suo bersaglio e infligge automaticamente 1d6-1 punti di danno ogni round mentre beve il sangue della vittima.
-
-## Statue viventi
-
-Le statue viventi sono grandi e potenti automi umanoidi. Stando in silenzio sono indistinguibili da statue ordinarie di grandi dimensioni. Le statue viventi sono estremamente pesanti e si muovono pesantemente ma con uno scopo. Possono sfondare le strutture di legno, comprese le porte e sono in gran parte invulnerabili adi danni magici.
-
-### Statua Vivente, Ferro
-
-*Classe Armatura*: 17  
-*Dadi Vita*: 18  
-*Attacchi*: Colpo (4d6)  
-*Speciale*: Resistenza magica, gas velenoso   
-*Movimento*: 60' (20')  
-*DVE/PE*: 21/4.700
-
-Le statue viventi di ferro sono fuse in metallo solido. In combattimento possono esalare una nuvola di gas velenoso nel raggio di 1" o colpire. Gli attacchi di fulmine li rallenteranno e il fuoco li curerà; altrimenti, possono essere danneggiati solo da armi magiche di qualità +3 o superiore.
-
-### Statua Vivente, Pietra
-
-*Classe Armatura*: 14  
-*Dadi Vita*: 14  
-*Attacchi*: Colpo (3d6)   
-*Speciale*: Resistenza magica   
-*Movimento*: 60' (20')  
-*DVE/PE*: 17/3.500
-
-Le statue viventi di pietra sono scolpite nella roccia solida. Possono rallentare un bersaglio per turno o colpire. Il freddo e il fuoco li rallenteranno e la pietra e la carne li cureranno; altrimenti, possono essere danneggiati solo dalla magia che colpisce specificamente la pietra o da armi magiche di qualità +2 o superiore.
+Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le loro vittime e poi prosciugare loro il sangue. Ogni volta che uno stirge effettua con successo un attacco in mischia, rimane attaccato al suo bersaglio e infligge automaticamente 1d6-1 punti di danno ogni Round mentre beve il sangue della vittima.
 
 ### Tartaruga Dragona
 
@@ -1728,7 +1691,7 @@ I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e
 *Movimento*: 120' (40')   
 *DVE/PE*: 8/800
 
-I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. Sono nemici giurati dei Silvani, la cui vista induce il Troll ad una furia cieca che gli concede +2 ai tiri di Morale. I troll si rigenerano: qualsiasi danno inflitto loro guarisce al ritmo di 3 punti ferita per round. L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati. Se esposti alla luce solare, si trasformano in pietra fino al successivo tramonto. I Troll che non sono colti alla sprovvista dall'alba si raggomitolano su loro stessi per mimetizzarsi mentre sono pietrificati. In questo caso, un Troll è quasi indistingubile da un grosso masso: esaminandolo attentamente c'è solo 1-2 su d6 possibilità di capire che un pietrone è in realtà un Troll pietrificato.
+I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. Sono nemici giurati dei Silvani, la cui vista induce il Troll ad una furia cieca che gli concede +2 ai tiri di Morale. I troll si rigenerano: qualsiasi danno inflitto loro guarisce al ritmo di 3 punti ferita per Round. L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati. Se esposti alla luce solare, si trasformano in pietra fino al successivo tramonto. I Troll che non sono colti alla sprovvista dall'alba si raggomitolano su loro stessi per mimetizzarsi mentre sono pietrificati. In questo caso, un Troll è quasi indistingubile da un grosso masso: esaminandolo attentamente c'è solo 1-2 su d6 possibilità di capire che un pietrone è in realtà un Troll pietrificato.
 
 ## Umani
 
@@ -1844,16 +1807,16 @@ Gli zeloti sono fanatici religiosi. Attaccano a +2 per colpire contro gli umanoi
 
 Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360', con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
 
-### Uomo Lucertola
+### Uomo Rana
 
 *Classe Armatura*: 14  
 *Dadi Vita*: 2+1  
-*Attacchi*: Artiglio o spada  
+*Attacchi*: lancia o spada  
 *Speciale*: Vedi sotto  
 *Movimento*: 60' (30')/12 (quando nuota)  
 *DVE/PE*: 2/30
 
-Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Alcuni possono trattenere il respiro per lungo tempo (un'ora o più), mentre altri possono effettivamente respirare sott'acqua. Alcuni uomini lucertola brandiscono una spada malvagia fatta di ossa affilate.
+Gli uomini rana sono anfibi umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Possono trattenere il respiro per un'ora. Alcuni uomini rana brandiscono una spada malvagia fatta di ossa affilate.
 
 ### Vampiro
 
@@ -1864,11 +1827,9 @@ Gli uomini lucertola sono rettili umanoidi  che di solito vivono in villaggi tri
 *Movimento*: 120' (40') / 180' (60') quando vola  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare. Si rigenerano al ritmo di 3 punti ferita per round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare un'orda di pipistrelli o 3d6 lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo Ammaliare le Persone). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare dove rimarranno fino al successivo tramonto. Si rigenerano al ritmo di 3 punti ferita per Round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare 4d6 Pipistrelli o 3d6 Lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo *Ammaliare le Persone*). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
-Fortunatamente, i vampiri hanno alcune debolezze. Possono essere uccisi (questi sono gli unici metodi conosciuti) immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando un paletto di legno nel cuore. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri "buoni". Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore. Questa descrizione si riconosce facilmente come il tipo di vampiro "Dracula".
-
-Molte altre possibilità di vampiri esistono nel folklore: Vampiri cinesi, per esempio e bevitori di sangue più feroci che intelligenti. Inoltre, si potrebbero creare altri modelli culturali con attributi diversi - che ne dite di un antico vampiro egiziano mummificato o di un vampiro azteco?
+Fortunatamente, i vampiri hanno alcune debolezze. Possono essere distrutti definitivamente immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando loro un paletto di legno nel cuore mentre riposano nelle loro bare. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri a divinità che odiano i non-morti: nella pratica, è possibile Scacciarli come un Chierico di 1° Livello, mentre un Chierico avrà un bonus di +3 a tutti i tiri del suo tentativo di Scacciare se utilizza questi oggetti. Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore.
 
 ### Verme Viola
 
@@ -1892,7 +1853,7 @@ Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo qu
 *Movimento*: 60' (30')/ 240' (80') quando vola  
 *DVE/PE*: 9/1,100
 
-Una viverna ha la forma di drago a due zampe e queste creature sono più piccole e meno intelligenti dei veri draghi a quattro zampe, per non parlare del fatto che non hanno il soffio come arma. Le viverne hanno un aculeo velenoso alla fine della coda, ma non sono abbastanza coordinate da attaccare sia con il morso che con l'aculeo in un solo round. A ogni round, la viverna ha il 60% di probabilità di usare la sua coda, che può sferzare la creatura di fronte anche più lontano di quanto la sua testa possa raggiungere.
+Una viverna ha la forma di drago a due zampe e queste creature sono più piccole e meno intelligenti dei veri draghi a quattro zampe, per non parlare del fatto che non hanno il soffio come arma. Le viverne hanno un aculeo velenoso alla fine della coda, ma non sono abbastanza coordinate da attaccare sia con il morso che con l'aculeo in un solo Round. A ogni Round, la viverna ha il 60% di probabilità di usare la sua coda, che può sferzare la creatura di fronte anche più lontano di quanto la sua testa possa raggiungere.
 
 ### Worg
 

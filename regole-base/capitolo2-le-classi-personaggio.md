@@ -5,6 +5,53 @@ parent: Regole Base
 
 # Capitolo 2: Classi Personaggio
 
+
+## Il Bardo
+Menestrelli, artisti, poeti... i Bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano gesta di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
+
+I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più precisi -- *Cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
+
+#### Tabella 3: Avanzamento del Bardo
+
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Sapienza |
+| :-----: | :--------------: | :-------: | :---------: | :------: |
+|    1    |        0         |     1     |     +0      |    2     |
+|    2    |      1.250       |    1+1    |     +0      |    2     |
+|    3    |      2,500       |     2     |     +0      |    2     |
+|    4    |      5.000       |    2+1    |     +0      |    3     |
+|    5    |      10.000      |     3     |     +0      |    3     |
+|    6    |      20.000      |    3+1    |     +0      |    3     |
+|    7    |      40.000      |     4     |     +0      |    4     |
+|    8    |      80.000      |    4+1    |     +0      |    4     |
+|    9    |     160.000      |     5     |     +0      |    4     |
+|   10    |     320.000      |    5+1    |     +0      |    5     |
+
+
+### Abilità del Bardo
+
+#### Restrizioni su armi e armature
+I Bardi sono deboli in battaglia. Non possono usare armi a due mani, archi lunghi e balestre pesanti. Possono indossare solo armature di cuoio.
+
+#### Incoraggiare
+Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incoraggia e rafforza i suoi alleati che riescono a sentirla: diventano immuni alla paura e hanno +2 ai Tiri per colpire e ai Tiri Salvezza. Se il Bardo viene distratto o subisce danni, l'incoraggiamento viene interrotto fino a che non ricomincia a suonare
+
+#### Incanto
+Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incanta le creature con DV inferiore o uguale al suo livello. Possono anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare 5 mostri con 1 DV). Finché suona il suo strumento, le creature incantate vi seguiranno e non faranno alcun danno. Se il Bardo viene distratto, subisce danni o se le creature vengono attaccate dagli alleati del Bardo, l'incanto si rompe e la canzone smette di funzionare: in questo caso non è possibile Incantare di nuovo la creatura fino alla fine del Turno corrente.
+
+Non potete incantare non morti, demoni, i golem e le creature che non hanno udito.
+
+#### Sapienza
+I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta si deve determinare se un oggetto, un luogo, una creatura o un incantesimo fanno parte delle conoscenze del Bardo, l'Arbitro tira 1d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo.
+
+#### Tiro salvezza
+I Bardi ricevono un bonus di +2 ai tiri salvezza contro gli incantesimi o gli effetti che influenzano la mente e la volontà.
+
+#### Leggenda
+Un Bardo di nono livello o superiore può scrivere un libro che racconti le leggende e le gesta eroiche del gruppo. Queste leggende sono ora conosciute in tutta la landa ed il gruppo riceverà gran fama -- saranno riconosciuti in ogni città del mondo.
+
+#### Bonus di esperienza per il Carisma
+Il Carisma è l'attributo principale dei Bardi, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
+
 ## Il Cacciatore
 A differenza dei combattenti e dei Campioni, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
 
@@ -32,24 +79,26 @@ I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire
 I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
 
 #### Caccia
-I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, effettua un tiro di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate, chi o cosa sono e quante.
+I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, effettua un tiro di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate e in quante sono.
 
 #### Trofei
 Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
+
 - Demone
 - Essere magico (elementale, golem)
 - Non-morto
-- Gigante (gigante, bugbear, orco)
+- Gigante (gigante, orco)
 - Draconico (coboldo, drago, viverne)
 - Pelle verde (goblin, orchi, troll)
-- Animale (ragni, cinghiali, uccelli)
+- Animale
 - Sottomondo (trogloditi, melme)
-- Folletti (banshee, nixie, pixie)
+- Folletti (banshee, nixie, pixie, goblin, bugbear)
+- Costrutti (Golem, robot)
 
 Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti di 1d6. I Cacciatori possono avere più titoli.
 
 #### Tiro salvezza
-I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro il veleno e le illusioni create dalle creature selvatiche.
+I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
 
 #### Uccisore
 Un Cacciatore di nono livello o di livello superiore può chiamarsi Uccisore. 
@@ -111,7 +160,7 @@ La Saggezza è l'Attributo Primario dei Chierici. I Chierici con Saggezza pari o
 
 Solamente i Chierici Legali hanno la capacità di scacciare i non-morti, facendoli fuggire o distruggendoli del tutto. Quando tentano di scacciare, tirano 3d6 e consultano la tabella Scacciare i non-morti per il risultato. Si può fare un solo tentativo per scacciare a ogni incontro.
 
-Se il risultato dei dadi è uguale o superiore al numero indicato sulla tabella, tutte le creature non-morte del tipo bersaglio vengono scacciate e fuggono per 3d6 round (o si accucciano impotenti, se non sono in grado di fuggire). Opzionalmente, l'Arbitro può decidere che solo 2d6 DV siano scacciati, iniziando dal più basso al più alto.
+Se il risultato dei dadi è uguale o superiore al numero indicato sulla tabella, tutte le creature non-morte del tipo bersaglio vengono scacciate e fuggono per 3d6 round (o si accucciano impotenti, se non sono in grado di fuggire). 
 
 Per i Chierici allineati legalmente, se la tabella indica una "D" allora la creatura non-morta viene distrutta automaticamente e si sgretola in polvere.
 
@@ -211,7 +260,7 @@ I Dvergar possono utilizzare una speciale vista che gli permette di vedere il ca
 
 #### Sapere Dvergar
 
-I Dvergar sono bravi a **individuare anomalie strutturali di cunicoli o sotterranei** (passaggi segreti, trappole artificiali, pericoli naturali ecc.) oppure **storia e segni del passaggio di creature che vivono sottoterra**. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
+I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterranei (passaggi segreti, trappole artificiali, pericoli naturali ecc.) oppure a conoscere storia e segni del passaggio di creature che vivono sottoterra. Se il risultato del tiro è uguale o inferiore al suo punteggio nell'abilità di Dvergar, l'Arbitro rivela informazioni utili sull'oggetto o l'argomento.
 
 #### Tiro Salvezza
 
@@ -303,7 +352,7 @@ I Ladri sono agili e abili nel combattimento e possono impugnare qualsiasi arma,
 
 #### Pugnalata alla schiena
 
-Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza, riceve un bonus di +3 al suo bonus di attacco base. Se l'attacco ha successo, il ladro raddoppia i danni della sua arma.
+Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza o che è stato colto di sorpresa dal gruppo, riceve un bonus di +3 al suo tiro per colpire. Se l'attacco ha successo, il ladro raddoppia i danni della sua arma.
 
 #### Tiro salvezza
 
