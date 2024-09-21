@@ -9,7 +9,7 @@ parent: Regole Base
 ## Il Bardo
 Menestrelli, artisti, poeti... i Bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano gesta di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
-I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più precisi -- *Cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
+I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più precisi, *Cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
 
 #### Tabella 3: Avanzamento del Bardo
 
@@ -36,15 +36,15 @@ I Bardi sono deboli in battaglia. Non possono usare armi a due mani, archi lungh
 Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incoraggia e rafforza i suoi alleati che riescono a sentirla: diventano immuni alla paura e hanno +2 ai Tiri per colpire e ai Tiri Salvezza. Se il Bardo viene distratto o subisce danni, l'incoraggiamento viene interrotto fino a che non ricomincia a suonare
 
 #### Incanto
-Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incanta le creature con DV inferiore o uguale al suo livello. Possono anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare 5 mostri con 1 DV). Finché suona il suo strumento, le creature incantate vi seguiranno e non faranno alcun danno. Se il Bardo viene distratto, subisce danni o se le creature vengono attaccate dagli alleati del Bardo, l'incanto si rompe e la canzone smette di funzionare: in questo caso non è possibile Incantare di nuovo la creatura fino alla fine del Turno corrente.
+Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incanta le creature con DV inferiore o uguale al suo livello. Possono anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare 5 mostri con 1 DV). Finché suona il suo strumento, le creature incantate vi seguiranno senza attaccare. Se il Bardo viene distratto, subisce danni o se le creature vengono attaccate dagli alleati del Bardo, l'incanto si rompe e la canzone smette di funzionare: in questo caso non è possibile Incantare di nuovo la creatura fino alla fine del Turno corrente.
 
-Non potete incantare non morti, demoni, i golem e le creature che non hanno udito.
+Non potete incantare non morti, demoni, i golem, le melme e le creature che non hanno udito. Nelle situazioni dubbie l'Arbitro ha l'ultima parola a riguardo.
 
 #### Sapienza
 I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta si deve determinare se un oggetto, un luogo, una creatura o un incantesimo fanno parte delle conoscenze del Bardo, l'Arbitro tira 1d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo.
 
 #### Tiro salvezza
-I Bardi ricevono un bonus di +2 ai tiri salvezza contro gli incantesimi o gli effetti che influenzano la mente e la volontà.
+I Bardi ricevono un bonus di +2 ai Tiri Salvezza contro gli incantesimi o gli effetti che influenzano la mente e la volontà.
 
 #### Leggenda
 Un Bardo di nono livello o superiore può scrivere un libro che racconti le leggende e le gesta eroiche del gruppo. Queste leggende sono ora conosciute in tutta la landa ed il gruppo riceverà gran fama -- saranno riconosciuti in ogni città del mondo.
@@ -98,7 +98,7 @@ Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere u
 Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti di 1d6. I Cacciatori possono avere più titoli.
 
 #### Tiro salvezza
-I Cacciatori ricevono un bonus di +2 ai tiri salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
+I Cacciatori ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
 
 #### Uccisore
 Un Cacciatore di nono livello o di livello superiore può chiamarsi Uccisore. 
@@ -142,7 +142,7 @@ I Chierici lanciano incantesimi divini da una specifica lista di incantesimi, co
 
 #### Tiro Salvezza
 
-I Chierici ricevono un bonus di +2 ai tiri salvezza contro veleno e paralisi.
+I Chierici ricevono un bonus di +2 ai Tiri Salvezza contro veleno e paralisi.
 
 #### Scacciare i non-morti
 
@@ -214,7 +214,7 @@ I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella
 
 I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
 * Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +3.
-* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di -3.
+* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -3.
 
 #### Tiro salvezza
 
@@ -264,7 +264,7 @@ I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterrane
 
 #### Tiro Salvezza
 
-I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai tiri salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Arbitro ha l'ultima parola a riguardo). 
+I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai Tiri Salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Arbitro ha l'ultima parola a riguardo). 
 
 #### Lingue
 
@@ -356,7 +356,7 @@ Ogni volta che un Ladro attacca un avversario che non è consapevole della sua p
 
 #### Tiro salvezza
 
-I Ladri ricevono un bonus di +2 a qualsiasi tiro salvezza effettuato per ridurre o evitare gli effetti di qualsiasi trappola, magica o terrena.
+I Ladri ricevono un bonus di +2 a qualsiasi Tiro Salvezza effettuato per ridurre o evitare gli effetti di qualsiasi trappola, magica o terrena.
 
 #### Furto
 
@@ -408,7 +408,7 @@ Il Paladino può spendere i suoi punti Zelo (che vengono ripristinati dopo ogni 
 - **Colpire:** il Paladino può toccare un non morto, un demone o un folletto e spendere una quantità qualsiasi di Zelo per infliggere la stessa quantità di danni alla creatura. Non occorre fare un tiro per colpire.
 
 #### Tiro salvezza
-I Paladini ricevono un bonus di +2 ai tiri salvezza contro qualsiasi effetto causato da non morti, folletti e demoni.
+I Paladini ricevono un bonus di +2 ai Tiri Salvezza contro qualsiasi effetto causato da non morti, folletti e demoni.
 
 #### Esemplare dell'ordine
 Un Paladino di decimo livello diventa un esemplare dell'ordine. A questo livello il Paladino può iniziare la costruzione del proprio santuario. Il personaggio può scegliere di attirare altri Paladini che combatteranno per la sua causa.
@@ -440,7 +440,7 @@ I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale,
 I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
 
 #### Lingue
-I Silvani sanno parlare con i Troll, loro mortali nemici, i folletti.
+I Silvani sanno parlare con i Troll, loro mortali nemici, e le altre creature fatate, come le Banshee, le Sidhe e i Pixie.
 
 #### Boschetto sacro
 Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.

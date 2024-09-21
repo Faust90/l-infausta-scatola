@@ -24,7 +24,7 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
 
 **Ordine di gioco**: Durante l'esplorazione in un dungeon, ogni turno viene risolto separatamente. L'ordine degli eventi in un turno di gioco è il seguente:
 
-1. **Controllo dei mostri erranti**: Ogni sei turni l'Arbitro tira per vedere se si incontrano mostri erranti (tipicamente 1 su 6).
+1. **Controllo dei mostri erranti**: Ogni sei Turni l'Arbitro tira per vedere se si incontrano mostri erranti (tipicamente 1 su 6).
 2. **Dichiarare l'azione**: Ogni giocatore descrive l'attività dei vari membri del gruppo, che vengono risolti come appropriato dall'Arbitro:
     - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 di *L'Infausta Scatola*);
     - **Ascoltare i rumori**: 1 turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
@@ -38,7 +38,7 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
 3. **Incontri**: Se si verifica un incontro (sia con un mostro errante che con un incontro pianificato), l'Arbitro determina la sorpresa, la distanza, le reazioni e risolve l'incontro normalmente (tramite negoziazione, fuga o combattimento).
 4. **Registrazione**: L'Arbitro registra che è trascorso un turno e tutte le risorse che il gruppo ha utilizzato (punti ferita persi, durata degli incantesimi che scade, torce che si bruciano e così via).
 
-Poiché ogni turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso turno, per esempio. Le azioni più lunghe possono richiedere diversi turni per essere risolte (come fare una perlustrazione di un muro di 500 piedi quadrati) e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
+Poiché ogni turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso turno, per esempio. Le azioni più lunghe possono richiedere diversi Turni per essere risolte (come fare una perlustrazione di un muro di 500 piedi quadrati) e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
 
 ### Esplorare le Terre Selvagge
 L'unità di tempo di base per l'esplorazione della natura è il giorno. È una buona idea, se possibile, che l'Arbitro utilizzi una carta contrassegnata da una griglia esagonale ("carta esagonale") per pre-disegnare le mappe della regione selvaggia prima che i giocatori la esplorino.
@@ -52,7 +52,7 @@ L'unità di tempo di base per l'esplorazione della natura è il giorno. È una b
 5. **Incontro**: Qualsiasi incontro viene risolto.
 6. **Accamparsi**: L'Arbitro indica quali opzioni ha il gruppo per accamparsi. 
 
-    Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 o -10% sui punteggi di abilità, sui tiri per colpire, sui tiri per danni e sui tiri salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
+    Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 o -10% sui punteggi di abilità, sui tiri per colpire, sui tiri per danni e sui Tiri Salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
 
     Gli avventurieri di buon senso stabiliranno un turno di guardia durante la notte, con diversi personaggi che faranno a turno per garantire la sicurezza dei dormienti.
 
@@ -66,12 +66,12 @@ La velocità di movimento base per tutte le razze è calcolata sulla tabella sot
 
 #### Tabella 15: Velocità base
 
-| Peso Portato (lb.) | **Umani** | **Dvergar/Silvano** |
-| :----------------: | :-------: | :-----------------: |
-|        0-75        |   120'    |         90'         |
-|       76-100       |    90'    |         60'         |
-|      101-150       |    60'    |         30'         |
-|      151-300       |    30'    |         15'         |
+| Peso Portato (lb.) | **Umani** | **Dvergar e Silvani** |
+| :----------------: | :-------: | :-------------------: |
+|        0-75        |   120'    |          90'          |
+|       76-100       |    90'    |          60'          |
+|      101-150       |    60'    |          30'          |
+|      151-300       |    30'    |          15'          |
 
 Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
@@ -96,7 +96,7 @@ Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 30'. Le torce bruciano per un'ora (sei turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
+Torce e lanterne illuminano un raggio di 30'. Le torce bruciano per un'ora (sei Turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 Turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
 
 ### Ascolto alle porte
 
@@ -123,7 +123,7 @@ Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli 
 
 - La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
 - La parte che ha perso l'iniziativa agisce; i risultati hanno effetto.  
-- Il round è concluso; mantenere l'ordine dei turni per il round successivo se la battaglia non è stata risolta.
+- Il round è concluso; mantenere l'ordine dei Turni per il round successivo se la battaglia non è stata risolta.
 
 I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si considera che entrambe le parti agiscono simultaneamente. L'Arbitro può gestire questa situazione nel modo che preferisce, con un'avvertenza. I danni inflitti dai combattenti durante qualsiasi iniziativa simultanea sono inflitti anche se uno dei combattenti muore durante il round. È possibile che due combattenti si uccidano a vicenda in questa situazione. Se volete giocare in modo più semplice, se c'è un pareggio tirate nuovamente l'iniziativa semplicemente fino a quando una parte o l'altra vince l'iniziativa.  
 
@@ -193,7 +193,7 @@ Una giostra è una gara in cui due combattenti si affrontano brandendo delle lan
 
 La giostra, come sport, consisteva in tre tornei. In *L'Infausta Scatola*, questo equivale a tre round di combattimento. Ogni round consiste in un attacco con una lancia. Se le lance sono smussate, infliggono 1d6-1 punti di danno, ma non possono uccidere il giostratore. A 0 punti ferita, il giostratore è stordito e cade dal suo destriero (nessun danno aggiuntivo). Se le lance non sono smussate, infliggono danni normali e potrebbero uccidere.
 
-Ogni giostratore che subisce danni deve superare un tiro salvezza o essere sbalzato dal suo destriero e subire 1d6 danni per la caduta.
+Ogni giostratore che subisce danni deve superare un Tiro Salvezza o essere sbalzato dal suo destriero e subire 1d6 danni per la caduta.
 
 #### Tabella 21: Punti Giostra
 
@@ -235,7 +235,7 @@ Se un PNG si trova in una situazione in cui una prova di morale può essere appr
 
 ### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "tiro salvezza". Un tiro salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del tiro salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un tiro salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il tiro salvezza ha successo.
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "Tiro Salvezza". Un Tiro Salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del Tiro Salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un Tiro Salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo.
 
 ### Ricordate
 

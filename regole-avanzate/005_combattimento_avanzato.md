@@ -49,15 +49,15 @@ Le navi possono ingaggiare un combattimento nave-nave (o nave-mostro marino). Le
 
 Quando si verifica un combattimento nave-nave (o nave-mostro marino) l'Arbitro dovrebbe usare la scala di combattimento delle Terre Selvagge (1" a 10 iarde e un turno di un minuto) per risolvere le manovre e il fuoco dei proiettili mentre i combattenti si avvicinano l'un all'altro.
 
-La direzione del vento, le posizioni tattiche e le distanze di sicurezza possono essere segnate sulla mappa o semplicemente annotate come distanze di avvicinamento. Le navi da guerra possono produrre una raffica veloce durante il combattimento, aggiungendo 6" alla velocità di movimento per un massimo di tre turni dopo i quali l'equipaggio è esausto.
+La direzione del vento, le posizioni tattiche e le distanze di sicurezza possono essere segnate sulla mappa o semplicemente annotate come distanze di avvicinamento. Le navi da guerra possono produrre una raffica veloce durante il combattimento, aggiungendo 6" alla velocità di movimento per un massimo di tre Turni dopo i quali l'equipaggio è esausto.
 
 ### Sparare proiettili
-L'artiglieria di bordo può essere utilizzata ogni due turni, mentre gli incantesimi e i proiettili possono essere tirati ad ogni turno; i proiettili normali sono inefficaci contro gli scafi delle navi, ma possono avere la massima gittata all'aperto, tenendo conto delle condizioni atmosferiche e delle mareggiate.
+L'artiglieria di bordo può essere utilizzata ogni due Turni, mentre gli incantesimi e i proiettili possono essere tirati ad ogni turno; i proiettili normali sono inefficaci contro gli scafi delle navi, ma possono avere la massima gittata all'aperto, tenendo conto delle condizioni atmosferiche e delle mareggiate.
 
 Si presume che le piccole galee portino una singola batteria di artiglieria sul ponte di prua. Le grandi galee portano due batterie (una a prua e una a poppa), e le navi da guerra portano quattro batterie (una a prua, una a poppa, una a babordo e una a tribordo). I colpi di artiglieria causano 2-12 punti di danno allo scafo e forano una nave sotto la linea di galleggiamento con un punteggio di 10 o più punti scafo. Una nave forata affonderà in 3-18 giri di cumulo (minuti) a meno che non venga riparata.
 
 ### Speronare
-Le navi medievali non sono generalmente costruite per lo speronamento, ma una nave più veloce può speronare una nave più lenta sul fianco, circostanze permettendo. La nave che sperona subisce un danno allo scafo, mentre la nave speronata subisce la metà del danno dello scafo dell'invasore (arrotondato per difetto). Se vengono subiti 10 o più punti scafo, la nave viene forata sotto la linea di galleggiamento e affonda in 3-18 turni. Nel frattempo, l'abbordaggio può avvenire.
+Le navi medievali non sono generalmente costruite per lo speronamento, ma una nave più veloce può speronare una nave più lenta sul fianco, circostanze permettendo. La nave che sperona subisce un danno allo scafo, mentre la nave speronata subisce la metà del danno dello scafo dell'invasore (arrotondato per difetto). Se vengono subiti 10 o più punti scafo, la nave viene forata sotto la linea di galleggiamento e affonda in 3-18 Turni. Nel frattempo, l'abbordaggio può avvenire.
 
 ### Mischia
 Quando le navi si scontrano, si incagliano o si affiancano per l'abbordaggio, si consiglia all'Arbitro di usare la scala di combattimento del Dungeon (1" a 10 piedi e un minuto di tempo) per risolvere qualsiasi combattimento corpo a corpo. I piani del ponte della nave possono essere usati come mappe del Dungeon per questo scopo. Le truppe che fuggono dal combattimento si gettano in mare solo in condizioni di bel tempo vicino a terra, altrimenti si arrendono.
@@ -68,7 +68,7 @@ I giocatori con cavalcature alate o altri mezzi volanti possono ingaggiare un co
 Quando si verifica un combattimento aria-aria, l'Arbitro dovrebbe usare la scala di combattimento delle Terre Selvagge (1" a 10 iarde e un turno di un minuto) per risolvere le manovre e il fuoco dei proiettili mentre i personaggi sono impegnati. Altitudine, direzione del vento, posizioni tattiche e fronti possono essere segnate sulla mappa, se lo si desidera, o semplicemente annotate come distanze di avvicinamento.
 
 ### Sparare proiettili
-L'artiglieria aerea può essere utilizzata ogni due turni, mentre i proiettili possono essere lanciati ogni turno tenendo conto della velocità dell'aria e delle condizioni atmosferiche.
+L'artiglieria aerea può essere utilizzata ogni due Turni, mentre i proiettili possono essere lanciati ogni turno tenendo conto della velocità dell'aria e delle condizioni atmosferiche.
 
 Grandi creature possono bombardare bersagli a terra lasciando cadere dall'alto rocce, tronchi, corpi o proiettili simili. Questi sono trattati come attacchi di artiglieria.
 

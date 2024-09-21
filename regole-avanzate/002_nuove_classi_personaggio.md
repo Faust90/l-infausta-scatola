@@ -47,7 +47,7 @@ Gli Assassini possono pugnalare alla schiena un avversario che non è consapevol
 #### Assassinare
 Gli Assassini possono definire un piano per uccidere il proprio bersaglio. Il giocatore deve descrivere il piano e tirare 1d6: il grado di successo è dato dall'abilità dell'Assassino.
 
-Se il tiro ha successo, il piano funziona come previsto. La vittima deve ancora fallire un tiro salvezza contro veleno o trappole per essere uccisa. Se usato in combattimento, usare Assassinare con successo permette all'Assassino di posizionarsi per una pugnalata alla schiena con un'arma da mischia nel round successivo.
+Se il tiro ha successo, il piano funziona come previsto. La vittima deve ancora fallire un Tiro Salvezza contro veleno o trappole per essere uccisa. Se usato in combattimento, usare Assassinare con successo permette all'Assassino di posizionarsi per una pugnalata alla schiena con un'arma da mischia nel round successivo.
 
 **L'abilità Assassinare può essere utilizzata usata una sola volta sullo stesso bersaglio.** Se il bersaglio sopravvive, l'Assassino non può usare Assassinare su di esso finché non è avanzato di un livello.
 
@@ -121,7 +121,7 @@ Non potete incantare non morti, demoni e mostri che non possono udire.
 I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta il Bardo trova qualcosa di strano (per esempio un oggetto magico non identificato o un luogo sconosciuto) l'Arbitro tira 1d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo. Altrimenti, l'Arbitro comunica al Bardo una bugia.
 
 #### Tiro salvezza
-I Bardi ricevono un bonus di +2 ai tiri salvezza contro gli incantesimi (ad esempio, quelli effettuati dalle driadi).
+I Bardi ricevono un bonus di +2 ai Tiri Salvezza contro gli incantesimi (ad esempio, quelli effettuati dalle driadi).
 
 #### Leggenda
 Un Bardo di nono livello o superiore può scrivere un libro che racconti le leggende e le gesta eroiche del gruppo. Queste leggende sono ora conosciute in tutta la landa ed il gruppo riceverà gran fama -- saranno riconosciuti in ogni città del mondo.
@@ -173,7 +173,7 @@ Nella vostra forma di grande animale non potete parlare, perdete tutto l'equipag
 I druidi non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani.
 
 #### Tiro salvezza
-I druidi ricevono un bonus di +2 ai tiri salvezza contro gli effetti e gli attacchi basati sugli elementi.
+I druidi ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti e gli attacchi basati sugli elementi.
 
 #### Boschetto sacro
 Un druido di nono livello o superiore può diventare un druido anziano e custode di un boschetto sacro. Il druido deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
@@ -254,7 +254,7 @@ I Monaci possono usare qualsiasi arma, anche se preferiscono combattere disarmat
 I Monaci combattono utilizzando complicate e letali arti marziali. Infliggono 1d6 danni quando combattono disarmati e possono aggiungere il loro bonus di Forza, Destrezza o Saggezza ai loro attacchi e danni. Inoltre, possono eseguire due attacchi per round mentre combattono a mani nude. I Monaci possono anche brandire tutte le armi esotiche e ottenere i loro bonus speciali.
 
 #### Arti marziali
-I Monaci hanno una statistica speciale: Arti Marziali (ultima colonna della tabella di avanzamento dei Monaci). I Monaci migliorano la loro CA di -X [+X], dove "X" è il loro livello attuale di Arti Marziali. Possono anche usare i loro tiri salvezza per schivare i proiettili e ottengono un bonus al tiro pari al loro livello di Arti Marziali corrente.
+I Monaci hanno una statistica speciale: Arti Marziali (ultima colonna della tabella di avanzamento dei Monaci). I Monaci migliorano la loro CA di -X [+X], dove "X" è il loro livello attuale di Arti Marziali. Possono anche usare i loro Tiri Salvezza per schivare i proiettili e ottengono un bonus al tiro pari al loro livello di Arti Marziali corrente.
 
 #### Acrobazia
 I Monaci possono cadere da grandi altezze senza subire alcun danno. Inoltre, il Monaco può scalare (o correre su) pareti verticali con facilità.
@@ -303,7 +303,7 @@ Il Paladino ha un attributo extra -- l'Orgoglio (ultima colonna nella tabella de
 - **Colpire:** il Paladino può toccare un non morto o un demone e spendere una quantità qualsiasi di Orgoglio per infliggere la stessa quantità di danni alla creatura (non è necessario un tiro per attaccare).
 
 #### Tiro salvezza
-I Paladini ricevono un bonus di +2 ai tiri salvezza contro qualsiasi effetto causato da non morti e demoni.
+I Paladini ricevono un bonus di +2 ai Tiri Salvezza contro qualsiasi effetto causato da non morti e demoni.
 
 #### Campione del Bene
 Un Paladino di decimo livello diventa un campione del bene. A questo livello il Paladino può iniziare la costruzione del proprio ordine. Il personaggio può scegliere di attirare altri cavalieri che combatteranno per la sua causa.

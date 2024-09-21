@@ -566,4 +566,4 @@ La fuga e l'inseguimento aerei sono come nelle Terre Selvagge con le seguenti co
 - I fuggiaschi che possono volare sfuggono automaticamente agli inseguitori a terra senza questa capacità, a meno che non vengano sorpresi.
 
 ### Cadere
-Cadere o schiantarsi in altro modo è un pericolo costante per chi vola. Una caduta a terra da una bassa altitudine causerà 1-6 dadi di danno (da 1-6 a 6-36 punti ferita). Una caduta a terra da un'altitudine elevata causerà 10-60 punti di danno dopo 1-4 turni (minuti) di caduta libera.
+Cadere o schiantarsi in altro modo è un pericolo costante per chi vola. Una caduta a terra da una bassa altitudine causerà 1-6 dadi di danno (da 1-6 a 6-36 punti ferita). Una caduta a terra da un'altitudine elevata causerà 10-60 punti di danno dopo 1-4 Turni (minuti) di caduta libera.

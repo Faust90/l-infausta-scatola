@@ -148,7 +148,7 @@ Questo incantesimo opera nello stesso modo di Ammaliare Persone, ma ha effetto s
 *Raggio d'azione:* 120'  
 *Durata:* Finché non viene dissolto
 
-Questo incantesimo affligge le creature viventi bipedi di taglia umana o più piccola, come goblin o driadi. Se l'incantesimo ha successo (tiro salvezza consentito), la sfortunata creatura cadrà sotto l'influenza dell'incantatore.
+Questo incantesimo affligge le creature viventi bipedi di taglia umana o più piccola, come goblin o driadi. Se l'incantesimo ha successo (Tiro Salvezza consentito), la sfortunata creatura cadrà sotto l'influenza dell'incantatore.
 
 ### Animare i Cadaveri
 *Livello:* M5  
@@ -169,7 +169,7 @@ Il Silvano crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF qu
 *Raggio d'azione*: 25'  
 *Durata*: Istantaneo
 
-Questo incantesimo emette un piccolo bagliore magico dal dito del Silvano. Il bagliore può stordire un nemico per 1d6 round (tiro salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
+Questo incantesimo emette un piccolo bagliore magico dal dito del Silvano. Il bagliore può stordire un nemico per 1d6 round (Tiro Salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
 
 ### Benedire (Maledire)
 *Livello:* C2  
@@ -185,19 +185,19 @@ L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi 
 *Raggio d'azione:* 120'  
 *Durata:* 1 ora + 10 minuti per livello
 
-L'incantatore può bersagliare 1d6-1 (minimo 1) creature (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
+L'incantatore può bersagliare 1d6-1 (minimo 1) creature (il Tiro Salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il Tiro Salvezza con una penalità di -2.
 
 ### Bloccare le Persone
 *Livello:* C2, M3  
 *Raggio d'azione:* 180' (C)/120' (M)  
 *Durata:* 90 minuti (C), 1 ora + 10 minuti per livello (M)
 
-L'incantatore può bersagliare 1d6-1 (minimo 1) persone (il tiro salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il tiro salvezza con una penalità di -2.
+L'incantatore può bersagliare 1d6-1 (minimo 1) persone (il Tiro Salvezza si applica) o può concentrarsi su una singola creatura che dovrà fare il Tiro Salvezza con una penalità di -2.
 
 ### Bloccare le Porte
 *Livello:* M1  
 *Raggio d'azione:* A discrezione dell'Arbitro  
-*Durata:* 2d6 turni
+*Durata:* 2d6 Turni
 
 Questo incantesimo chiude una porta o un cancello magicamente per la sua intera durata (o finché non viene dissolto). Le creature con resistenza magica possono frantumare l'incantesimo senza alcuno sforzo.
 
@@ -252,7 +252,7 @@ Quest'incantesimo confonde le persone e i mostri, facendoli agire casualmente. G
 |  6-8  |       Rimangono fermi e sconcertati       |
 | 9-12  |      Si attaccano l'uno con l'altro       |
 
-L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo e ha effetto immediato. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d6-1 (minimo 1). Queste creature devono effettuare un tiro salvezza quando l'effetto raggiunge il massimo potenziale e ogni 10 minuti successivi oppure restano confusi per il resto della durata dell'incantesimo. 
+L'incantesimo colpisce 2d6 creature, più un numero addizionale di creature per ogni livello dell'incantatore sopra all'8°. Le creature con 3 DV o meno sono automaticamente colpite dall'incantesimo e ha effetto immediato. Le creature con 4 DV o più resistono all'effetto della confusione finché non raggiunge il suo massimo potenziale, cioè un numero di minuti pari a 1d6-1 (minimo 1). Queste creature devono effettuare un Tiro Salvezza quando l'effetto raggiunge il massimo potenziale e ogni 10 minuti successivi oppure restano confusi per il resto della durata dell'incantesimo. 
 
 ### Conoscere il Tempo Atmosferico
 *Livello*: S1  
@@ -341,7 +341,7 @@ L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso 
 *Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
-L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o una statua e lo disintegra in polvere. Ai materiali magici non sono disintegrabili e alle creature viventi è concesso un tiro salvezza: per i materiali considerate che abbiano 7 DV + eventuali bonus magici, ad esempio una spada +3 sarà cosiderata avere 10 DV.
+L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o una statua e lo disintegra in polvere. Ai materiali magici non sono disintegrabili e alle creature viventi è concesso un Tiro Salvezza: per i materiali considerate che abbiano 7 DV + eventuali bonus magici, ad esempio una spada +3 sarà cosiderata avere 10 DV.
 
 ### Dissolvere il Caos (la Legge)
 *Livello:* C5  
@@ -402,7 +402,7 @@ Questo incantesimo conferisce alla persona scelta un'immensa forza - in seguito 
 *Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
-Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un tiro salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
+Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantatore. Chiunque nel suo cammino soffre di 1d6 punti di danno per livello dell'incantatore, anche se un successo su di un Tiro Salvezza dimezza il danno. Il dardo si estende sempre per 60', anche se questo significa che può rimbalzare all'indietro su qualcosa che blocca il suo cammino.
 
 ### Incantare un animale
 *Livello*: S1  
@@ -506,7 +506,7 @@ Questo incantesimo permette all'incantatore di leggere le iscrizioni magiche su 
 Questo incantesimo permette al mago di levitare, muovendosi verticalmente verso l'alto o in giù, ma l'incantesimo stesso non fornisce nessun aiuto per il movimento laterale.
 Sarà necessario spostarsi a mano su un muro, una scogliera o un soffitto.
 
-Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a turno) e l'incantatore non può levitare più di 20' per livello dal suolo dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
+Levitare permette un movimento verso l'alto o verso il basso alla velocità di 6' per minuto (60' a Round) e l'incantatore non può levitare più di 20' per livello dal suolo dove l'incantesimo è stato lanciato (tale raggio viene applicato sia al movimento in aria sia al movimento di discesa verso un baratro o una fossa).
 
 ### Localizzare un Oggetto
 *Livello:* C3, M2  
@@ -543,7 +543,7 @@ Il Silvano evoca un piccolo animale nella sua mano (per esempio: un uccello, un 
 *Raggio d'azione:* 30'  
 *Durata:* Finché completo
 
-Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà totalmente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro dovrà determinare. 
+Se la vittima fallisce il Tiro Salvezza, l'incantatore può affidargli un compito. Se il Mago lancia questo incantesimo la vittima morirà se ignorerà totalmente la missione. Se un Chierico lancia questo incantesimo il fallimento della creatura nell'obbedire risulterà in una maledizione che l'Arbitro dovrà determinare. 
 
 ### Muovere l'Acqua
 *Livello:* M6, S6 
@@ -551,8 +551,8 @@ Se la vittima fallisce il tiro salvezza, l'incantatore può affidargli un compit
 *Durata:* Vedere sotto 
 
 L'incantatore può annunciare quale delle due opzioni lancerà:
-- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 turni.
-- Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 turni.
+- L'incantesimo abbassa la profondità e il livello d'acqua di laghi, fiumi, pozzi e altri corpi d'acqua di metà (1/2) del loro normale livello. Usato in tal modo, l'incantesimo dura per 10 Turni.
+- Alternativamente, questo incantesimo crea un passaggio attraverso l'acqua, ma solo a una profondità di 10'. Usato in tal modo, l'incantesimo dura per 6 Turni.
 
 ### Muovere la Terra
 *Livello:* M6, S6  
@@ -567,7 +567,7 @@ Questo incantesimo può essere usato solo al di sopra del terreno. Permette all'
 *Durata:* Concentrazione
 
 L'incantatore deve annunciare quale delle due opzioni viene lanciata:
-- Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che si mantiene la concentrazione. Le creature con 3 dadi vita o meno non possono oltrepassarla e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun tiro salvezza) e le creature non-morte subiscono il doppio del danno. L'incantatore può scegliere di creare un muro lungo 60' e alto 20' o un muro circolare di 15' di raggio alto anche 20'.
+- Come incantesimo di Muro di Fuoco, l'incantatore evoca un muro di fuoco che si agita e brucia fintanto che si mantiene la concentrazione. Le creature con 3 dadi vita o meno non possono oltrepassarla e nessuna creatura può vedere cosa ci sia dall'altro lato. Passare attraverso le fiamme infligge 1d6 punti ferita di danno (nessun Tiro Salvezza) e le creature non-morte subiscono il doppio del danno. L'incantatore può scegliere di creare un muro lungo 60' e alto 20' o un muro circolare di 15' di raggio alto anche 20'.
 - Come incantesimo di Muro di Ghiaccio, l'incantatore evoca un muro di ghiaccio spesso fino a 6'. L'incantatore può scegliere di creare un muro lungo 60' e alto 20' o un muro circolare di 15' di raggio alto anche 20'. Le creature con 3 dadi vita o meno non possono sfondare il muro, ma creature con 4 o più dadi vita possono buttarlo giù, subendo 1d6 danni nel mentre. Le creature con un metabolismo basato sul fuoco subiscono 2d6 danni invece che un normale 1d6. Gli incantesimi di fuoco e gli effetti magici sono impediti in prossimità del muro. 
 
 ### Muro di Pietra o Ferro
@@ -584,7 +584,7 @@ L'incantatore deve annunciare quale delle due opzioni verrà lanciata:
 *Raggio d'azione*: 100'  
 *Durata*: 1 round per livello dell'incantatore
 
-Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
+Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un Tiro Salvezza per farlo.
 
 ### Mutaforma di Massa
 *Livello:* M4  
@@ -619,14 +619,14 @@ Vapori fetidi e velenosi bollono dall'aria sottile, formando una nube del raggio
 *Raggio d'azione:* 240'  
 *Durata:* 1 ora
 
-L'incantatore evoca un "occhio" magico invisibile che si può muovere fino a 240' dal proprio creatore. Esso fluttua diretto dall'incantatore, alla velocità di 120' per turno.
+L'incantatore evoca un "occhio" magico invisibile che si può muovere fino a 240' dal proprio creatore. Esso fluttua diretto dall'incantatore, alla velocità di 120' per Round.
 
 ### Palla di Fuoco
 *Livello:* M3  
 *Raggio d'azione:* 240'  
 *Durata:* Istantaneo
 
-Un proiettile scaturisce dalle dita dell'incantatore per esplodere sul bersaglio in un lampo di fuoco simile a una fornace. Ha un raggio di 20' e il danno è 1d6 per livello dell'incantatore. L'esplosione occuperà tutto il volume disponibile. Con un successo sul tiro salvezza il bersaglio riceverà solo metà dei danni.
+Un proiettile scaturisce dalle dita dell'incantatore per esplodere sul bersaglio in un lampo di fuoco simile a una fornace. Ha un raggio di 20' e il danno è 1d6 per livello dell'incantatore. L'esplosione occuperà tutto il volume disponibile. Con un successo sul Tiro Salvezza il bersaglio riceverà solo metà dei danni.
 
 ### Parlare con gli Animali
 *Livello:* C2 e S2 
@@ -660,7 +660,7 @@ Questo incantesimo crea un buco attraverso la roccia solida. Il foro o tunnel ra
 *Raggio d'azione:* 480'  
 *Durata:* 1 giorno
 
-Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400' quadrati (20' per 20' e alta lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente tiro salvezza). 
+Questo incantesimo funziona solo negli spazi all'aperto. Uno sciame di insetti si riunisce e va ovunque l'incantatore desidera. La nube è larga approssimativamente 400' quadrati (20' per 20' e alta lo stesso). Qualunque creatura con meno di 2 DV esposta alla nube di insetti fuggirà terrorizzata (niente Tiro Salvezza). 
 
 ### Plasmare il Legno
 *Livello*: S2  
@@ -697,7 +697,7 @@ L'incantatore proietta l'immagine della sua persona fino a un massimo di 240'. N
 *Raggio d'azione:* Solo incantatore  
 *Durata:* 2 ore (C), 1 ora (M)
 
-- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità di -1 per colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i tiri salvezza contro questi attacchi.
+- Come incantesimo di Protezione dal Caos, l'incantatore crea un campo magico di protezione intorno a sé stesso per bloccare tutti i mostri caotici, i quali soffrono una penalità di -1 per colpire contro l'incantatore; l'incantatore guadagna un +1 su tutti i Tiri Salvezza contro questi attacchi.
 - Come Incantesimo di Protezione dalla Legge, fa la stessa cosa eccezion fatta che le creature legali soffrono la penalità di -1. 
 
 ### Protezione dal Caos (dalla Legge), raggio 10'
@@ -728,14 +728,14 @@ Il ricevente diventa invulnerabile a proiettili non-magici di piccole dimensioni
 *Raggio d'azione:* 30'  
 *Durata:* 8 ore
 
-Ragnatele appiccicose e fibrose riempiono un'area fino a 10' per 10' per 20'. È estremamente difficile attraversare la massa di fili — necessita un turno se una torcia e una spada (o una spada fiammeggiante) sono impiegate mentre le creature più larghe di un cavallo possono sfondare in 2 turni. Gli umani impiegano più tempo per attraversalo — probabilmente dai 3 ai 4 o più turni a discrezione dell'Arbitro.
+Ragnatele appiccicose e fibrose riempiono un'area fino a 10' per 10' per 20'. È estremamente difficile attraversare la massa di fili — necessita un Round se una torcia e una spada (o una spada fiammeggiante) sono impiegate mentre le creature più larghe di un cavallo possono sfondare in 2 Turni. Gli umani impiegano più tempo per attraversalo — probabilmente dai 3 ai 4 o più Turni a discrezione dell'Arbitro.
 
 ### Regressione Mentale
 *Livello:* M5  
 *Raggio d'azione:* 240'  
 *Durata:* Permanente finché non viene dissolto.
 
-Regressione Mentale è un incantesimo che affligge solo i Maghi. Il tiro salvezza contro l'incantesimo è fatto con una penalità di -4 e, se il tiro salvezza fallisce, il Mago regredirà mentalmente finché la magia non viene dissolta.
+Regressione Mentale è un incantesimo che affligge solo i Maghi. Il Tiro Salvezza contro l'incantesimo è fatto con una penalità di -4 e, se il Tiro Salvezza fallisce, il Mago regredirà mentalmente finché la magia non viene dissolta.
 
 ### Reincarnazione
 *Livello:* M6, S5  
@@ -823,7 +823,7 @@ L'incantatore deve annunciare quale delle due opzioni verrà lanciata. Uno strat
 *Raggio d'azione:* 240'  
 *Durata:* A discrezione dell'Arbitro  
 
-Questo incantesimo getta le creature in un sonno profondo (nessun tiro salvezza è concesso). Può influenzare un numero di creature in base al loro dado vita.
+Questo incantesimo getta le creature in un sonno profondo (nessun Tiro Salvezza è concesso). Può influenzare un numero di creature in base al loro dado vita.
 
 #### Tabella 32: Affetti da Sonno
 
@@ -878,7 +878,7 @@ L'incantatore può tramutare fino a 2d6+1 bastoni ordinari in *serpenti grandi*,
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene invertito
 
-Questo incantesimo trasforma la carne in pietra o pietra in carne, come desiderato dall'incantatore. Un tiro salvezza è concesso per evitare di essere tramutato in roccia, ma se l'incantesimo riesce la vittima viene trasformata in una statua. 
+Questo incantesimo trasforma la carne in pietra o pietra in carne, come desiderato dall'incantatore. Un Tiro Salvezza è concesso per evitare di essere tramutato in roccia, ma se l'incantesimo riesce la vittima viene trasformata in una statua. 
 
 ### Trasformare Roccia in Fango
 *Livello:* M5  
@@ -902,11 +902,11 @@ Trovare Trappole permette all'incantatore di percepire trappole sia magiche sia 
 
 L'incantesimo sposta l'essenza vitale dell'incantatore, la sua intelligenza e la sua anima in un oggetto (virtualmente può essere di qualunque tipo). Il "vaso" deve essere entro 30' dal corpo dell'incantatore affinché l'incantesimo abbia successo.
 
-Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un tiro salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
+Una volta all'interno del vaso magico, l'incantatore può possedere i corpi di altre creature e persone, ammesso che siano entro 120' dal vaso e falliscano un Tiro Salvezza. L'incantatore può ritornare la sua anima al vaso magico in ogni momento, e se il corpo che controlla viene ucciso, la sua essenza vitale torna immediatamente al vaso. Se il corpo dell'incantatore viene ucciso mentre la sua anima è nel vaso magico, l'anima non ha più una dimora oltre al vaso magico (anche se il mago senza corpo può ancora possedere corpi come prima). Se il vaso magico stesso viene distrutto mentre l'anima del mago è al suo interno, l'anima è persa. Il mago può tornare dal vaso magico al proprio corpo in qualunque momento, ponendo fine così all'incantesimo.
 
 ### Volare
 *Livello:* M3  
 *Raggio d'azione:* Tocco  
-*Durata:* 1d6 turni + 1 turno/livello
+*Durata:* 1d6 Turni + 1 Round/livello
 
 Questo incantesimo conferisce il potere di volare, con una velocità di movimento di 120' per round. L'Arbitro tira per la durata dell'incantesimo in segreto e non svela tale informazione al giocatore.

@@ -142,7 +142,7 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 |    65-75    |    Guarigione extra     |
 |    76-00    |       Guarigione        |
 
-\* Le pozioni hanno una durata di 1d6+1 turni
+\* Le pozioni hanno una durata di 1d6+1 Turni
 
 ### Descrizioni delle pozioni magiche
 
@@ -178,11 +178,11 @@ Un tiro di 1-19 su un d20 significa un tiro sulla tabella delle Gemme/Gioielli M
 
 **Invisibilità**: Risultati come da incantesimo.
 
-**Invulnerabilità**: +2 ai tiri salvezza, gli avversari attaccano a -2.
+**Invulnerabilità**: +2 ai Tiri Salvezza, gli avversari attaccano a -2.
 
 **Levitare**: come da incantesimo.
 
-**Resistenza al fuoco**: Conferisce immunità al fuoco normale, +2 tiri salvezza contro gli attacchi di fuoco e danni dimezzati agli attacchi di fuoco magico che non permettono tiri salvezza.
+**Resistenza al fuoco**: Conferisce immunità al fuoco normale, +2 Tiri Salvezza contro gli attacchi di fuoco e danni dimezzati agli attacchi di fuoco magico che non permettono Tiri Salvezza.
 
 **Ritrovamento di tesori**: Il personaggio è in grado di individuare tesori entro 400' dalla sua posizione attuale.
 
@@ -208,7 +208,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 |  6-7  |         Pergamena di Protezione (durata normale)         |                     |
 |   8   |                            2                             |        1d6-1        |
 |   9   |                            2                             |  1d6 per pergamena  |
-|  10   |                            1                             |        1d6+1        |
+|  10   |                            1                             |         2d3         |
 |  11   |                            5                             |  1d3 per pergamena  |
 |  12   |                   Pergamena Maledetta                    |                     |
 | 13-14 |         Pergamena di Protezione (durata doppia)          |                     |
@@ -287,7 +287,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 |   5   |   -3 Arma o Armatura   |
 |   6   | Attira Proiettili \*\* |
 
-\* Non può essere posate senza l'aiuto dell'incantesimo Rimuovere Maledizione
+\* Non può essere rimosse senza l'aiuto dell'incantesimo *Rimuovere Maledizione*
 
 \*\*Attira Proiettili: Questo oggetto attira il fuoco dei proiettili (anche quelli sparati contro altri nelle vicinanze) e garantisce un bonus di +1 "per colpire" agli attacchi su tali proiettili.
 
@@ -343,7 +343,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 
 ### Descrizioni delle Armi Insolite
 
-**Arma contundente che distrugge i non morti**: Le armi contundenti sono la mazza, la fionda, il bastone e il martello da guerra. I non-morti minori (meno di 4 DV) non hanno un tiro salvezza; quelli più potenti sì.
+**Arma contundente che distrugge i non morti**: Le armi contundenti sono la mazza, la fionda, il bastone e il martello da guerra. I non-morti minori (meno di 4 DV) non hanno un Tiro Salvezza; quelli più potenti sì.
 
 **Arma Congelante**: 1d6 danni da freddo addizionali: lancia 1d3 per il bonus "per colpire".
 
@@ -438,11 +438,11 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Bacchetta d'individuazione (trappole e porte segrete)**: Rileva trappole e porte segrete con un raggio d'azione di 6 metri. Sempre attiva se tenuta in mano, non usa cariche.
 
-**Bacchetta del Freddo**: Lancia un cono di freddo di 60' a una base di 30' di lato. Le creature nel cono subiscono 6d6 danni (tiro salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta del Freddo**: Lancia un cono di freddo di 60' a una base di 30' di lato. Le creature nel cono subiscono 6d6 danni (Tiro Salvezza per metà danno). Contiene 25 cariche e non può essere ricaricata).
 
-**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60' a una base di 30' di diametro. Le creature nel cono sono paralizzate per 3d6 turni. Contiene 25 cariche e non può essere ricaricata).
+**Bacchetta della Paralisi**: Lancia un cono di paralisi di 60' a una base di 30' di diametro. Le creature nel cono sono paralizzate per 3d6 Round. Contiene 25 cariche e non può essere ricaricata).
 
-**Bacchetta della Paura**: Provoca la fuga delle creature in un percorso a forma di cono (tiro salvezza). C'è una probabilità del 60% che facciano cadere ciò che hanno in mano. Il cono si estende per 60' fino a una base di 30'. Contiene 25 cariche e non può essere ricaricato).
+**Bacchetta della Paura**: Provoca la fuga delle creature in un percorso a forma di cono (Tiro Salvezza). C'è una probabilità del 60% che facciano cadere ciò che hanno in mano. Il cono si estende per 60' fino a una base di 30'. Contiene 25 cariche e non può essere ricaricato).
 
 **Bacchetta del Polimorfismo**: Lancia Polimorfismo (se stesso) o Polimorfismo (altri), porta 10 cariche.
 
@@ -465,11 +465,11 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Invisibilità**: Rende invisibile chi lo indossa.
 
-**Protezione**: Conferisce un bonus alla classe armatura e ai tiri salvezza.
+**Protezione**: Conferisce un bonus alla classe armatura e ai Tiri Salvezza.
 
-**Resistenza al fuoco**: +5 ai tiri salvezza contro il fuoco magico e garantisce l'immunità al fuoco normale.
+**Resistenza al fuoco**: +5 ai Tiri Salvezza contro il fuoco magico e garantisce l'immunità al fuoco normale.
 
-**Resistenza al veleno**: +5 ai tiri salvezza contro il veleno.
+**Resistenza al veleno**: +5 ai Tiri Salvezza contro il veleno.
 
 ## Anelli maggiori
 
@@ -571,9 +571,9 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 | 12   |                Polvere di Starnuti e Soffocamento                |
 | 13   |               Guanti del Nuoto e dell'Arrampicata                |
 | 14   |                 Ferri di Cavallo della Velocità                  |
-| 15   | Pietra della Fortuna (+1 ai tiri salvezza e ai tiri per colpire) |
+| 15   | Pietra della Fortuna (+1 ai Tiri Salvezza e ai tiri per colpire) |
 | 16   |                  Manuale di Esercizio Benefico                   |
-| 17   |                         Tubi delle Fogne                         |
+| 17   |                        Flauto delle Fogne                        |
 | 18   |                      Corda dell'Arrampicata                      |
 | 19   |                     Corda dell'Impigliamento                     |
 | 20   |                          Vanga da Scavo                          |
@@ -672,7 +672,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Corno del Valhalla, Ferro**: Evoca 1d6+1 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
 
-**Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai tiri salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I Campioni che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30' e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
+**Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai Tiri Salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I Campioni che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 30' e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
 
 **Elmo di Lettura del Magico e delle Lingue**: Chi lo indossa può leggere tutte le lingue, comprese le scritture magiche. Utilizzabile da: tutte le classi.
 
@@ -682,7 +682,9 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Figurina del Cane d'Onice:** Questa figura di pietra si trasforma in un segugio di pietra vivente quando viene pronunciata la sua parola di comando. Cercherà qualsiasi cosa il padrone gli dica di trovare, senza fermarsi finché non ci riesce o viene ucciso. Ha una probabilità del 75% di rilevare oggetti invisibili o nascosti (e naturalmente il suo olfatto rileva creature invisibili e nascoste con successo quasi perfetto). Ai fini della difesa e dell'attacco, il cane di pietra viene trattato come un lupo. Può essere usato dodici volte prima che la statuetta diventi non magica. Utilizzabile da: tutte le classi.
 
-**Figurina dei Leoni Dorati**: Una piccola statuetta di pietra che si trasforma in un leone quando viene pronunciata la parola di comando, combattendo agli ordini del proprietario. Se viene uccisa, torna a essere una statuetta, ma può essere usata di nuovo. La statuetta può essere usata una volta alla settimana e non di più. Utilizzabile da: tutte le classi.
+**Figurina dei Leoni Dorati**: Una piccola statuetta di pietra che si trasforma in un Leone quando viene pronunciata la parola di comando, combattendo agli ordini del proprietario. Se viene uccisa, torna a essere una statuetta, ma può essere usata di nuovo. La statuetta può essere usata una volta alla settimana e non di più. Utilizzabile da: tutte le classi.
+
+**Flauto delle Fogne**: Quando viene suonato per almeno un Round, questo flauto evoca 10d6 ratti giganti che arriveranno in 1d6 × 10 minuti. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se l'utilizzatore smette di suonare c'è un 10% di possibilità che perda il controllo su di loro. Ogni Round successivo in cui non riesce a suonare, deve essere di nuovo fatto il tiro percentuale e la possibilità aumenta del 10% ogni volta (primo Round, 10%, secondo Round 20%, ecc.). Utilizzabile da: tutte le classi. I Bardi riducono del 5% (minimo di 0%) tutte le possibilità precedentemente indicate.
 
 **Freccia di Direzione**: Punta la direzione di qualsiasi cosa il proprietario richieda. Non può essere usata più di 7 volte in una sola settimana. Utilizzabile da: tutte le classi.
 
@@ -696,17 +698,17 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Incensiere, Ciotola, Braciere o Pietra del Controllo degli Elementali**: Gli incensieri controllano gli elementali dell'aria, le ciotole (se riempite) controllano gli elementali dell'acqua, i bracieri controllano gli elementali del fuoco e le pietre controllano gli elementali della terra. Questi oggetti possono essere utilizzati per evocare un elementale di 12 DV del tipo appropriato. Generalmente, ci vogliono 10 minuti per preparare l'oggetto per l'uso. Utilizzabile da: maghi.
 
-**Lenti di Incanto**: Queste lenti, se poste sugli occhi, danno a chi le indossa la capacità di incantare chi lo guarda negli occhi (come per un incantesimo Ammaliare Persone). Il tiro salvezza contro il potere delle lenti viene effettuato a -2. Utilizzabile da: tutte le classi.
+**Lenti di Incanto**: Queste lenti, se poste sugli occhi, danno a chi le indossa la capacità di incantare chi lo guarda negli occhi (come per un incantesimo Ammaliare Persone). Il Tiro Salvezza contro il potere delle lenti viene effettuato a -2. Utilizzabile da: tutte le classi.
 
 **Libram, magico (aumento di livello)**: I libram magici concedono un livello di esperienza al lettore, se il lettore è della classe giusta. Determina a caso la classe per la quale il libram è scritto.
 
-**Mantello di Dislocazione**: Chi lo indossa sembra trovarsi in un luogo leggermente diverso da quello in cui si trova realmente. La sua CA migliora di 2 e ottiene un tiro salvezza di +2 contro qualsiasi attacco mirato su di lui. Utilizzabile da: tutte le classi.
+**Mantello di Dislocazione**: Chi lo indossa sembra trovarsi in un luogo leggermente diverso da quello in cui si trova realmente. La sua CA migliora di 2 e ottiene un Tiro Salvezza di +2 contro qualsiasi attacco mirato su di lui. Utilizzabile da: tutte le classi.
 
 **Mantello degli Elfi**: Chi lo indossa è quasi, ma non del tutto, invisibile. Utilizzabile da: tutte le classi.
 
-**Mantello di Protezione, +1**: Questo mantello migliora la CA di chi lo indossa di 1 e garantisce un bonus di +1 ai tiri salvezza. Utilizzabile da: Tutti tranne i guerrieri.
+**Mantello di Protezione, +1**: Questo mantello migliora la CA di chi lo indossa di 1 e garantisce un bonus di +1 ai Tiri Salvezza. Utilizzabile da: Tutti tranne i guerrieri.
 
-**Mantello di Protezione, +2 o +3 (50%)**: Questo mantello migliora la classe armatura di chi lo indossa di 2 (o 3) e garantisce un bonus di +2 (o +3) ai tiri salvezza. Utilizzabile da: Tutti tranne i guerrieri.
+**Mantello di Protezione, +2 o +3 (50%)**: Questo mantello migliora la classe armatura di chi lo indossa di 2 (o 3) e garantisce un bonus di +2 (o +3) ai Tiri Salvezza. Utilizzabile da: Tutti tranne i guerrieri.
 
 **Manuale di Esercizio Benefico**: La lettura di questo tomo aumenta la Forza del lettore di 1 punto (fino a un massimo di 18). Utilizzabile da: tutte le classi.
 
@@ -748,7 +750,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
   
   - *Regina*: Il personaggio muore all'istante.
   
-  - *Jack*: Un mostro casuale, con 1d3+7 DV, attacca gli avventurieri. Il mostro guadagna un turno di sorpresa, perché appare dal nulla.
+  - *Jack*: Un mostro casuale, con 1d3+7 DV, attacca gli avventurieri. Il mostro guadagna un Round di sorpresa, perché appare dal nulla.
 
 - **Quadri** (♦)
   
@@ -766,15 +768,15 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Oggetto Maledetto**: (Vedi Oggetti Maledetti)
 
-**Pietra della Fortuna**: Questa pietra garantisce +1 ai tiri salvezza e ai tiri per colpire. Utilizzabile da: tutte le classi.
+**Pietra della Fortuna**: Questa pietra garantisce +1 ai Tiri Salvezza e ai tiri per colpire. Utilizzabile da: tutte le classi.
 
-**Polvere di Apparizione o Sparizione (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10' intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10', tutto ciò che vi si trova diventa invisibile per 5d6 turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Rileva Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: tutte le classi.
+**Polvere di Apparizione o Sparizione (50%)**: La Polvere di Apparizione viene lanciata in un raggio di 10' intorno all'utente, e rende completamente visibile qualsiasi cosa invisibile, astrale, spostata, fuori fase o dimensionale. La polvere viene generalmente fornita in un sacchetto, con abbastanza per 20-30 usi. La Polvere della Scomparsa funziona al contrario: quando viene aspersa in un raggio di 10', tutto ciò che vi si trova diventa invisibile per 5d6 Turni. I normali mezzi per rilevare l'invisibilità (come l'incantesimo Rileva Invisibilità) non sono abbastanza forti da funzionare contro il potente incantesimo della polvere. Utilizzabile da: tutte le classi.
 
-**Polvere di Starnuti e Soffocamento**: I sacchetti che contengono questa polvere ne contengono normalmente solo per una "dose". Quando viene aspersa in un raggio di 3 metri, la polvere fa sì che tutti coloro che si trovano nell'area debbano effettuare un tiro salvezza o morire. Se la natura della polvere viene identificata prima che venga sperimentata, può essere usata come un'arma da lancio devastante. Utilizzabile da: tutte le classi.
+**Polvere di Starnuti e Soffocamento**: I sacchetti che contengono questa polvere ne contengono normalmente solo per una "dose". Quando viene aspersa in un raggio di 3 metri, la polvere fa sì che tutti coloro che si trovano nell'area debbano effettuare un Tiro Salvezza o morire. Se la natura della polvere viene identificata prima che venga sperimentata, può essere usata come un'arma da lancio devastante. Utilizzabile da: tutte le classi.
 
 **Sfera di Cristallo**: Permette all'utilizzatore di vedere ciò che desidera vedere, a una distanza considerevole. Una sfera di cristallo non può essere usata più di tre volte al giorno, o l'utilizzatore diventerà pazzo. Alcuni incantesimi e altre precauzioni possono essere usati per evitare di essere visti attraverso una sfera di cristallo. Alcune sfere di cristallo comunicano suoni o anche pensieri dall'area che viene scremata, anche se questi sono rari. Utilizzabile da: maghi.
 
-**Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30', cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un tiro salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: tutte le classi.
+**Simbolo-Scarabeo della Follia**: Questo è una scultura di uno scarabeo, o forse i resti pietrificati di uno vero. Quando lo scarabeo viene mostrato, tutte le creature con 9 o meno dadi per colpire, entro un raggio di 30', cadono in una temporanea follia che dura 2 ore. Le creature con 10 o più dadi per colpire non ricevono comunque un Tiro Salvezza, ma hanno una possibilità su 4 di superare l'insidiosa influenza dello scarabeo. Lo scarabeo può essere usato 12 volte, dopodiché si sgretola in polvere. A discrezione dell'Arbitro, può essere ricaricato, ma con una probabilità del 5% per ogni carica che l'oggetto venga distrutto. Utilizzabile da: tutte le classi.
 
 **Specchio di Scrittura Mentale**: Questo specchio a mano (potrebbe anche essere trovato come uno specchio più piccolo su una collana) permette all'utente di lanciare Chiaroudienza, Chiaroveggenza e Leggere il Pensiero (ESP), con la portata normale, ma per un tempo illimitato. Lo specchio risponderà anche a una domanda su ciò che ritrae (la risposta sarà probabilmente piuttosto criptica), ma è possibile solo una domanda a settimana. Utilizzabile da: tutte le classi.
 
@@ -785,8 +787,6 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 **Stivali della Velocità o Stivali del Balzo (50%)**: Gli Stivali della Velocità raddoppiano la velocità di movimento di chi li indossa, ma richiedono un riposo completo per un periodo di tempo equivalente a quello in cui sono stati usati. Gli Stivali del balzo permettono a chi li indossa di fare salti prodigiosi di 10' in altezza e fino a 30' in orizzontale. Questi stivali raddoppiano anche la velocità di movimento, ma solo all'aperto. Non richiedono che chi li indossa si riposi dopo averli usati. Utilizzabili da: tutte le classi.
 
 **Tappeto Volante**: Il tappeto può trasportare fino a tre persone, e viaggia a una velocità di 18 quando ha più di un passeggero. Con un solo cavaliere, il tappeto si muove a una velocità di 30. Utilizzabile da: tutte le classi.
-
-**Tubi delle Fogne**: Questi tubi evocano 10d6 ratti giganti. Il pifferaio non ha bisogno di concentrarsi una volta che i ratti arrivano (che richiede 1d6 × 10 minuti), ma è saggio farlo. Quando i ratti arrivano, c'è un 5% di possibilità che non gli obbediscano, e se smette di concentrarsi sulla sua melodia c'è un 10% di possibilità che perda il controllo su di loro. Ogni turno successivo in cui non riesce a concentrarsi c'è un'altra possibilità di perdere il controllo, e la possibilità aumenta del 10% ogni volta che viene fatta (primo turno, 10%, secondo turno 20%, ecc.). Utilizzabile da: tutte le classi.
 
 **Vanga da Scavo**: Questa vanga dall'aspetto ordinario scava da sola quando viene comandata, spalando fuori 1 metro cubo (3 x 3 x 3) ogni dieci minuti. Utilizzabile da: guerrieri.
 
@@ -825,7 +825,7 @@ Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratt
 
 **Incensiere degli Elementali Ostili**: Un incensiere (o braciere, ciotola o pietra) che evoca gli elementali, ma gli elementali sono ostili invece che sotto il controllo dell'evocatore.
 
-**Mantello del Veleno**: Quando si indossa questo mantello, il corpo di chi lo indossa è soffuso di veleni magici di molti tipi, e muore all'istante, senza la possibilità di un tiro salvezza.
+**Mantello del Veleno**: Quando si indossa questo mantello, il corpo di chi lo indossa è soffuso di veleni magici di molti tipi, e muore all'istante, senza la possibilità di un Tiro Salvezza.
 
 **Medaglione dei Pensieri Proiettati**: I pensieri di chi lo indossa possono essere "sentiti" da tutti i vicini.
 
@@ -833,6 +833,6 @@ Gli oggetti maledetti si presentano in molte forme: molto probabilmente si tratt
 
 **Specchio dell'Opposizione**: Tutte le persone che guardano in questo specchio vengono attaccate da versioni malvagie di se stessi, duplicati esatti compresi incantesimi e oggetti magici. Quando gli avversari usciti dello specchio vengono uccisi, i loro corpi e il loro equipaggiamento scompaiono nella nebbia e ritornano nello specchio.
 
-**Stivali Danzanti**: Questi stivali funzionano come stivali elfici o di velocità, fino a quando chi li indossa è in combattimento o in fuga. Improvvisamente a quel punto inizierà a ballare una giga, o forse un valzer maestoso.
+**Stivali Danzanti**: Questi stivali funzionano come stivali elfici o di velocità, fino a quando chi li indossa è in combattimento o in fuga. Improvvisamente a quel punto inizierà a ballare una tarantella o forse un valzer.
 
-**Veste della Debolezza**: Chiunque indossi questo mantello ha l'intelligenza ridotta a quella di una lumaca da giardino.
+**Veste della Debolezza**: Chiunque indossi questo mantello ha l'intelligenza ridotta a 1, quella di una lumaca da giardino.

@@ -70,7 +70,7 @@ Di seguito sono riportati i costi delle strutture comuni, anche se qualsiasi var
 
 **Bastione** Una sezione di muro di cinta di 125 piedi curvata in un semicerchio di 80 piedi di diametro.
 
-**Catapulta pesante** Una potente macchina d'assedio che tira rocce fino a 480 metri per 3-18 punti di danno, facendo fuoco ogni tre turni con un equipaggio completo.
+**Catapulta pesante** Una potente macchina d'assedio che tira rocce fino a 480 metri per 3-18 punti di danno, facendo fuoco ogni tre Turni con un equipaggio completo.
 
 **Catapulta leggera** Una macchina d'assedio che tira rocce fino a 300 metri per 2-12 punti di danno, facendo fuoco ogni secondo turno con un equipaggio completo.
 

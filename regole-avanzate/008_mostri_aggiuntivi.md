@@ -42,7 +42,7 @@ Gli androidi sono uomini artificiali. Spesso hanno qualità superiori come la sa
 *Movimento*: 12  
 *DVE/PE*: 7/600
 
-I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1-6 tiri per attaccare a ogni turno i nemici eroici/supereroici con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre turni.
+I calamari giganti sono voraci predatori delle profondità marine che occasionalmente vengono in superficie per afferrare e capovolgere le navi di passaggio. Fanno 1-6 tiri per attaccare a ogni turno i nemici eroici/supereroici con i loro numerosi tentacoli. Se seriamente minacciati possono espellere una nuvola di inchiostro nero e fuggire all'indietro a passo triplo per tre Turni.
 
 ### Cane
 
@@ -427,7 +427,7 @@ I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a me
 *Movimento*: 6/15, 3/12  
 *DVE/PE*: 2/30, 6/400
 
-I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le dimensioni di una mano umana e possono strisciare su pavimenti, pareti e soffitti. Il loro morso è velenoso ma è consentito un tiro salvezza contro il veleno a +2. I ragni giganti sono veri e propri orrori di dimensioni fino a quelle di un cavallo. Il loro morso è mortalmente velenoso e sono costruttori di ragnatele, essendo pari alla forza di un incantesimo di Ragnatela. Preferiscono aspettare pazientemente in un'imboscata e attaccare le vittime incaute. Fuggiranno in un oscuro rifugio se affrontati da una forza superiore.
+I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le dimensioni di una mano umana e possono strisciare su pavimenti, pareti e soffitti. Il loro morso è velenoso ma è consentito un Tiro Salvezza contro il veleno a +2. I ragni giganti sono veri e propri orrori di dimensioni fino a quelle di un cavallo. Il loro morso è mortalmente velenoso e sono costruttori di ragnatele, essendo pari alla forza di un incantesimo di Ragnatela. Preferiscono aspettare pazientemente in un'imboscata e attaccare le vittime incaute. Fuggiranno in un oscuro rifugio se affrontati da una forza superiore.
 
 ### Ratto, Gigante
 
@@ -438,7 +438,7 @@ I ragni, giganti e grandi, sono comuni nei sotterranei. I ragni grandi hanno le 
 *Movimento*: 12/6  
 *DVE/PE*: 2/30
 
-I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
+I ratti giganti sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo Tiro Salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
 
 ### Rinoceronte lanoso
 
@@ -460,7 +460,7 @@ I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si 
 *Movimento*: 6/6  
 *DVE/PE*: 8/800
 
-I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti e colpiscono per 3-8 punti di danno. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un tiro salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
+I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti e colpiscono per 3-8 punti di danno. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un Tiro Salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
 
 ### Rospo, Gigante
 
@@ -471,7 +471,7 @@ I robot sono complessi automi di metallo con insondabili cervelli elettronici. S
 *Movimento*: 6/6  
 *DVE/PE*: 3/60
 
-I rospi giganti inghiottiranno interi halfling e persone più piccole ad ogni tiro di attacco che superi di 4 o più il numero richiesto per colpire. Possono saltare 18" ogni due turni, nuotare, respirare sott'acqua e hanno il 50% di probabilità di essere velenosi.
+I rospi giganti inghiottiranno interi halfling e persone più piccole ad ogni tiro di attacco che superi di 4 o più il numero richiesto per colpire. Possono saltare 18" ogni due Turni, nuotare, respirare sott'acqua e hanno il 50% di probabilità di essere velenosi.
 
 ### Sanguisuga, Gigante
 
@@ -515,7 +515,7 @@ Gli scimmioni dannati sono così chiamati per la loro colorazione pallida e il l
 *Movimento*: 15  
 *DVE/PE*: 6/400
 
-Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un tiro di attacco che supera di 4 o più il numero necessario per colpire, o che comunque è un 20, indica un colpo dell'aculeo velenoso, che è mortale a meno che non abbia successo un tiro salvezza contro il veleno; altrimenti, si presume che sia un attacco a tenaglia che infligge 3-8 punti di danno.
+Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un tiro di attacco che supera di 4 o più il numero necessario per colpire, o che comunque è un 20, indica un colpo dell'aculeo velenoso, che è mortale a meno che non abbia successo un Tiro Salvezza contro il veleno; altrimenti, si presume che sia un attacco a tenaglia che infligge 3-8 punti di danno.
 
 ### Serpente, Grande e Gigante
 
@@ -526,7 +526,7 @@ Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni d
 *Movimento*: 6/6, 9/9  
 *DVE/PE*: 2/30, 8/800
 
-I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1-2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2-12 punti di danno a turno. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1-6 turni.
+I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1-2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2-12 punti di danno a turno. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1-6 Turni.
 
 ## Statue viventi
 
@@ -722,14 +722,14 @@ Per aiutarvi a determinare i Dadi Vita Equivalenti (DVE), la tabella qui sotto p
 
 | Capacità speciali                                                          | Effetto sui DVE |
 |----------------------------------------------------------------------------|-----------------|
-| 4+ attacchi per round (minimo d6 o tiro salvezza ciascuno)                 | +1 DVE          |
+| 4+ attacchi per round (minimo d6 o Tiro Salvezza ciascuno)                 | +1 DVE          |
 | AC 20 o superiore                                                          | +1 DVE          |
 | Danno automatico dopo il colpo                                             | +1 DVE          |
 | Arma da soffio 25 punti max o inferiore                                    | +1 DVE          |
 | Arma da soffio 26 punti max o più                                          | +2 DVE          |
 | Malattia                                                                   | +1 DVE          |
-| Prosciuga il livello senza tiro salvezza                                   | +3 DVE          |
-| Prosciuga il livello con tiro salvezza                                     | +2 DVE          |
+| Prosciuga il livello senza Tiro Salvezza                                   | +3 DVE          |
+| Prosciuga il livello con Tiro Salvezza                                     | +2 DVE          |
 | Vola, o respira in acqua                                                   | +1 DVE          |
 | Intelligenza superiore a quella umana                                      | +1 DVE          |
 | Immune alle armi contundenti/perforanti (compresi i mezzi danni)           | +1 DVE          |

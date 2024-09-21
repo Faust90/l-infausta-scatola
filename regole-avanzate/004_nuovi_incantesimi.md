@@ -47,7 +47,7 @@ Le classi personaggio aggiuntive del Druido e dell'Illusionista introducono nuov
 
 L'Arbitro deve decidere sulle illusioni caso per caso.
 
-Le illusioni non sono reali: gli oggetti illusori non sopportano peso. Tuttavia, le creature che credono in un'illusione (fallendo il loro tiro salvezza quando la toccano) non saranno in grado di camminarci attraverso e sarà come se fossero rimbalzate su qualcosa di solido.
+Le illusioni non sono reali: gli oggetti illusori non sopportano peso. Tuttavia, le creature che credono in un'illusione (fallendo il loro Tiro Salvezza quando la toccano) non saranno in grado di camminarci attraverso e sarà come se fossero rimbalzate su qualcosa di solido.
 
 Se una persona subisce un danno da un effetto illusorio (ad esempio, cade perché crede che il suo balcone sia crollato o pensa che un ramo illusorio sia caduto su di lei), si infligge il danno illusorio per una normale caduta o colpo (1d6, di solito) e questo danno è guarito 1d6 round dopo che l'incontro finisce o l'Illusionista se ne va o viene messo fuori combattimento.
 
@@ -129,7 +129,7 @@ Il Druido crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF qua
 *Raggio d'azione*: 25'  
 *Durata*: Istantaneo
 
-Questo incantesimo emette un piccolo bagliore magico dal dito del Druido. Il bagliore può stordire un nemico per 1d6 round (tiro salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
+Questo incantesimo emette un piccolo bagliore magico dal dito del Druido. Il bagliore può stordire un nemico per 1d6 round (Tiro Salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
 
 ### Camminare nell'aria
 *Livello*: D4  
@@ -248,7 +248,7 @@ Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un r
 *Raggio d'azione*: 100'  
 *Durata*: 1 round per livello dell'incantatore
 
-Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un tiro salvezza per farlo.
+Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un Tiro Salvezza per farlo.
 
 ### Nebbia
 *Livello*: D2  
@@ -298,7 +298,7 @@ Livello: I2
 *Raggio d'azione*: 120'  
 *Durata*: Concentrazione
 
-L'incantatore crea un'immagine ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un tiro salvezza e l'incantesimo colpisce 4d6 creature fino a 1DV, 2d6 creature fino a 4DV o 1d6 creature fino a 6DV.
+L'incantatore crea un'immagine ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un Tiro Salvezza e l'incantesimo colpisce 4d6 creature fino a 1DV, 2d6 creature fino a 4DV o 1d6 creature fino a 6DV.
 
 ### Spettro
 Livello: I6  

@@ -41,7 +41,7 @@ Il  bonus "per colpire" del mostro è uguale ai suoi dadi vita. Per esempio, un 
 
 ### Tiro Salvezza
 
- Per effettuare un tiro salvezza di un Mostro, l'Arbitro tira un d20 + DV del Mostro. Se il risultato è maggiore o uguale a 15, il tiro salvezza ha successo.
+ Per effettuare un Tiro Salvezza di un Mostro, l'Arbitro tira un d20 + DV del Mostro. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo.
 
 ### Resistenza alla Magia
 
@@ -99,7 +99,7 @@ Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magi
 *Movimento*: 60' (30')/ 180' (60') quando vola  
 *DVE/PE*: 4/120
 
-Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il tiro salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo Ammaliare le Persone (di nuovo, si applica il tiro salvezza).
+Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il Tiro Salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo Ammaliare le Persone (di nuovo, si applica il Tiro Salvezza).
 
 ### Banshee
 
@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un tiro salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -121,7 +121,7 @@ Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e a
 *Movimento*: 60' (20')  
 *DVE/PE*: 8/800
 
-I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque lo incroci (combattere senza guardare comporta una penalità di -4 "per colpire"). Se lo sguardo del basilisco si riflette su sé stesso, insiste una probabilità del 10% di costringere il basilisco a un tiro salvezza per evitare di essere trasformato in pietra esso stesso.
+I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque lo incroci (combattere senza guardare comporta una penalità di -4 "per colpire"). Se lo sguardo del basilisco si riflette su sé stesso, insiste una probabilità del 10% di costringere il basilisco a un Tiro Salvezza per evitare di essere trasformato in pietra esso stesso.
 
 ### Bugbear
 
@@ -229,7 +229,7 @@ Leggendario costrutto magico a forma di un grande stallone di metallo, al cui ce
 *Movimento*: 120' (40') /180' (60') quando vola  
 *DVE/PE*: 11/1,700
 
-La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra di leone e la terza di drago. La testa di drago può sputare fuoco (3 volte al giorno) con una portata di 50', causando 4d6 danni a chiunque venga catturato dal getto di fuoco (tiro salvezza per subire solo metà danno).
+La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra di leone e la terza di drago. La testa di drago può sputare fuoco (3 volte al giorno) con una portata di 50', causando 4d6 danni a chiunque venga catturato dal getto di fuoco (Tiro Salvezza per subire solo metà danno).
 
 ### Ciclope
 
@@ -284,7 +284,7 @@ I coboldi sono umanoidi sotterranei, vagamente assomiglianti a goblin. Hanno una
 *Movimento*: 60' (30')/180' (60') quando vola  
 *DVE/PE*: 7/600
 
-Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il suo becco trasforma i nemici in pietra a meno che non venga effettuato con successo un tiro salvezza.
+Assomiglia a un gallo dalle ali di pipistrello con una lunga coda serpentina. Il suo becco trasforma i nemici in pietra a meno che non venga effettuato con successo un Tiro Salvezza.
 
 ### Coccodrillo
 
@@ -317,7 +317,7 @@ I coccodrilli giganti sono tre volte più grandi dei loro cugini ordinari, ma pe
 *Movimento*: 60' (20')  
 *DVE/PE*: 5/240
 
-I cubi gelatinosi sono cubi semitrasparenti che strisciano nei passaggi sotterranei, inglobando detriti e carogne da digerire. Tutta la loro sostanza è acida: se il cubo colpisce con successo, la vittima deve effettuare un tiro salvezza o rimanere paralizzata per 6 Round - durante i quali il cubo tenterà di divorare la sua vittima. La maggior parte dei cubi gelatinosi contiene vari tesori metallici o gemme che hanno inghiottito ma non ancora digerito. I cubi gelatinosi sono immuni ai fulmini e al freddo.
+I cubi gelatinosi sono cubi semitrasparenti che strisciano nei passaggi sotterranei, inglobando detriti e carogne da digerire. Tutta la loro sostanza è acida: se il cubo colpisce con successo, la vittima deve effettuare un Tiro Salvezza o rimanere paralizzata per 6 Round - durante i quali il cubo tenterà di divorare la sua vittima. La maggior parte dei cubi gelatinosi contiene vari tesori metallici o gemme che hanno inghiottito ma non ancora digerito. I cubi gelatinosi sono immuni ai fulmini e al freddo.
 
 ### Cyborg
 
@@ -354,7 +354,7 @@ Questi potenti demoni assomigliano un po' a grandi minotauri con grandi ali di p
 *Movimento*: 60' (20') / 120' (40') quando vola  
 *DVE/PE*: 3/60
 
-Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuare la Magia a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un tiro salvezza non ha successo, sebbene la vittima riceve un bonus di +4 al suo tiro.
+Queste piccole creature diaboliche hanno la pelle di colore rosso o nero con occhi da gatto, lunghe code appuntite e ali di pipistrello. Sono demoni inferiori e spesso servono come schiavi di demoni superiori o servitori di potenti chierici malvagi e maghi. I folletti sono immuni alle armi non magiche e al fuoco e possono lanciare Individuare la Magia a volontà e Invisibilità una volta al giorno - entrambi come un mago. La loro coda ha un veleno moderatamente potente che può uccidere se un Tiro Salvezza non ha successo, sebbene la vittima riceve un bonus di +4 al suo tiro.
 
 ### Demone, Lemure
 
@@ -387,7 +387,7 @@ Una succube è un demone della lussuria che appare come una donna umana voluttuo
 *Movimento*: 150' (50') / 180' (60') quando vola  
 *DVE/PE*: 5/240
 
-Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di fuoco. Anche i suoi zoccoli bruciano di fuoco infernale e può volare tanto facilmente quanto correre. Attaccano con i loro zoccoli infuocati e una volta al giorno possono emettere un grido terribile che richiede a tutti coloro che lo sentono di effettuare un tiro salvezza o fuggire in preda al terrore del destriero notturno per 1d6 Round.
+Un destriero notturno è un cavallo nero con occhi rosso fuoco e una criniera di fuoco. Anche i suoi zoccoli bruciano di fuoco infernale e può volare tanto facilmente quanto correre. Attaccano con i loro zoccoli infuocati e una volta al giorno possono emettere un grido terribile che richiede a tutti coloro che lo sentono di effettuare un Tiro Salvezza o fuggire in preda al terrore del destriero notturno per 1d6 Round.
 
 
 ## Dinosauri
@@ -498,7 +498,7 @@ Le donnole giganti sono astuti cacciatori abili a muoversi in branchi agguerriti
 
 *Classe Armatura*: 14  
 *Dadi Vita*: 4  
-*Attacchi*: Artiglio  
+*Attacchi*: Artiglio (1d6+1) 
 *Speciale*: Vedi sotto  
 *Movimento*: 90' (30')  
 *DVE/PE*: 5/240
@@ -556,7 +556,7 @@ I draghi bianchi si trovano solitamente nelle regioni fredde, dove possono utili
 *Movimento*: 120' (40') / 240' (80') quando vola  
 *DVE/PE*: 10/1,400; 11/1,700; 12/2,000
 
-I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa sul suo cammino, in una linea ampia 5' e lunga 100'. Un tiro salvezza riuscito contro il getto di fulmini dimezza i danni. 
+I draghi blu emettono un getto di fulmini elettrici che colpisce qualunque cosa sul suo cammino, in una linea ampia 5' e lunga 100'. Un Tiro Salvezza riuscito contro il getto di fulmini dimezza i danni. 
 
 ### Drago, Oro
 
@@ -601,7 +601,7 @@ I draghi rossi sono gli spiriti di fuoco della leggenda. Sputano fuoco con un co
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
 I draghi verdi soffiano una nuvola di gas velenoso che ha un diametro di 50'.
-Un tiro salvezza riuscito dimezza il danno.
+Un Tiro Salvezza riuscito dimezza il danno.
 
 ### Driade
 
@@ -671,7 +671,7 @@ Gli elementali dell'aria possono trasformarsi in un turbine d'aria con un diamet
 *Movimento*: 120' (40')   
 *DVE/PE*: 9/1,100; 13/2,300; 17/3,500
 
-Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagamente umana. I loro attacchi causano l'incendio di materiali infiammabili se questi ultimi falliscono un tiro salvezza (determinato dall'Arbitro). Possono essere feriti solo da armi magiche.
+Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagamente umana. I loro attacchi causano l'incendio di materiali infiammabili se questi ultimi falliscono un Tiro Salvezza (determinato dall'Arbitro). Possono essere feriti solo da armi magiche.
 
 ### Elementale, Terra
 
@@ -684,7 +684,7 @@ Gli elementali del fuoco sono masse informi di fiamme, forse con una forma vagam
 
 Gli elementali di terra sono forme umane e massicce di roccia e terra. Colpiscono gli avversari con i loro grandi pugni, anche se il danno è ridotto di 1d6 se l'avversario non è in piedi su terra o roccia. Gli elementali di terra possono fare a pezzi le strutture di pietra e sono in grado di abbattere anche le mura di un castello in 1d6+2 minuti. Possono essere feriti solo da armi magiche.
 
-### Èlph-edal
+### Èlph-édal
 
 *Classe Armatura*: 16  
 *Dadi Vita*: 3  
@@ -704,7 +704,7 @@ Umanoidi dalla pelle nero onice e dai capelli, gli occhi e i denti bianchissimi.
 *Movimento*: 90' (30') / 120' (40') quando vola  
 *DVE/PE*: 3/60
 
-Questi piccoli draghi con le ali di farfalla non sono più grandi di un gatto domestico. Sono giocosi e amichevoli, non cercano tipicamente il combattimento. Invece soffiano una nuvola di gas con un raggio di 20'. Tutte le creature catturate nella nube devono effettuare un tiro salvezza o cadere addormentate per 2d6 ore. Se messi alle strette, useranno la loro capacità di lanciare Invisibilità una volta al giorno per nascondersi.
+Questi piccoli draghi con le ali di farfalla non sono più grandi di un gatto domestico. Sono giocosi e amichevoli, non cercano tipicamente il combattimento. Invece soffiano una nuvola di gas con un raggio di 20'. Tutte le creature catturate nella nube devono effettuare un Tiro Salvezza o cadere addormentate per 2d6 ore. Se messi alle strette, useranno la loro capacità di lanciare Invisibilità una volta al giorno per nascondersi.
 
 ### Formica, Gigante
 
@@ -726,7 +726,7 @@ Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano 
 *Movimento*: 90' (30')/ 150' (50') quando vola 
 *DVE/PE*: 6/400
 
-I gargoyle sono creature alate che assomigliano alle mostruosità scolpite che adornano le pareti delle cattedrali e molti dungeon sotterranei. Possono essere feroci predatori.
+I gargoyle sono creature alate che assomigliano alle mostruosità scolpite che adornano le pareti delle cattedrali e molti dungeon sotterranei. Sono feroci predatori. Se rimangono immobili, sembrano normali statue: questo gli permette di cogliere di sopresa le prese con 1-5 su d6.
 
 ### Gelatina Ocra
 
@@ -934,7 +934,7 @@ Che siano fatti di vetro colorato animato o di enormi pile di frammenti frastagl
 *Movimento*: 120' (40')   
 *DVE/PE*: 10/1,400
 
-I gorgoni sono creature simili a tori con la pelle coperta da scaglie metalliche. Il loro soffio trasforma le persone in pietra (raggio di 60', tiro salvezza nega).
+I gorgoni sono creature simili a tori con la pelle coperta da scaglie metalliche. Il loro soffio trasforma le persone in pietra (raggio di 60', Tiro Salvezza nega).
 
 ### Granchio, Gigante
 
@@ -1085,7 +1085,7 @@ I ratti mannari si trovano per lo più nelle città, appostati in vicoli ombrosi
 *Movimento*: 60' (20')  
 *DVE/PE*: 15/2,900; 16/3,200; 17/3,500; 18/3,800; 19/4,100; 20/4,400; 
 
-I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di un mago di 10° livello. Il tocco di un lich provoca paralisi senza tiro salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono molto maligni e intelligenti.
+I lich sono i resti non-morti degli stregoni, resi tali dalle loro azioni deliberate durante la vita o come risultato di altre forze magiche (possibilmente incluse le loro stesse magie andate male). Un lich ha gli stessi poteri di un mago di 10° livello. Il tocco di un lich provoca paralisi senza Tiro Salvezza e la sola vista di una di queste terribili creature provoca la paralisi in qualsiasi essere di 4 DV o inferiore. I lich sono molto maligni e intelligenti.
 
 ### Lumaca, Gigante
 
@@ -1163,7 +1163,7 @@ I mastodonti sono proto-elefanti che si incontrano nelle pianure aperte in quals
 *Movimento*: 90' (30')  
 *DVE/PE*: 8/800
 
-Le meduse sono orribili creature della mitologia greca con un volto femminile ma capelli di serpenti contorti; non hanno gambe, ma il corpo di un serpente. Lo sguardo di una medusa trasforma in pietra chiunque la guardi. Oltre all'attacco in mischia relativamente debole della medusa, i capelli-serpente effettuano un attacco per Round, che non provoca danni ma è mortalmente velenoso in caso di successo (si applica il tiro salvezza).
+Le meduse sono orribili creature della mitologia greca con un volto femminile ma capelli di serpenti contorti; non hanno gambe, ma il corpo di un serpente. Lo sguardo di una medusa trasforma in pietra chiunque la guardi. Oltre all'attacco in mischia relativamente debole della medusa, i capelli-serpente effettuano un attacco per Round, che non provoca danni ma è mortalmente velenoso in caso di successo (si applica il Tiro Salvezza).
 
 ### Minotauro
 
@@ -1180,7 +1180,7 @@ Il minotauro è un predatore mangia-uomini della mitologia greca, con la testa d
 
 *Classe Armatura*: 16  
 *Dadi Vita*: 5+1  
-*Attacchi*: Tocco (vedi sotto)  
+*Attacchi*: Tocco (2d6-1, vedi sotto)  
 *Speciale*: Vedi sotto  
 *Movimento*: 60' (20')  
 *DVE/PE*: 7/600
@@ -1196,11 +1196,11 @@ Le mummie non possono essere colpite da armi normali e anche le armi magiche inf
 *Movimento*: 10' (10')  
 *DVE/PE*: 5/240
 
-La melma grigia è quasi identica alla roccia bagnata, ma è una sostanza viscida e informe che divora prede e carogne con le sue secrezioni acide, sferzando in avanti per colpire i nemici. La melma grigia è immune agli incantesimi, al calore e ai danni da freddo. Il metallo (ma non la pietra o il legno) deve effettuare un tiro salvezza contro l'acido quando viene esposto alla melma grigia (anche se il contatto è breve come il colpo di una spada) o marcisce. Quando la melma grigia colpisce un personaggio con un'armatura di metallo, l'armatura deve effettuare un tiro salvezza contro gli oggetti. Solo il taglio e la perforazione danneggiano la melma grigia, che è impenetrabile agli attacchi contundenti o di schiacciamento.
+La melma grigia è quasi identica alla roccia bagnata, ma è una sostanza viscida e informe che divora prede e carogne con le sue secrezioni acide, sferzando in avanti per colpire i nemici. La melma grigia è immune agli incantesimi, al calore e ai danni da freddo. Il metallo (ma non la pietra o il legno) deve effettuare un Tiro Salvezza contro l'acido quando viene esposto alla melma grigia (anche se il contatto è breve come il colpo di una spada) o marcisce. Quando la melma grigia colpisce un personaggio con un'armatura di metallo, l'armatura deve effettuare un Tiro Salvezza contro gli oggetti. Solo il taglio e la perforazione danneggiano la melma grigia, che è impenetrabile agli attacchi contundenti o di schiacciamento.
 
 ### Melma Verde
 
-La melma verde non è tecnicamente un mostro, solo un rischio estremamente pericoloso nelle tombe sotterranee e altri luoghi simili. Qualsiasi sostanza metallica o organica che tocca inizia a trasformarsi in melma verde (tiro salvezza). Può essere uccisa con il fuoco o con il freddo estremo, e il processo di trasformazione può essere arrestato con l'uso dell'incantesimo Curare le Malattie.
+La melma verde non è tecnicamente un mostro, solo un rischio estremamente pericoloso nelle tombe sotterranee e altri luoghi simili. Qualsiasi sostanza metallica o organica che tocca inizia a trasformarsi in melma verde (Tiro Salvezza). Può essere uccisa con il fuoco o con il freddo estremo, e il processo di trasformazione può essere arrestato con l'uso dell'incantesimo Curare le Malattie.
 
 ### Millepiedi, Gigante (piccolo)
 
@@ -1211,7 +1211,7 @@ La melma verde non è tecnicamente un mostro, solo un rischio estremamente peric
 *Movimento*: 13  
 *DVE/PE*: 2/30
 
-I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno a ogni morso, ma non infliggono danni se il tiro salvezza ha successo (modificatore +4 al tiro salvezza dell'avversario).
+I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno a ogni morso, ma non infliggono danni se il Tiro Salvezza ha successo (modificatore +4 al Tiro Salvezza dell'avversario).
 
 ### Millepiedi, Gigante (medio)
 
@@ -1222,7 +1222,7 @@ I millepiedi giganti di piccola taglia infliggono una quantità letale di veleno
 *Movimento*: 150' (50') 
 *DVE/PE*: 4/120
 
-Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti corazzati, un morso feroce e un veleno letale (anche se relativamente debole, modificatore di +6 al tiro salvezza dell'avversario).
+Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti corazzati, un morso feroce e un veleno letale (anche se relativamente debole, modificatore di +6 al Tiro Salvezza dell'avversario).
 
 ### Millepiedi, Gigante (grande)
 
@@ -1233,7 +1233,7 @@ Questo millepiedi gigante a misura d'uomo è un predatore mortale con segmenti c
 *Movimento*: 180' (60')  
 *DVE/PE*: 6/400  
 
-Un orrore lungo 20' di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al tiro salvezza dell'avversario).
+Un orrore lungo 20' di chitina, molteplici zampe e pinze schioccanti e che grondano veleno (modificatore di +6 al Tiro Salvezza dell'avversario).
 
 ### Muffa Gialla
 
@@ -1244,7 +1244,7 @@ Un orrore lungo 20' di chitina, molteplici zampe e pinze schioccanti e che grond
 *Movimento*: 0'  
 *DVE/PE*: 3/60  
 
-La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 10'. Fallire un tiro salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
+La muffa gialla è un fungo sotterraneo; non si muove né attacca. Tuttavia, se viene colpito o punzecchiato, può (50% di probabilità) rilasciare una nuvola di spore velenose, del diametro di circa 10'. Fallire un Tiro Salvezza contro le spore significa che il personaggio muore di una morte piuttosto orribile. Toccare la muffa gialla causa 1d6 punti di danno acido. Queste escrescenze possono essere distrutte con il fuoco.
 
 ### Nixie
 
@@ -1268,7 +1268,7 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-Le ninfe sono dei Folletti che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un tiro salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e condurranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
+Le ninfe sono dei Folletti che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un Tiro Salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e condurranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
 
 ### Ombra
 
@@ -1290,7 +1290,7 @@ Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma son
 *Movimento*: 90' (30')  
 *DVE/PE*: 7/600 
 
-Gli orchi sono malvagi, brutali e, nonostante l'aspetto grottesco, particolarmente intelligenti. Vestono elegantemente e abitano in ville sfarzose che hanno fatto costruire dai loro 3d6 schiavi umani. Sono in grado di usare alcune magie: possono diventare invisibili (come da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare *Sonno* e *Ammaliare Persone* una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il tiro salvezza).
+Gli orchi sono malvagi, brutali e, nonostante l'aspetto grottesco, particolarmente intelligenti. Vestono elegantemente e abitano in ville sfarzose che hanno fatto costruire dai loro 3d6 schiavi umani. Sono in grado di usare alcune magie: possono diventare invisibili (come da  incantesimo), creare un cerchio di 10' di raggio di oscurità magica, trasformarsi in forma umana, lanciare *Sonno* e *Ammaliare Persone* una volta al giorno, e lanciare un cono di gelo con una portata di 60' e una base di 30', causando 8d6 danni a chiunque vi sia coinvolto (si applica il Tiro Salvezza).
 
 
 ### Orso
@@ -1379,7 +1379,7 @@ I Pixie sono piccoli folletti dell'aria che sono permanentemente invisibili a me
 *Movimento*: 180' (60')  
 *DVE/PE*: 5/240
 
-I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un tiro salvezza per evitare di rimanerci bloccati. Coloro che effettuano il tiro salvezza possono combattere e muoversi (5' per Round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
+I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono costruttori di ragnatele. Le ragnatele giganti richiedono un Tiro Salvezza per evitare di rimanerci bloccati. Coloro che effettuano il Tiro Salvezza possono combattere e muoversi (5' per Round) nelle ragnatele. I ragni giganti sorprendono con un tiro di 1-5, essendo in grado di nascondersi bene nell'ombra. Il morso di un ragno gigante è molto velenoso.
 
 ### Ratto, Gigante
 
@@ -1390,7 +1390,7 @@ I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono c
 *Movimento*: 120' (40') /6  
 *DVE/PE*: 2/30
 
-I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo tiro salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
+I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo Tiro Salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
 
 ### Ratto, Mostruoso
 
@@ -1401,7 +1401,7 @@ I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga
 *Movimento*: 120' (40')   
 *DVE/PE*: < 1/10
 
-I ratti mostruosi si trovano spesso nei dungeon e sono grandi quanto un cane di grossa taglia. Il morso di alcuni (1 su 20) ratti giganti causa malattie. È consentito un tiro salvezza contro il veleno. Gli effetti della malattia sono decisi dall'Arbitro.
+I ratti mostruosi si trovano spesso nei dungeon e sono grandi quanto un cane di grossa taglia. Il morso di alcuni (1 su 20) ratti giganti causa malattie. È consentito un Tiro Salvezza contro il veleno. Gli effetti della malattia sono decisi dall'Arbitro.
 
 ### Rinoceronte lanoso
 
@@ -1423,7 +1423,7 @@ I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si 
 *Movimento*: 60' (30')/6  
 *DVE/PE*: 8/800
 
-I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un tiro salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
+I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un Tiro Salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
 
 ### Roc
 
@@ -1533,7 +1533,7 @@ Gli scimmioni crudeli sono così chiamati per la loro colorazione pallida e il l
 *Movimento*: 150' (50') 
 *DVE/PE*: 6/400
 
-Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un colpo dell'aculeo è mortale a meno che non abbia successo un tiro salvezza contro il veleno.
+Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni di un cavallo. Percepiscono le cose principalmente attraverso le vibrazioni della terra e attaccheranno sempre tutto ciò che si avvicina. Un colpo dell'aculeo è mortale a meno che non abbia successo un Tiro Salvezza contro il veleno.
 
 ### Segugio Infernale
 
@@ -1544,7 +1544,7 @@ Gli scorpioni giganti sono cacciatori estremamente aggressivi delle dimensioni d
 *Movimento*: 120' (40')   
 *DVE/PE*: 5/240; 6/400; 7/600; 8/800
 
-I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni Round, infliggendo 2 danni PF per dado colpito (raggio di 10', tiro salvezza per metà danno).
+I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltre a mordere, possono sputare fuoco ogni Round, infliggendo 2 danni PF per dado colpito (raggio di 10', Tiro Salvezza per metà danno).
 
 ### Serpente, Grande e Gigante
 
@@ -1577,7 +1577,7 @@ La dimensione e la natura dei serpenti marini è una questione che spetta all'Ar
 *Movimento*: 120' (40')   
 *DVE/PE*: 7/600
 
-Gli Sidhe (pron. /ʃiː/) sono nobili Folletti che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un tiro salvezza. Gli Sidhe attaccano con le loro lame magiche fatate che infliggono 2d6 punti di danno e possono lanciare *Accelerare / Rallentare*, *Invisibilità* e *Forza Fantasma* una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i tiri salvezza effettuati per resistere alla magia.
+Gli Sidhe (pron. /ʃiː/) sono nobili Folletti che raramente viaggiano nel regno mortale. Appaiono come esseri elfici alti e di una bellezza sorprendente e sono vestiti con cotte e vesti gloriose. Tutti coloro che li guardano rimangono abbagliati dalla loro bellezza a meno che non venga effettuato con successo un Tiro Salvezza. Gli Sidhe attaccano con le loro lame magiche fatate che infliggono 2d6 punti di danno e possono lanciare *Accelerare / Rallentare*, *Invisibilità* e *Forza Fantasma* una volta al giorno. Sono inoltre molto resistenti alla magia dei mortali e hanno un bonus di +5 a tutti i Tiri Salvezza effettuati per resistere alla magia.
 
 ### Spettro
 
@@ -1645,18 +1645,7 @@ Le tigri dai denti a sciabola sono i grandi felini del Pliocene, capaci di cacci
 *Movimento*: 180' (60')  
 *DVE/PE*: 23/5.300
 
-Un Titano è un gigante molto bello e civilizzato. Sono intelligenti almeno quanto gli uomini, alti il triplo e incredibilmente forti. Hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà 3d6 x 1.000 po.
-
-## Titanotteri
-
-*Classe Armatura*: 12  
-*Dadi Vita*: 12  
-*Attacchi*: Carica (3d6)  
-*Speciale*: Vedi sotto   
-*Movimento*: 120' (40')   
-*DVE/PE*: 13/2.300
-
-I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate e nelle zone umide. Normalmente pacifici, caricano e calpestano tutto ciò che li provoca.
+Un Titano è un gigante molto bello e civilizzato. Sono intelligenti quanto gli uomini, alti il triplo e incredibilmente forti. Hanno l'uso di due incantesimi di ogni livello di magia al giorno. La tana di un Titano conterrà 3d6 x 1.000 po.
 
 ### Treant
 
@@ -1668,7 +1657,7 @@ I titanotteri sono enormi erbivori che vagano in branchi nelle pianure temperate
 *DVE/PE*: 7/600; 8/800; 9/1,100;  
 10/1,400; 11/1,700; 12/2,000
 
-I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60', permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant).
+I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60', permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant). Hanno -2 ai Tiri Salvezza contro gli incantesimi o gli effetti che fanno danni da fuoco. 
 
 ### Tritoni
 
@@ -1691,7 +1680,7 @@ I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e
 *Movimento*: 120' (40')   
 *DVE/PE*: 8/800
 
-I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. Sono nemici giurati dei Silvani, la cui vista induce il Troll ad una furia cieca che gli concede +2 ai tiri di Morale. I troll si rigenerano: qualsiasi danno inflitto loro guarisce al ritmo di 3 punti ferita per Round. L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati. Se esposti alla luce solare, si trasformano in pietra fino al successivo tramonto. I Troll che non sono colti alla sprovvista dall'alba si raggomitolano su loro stessi per mimetizzarsi mentre sono pietrificati. In questo caso, un Troll è quasi indistingubile da un grosso masso: esaminandolo attentamente c'è solo 1-2 su d6 possibilità di capire che un pietrone è in realtà un Troll pietrificato.
+I troll sono alti come gli orchi e altrettanto forti. A differenza degli orchi, però, attaccano con artigli e denti invece che con le armi. Sono nemici naturali dei Silvani, la cui vista induce il Troll ad una furia cieca che gli concede +2 ai tiri di Morale. I troll si rigenerano: qualsiasi danno inflitto loro guarisce al ritmo di 3 punti ferita per Round. L'unico modo per uccidere completamente un troll è immergerlo nell'acido o bruciarlo. I troll possono anche far ricrescere teste e arti mozzati. Se esposti alla luce solare, si trasformano in pietra fino al successivo tramonto. I Troll che non sono colti alla sprovvista dall'alba si raggomitolano su loro stessi per mimetizzarsi mentre sono pietrificati. In questo caso, un Troll è quasi indistingubile da un grosso masso: esaminandolo attentamente c'è solo 1-2 su d6 possibilità di capire che un pietrone è in realtà un troll pietrificato.
 
 ## Umani
 
@@ -1816,7 +1805,7 @@ Gli unicorni sono creature generalmente timide e benevole, che permetteranno sol
 *Movimento*: 60' (30')/12 (quando nuota)  
 *DVE/PE*: 2/30
 
-Gli uomini rana sono anfibi umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Possono trattenere il respiro per un'ora. Alcuni uomini rana brandiscono una spada malvagia fatta di ossa affilate.
+Gli uomini rana sono anfibi umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Possono trattenere il respiro per un'ora. Sono ostili verso chi entra nelle loro paludi. Alcuni Uomini Rana (1 su d6) sono accompagnati da un Rospo gigante. 
 
 ### Vampiro
 
@@ -1827,7 +1816,7 @@ Gli uomini rana sono anfibi umanoidi  che di solito vivono in villaggi tribali n
 *Movimento*: 120' (40') / 180' (60') quando vola  
 *DVE/PE*: 9/1,100; 10/1,400; 11/1,700
 
-I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare dove rimarranno fino al successivo tramonto. Si rigenerano al ritmo di 3 punti ferita per Round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare 4d6 Pipistrelli o 3d6 Lupi dalla notte. Guardare negli occhi di un vampiro richiede un tiro salvezza a -2 o il personaggio viene incantato (come per l'incantesimo *Ammaliare le Persone*). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
+I vampiri sono tra le creature non-morte più potenti. Possono essere colpiti solo con armi magiche e quando vengono "uccisi" in questo modo si trasformano in una forma gassosa, tornando nelle loro bare dove rimarranno fino al successivo tramonto. Si rigenerano al ritmo di 3 punti ferita per Round, possono trasformarsi in forma gassosa o in un pipistrello gigante a volontà e possono evocare 4d6 Pipistrelli o 3d6 Lupi dalla notte. Guardare negli occhi di un vampiro richiede un Tiro Salvezza a -2 o il personaggio viene incantato (come per l'incantesimo *Ammaliare le Persone*). Ancor più terrificante, il morso di un vampiro drena due livelli alla vittima.
 
 Fortunatamente, i vampiri hanno alcune debolezze. Possono essere distrutti definitivamente immergendoli in acqua corrente, esponendoli alla luce del sole o conficcando loro un paletto di legno nel cuore mentre riposano nelle loro bare. Sono repulsi dall'odore di aglio, dalla vista di uno specchio o dalla vista di simboli sacri a divinità che odiano i non-morti: nella pratica, è possibile Scacciarli come un Chierico di 1° Livello, mentre un Chierico avrà un bonus di +3 a tutti i tiri del suo tentativo di Scacciare se utilizza questi oggetti. Ogni essere umano ucciso da un vampiro diventa un vampiro sotto il controllo del suo creatore.
 
@@ -1842,7 +1831,7 @@ Fortunatamente, i vampiri hanno alcune debolezze. Possono essere distrutti defin
 
 I vermi viola sono massicci anellidi che crescono di oltre 40' di lunghezza e a volte superano i 10' di larghezza. Sono sotterranei e scavano gallerie nella roccia (o attraverso la sabbia, nei deserti, dove sono di colore marrone). Queste bestie ingoiano la loro preda intera con un tiro di 4 superiore al numero necessario o se il verme tira il doppio del numero richiesto "per colpire". Possono inghiottire qualsiasi cosa delle dimensioni di un cavallo o più piccola.
 
-Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un tiro salvezza. Quali tipi di prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
+Oltre al temuto morso, il verme possiede un aculeo velenoso sulla coda, lungo quanto una spada e altrettanto letale anche per il colpo perforante che infligge. Il veleno iniettato dall'aculeo è letale se la vittima fallisce un Tiro Salvezza. Quali tipi di prede i vermi viola cacciavano un tempo (o forse lo fanno ancora, nei luoghi profondi) con tali armi naturali devono essere state davvero terrificanti. Potrebbero esistere anche versioni acquatiche del verme viola.
 
 ### Viverna
 

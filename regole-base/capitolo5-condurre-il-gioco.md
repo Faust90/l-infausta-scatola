@@ -41,20 +41,20 @@ Nel Sottomondo la mappa è ricolma di mostri, trappole, tesori e creature o post
 La mappa delle Terre Selvagge è creata usando carta con griglia a esagoni, con ogni esagono che rappresenta 6 miglia, avendo un tipo di terreno specifico e possibilmente una caratteristica interessante. Una caratteristica potrebbe essere la torre di un mago, il forte di un guerriero, il tempio di un sacerdote malvagio o magari potrebbe essere una piccola creatura simile a un elfo, la quale è seduta sul tronco di un albero mentre suona il flauto. Lasciate che la vostra immaginazione corra selvaggia quando create tali caratteristiche.
 
 ### Mostri Erranti
-Nel Sottomondo, controllate ogni ora (sei turni) per i mostri erranti, mentre nelle Terre Selvagge controllate a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controllate la tabella Perdersi e Incontri per la probabilità degli incontri nelle Terre Selvagge.
+Nel Sottomondo, controllate ogni ora (sei Turni) per i mostri erranti, mentre nelle Terre Selvagge controllate a ogni esagono. Normalmente, c'è una probabilità di 1 su 6 di incontrare qualcosa nel Sottomondo. Controllate la tabella Perdersi e Incontri per la probabilità degli incontri nelle Terre Selvagge.
 
 L'incontro specifico è tirato sulla tabella. La distanza iniziale dell'incontro dipende dalle circostanze.
 
 ### Tiro di Reazione
-La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'Arbitro in base all'intelligenza del mostro o al buon senso e alla situazione in cui l'incontro avviene. Mostri non intelligenti attaccheranno senza pensarci. Se ci fosse una qualunque incertezza riguardo alla reazione dei mostri, può essere effettuato un tiro sulla seguente tabella. Al valore ottenuto grazie al tiro possono essere applicati modificatori in base alla situazione o alle caratteristiche dei mostri o personaggi giocanti.
+La reazione dei mostri ai personaggi giocanti dovrebbe essere determinata dall'Arbitro in base all'intelligenza del mostro o al buon senso e alla situazione in cui l'incontro avviene. Mostri non intelligenti attaccheranno senza pensarci. Se ci fosse una qualunque incertezza riguardo alla reazione dei mostri, può essere effettuato un tiro sulla seguente tabella. Al valore ottenuto grazie al tiro possono essere applicati modificatori in base alla situazione o alle caratteristiche dei mostri o personaggi giocanti. A questo tiro si somma il bonus di Carisma più alto tra i personaggi. 
 
 #### Tabella 33: Tiro di Reazione
 
 | Tirare 2d6 |  Reazione  |
-|:----------:|:----------:|
+| :--------: | :--------: |
 |  2 o meno  |   Ostile   |
-|     3-5    |  Negativa  |
-|     6-8    |   Incerta  |
+|    3-5     |  Negativa  |
+|    6-8     |  Incerta   |
 |    9-11    |  Positiva  |
 |     12     | Entusiasta |
 
@@ -68,50 +68,50 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 #### Tabella 34: Perdersi e Incontri
 
-|  Terreno | Aperto | Foresta | Fiume, Costa | Giungla, Palude | Colline, Montagne | Deserto | Civilizzato |
-|:--------:|:------:|:-------:|:------------:|:---------------:|:-----------------:|:-------:|:-----------:|
-|   Perso  |    1   |   1-2   |       1      |       1-3       |        1-2        |   1-3   |             |
-| Incontro |    1   |   1-2   |      1-2     |       1-3       |        1-3        |   1-2   |      1      |
+| Terreno  | Aperto | Foresta | Fiume, Costa | Giungla, Palude | Colline, Montagne | Deserto | Civilizzato |
+| :------: | :----: | :-----: | :----------: | :-------------: | :---------------: | :-----: | :---------: |
+|  Perso   |   1    |   1-2   |      1       |       1-3       |        1-2        |   1-3   |             |
+| Incontro |   1    |   1-2   |     1-2      |       1-3       |        1-3        |   1-2   |      1      |
 
 ### Fattore di Movimento dei Mezzi di Trasporto
 
 #### Tabella 35: Movimento su Terra
 
-|     Trasporto     | Fattore di Movimento  | Esagoni al Giorno |
-|:-----------------:|:---------------------:|:-----------------:|
-|   Nano/Halfling   |          9            |        3/2        |
-|     Umano/Elfo    |         12            |         2         |
-|   Cavallo, Soma   |         12            |         2         |
-|   Cavallo, Monta  |         24            |         4         |
-| Cavallo da Guerra |         18            |         3         |
-|        Mulo       |         12            |         2         |
-|       Carro       |          6            |         1         |
+|     Trasporto     | Fattore di Movimento | Esagoni al Giorno |
+| :---------------: | :------------------: | :---------------: |
+|   Nano/Halfling   |          9           |        3/2        |
+|    Umano/Elfo     |          12          |         2         |
+|   Cavallo, Soma   |          12          |         2         |
+|  Cavallo, Monta   |          24          |         4         |
+| Cavallo da Guerra |          18          |         3         |
+|       Mulo        |          12          |         2         |
+|       Carro       |          6           |         1         |
 
 
 #### Tabella 36: Movimento in Acqua
 
-|       Trasporto       | Fattore di Movimento  | Esagoni al Giorno |
-|:---------------------:|:---------------------:|:-----------------:|
-|         Barca         |          6            |         1         |
-|     Galea, Piccola    |         12            |         2         |
-|      Galea Grande     |         18            |         3         |
-| Nave a Vela (piccola) |         18            |         3         |
-|  Nave a Vela (grande) |         12            |         2         |
-|     Nave da guerra    |          6            |         1         |
+|       Trasporto       | Fattore di Movimento | Esagoni al Giorno |
+| :-------------------: | :------------------: | :---------------: |
+|         Barca         |          6           |         1         |
+|    Galea, Piccola     |          12          |         2         |
+|     Galea Grande      |          18          |         3         |
+| Nave a Vela (piccola) |          18          |         3         |
+| Nave a Vela (grande)  |          12          |         2         |
+|    Nave da guerra     |          6           |         1         |
 
 
 #### Tabella 37: Movimento in Aria
 
-|      Trasporto     | Fattore di Movimento* | Esagoni al Giorno |
-|:------------------:|:---------------------:|:-----------------:|
-|  Drago, Giovane  |          18             |         3         |
-|   Drago, Adulto  |          24             |         4         |
-| Drago, Fortunato |          96             |         12        |
-|   Tappeto Volante  |          24           |         4         |
-|       Grifone      |          30           |         5         |
-|      Ippogrifo     |          36           |         6         |
-|       Pegaso       |          42           |         7         |
-|         Roc        |          48           |         8         |
+|    Trasporto     | Fattore di Movimento* | Esagoni al Giorno |
+| :--------------: | :-------------------: | :---------------: |
+|  Drago, Giovane  |          18           |         3         |
+|  Drago, Adulto   |          24           |         4         |
+| Drago, Fortunato |          96           |        12         |
+| Tappeto Volante  |          24           |         4         |
+|     Grifone      |          30           |         5         |
+|    Ippogrifo     |          36           |         6         |
+|      Pegaso      |          42           |         7         |
+|       Roc        |          48           |         8         |
 
 *Il fattore di movimento è a bassa altitudine. Altitudini più elevate lo raddoppiano. 
 
@@ -119,166 +119,166 @@ Tirate 1d6 due volte per esagono per vedere se i personaggi si sono persi oppure
 
 #### Tabella 38: Incontri nel Sottomondo
 
-| Livello del Dungeon                                          |  Livello Incontro (Tirare 1d6)  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
-|:------------------------------------------------------------:|:-------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|                                                              |  1                              |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |
-|                               1                              | 1-3                             | 4-5 |  6  |     |     |     |     |     |     |     |
-|                               2                              |  1                              | 2-4 | 5-6 |     |     |     |     |     |     |     |
-|                               3                              |                                 |  1  | 2-4 | 5-6 |     |     |     |     |     |     |
-|                               4                              |                                 |     |  1  | 2-4 | 5-6 |     |     |     |     |     |
-|                               5                              |                                 |     |     |  1  | 2-4 | 5-6 |     |     |     |     |
-|                               6                              |                                 |     |     |     |  1  | 2-4 |  5  |  6  |     |     |
-|                               7                              |                                 |     |     |     |     |  1  | 2-4 |  5  |  6  |     |
-|                               8                              |                                 |     |     |     |     |     | 1-2 | 3-5 |  6  |     |
-|                               9                              |                                 |     |     |     |     |     |     | 1-2 | 3-5 |  6  |
-|                              10+                             |                                 |     |     |     |     |     |     |  1  | 2-3 | 4-6 |
+| Livello del Dungeon | Livello Incontro (Tirare 1d6) |   2   |   3   |   4   |   5   |   6   |   7   |   8   |   9   |  10   |
+| :-----------------: | :---------------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|                     |               1               |   2   |   3   |   4   |   5   |   6   |   7   |   8   |   9   |  10   |
+|          1          |              1-3              |  4-5  |   6   |       |       |       |       |       |       |       |
+|          2          |               1               |  2-4  |  5-6  |       |       |       |       |       |       |       |
+|          3          |                               |   1   |  2-4  |  5-6  |       |       |       |       |       |       |
+|          4          |                               |       |   1   |  2-4  |  5-6  |       |       |       |       |       |
+|          5          |                               |       |       |   1   |  2-4  |  5-6  |       |       |       |       |
+|          6          |                               |       |       |       |   1   |  2-4  |   5   |   6   |       |       |
+|          7          |                               |       |       |       |       |   1   |  2-4  |   5   |   6   |       |
+|          8          |                               |       |       |       |       |       |  1-2  |  3-5  |   6   |       |
+|          9          |                               |       |       |       |       |       |       |  1-2  |  3-5  |   6   |
+|         10+         |                               |       |       |       |       |       |       |   1   |  2-3  |  4-6  |
 
 
 Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 1-3 = Caotico, 4-5 = Neutrale, 6 = Legale. La classe del personaggio può essere una qualunque delle razze o delle opzioni aggiuntive; l'Arbitro può scegliere un umanoide. Per esempio, invece di essere un Umano Campione di livello 5, potrebbe essere un Orco Campione di livello 5. 
 
 ### Livello degli Incontri
 
-| Tiro |          Livello 1         |          Livello 2         |         Livello 3         |
-|:----:|:--------------------------:|:--------------------------:|:-------------------------:|
-|   1  |           Coboldi          | Scarabeo, di Fuoco Gigante |       Demone, Lemure      |
-|   2  |          Scheletro         |     Millepiedi, Gigante    |        Melma Grigia       |
-|   3  |       Ratto, Gigante       |            Ghoul           |           Arpia           |
-|   4  |           Goblin           |            Gnoll           | Licantropo, Ratto Mannaro |
-|   5  |            Gnomo           |       Uomo Lucertola       |  Licantropo, Lupo Mannaro |
-|   6  |          Orchetti          |       Ragno, Gigante       |       Anima Dannata       |
-|   7  |           Zombie           |          Hobgoblin         |          Bugbear          |
-|   8  |            Nano            |      Umano, Berserker      |           Ombra           |
-|   9  |            Elfo            |       Umano, Bandito       |    Campione, livello 3   |
-|  10  |          Hobgoblin         |    Campione, livello 2    |      Mago, livello 2      |
-|  11  |           Stirge           |     Chierico, livello 2    |      Demone, Folletto     |
-|  12  | Scarabeo, di Fuoco Gigante |         Elfo, Scuro        |        Elfo, Scuro        |
+| Tiro  |         Livello 1          |         Livello 2          |         Livello 3         |
+| :---: | :------------------------: | :------------------------: | :-----------------------: |
+|   1   |          Coboldi           | Scarabeo, di Fuoco Gigante |      Demone, Lemure       |
+|   2   |         Scheletro          |    Millepiedi, Gigante     |       Melma Grigia        |
+|   3   |       Ratto, Gigante       |           Ghoul            |           Arpia           |
+|   4   |           Goblin           |           Gnoll            | Licantropo, Ratto Mannaro |
+|   5   |           Gnomo            |       Uomo Lucertola       | Licantropo, Lupo Mannaro  |
+|   6   |          Orchetti          |       Ragno, Gigante       |       Anima Dannata       |
+|   7   |           Zombie           |         Hobgoblin          |          Bugbear          |
+|   8   |            Nano            |      Umano, Berserker      |           Ombra           |
+|   9   |            Elfo            |       Umano, Bandito       |    Campione, livello 3    |
+|  10   |         Hobgoblin          |    Campione, livello 2     |      Mago, livello 2      |
+|  11   |           Stirge           |    Chierico, livello 2     |     Demone, Folletto      |
+|  12   | Scarabeo, di Fuoco Gigante |        Elfo, Scuro         |        Elfo, Scuro        |
 
 
-| Tiro |       Livello 4      |      Livello 5       |      Livello 6     |
-|:----:|:--------------------:|:--------------------:|:------------------:|
-|   1  |   Segugio Infernale  |  Segugio Infernale   |  Segugio Infernale |
-|   2  |  Millepiede, Gigante |         Idra         |    Drago, Bianco   |
-|   3  |     Doppelganger     |    Drago, Bianco     |     Drago, Nero    |
-|   4  |       Gargoyle       |      Coccatrice      |        Idra        |
-|   5  |    Cubo Gelatinoso   |     Muffa Gialla     |      Basilisco     |
-|   6  |         Worg         |        Mummia        | Cane Intermittente |
-|   7  |      Apparizione     |         Orco         |       Medusa       |
-|   8  |         Orco         |      Orco Mago       |       Spettro      |
-|   9  | Campione, livello 4 | Campione, livello 5 |        Troll       |
-|  10  |  Chierico, livello 4 | Chierico, livello 5  |   Mago, livello 5  |
-|  11  |    Mago, livello 3   |   Mago, livello 4    |  Ladro, livello 6  |
-|  12  |   Ladro, livello 4   |   Ladro, livello 5   |        Sidhe       |
+| Tiro  |      Livello 4      |      Livello 5      |     Livello 6      |
+| :---: | :-----------------: | :-----------------: | :----------------: |
+|   1   |  Segugio Infernale  |  Segugio Infernale  | Segugio Infernale  |
+|   2   | Millepiede, Gigante |        Idra         |   Drago, Bianco    |
+|   3   |    Doppelganger     |    Drago, Bianco    |    Drago, Nero     |
+|   4   |      Gargoyle       |     Coccatrice      |        Idra        |
+|   5   |   Cubo Gelatinoso   |    Muffa Gialla     |     Basilisco      |
+|   6   |        Worg         |       Mummia        | Cane Intermittente |
+|   7   |     Apparizione     |        Orco         |       Medusa       |
+|   8   |        Orco         |      Orco Mago      |      Spettro       |
+|   9   | Campione, livello 4 | Campione, livello 5 |       Troll        |
+|  10   | Chierico, livello 4 | Chierico, livello 5 |  Mago, livello 5   |
+|  11   |   Mago, livello 3   |   Mago, livello 4   |  Ladro, livello 6  |
+|  12   |  Ladro, livello 4   |  Ladro, livello 5   |       Sidhe        |
 
 
-| Tiro |     Livello 7     |         Livello 8        |       Livello 9      |       Livello 10      |
-|:----:|:-----------------:|:------------------------:|:--------------------:|:---------------------:|
-|   1  |     Minotauro     | Licantropo, Orso Mannaro |         Idra         |          Idra         |
-|   2  | Segugio Infernale |           Idra           |      Drago, Blu      |          Lich         |
-|   3  |        Idra       |        Drago, Blu        |      Drago, Nero     |      Drago, Rosso     |
-|   4  |   Drago, Bianco   |        Drago, Nero       |     Drago, Verde     |       Drago, Oro      |
-|   5  |    Drago, Nero    |       Drago, Verde       |     Drago, Rosso     |   Sanguinaccio Nero   |
-|   6  |    Drago, Verde   |          Vampiro         |        Chimera       |    Elementale, Aria   |
-|   7  |      Banshee      |     Elementale, Aria     |     Demone, Balor    |   Elementale, Terra   |
-|   8  |      Vampiro      |     Elementale, Terra    |        Vampiro       |   Elementale, Fuoco   |
-|   9  |  Demone, Succube  |     Elementale, Fuoco    | Campione, livello 9 |   Elementale, Acqua   |
-|  10  |     Salamandra    |     Elementale, Acqua    |  Chierico, livello 9 | Cavaliere della Morte |
-|  11  |      Viverna      |          Gorgone         |    Mago, livello 8   |    Lumaca, Gigante    |
-|  12  |      Djinni       |  Inseguitore Invisibile  |   Ladro, livello 9   |      Verme Viola      |
+| Tiro  |     Livello 7     |        Livello 8         |      Livello 9      |      Livello 10       |
+| :---: | :---------------: | :----------------------: | :-----------------: | :-------------------: |
+|   1   |     Minotauro     | Licantropo, Orso Mannaro |        Idra         |         Idra          |
+|   2   | Segugio Infernale |           Idra           |     Drago, Blu      |         Lich          |
+|   3   |       Idra        |        Drago, Blu        |     Drago, Nero     |     Drago, Rosso      |
+|   4   |   Drago, Bianco   |       Drago, Nero        |    Drago, Verde     |      Drago, Oro       |
+|   5   |    Drago, Nero    |       Drago, Verde       |    Drago, Rosso     |   Sanguinaccio Nero   |
+|   6   |   Drago, Verde    |         Vampiro          |       Chimera       |   Elementale, Aria    |
+|   7   |      Banshee      |     Elementale, Aria     |    Demone, Balor    |   Elementale, Terra   |
+|   8   |      Vampiro      |    Elementale, Terra     |       Vampiro       |   Elementale, Fuoco   |
+|   9   |  Demone, Succube  |    Elementale, Fuoco     | Campione, livello 9 |   Elementale, Acqua   |
+|  10   |    Salamandra     |    Elementale, Acqua     | Chierico, livello 9 | Cavaliere della Morte |
+|  11   |      Viverna      |         Gorgone          |   Mago, livello 8   |    Lumaca, Gigante    |
+|  12   |      Djinni       |  Inseguitore Invisibile  |  Ladro, livello 9   |      Verme Viola      |
 
 
 ### Tabelle degli Incontri nelle Terre Selvagge per Tipo di Terreno
 
 #### Tabella 39: Tipo di Incontro nelle Terre Selvagge
 
-| Tiro |   Aperto   |   Foresta  | Fiume, Costa | Palude, Giungla | Colline, Montagne |   Arido   | Civilizzato |
-|:----:|:----------:|:----------:|:------------:|:---------------:|:-----------------:|:---------:|:-----------:|
-|   1  |    Drago   |    Drago   |     Drago    |      Drago      |       Drago       |   Drago   |  Non-Morto  |
-|   2  |   Mostro   |   Mostro   |    Mostro    |      Mostro     |       Mostro      |   Mostro  |   Umanoide  |
-|   3  |   Animale  |   Animale  |    Animale   |    Non-Morto    |      Animale      | Non-Morto |    Umano    |
-|   4  |  Umanoide  |   Animale  |    Animale   |     Animale     |      Umanoide     |  Animale  |    Umano    |
-|   5  |    Umano   |  Umanoide  |   Umanoide   |     Umanoide    |      Umanoide     |  Umanoide |    Umano    |
-|   6  |    Umano   |    Umano   |     Umano    |      Umano      |       Umano       |   Umano   |   Umanoide  |
-|   7  |  Umanoide  |  Umanoide  |    Animale   |     Animale     |      Umanoide     |  Umanoide |      —     |
-|   8  |   Animale  |   Animale  |    Animale   |    Non-Morto    |      Umanoide     |  Animale  |      —     |
-|   9  |   Mostro   |   Mostro   |    Mostro    |      Mostro     |      Animale      | Non-Morto |      —     |
-|  10  | Licantropo | Licantropo |  Licantropo  |    Licantropo   |      Gigante      |   Mostro  |      —     |
+| Tiro  |   Aperto   |  Foresta   | Fiume, Costa | Palude, Giungla | Colline, Montagne |   Arido   | Civilizzato |
+| :---: | :--------: | :--------: | :----------: | :-------------: | :---------------: | :-------: | :---------: |
+|   1   |   Drago    |   Drago    |    Drago     |      Drago      |       Drago       |   Drago   |  Non-Morto  |
+|   2   |   Mostro   |   Mostro   |    Mostro    |     Mostro      |      Mostro       |  Mostro   |  Umanoide   |
+|   3   |  Animale   |  Animale   |   Animale    |    Non-Morto    |      Animale      | Non-Morto |    Umano    |
+|   4   |  Umanoide  |  Animale   |   Animale    |     Animale     |     Umanoide      |  Animale  |    Umano    |
+|   5   |   Umano    |  Umanoide  |   Umanoide   |    Umanoide     |     Umanoide      | Umanoide  |    Umano    |
+|   6   |   Umano    |   Umano    |    Umano     |      Umano      |       Umano       |   Umano   |  Umanoide   |
+|   7   |  Umanoide  |  Umanoide  |   Animale    |     Animale     |     Umanoide      | Umanoide  |      —      |
+|   8   |  Animale   |  Animale   |   Animale    |    Non-Morto    |     Umanoide      |  Animale  |      —      |
+|   9   |   Mostro   |   Mostro   |    Mostro    |     Mostro      |      Animale      | Non-Morto |      —      |
+|  10   | Licantropo | Licantropo |  Licantropo  |   Licantropo    |      Gigante      |  Mostro   |      —      |
 
 
 #### Umani
 
-| Tiro | Aperto, Foresta | Fiume, Costa | Palude, Giungla | Colline, Montagne, Arido | Civilizzato |
-|:----:|:---------------:|:------------:|:---------------:|:------------------------:|:-----------:|
-|   1  |       PNG       |     PNG      |       PNG       |            PNG           |     PNG     |
-|   2  |     Chierici    |  Berserker   |      Maghi      |         Berserker        |   Banditi   |
-|   3  |    Campioni    |  Campioni   |    Berserker    |         Campioni        |   Chierici  |
-|   4  |     Banditi     |    Pirati    |    Campioni    |          Banditi         |    Comune   |
-|   5  |      Comune     |    Pirati    |     Banditi     |          Banditi         |    Comune   |
-|   6  |     Banditi     |   Banditi    |     Banditi     |          Banditi         |    Comune   |
-|   7  |     Campioni     |  Campioni   |    Campioni    |         Campioni        |   Campioni   |
-|   8  |    Campioni    |  Berserker   |    Berserker    |         Berserker        |   Campioni   |
-|   9  |    Berserker    |    Maghi     |      Maghi      |         Chierici         |  Campioni  |
-|  10  |      Maghi      |   Chierici   |     Chierici    |           Maghi          |    Maghi    |
+| Tiro  | Aperto, Foresta | Fiume, Costa | Palude, Giungla | Colline, Montagne, Arido | Civilizzato |
+| :---: | :-------------: | :----------: | :-------------: | :----------------------: | :---------: |
+|   1   |       PNG       |     PNG      |       PNG       |           PNG            |     PNG     |
+|   2   |    Chierici     |  Berserker   |      Maghi      |        Berserker         |   Banditi   |
+|   3   |    Campioni     |   Campioni   |    Berserker    |         Campioni         |  Chierici   |
+|   4   |     Banditi     |    Pirati    |    Campioni     |         Banditi          |   Comune    |
+|   5   |     Comune      |    Pirati    |     Banditi     |         Banditi          |   Comune    |
+|   6   |     Banditi     |   Banditi    |     Banditi     |         Banditi          |   Comune    |
+|   7   |    Campioni     |   Campioni   |    Campioni     |         Campioni         |  Campioni   |
+|   8   |    Campioni     |  Berserker   |    Berserker    |        Berserker         |  Campioni   |
+|   9   |    Berserker    |    Maghi     |      Maghi      |         Chierici         |  Campioni   |
+|  10   |      Maghi      |   Chierici   |    Chierici     |          Maghi           |    Maghi    |
 
 
 #### Umanoidi
 
-| Tiro | Aperto, Foresta |   Fiume, Costa   |  Palude, Giungla | Colline, Montagne, Arido | Civilizzato |
-|:----:|:---------------:|:----------------:|:----------------:|:------------------------:|:-----------:|
-|   1  |      Orchi      |       Orchi      |       Orchi      |         Orco Mago        |    Goblin   |
-|   2  |      Gnoll      |       Gnoll      |      Bugbear     |           Gnoll          |     Nani    |
-|   3  |    Hobgoblin    |     Orchetti     |     Orchetti     |         Hobgoblin        |     Elfi    |
-|   4  |       Elfi      | Uomini Lucertola | Uomini Lucertola |           Nani           |   Coboldi   |
-|   5  |      Gnomi      |     Hobgoblin    | Uomini Lucertola |          Coboldi         |    Gnomi    |
-|   6  |     Orchetti    |       Troll      |      Coboldi     |         Orchetti         |      —     |
-|   7  |      Sidhe      |        —        |     Hobgoblin    |          Goblin          |      —     |
-|   8  |     Coboldi     |        —        |       Troll      |           Troll          |      —     |
-|   9  |     Bugbear     |        —        |        —        |           Orchi          |      —     |
-|  10  |      Troll      |        —        |        —        |         Minotauri        |      —     |
+| Tiro  | Aperto, Foresta |   Fiume, Costa   | Palude, Giungla  | Colline, Montagne, Arido | Civilizzato |
+| :---: | :-------------: | :--------------: | :--------------: | :----------------------: | :---------: |
+|   1   |      Orchi      |      Orchi       |      Orchi       |        Orco Mago         |   Goblin    |
+|   2   |      Gnoll      |      Gnoll       |     Bugbear      |          Gnoll           |    Nani     |
+|   3   |    Hobgoblin    |     Orchetti     |     Orchetti     |        Hobgoblin         |    Elfi     |
+|   4   |      Elfi       | Uomini Lucertola | Uomini Lucertola |           Nani           |   Coboldi   |
+|   5   |      Gnomi      |    Hobgoblin     | Uomini Lucertola |         Coboldi          |    Gnomi    |
+|   6   |    Orchetti     |      Troll       |     Coboldi      |         Orchetti         |      —      |
+|   7   |      Sidhe      |        —         |    Hobgoblin     |          Goblin          |      —      |
+|   8   |     Coboldi     |        —         |      Troll       |          Troll           |      —      |
+|   9   |     Bugbear     |        —         |        —         |          Orchi           |      —      |
+|  10   |      Troll      |        —         |        —         |        Minotauri         |      —      |
 
 
 #### Animali
 
-| Tiro |  Aperto, Foresta  |    Fiume, Costa   |  Palude, Giungla  | Colline, Montagne, Arido |
-|:----:|:-----------------:|:-----------------:|:-----------------:|:------------------------:|
-|   1  |        Worg       |       Ratti       |       Ratti       |     Serpente, Gigante    |
-|   2  | Serpente, Gigante |     Millepiedi    | Serpente, Gigante |           Worg           |
-|   3  |       Ragni       | Serpente, Gigante |       Ragni       |           Ratti          |
-|   4  |       Ratti       | Scarabeo, Gigante |     Millepiedi    |           Ragni          |
-|   5  | Scarabeo, Gigante |       Ragni       | Scarabeo, Gigante |        Millepiedi        |
-|   6  |     Millepiedi    |       Stirge      |       Stirge      |          Stirge          |
+| Tiro  |  Aperto, Foresta  |   Fiume, Costa    |  Palude, Giungla  | Colline, Montagne, Arido |
+| :---: | :---------------: | :---------------: | :---------------: | :----------------------: |
+|   1   |       Worg        |       Ratti       |       Ratti       |    Serpente, Gigante     |
+|   2   | Serpente, Gigante |    Millepiedi     | Serpente, Gigante |           Worg           |
+|   3   |       Ragni       | Serpente, Gigante |       Ragni       |          Ratti           |
+|   4   |       Ratti       | Scarabeo, Gigante |    Millepiedi     |          Ragni           |
+|   5   | Scarabeo, Gigante |       Ragni       | Scarabeo, Gigante |        Millepiedi        |
+|   6   |    Millepiedi     |      Stirge       |      Stirge       |          Stirge          |
 
 
 #### Mostro
 
-| Tiro |    Aperto, Foresta |      Arido      | Colline, Montagne | Palude, Giungla |   Fiume, Costa  |
-|:----:|:------------------:|:---------------:|:-----------------:|:---------------:|:---------------:|
-|   1  |      Unicorni      |    Salamandra   |     Basilisco     |      Medusa     | Serpente Marino |
-|   2  |       Driade       |   Verme Viola   |      Chimera      |      Driade     |    Basilisco    |
-|   3  |      Centauro      |    Basilisco    |      Gorgone      |    Basilisco    |     Chimera     |
-|   4  |      Basilisco     |     Gorgone     |      Grifoni      |    Coccatrice   |      Arpie      |
-|   5  |    Ratto Mannaro   |    Manticora    |       Arpie       |     Chimera     |      Medusa     |
-|   6  |     Coccatrice     |      Medusa     |    Lupo Mannaro   |      Arpie      |      Pegaso     |
-|   7  | Cane Intermittente |       Roc       |     Ippogrifo     |        —        |        —        |
-|   8  |    Lupo Mannaro    | Tirare di nuovo |     Manticora     |        —        |        —        |
-|   9  |       Chimera      |        —        |       Medusa      |        —        |        —        |
-|  10  |      Manticora     |        —        |       Pegaso      |        —        |        —        |
-|  11  |         —          |        —        |        Roc        |        —        |        —        |
-|  12  |         —          |        —        |   Ratto Mannaro   |        —        |        —        |
+| Tiro  |  Aperto, Foresta   |      Arido      | Colline, Montagne | Palude, Giungla |  Fiume, Costa   |
+| :---: | :----------------: | :-------------: | :---------------: | :-------------: | :-------------: |
+|   1   |      Unicorni      |   Salamandra    |     Basilisco     |     Medusa      | Serpente Marino |
+|   2   |       Driade       |   Verme Viola   |      Chimera      |     Driade      |    Basilisco    |
+|   3   |      Centauro      |    Basilisco    |      Gorgone      |    Basilisco    |     Chimera     |
+|   4   |     Basilisco      |     Gorgone     |      Grifoni      |   Coccatrice    |      Arpie      |
+|   5   |   Ratto Mannaro    |    Manticora    |       Arpie       |     Chimera     |     Medusa      |
+|   6   |     Coccatrice     |     Medusa      |   Lupo Mannaro    |      Arpie      |     Pegaso      |
+|   7   | Cane Intermittente |       Roc       |     Ippogrifo     |        —        |        —        |
+|   8   |    Lupo Mannaro    | Tirare di nuovo |     Manticora     |        —        |        —        |
+|   9   |      Chimera       |        —        |      Medusa       |        —        |        —        |
+|  10   |     Manticora      |        —        |      Pegaso       |        —        |        —        |
+|  11   |         —          |        —        |        Roc        |        —        |        —        |
+|  12   |         —          |        —        |   Ratto Mannaro   |        —        |        —        |
 
 
 #### Altro
 
 | Tirare |     Drago     |       Non-Morto       |      Gigante      |
-|:------:|:-------------:|:---------------------:|:-----------------:|
-|    1   |   Drago, Oro  |        Banshee        |      Efreeti      |
-|    2   |   Drago, Blu  |      Apparizione      |      Djinni       |
-|    3   |  Drago, Nero  |         Ombra         |   Gigante, Gelo   |
-|    4   |  Drago, Verde |         Ghoul         |  Gigante, Pietra  |
-|    5   |  Drago, Rosso |       Scheletri       |  Gigante, Collina |
-|    6   | Drago, Bianco |         Zombie        | Gigante, Tempesta |
-|    7   |    Viverne    |     Anima Dannata     |   Gigante, Fuoco  |
-|    8   |      Idra     |         Mummie        |  Gigante, Nuvole  |
-|    9   |       —      |        Spettro        |  Gigante, Firbolg |
-|   10   |       —      |        Vampiro        |       Treant      |
-|   11   |       —      | Cavaliere della Morte |         —        |
-|   12   |       —      |          Lich         |         —        |
+| :----: | :-----------: | :-------------------: | :---------------: |
+|   1    |  Drago, Oro   |        Banshee        |      Efreeti      |
+|   2    |  Drago, Blu   |      Apparizione      |      Djinni       |
+|   3    |  Drago, Nero  |         Ombra         |   Gigante, Gelo   |
+|   4    | Drago, Verde  |         Ghoul         |  Gigante, Pietra  |
+|   5    | Drago, Rosso  |       Scheletri       | Gigante, Collina  |
+|   6    | Drago, Bianco |        Zombie         | Gigante, Tempesta |
+|   7    |    Viverne    |     Anima Dannata     |  Gigante, Fuoco   |
+|   8    |     Idra      |        Mummie         |  Gigante, Nuvole  |
+|   9    |       —       |        Spettro        | Gigante, Firbolg  |
+|   10   |       —       |        Vampiro        |      Treant       |
+|   11   |       —       | Cavaliere della Morte |         —         |
+|   12   |       —       |         Lich          |         —         |
