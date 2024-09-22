@@ -41,15 +41,15 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
 Poiché ogni Turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso Turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso Turno, per esempio. Le azioni più lunghe possono richiedere diversi Turni per essere risolte (come fare una perlustrazione di un muro di 500 piedi quadrati) e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
 
 ### Esplorare le Terre Selvagge
-L'unità di tempo di base per l'esplorazione della natura è il giorno. È una buona idea, se possibile, che l'Arbitro utilizzi una carta contrassegnata da una griglia esagonale ("carta esagonale") per pre-disegnare le mappe della regione selvaggia prima che i giocatori la esplorino.
+L'unità di tempo di base per l'esplorazione della natura è il giorno. È una buona idea, se possibile, che l'Arbitro utilizzi una carta contrassegnata da una griglia esagonale ("carta esagonale") per pre-disegnare le mappe della regione selvaggia prima che i giocatori la esplorino. In alternativa, è possibile avere dei punti di interesse uniti da linee e un'indicazione di massima dei giorni di viaggio ("pointcrawl")
 
 **Ordine di gioco**: Quando si inizia una sessione, ogni giorno dovrebbe essere risolto separatamente. L'ordine degli eventi è il seguente:
 
 1. **Inizio**: L'Arbitro avvisa il gruppo delle condizioni meteorologiche prevalenti e il gruppo decide da che parte andare.
 2. **Navigazione**: L'Arbitro controlla in segreto per determinare se il gruppo si è perso.
 3. **Controllare i mostri erranti**: Normalmente l'Arbitro dovrebbe fare due controlli ogni giorno e un terzo controllo di notte (riferirsi alla Tabella 34 Perdersi e Incontri delle regole base).
-4. **Movimento e azione**: I membri del gruppo si muovono, compiono azioni stazionarie o entrambe.
-5. **Incontro**: Qualsiasi incontro viene risolto.
+4. **Movimento e azione**: I membri del gruppo si muovono e compiono azioni a piacere.
+5. **Incontro**: Eventuali incontri vengono risolti.
 6. **Accamparsi**: L'Arbitro indica quali opzioni ha il gruppo per accamparsi. 
 
     Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 o -10% sui punteggi di abilità, sui tiri per colpire, sui tiri per danni e sui Tiri Salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
@@ -58,7 +58,7 @@ L'unità di tempo di base per l'esplorazione della natura è il giorno. È una b
 
 7. **Controllare i mostri erranti**: L'Arbitro tira di nuovo per i mostri erranti e inizia l'incontro che eventualmente ne risulta.
 
-Nelle scale di tempo consentite per le avventure nelle Terre Selvagge, la maggior parte delle azioni statiche richiede un tempo trascurabile, quindi, come regola generale, un personaggio giocante può combinare molte azioni statiche con una normale mossa.
+Nelle scale di tempo consentite per le avventure nelle Terre Selvagge, la maggior parte delle azioni statiche richiede un tempo trascurabile.
 
 ### Movimento
 
