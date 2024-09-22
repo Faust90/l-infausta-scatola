@@ -26,12 +26,12 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
 
 1. **Controllo dei mostri erranti**: Ogni sei Turni l'Arbitro tira per vedere se si incontrano mostri erranti (tipicamente 1 su 6).
 2. **Dichiarare l'azione**: Ogni giocatore descrive l'attività dei vari membri del gruppo, che vengono risolti come appropriato dall'Arbitro:
-    - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 di *L'Infausta Scatola*);
+    - **Movimento**: l'esplorazione avviene alla velocità di movimento secondo le regole base, modificate eventualmente da ingombro e altri impedimenti dettati dalla situazione (si vedano Tabelle 15 e 16 più avanti);
     - **Ascoltare i rumori**: 1 Turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
     - **Aprire una porta bloccata o chiusa a chiave**: 1 round per tentativo, 2 probabilità di successo su 6.
-    - **Cercare trappole**: 1-4 round per tentativo, possibilità di successo determinata dalla razza (nano), classe (ladro o assassino) o negoziazione verbale in forma libera (a discrezione dall'Arbitro);
+    - **Cercare trappole**: 1 Round per tentativo, possibilità di successo determinata dalla razza (Dvergar), classe (Ladro) o negoziazione verbale in forma libera (a giudizio dall'Arbitro);
     - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 Turno per ogni stanza o area di 20 piedi×20 piedi;
-    - **Esaminare a fondo e cercare porte segrete**: 1 Turno per ogni area di 10×10 piedi, 2 probabilità di successo su 6 (4 su 6 per elfi);
+    - **Esaminare a fondo e cercare porte segrete**: 1 Turno per ogni area di 10×10 piedi, 2 probabilità di successo su 6 (o in base alla Sapienza Dvergar);
     - **Lanciare un incantesimo**: vedere le descrizioni specifiche degli incantesimi per i tempi di lancio e gli effetti;
     - **Riposare**: tipicamente 1 Turno ogni 6 deve essere speso a riposare, più 1 Turno dopo ogni combattimento  (cioè nessun movimento o altra attività faticosa);
     - **Altre attività**: durata del tentativo e probabilità di successo determinate e risolte specificamente dall'Arbitro.
