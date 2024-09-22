@@ -63,7 +63,7 @@ Il nome dell'incantesimo fra parentesi indica la versione "invertita" dell'incan
 
 |             Livello 3             |         Livello 4         |
 | :-------------------------------: | :-----------------------: |
-|         Accelerare / Rallentare         |    Ammaliare i Mostri     |
+|      Accelerare / Rallentare      |    Ammaliare i Mostri     |
 |        Bloccare le Persone        |        Confusione         |
 |        Dissolvere le Magie        |     Crescita Vegetale     |
 |              Fulmine              |    Mutaforma di Massa     |
@@ -112,14 +112,16 @@ Il nome dell'incantesimo fra parentesi indica la versione "invertita" dell'incan
 | :-----------------: | :-------------------: |
 | Cerchio protettivo  |  Camminare nell'aria  |
 | Chiamare il fulmine |  Chiamare un mostro   |
-| Evocare un animale  | Parlare con le Piante |
-|   Muro del vento    |      Passalberi       |
+| Evocare un animale  |   Crescita Vegetale   |
+|   Muro del vento    | Parlare con le Piante |
+|                     |      Passalberi       |
 
 |      Livello 5       |      Livello 6\*      |
 | :------------------: | :-------------------: |
-|  Esplosione Solare   | Controllo Atmosferico |
-| Risvegliare l'albero |    Muovere l'Acqua    |
-|      Terremoto       |   Muovere la Terra    |
+|  Crescita Animale   | Controllo Atmosferico |
+|  Esplosione Solare   |    Muovere l'Acqua    |
+| Risvegliare l'albero |   Muovere la Terra    |
+|      Terremoto       |                       |
 |    Reincarnazione    |                       |
 
 \* Possono essere lanciati solo dalle pergamene
@@ -299,26 +301,26 @@ L'incantatore evoca o ferma la pioggia, i tornado, crea basse o alte temperature
 Questo incantesimo crea una fornitura di cibo modesto e acqua potabile per 24 umani (o cavalli, che bevono la stessa quantità d'acqua di un essere umano ai fini del gioco).
 
 ### Crescita Animale
-*Livello:* M5  
+*Livello:* M5, S5  
 *Raggio d'azione:* 120'  
 *Durata:* 2 ore
 
-L'incantesimo fa crescere 1d6 creature di taglia normale fino a una taglia gigante. Le creature affette possono attaccare come la versione gigante del normale animale.
+L'incantesimo fa crescere 1d6 animali di taglia normale fino a una taglia gigante. Le creature affette possono attaccare come la versione gigante del normale animale. Se non è indicata nel Capitolo 7, gli animali affetti raddoppiano i loro DV e i danni inflitti dai loro attacchi.
 
 ### Crescita Vegetale
-*Livello:* M4  
+*Livello:* M4, S4    
 *Raggio d'azione:* 120'  
 *Durata:* Permanente finché non viene dissolto
 
-L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. Una versione alternativa (a discrezione dell'Arbitro) può permettere all'incantesimo di interessare un'area di 300' per 300', per un totale di 90.000' quadrati. 
+L'incantesimo può influenzare un'area del diametro di 50'; il manto erboso dell'area cresce improvvisamente in una foresta impenetrabile di spine e liane. L'incantatore può decidere la forma dell'area da incantare. 
 
-### Curare (Causare) le Malattie
+### Curare (Causare) Malattie
 *Livello:* C3  
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo 
 
-- Come incantesimo di Curare Malattie, il ricevente è curato da qualunque malattia — incluse quelle inflitte con la magia.
-- Come incantesimo di Causare Malattie, il ricevente è afflitto da una malattia che l'Arbitro di gioco deve determinare.
+- Come incantesimo di *Curare Malattie*, il ricevente è curato da qualunque malattia.
+- Come incantesimo di *Causare Malattie*, il ricevente è afflitto da una malattia che l'Arbitro di gioco deve determinare.
 
 ### Curare (Causare) le Ferite Leggere
 *Livello:* C1  
@@ -341,7 +343,7 @@ L'incantesimo può influenzare fino a 300' quadrati di terreno; il manto erboso 
 *Raggio d'azione:* 60'  
 *Durata:* Istantaneo
 
-L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o una statua e lo disintegra in polvere. Ai materiali magici non sono disintegrabili e alle creature viventi è concesso un Tiro Salvezza: per i materiali considerate che abbiano 7 DV + eventuali bonus magici, ad esempio una spada +3 sarà cosiderata avere 10 DV.
+L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o una statua e lo disintegra in polvere. Ai materiali magici e alle creature viventi è concesso un Tiro Salvezza: per i materiali considerate che abbiano 7 DV + eventuali bonus magici, ad esempio una spada +3 sarà cosiderata avere 10 DV.
 
 ### Dissolvere il Caos (la Legge)
 *Livello:* C5  
@@ -356,11 +358,9 @@ L'incantesimo definisce un bersaglio specifico come una porta, una creatura, o u
 *Raggio d'azione:* 120'  
 *Durata:* 10 minuti
 
-Dissolvere le Magie può essere usato per dissolvere completamente gran parte di incantesimi e incanti.
+Dissolve completamente gran parte di incantesimi e incanti, compresi quelli lanciati da Chierici, Silvani o genericamente utilizzatori di magia.
 
-Come esempio di come un Arbitro possa gestire questo incantesimo, la probabilità di dissolvere la magia può essere una percentuale basata sul rapporto del livello dell'incantatore che prova a dissolvere e del livello (o DV del mostro) che ha scagliato l'incantesimo
-
-Così, un Mago di 6° livello che tentasse di dissolvere un ammaliamento di un Mago di 12° livello avrebbe il 50% di possibilità di riuscita (6/12=1/2). Se il Mago di 12° livello tentasse di dissolvere l'incantesimo del Mago di 6° livello, la probabilità dell'incantatore di dissolvere sarebbe il 200% (12/6=2).
+C'è una possibilità che questo incantesimo fallisca, data dalla differenza tra i livelli del Mago che lancia *Dissolvere le Magie* e i DV (o i livelli) di chi ha lanciato l'effetto da dissolvere. Per ogni livello in più che il lanciatore della magia bersaglio ha, c'è un 10% di fallimento cumulativo. Ad esempio, un Mago di 5° livello che vuole dissolvere un incantesimo lanciato da un Mago di 10° avrà il 50% di fallire (10-5 = 5). Se questa percentuale supera il 99%, solo un tiro di 100 sul d100 dissolverà l'incantesimo: dopotutto, la magia è governata dal caos! 
 
 ### Esplosione Solare
 *Livello*: S5  
