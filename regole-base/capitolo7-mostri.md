@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 49% alla magia e sono immuni agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 50% agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -132,7 +132,7 @@ I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque l
 *Movimento*: 90' (30')  
 *DVE/PE*: 3/60
 
-Questi grandi umanoidi pelosi imparentati con i Goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6.
+Questi grandi umanoidi pelosi imparentati con i Goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6. Occasionalmente (1 su d6) un Bugbear ha al suo servizio 2d3 Goblin
 
 ### Calamaro, Gigante
 
@@ -187,7 +187,7 @@ Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature mitologi
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso Round - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus).
+I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso Round - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus di +3).
 
 ### Cavaliere della Morte
 
@@ -198,7 +198,7 @@ I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amic
 *Movimento*: 120' (40')   
 *DVE/PE*: 12/2000
 
-Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un Cavaliere della Morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I Cavalieri della Morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi non magiche e non possono essere scacciati da un Chierico. Hanno sempre con sé 2d6 zombie o scheletri (a discrezione dell'Arbitro).
+Questi terribili cavalieri non-morti sono rivestiti di un'armatura nera e brandiscono terribili spade a due mani con grande forza. Oltre all'aumento dei danni, ogni volta che un Cavaliere della Morte colpisce con successo un nemico con la sua spada, il bersaglio perde un livello. I Cavalieri della Morte sono anche immuni a tutti gli incantesimi di 5° livello o inferiori. Possono lanciare una palla di fuoco una volta al giorno che infligge 7d6 punti di danno. Sono immuni ai danni delle armi non magiche e non possono essere scacciati da un Chierico. Hanno sempre con sé 2d6 zombie o scheletri (a discrezione dell'Arbitro) sotto il loro controllo.
 
 ### Cavallo da Tiro / da Corsa / da Guerra
 
@@ -235,12 +235,12 @@ La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra d
 
 *Classe Armatura*: 17  
 *Dadi Vita*: 16  
-*Attacchi*: Mazza (vedi sotto)  
+*Attacchi*: Mazza (3d6+3)  o Roccia (2d6)
 *Speciale*: Vedi sotto   
 *Movimento*: 150' (50') 
 *DVE/PE*: 17/3.500
 
-I ciclopi sono giganti alti 20 piedi con un solo grande occhio che causa una scarsa percezione della profondità e una correzione di -2 su tutti i tiri di attacco. Abitano in rovine abbandonate e fuori mano, isole o grotte sottomarine dove si scontrano con gli altri. Sono abili fabbri e se un giocatore offre un dono utile e ottiene una reazione positiva, i ciclopi possono offrire in cambio un'armatura magica. Un ciclope combatte con un'enorme mazza e infligge 6-21 punti di danno e può scagliare rocce fino a 20" per 2-12 danni. Apprezzano particolarmente l'oro e il loro tesoro contiene sempre 2.000-5.000 po in più.
+I ciclopi sono giganti alti 20 piedi con un solo grande occhio che causa una scarsa percezione della profondità e una correzione di -2 su tutti i tiri di attacco. Abitano in rovine abbandonate e fuori mano, isole o grotte sottomarine dove si scontrano con gli altri. Sono abili fabbri e se un giocatore offre un dono utile e ottiene una reazione positiva, i ciclopi possono offrire in cambio un'armatura magica. Un ciclope combatte con un'enorme mazza e infligge  punti di danno e può scagliare rocce fino a 20". Apprezzano particolarmente l'oro e il loro tesoro contiene sempre 1d6 x 1.000 po in più.
 
 ### Cinghiale
 
@@ -267,7 +267,7 @@ I cinghiali giganti sono simili ai normali cinghiali eccetto per la loro grande 
 ### Coboldi
 
 *Classe Armatura*: 13  
-*Dadi Vita*: 1/2  
+*Dadi Vita*: ½  
 *Attacchi*: Arma  
 *Speciale*: Nessuno  
 *Movimento*: 60' (20')  
@@ -1270,16 +1270,45 @@ I Nixie si armano di pugnali e giavellotti. La loro tana sarà un'enclave sottom
 
 Le ninfe sono dei Folletti che appaiono come donne nude o vestite di foglie di una bellezza inimmaginabile. Abitano nelle profondità delle foreste e cercano di proteggere i luoghi selvaggi del mondo. Gli uomini che le guardano devono effettuare un Tiro Salvezza con una penalità di -4 o cadere completamente sotto il loro charm. Le ninfe scacceranno i viandanti dai loro amati boschi e condurranno i loro malvagi nemici verso la morte, spesso facendoli annegare nei laghi dei boschi mentre sono incantati. Le ninfe sono invisibili nei boschi finché rimangono ferme, confondendosi perfettamente con l'ambiente circostante.
 
-### Ombra
+
+### Ombre
+
+Creature non morte provenienti da un piano di assolutà oscurità, dove i pensieri malvagi e autodistruttivi delle creature intelligenti prendono forma di queste orribili creature che odiano la vita. Rappresentano l'antitesi della vita: perfino il loro tocco è in grado di risucchiare le forze delle creature viventi.
+
+### Minore, Ombra
 
 *Classe Armatura*: 12  
 *Dadi Vita*: 3+3  
-*Attacchi*: Tocco (vedi sotto)  
+*Attacchi*: Tocco (1d6-1, vedi sotto)  
 *Speciale*: Vedi sotto  
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma sono soggette allo scacciare. Assomigliano a normali ombre più scure della notte. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di Forza con un colpo riuscito: se una vittima viene portata ad una Forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti.
+Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma sono soggette allo scacciare. Assomigliano a normali ombre più scure della notte. Non sono corporee e possono essere danneggiate solo con armi magiche o con incantesimi. Il loro tocco gelido prosciuga un punto di Forza con un colpo riuscito: se una vittima viene portata ad una Forza pari a 0, diventa un'ombra. I punti forza ritornano dopo 90 minuti. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare. 
+
+### Viandante, Ombra
+
+*Classe Armatura*: 20  
+*Dadi Vita*: 17 
+*Attacchi*: Artigli (4d6)  
+*Speciale*: Vedi sotto
+*Movimento*: 150' (50') / 60' (20') volando   
+*DVE/PE*: 21/120
+
+Giganti fatti di pura oscurità e malvagità. Viaggiano di piano in piano nel tentativo di estiguere ogni forma di vita. Ogni colpo di artiglio ha il 50% di spaccare le armature o gli scudi del bersaglio, anche se magici. Inoltre, oltre a questi effetti, risucchia 2 livelli di esperienza.Se una vittima muore per via del risucchio di livello, rinasce istantaneamente come un'Ombra minore. L'aura gelida che emanano uccide tutte le creature di 3 DV o meno entro 150'che non superino un Tiro Salvezza (da ripetere dopo un Turno) e distrugge immediatamente tutto il cibo e l'acqua nell'area: per questo non possono mai cogliere di sopresa altre creature (purché sopravvivano!). Le Ombre Viandanti sono immuni agli incantesimi di 4° livello o minore. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare. Possono utilizzare *Volare* e *Accelerare / Rallentare* una volta al giorno.
+
+
+### Millepiedi, Ombra
+
+*Classe Armatura*: 18  
+*Dadi Vita*: 14 
+*Attacchi*: Morso (3d6)  
+*Speciale*: Vedi sotto
+*Movimento*: 80' (80') 
+*DVE/PE*: 17/120
+
+Gigantesco millepiedi di pura oscurità e malvagità. Si muovono sottoterra, cogliendo le vittime di sopresa. Il morso, oltre al danno inflitto, risucchia 1 livello di esperienza. Se una vittima muore per via del risucchio di livello, rinasce istantaneamente come un'Ombra minore. Inoltre, con un 19 o un 20 sul dado di tiro per colpire, inghiotte una creatura grande come un cavallo o più piccola, uccidendola immediatamente. Le Ombre Millepiedi sono immuni agli incantesimi di 3° livello o minore. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare.
+
 
 ### Orco
 
@@ -1494,13 +1523,13 @@ Le ghiandole luminose oleose di uno scarabeo di fuoco gigante brillano di rosso 
 ### Scheletro
 
 *Classe Armatura*: 11, 12 con scudo  
-*Dadi Vita*: 1/2  
+*Dadi Vita*: ½  
 *Attacchi*: Colpo o arma  
 *Speciale*: Nessuna  
 *Movimento*: 120' (40')   
 *DVE/PE*: <1/10
 
-Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo di qualche padrone malvagio.
+Gli scheletri sono ossa animate dei morti e sono solitamente sotto il controllo di qualche padrone malvagio. Se nessuno li controlla, si muoveranno senza sosta alla ricerca vittime da uccidere e brutalizzare. Le armi taglienti e perforanti non magiche gli infliggono danni dimezzati.
 
 ### Scimmione
 
@@ -1657,7 +1686,7 @@ Un Titano è un gigante molto bello e civilizzato. Sono intelligenti quanto gli 
 *DVE/PE*: 7/600; 8/800; 9/1,100;  
 10/1,400; 11/1,700; 12/2,000
 
-I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60', permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant). Hanno -2 ai Tiri Salvezza contro gli incantesimi o gli effetti che fanno danni da fuoco. 
+I treant sono protettori e "pastori" degli alberi della foresta. A seconda della loro taglia, hanno diversi dadi vita e danni; i treant da 7 a 8 dadi vita infliggono 2d6 punti di danno con ogni colpo delle loro mani simili a rami, i treant da 9-10 dadi vita infliggono 3d6 punti, e i treant da 11-12 dadi vita infliggono 4d6 punti. Tutti i treant possono "svegliare" gli alberi entro 60', permettendo loro di camminare a una velocità di 3, ed eventualmente di attaccare (non più di due alberi alla volta possono essere svegliati per ordine di un singolo treant). Hanno -2 ai Tiri Salvezza contro gli incantesimi o gli effetti che fanno danni da fuoco. Se rimangono immobili sono indistinguibili dai normali alberi, cogliendo di sorpresa 1-5 su d6.
 
 ### Tritoni
 
@@ -1796,7 +1825,7 @@ Gli zeloti sono fanatici religiosi. Attaccano a +2 per colpire contro gli umanoi
 
 Gli unicorni sono creature generalmente timide e benevole, che permetteranno solo a una casta fanciulla di avvicinarsi a loro. Possono teletrasportarsi una volta al giorno a una distanza di 360', con un cavaliere. Quando caricano, il loro corno può infliggere danni doppi. Gli unicorni sono resistenti alla magia al 25%. Il corno dell'unicorno ha proprietà curative secondo la leggenda (i dettagli di questo, se esistono, sono lasciati all'Arbitro). C'è molto spazio per creare ogni variante di sorta: unicorni malvagi o volanti, ecc.
 
-### Uomo Rana
+### Uomo Rospo
 
 *Classe Armatura*: 14  
 *Dadi Vita*: 2+1  
@@ -1805,7 +1834,7 @@ Gli unicorni sono creature generalmente timide e benevole, che permetteranno sol
 *Movimento*: 60' (30')/12 (quando nuota)  
 *DVE/PE*: 2/30
 
-Gli uomini rana sono anfibi umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Possono trattenere il respiro per un'ora. Sono ostili verso chi entra nelle loro paludi. Alcuni Uomini Rana (1 su d6) sono accompagnati da un Rospo gigante. 
+Gli uomini rospo sono anfibi umanoidi  che di solito vivono in villaggi tribali nelle profondità delle paludi fetide. Possono trattenere il respiro per un'ora. Sono ostili verso chi entra nelle loro paludi. Alcuni Uomini Rospo (1 su d6) sono accompagnati da un Rospo gigante. 
 
 ### Vampiro
 
@@ -1859,12 +1888,12 @@ I worg sono grandi lupi del caos, intelligenti e malvagi. A volte sono cavalcati
 
 *Classe Armatura*: 11, 12 con scudo  
 *Dadi Vita*: 1  
-*Attacchi*: Colpo o arma  
-*Speciale*: Immune a Sonno e Ammaliare  
+*Attacchi*: Morso
+*Speciale*: Immune a *Sonno* e *Ammaliare*  
 *Movimento*: 60' (20')  
 *DVE/PE*: 2/30
 
-Gli zombie sono creature senza cervello, morti che camminano. Sono semplicemente cadaveri animati, non portatori di alcun tipo di contagio non-morto come i ghoul. Se il loro essere non-morti è contagioso, dovrebbero valere qualche punto esperienza in più di quanto descritto qui e, se un singolo colpo di uno zombie causa il contagio o qualsiasi altro tipo di malattia, dovrebbero valere molto più esperienza. Tuttavia, lo zombie standard è semplicemente un cadavere animato per eseguire gli ordini del suo creatore.
+Gli zombie sono creature senza cervello, morti che camminano senza sosta in cerca di vittime da uccidere e divorare. Non si fermeranno o faranno altro a meno di essere scacciati o di non ricevere ordini tramite apposite magie di controllo dei non morti. Le armi contundenti non magiche gli infliggono danni dimezzati.
 
 ### Mostri più tenaci
 

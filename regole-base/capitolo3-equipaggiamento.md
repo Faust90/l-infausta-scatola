@@ -74,14 +74,14 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 | Arma                              | **Danno** | **Peso** | **Costo (po)** |
 | --------------------------------- | --------- | -------- | -------------- |
-| Accetta‡                          | 1d6       | 5        | 3              |
+| Accetta†                          | 1d6       | 5        | 3              |
 | Ascia, da battaglia\*             | 1d6+1     | 15       | 7              |
 | Asta (berdiche, alabarde, ecc.)\* | 1d6+1     | 15       | 7              |
 | Bastone\*                         | 1d6       | 10       | 1              |
 | Clava                             | 1d6-1     | 10       | -              |
 | Flagello                          | 1d6       | 15       | 8              |
-| Lancia‡                           | 1d6       | 10       | 2              |
-| Martello da guerra                | 1d6       | 10       | 5              |
+| Lancia†                           | 1d6       | 10       | 2              |
+| Martello da guerra†               | 1d6       | 10       | 5              |
 | Mazza                             | 1d6       | 10       | 5              |
 | Mazza Chiodata                    | 1d6       | 15       | 6              |
 | Pugnale                           | 1d6-1     | 2        | 3              |
@@ -91,26 +91,27 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 \* Arma a due mani
 
-‡ Può essere usata sia come arma da mischia che come arma a distanza
+‡ Può essere usata sia come arma da mischia che come arma a distanza (vedi sotto)
 
 #### Tabella 12: Armi a distanza
 
-| Arma                 | **Danno** | **Cadenza di fuoco\*** | **Gittata**† | **Peso** | **Costo (po)** |
-| -------------------- | --------- | ---------------------- | ------------ | -------- | -------------- |
-| Accetta              | 1d6       | 1                      | 10'          | 10       | 3              |
-| Arco, corto          | 1d6-1     | 2                      | 50'          | 5        | 25             |
-| Arco, lungo          | 1d6       | 2                      | 70'          | 5        | 40             |
-| Balestra, leggera    | 1d6-1     | 1                      | 60'          | 5        | 15             |
-| Balestra, pesante    | 1d6+1     | 1 ogni due Round       | 80'          | 5        | 25             |
-| Borsa (20 pietre)    | -         | -                      | -            | 1        | 1              |
-| Custodia (30 dardi)  | -         | -                      | -            | 1        | 5              |
-| Dardo, balestra (30) | -         | -                      | -            | 5        | 5              |
-| Faretra (20 frecce)  | -         | -                      | -            | 1        | 5              |
-| Fionda               | -         | 1                      | 30'          | 1        | 2              |
-| Frecce (20)          | -         | -                      | -            | 1        | 5              |
-| Freccia, argento     | -         | -                      | -            | 1        | 5              |
-| Lancia               | 1d6       | 1                      | 20'          | 10       | 2              |
-| Pietre (20)          | 1d6       | -                      | -            | 1        | 1              |
+| Arma                     | **Danno** | **Cadenza di fuoco\*** | **Gittata**† | **Peso** | **Costo (po)** |
+| ------------------------ | --------- | ---------------------- | ------------ | -------- | -------------- |
+| Accetta                  | 1d6       | 1                      | 10'          | 5        | 3              |
+| Arco, corto              | 1d6-1     | 2                      | 50'          | 5        | 25             |
+| Arco, lungo              | 1d6       | 2                      | 70'          | 5        | 40             |
+| Balestra, leggera        | 1d6-1     | 1                      | 60'          | 5        | 15             |
+| Balestra, pesante        | 1d6+1     | 1 ogni due Round       | 80'          | 5        | 25             |
+| Borsa (20 pietre)        | -         | -                      | -            | 1        | 1              |
+| Custodia (30 Quadrelli)  | -         | -                      | -            | 1        | 5              |
+| Faretra (20 frecce)      | -         | -                      | -            | 1        | 5              |
+| Fionda                   | -         | 1                      | 30'          | 1        | 2              |
+| Frecce (20)              | -         | -                      | -            | 1        | 5              |
+| Freccia, argento         | -         | -                      | -            | 1        | 5              |
+| Lancia                   | 1d6       | 1                      | 20'          | 10       | 2              |
+| Martello da guerra       | 1d6       | 1                      | 10'          | 10       | 5              |
+| Pietre per fionda (20)   | 1d6       | -                      | -            | 1        | 1              |
+| Quadrello, balestra (30) | -         | -                      | -            | 5        | 5              |
 
 \* La cadenza di fuoco è il umero di attacchi per Round di combattimento
 
@@ -155,7 +156,7 @@ Molti personaggi, soprattutto all'inizio della loro carriera avventurosa, hanno 
 | Marinaio                                           | 3              |
 | Non combattente (servitore, portatore di fiaccole) | 2              |
 | Saggio                                             | 500            |
-| Campione                                           | 5              |
+| Soldato                                            | 5              |
 | Spia                                               | 125            |
 
 Queste tariffe si applicano solo agli umani. È più costoso assumere i semi-umani e con essi la promessa di pezzi d'oro potrebbe non essere sufficiente.

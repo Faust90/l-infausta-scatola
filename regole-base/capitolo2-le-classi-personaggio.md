@@ -180,6 +180,7 @@ Per i Chierici allineati legalmente, se la tabella indica una "D" allora la crea
 | 8   | Vampiro     | –                    | –   | –   | –   | –   | 17  | 15  | 13  | 10  | 7   |
 | 9   | Vampiro     | –                    | –   | –   | –   | –   | –   | 17  | 15  | 13  | 10  |
 | 10  | Lich        | –                    | –   | –   | –   | –   | –   | –   | 17  | 15  | 13  |
+| 11+ | Speciali    | –                    | –   | –   | –   | –   | –   | –   | -   | 17  | 15  |
 
 ## Il Campione
 

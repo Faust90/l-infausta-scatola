@@ -331,7 +331,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 | Tiro  |                     **Tipo**                     |
 | :---: | :----------------------------------------------: |
 |   1   |  +1 Arma contundente che distrugge i non morti   |
-|   2   |       +1 Arma lanciata che ritorna in mano       |
+|   2   |                +1 Arma del fetore                |
 |   3   | +1 Arma, garantisce 1 attacco addizionale/giorno |
 |   4   |   +1, +2 contro un particolare tipo di nemico    |
 |   5   |   +1, +4 contro un particolare tipo di nemico    |
@@ -347,13 +347,13 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 
 **Arma Congelante**: 1d6 danni da freddo addizionali: lancia 1d3 per il bonus "per colpire".
 
-**Arma Danzante**: Combatte in aria dopo 3 round, come un'arma +1d3.
+**Arma Danzante**: Combatte da sola, volteggiando in aria per 3 Round e colpendo come un'arma +3. Dal quarto Round si mette a danzare e smette completamente di combattere. Il proprietario deve riacchiapparla con un Tiro Salvezza riuscito o con tentativi continui per un Turno intero. Solo così sarà possibile riutilizzarla.
+
+**Arma del fetore**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché è una roba veramente insopportabile
 
 **Arma Fiammeggiante**: 1d6 danni da fuoco aggiuntivi: tirate 1d3 per il bonus "per colpire".
 
-**Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile.
-
-**Arma lanciata ritorna alla mano**: Queste armi sono l'ascia, la lancia e il martello da guerra.
+**Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile. C'è anche il 33% di possibilità che sia ostile al suo utilizzatore, e faccia in modo di farlo ammazzare.
 
 **Bonus contro particolari tipi di nemici**: Esempi: draghi, giganti, orchi, licantropi, non-morti, ecc.
 
