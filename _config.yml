@@ -3,10 +3,12 @@ description: Gioco fantasy medievale d'avventura basato su L'Infausta Scatola
 remote_theme: pmarsceill/just-the-docs
 aux_links:
   "L'Infausta Scatola su GitHub":
+    - "//github.com/Faust90/l-infausta-scatola"    
+  "La Scatola Bianca su GitHub":
     - "//github.com/Italian-Translation-Alliance/la-scatola-bianca"
-  "PDF":
+  "La Scatola Bianca in PDF":
     - "//ita-translation-alliance.itch.io/la-scatola-bianca"
-  "Lulu":
+  "La Scatola Bianca su Lulu":
     - "//www.lulu.com/en/en/shop/alessio-persichetti-and-roberto-bisceglie/la-scatola-bianca/paperback/product-qqj8rn.html?page=1&pageSize=4"
-  "Amazon":  
+  "La Scatola Bianca su Amazon":  
     "//www.amazon.it/dp/B096TL8PN3"
