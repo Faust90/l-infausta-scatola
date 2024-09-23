@@ -323,31 +323,21 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 | Tiro  |                     **Tipo**                     |
 | :---: | :----------------------------------------------: |
 |   1   |  +1 Arma contundente che distrugge i non morti   |
-|   2   |                +1 Arma del fetore                |
-|   3   | +1 Arma, garantisce 1 attacco addizionale/giorno |
-|   4   |   +1, +2 contro un particolare tipo di nemico    |
-|   5   |   +1, +4 contro un particolare tipo di nemico    |
-|   6   |   +2, +3 contro un particolare tipo di nemico    |
-|   7   |                Arma Fiammeggiante                |
-|   8   |                 Arma Congelante                  |
-|   9   |                  Arma Danzante                   |
-|  10   |                Arma Intelligente                 |
 
 ### Descrizioni delle Armi Magiche
 
-**Arma anatema dei X**: Le armi anatema hanno +3 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono molto rare e pericolose, perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista della creatura di cui l'arma è anatema, questa avrà +3 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
+**Arma Anatema**: Le armi anatema hanno +3 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono molto rare e pericolose, perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista della creatura di cui l'arma è anatema, questa avrà +3 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
 
 **Arma Congelante**: emana un freddo gelido che gli permette di infliggere 1d6 danni da freddo addizionali, spegnere torce e piccoli fuochi e congelare piccole quantità d'acqua. Dona un bonus di +3 ai tiri per colpire contro creature affini al caldo intenso o al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di neve e brina, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto caldo, facendolo evaporare immediatamente).
 
 **Arma Danzante**: Combatte da sola, volteggiando in aria per 3 Round e colpendo come un'arma +3. Dal quarto Round si mette a danzare e smette completamente di combattere. Il proprietario deve riacchiapparla con un Tiro Salvezza riuscito o con tentativi continui per un Turno intero. Solo così sarà possibile riutilizzarla.
 
-**Arma del fetore**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché è una roba veramente insopportabile
+**Arma Puzzolente**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché è una roba veramente insopportabile
 
 **Arma Fiammeggiante**: è avvolta da fiamme caldissime che gli permettono di infliggere 1d6 danni da fuoco addizionali, fare luce come una torcia e da fuoco ad oggetti combustibili. Dona un bonus di +3 ai tiri per colpire contro creature affini al freddo o vulnerabili al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di cenere, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto ventoso, spargendo immediatamente la cenere).
 
 **Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile. C'è anche il 33% di possibilità che sia ostile al suo utilizzatore, e faccia in modo di farlo ammazzare.
 
-**Bonus contro particolari tipi di nemici**: Esempi: draghi, giganti, orchi, licantropi, non-morti, ecc.
 
 #### Tabella 60: Armature insolite
 
