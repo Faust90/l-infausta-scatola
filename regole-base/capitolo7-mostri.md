@@ -94,12 +94,12 @@ Le apparizioni sono delle potenti anime dannate, immuni a tutte le armi non magi
 
 *Classe Armatura*: 12  
 *Dadi Vita*: 3  
-*Attacchi*: Talenti  
+*Attacchi*: Artigli  
 *Speciale*: Volo, canto della sirena  
 *Movimento*: 60' (30')/ 180' (60') quando vola  
 *DVE/PE*: 4/120
 
-Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il Tiro Salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo Ammaliare le Persone (di nuovo, si applica il Tiro Salvezza).
+Le arpie hanno la parte superiore del corpo di una femmina umana e la parte inferiore del corpo e le ali di un avvoltoio. Il loro canto è un incantesimo che attira le vittime verso l'arpia (si applica il Tiro Salvezza) e il tocco dell'arpia lancia l'equivalente di un incantesimo *Ammaliare le Persone* (di nuovo, si applica il Tiro Salvezza).
 
 ### Banshee
 
@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 50% agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se fossero terreno, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 3d6 ore. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 50% agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se camminassero, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 6d6 Turni. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
 
 ### Basilisco
 
@@ -127,12 +127,12 @@ I basilischi sono grandi lucertole il cui sguardo trasforma in pietra chiunque l
 
 *Classe Armatura*: 14  
 *Dadi Vita*: 3+1  
-*Attacchi*: Arma o morso  
+*Attacchi*: Arma o morso (1d6+1) 
 *Speciale*: Sorprendere gli avversari  
 *Movimento*: 90' (30')  
 *DVE/PE*: 3/60
 
-Questi grandi umanoidi pelosi imparentati con i Goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6. Occasionalmente (1 su d6) un Bugbear ha al suo servizio 2d3 Goblin
+Questi grandi umanoidi pelosi imparentati con i Goblin sono più furtivi di quanto la loro dimensione possa suggerire, avendo quasi sempre la possibilità di sorprendere anche gli avversari più attenti con un tiro di 1-3 su un d6. Quando utilizzano un'arma da mischia hanno un +1 ai danni inflitti per via della loro forza. Occasionalmente (1 su d6) un Bugbear ha al suo servizio 2d3 Goblin
 
 ### Calamaro, Gigante
 
@@ -967,11 +967,11 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 *Movimento*: 90' (30')  
 *DVE/PE*: 40/10.400
 
-Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Questi bestioni si avvistano da soli e possono assumere qualsiasi forma tra cui un grande cavaliere corazzato, un mammut e un rinoceronte. Un juggernaut è così massiccio che si muove su enormi rulli di pietra e tutto ciò che cade sul suo cammino viene schiacciato completamente sotto il suo peso.
+Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Questi bestioni si avvistano da soli e possono assumere qualsiasi forma tra cui un grande cavaliere corazzato, un mammut e un rinoceronte. Un juggernaut è così massiccio che si muove su enormi rulli di pietra e tutto ciò che cade sul suo cammino viene schiacciato completamente sotto il suo peso. Era stata creata come arma finale durante una grande guerra tra arcimaghi, nessuno sa se sia stata effettivamente utilizzata o no.
 
 Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
 
-Se si arriva a combattere, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
+Se si arriva a combattere in mischia, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
 
 ### Idra
 
@@ -1293,7 +1293,7 @@ Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma son
 *Attacchi*: Artigli (4d6)  
 *Speciale*: Vedi sotto
 *Movimento*: 150' (50') / 60' (20') volando   
-*DVE/PE*: 21/120
+*DVE/PE*: 21/4.700
 
 Giganti fatti di pura oscurità e malvagità. Viaggiano di piano in piano nel tentativo di estiguere ogni forma di vita. Ogni colpo di artiglio ha il 50% di spaccare le armature o gli scudi del bersaglio, anche se magici. Inoltre, oltre a questi effetti, risucchia 2 livelli di esperienza.Se una vittima muore per via del risucchio di livello, rinasce istantaneamente come un'Ombra minore. L'aura gelida che emanano uccide tutte le creature di 3 DV o meno entro 150'che non superino un Tiro Salvezza (da ripetere dopo un Turno) e distrugge immediatamente tutto il cibo e l'acqua nell'area: per questo non possono mai cogliere di sopresa altre creature (purché sopravvivano!). Le Ombre Viandanti sono immuni agli incantesimi di 4° livello o minore. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare. Possono utilizzare *Volare* e *Accelerare / Rallentare* una volta al giorno.
 
@@ -1305,7 +1305,7 @@ Giganti fatti di pura oscurità e malvagità. Viaggiano di piano in piano nel te
 *Attacchi*: Morso (3d6)  
 *Speciale*: Vedi sotto
 *Movimento*: 80' (80') 
-*DVE/PE*: 17/120
+*DVE/PE*: 17/3,500
 
 Gigantesco millepiedi di pura oscurità e malvagità. Si muovono sottoterra, cogliendo le vittime di sopresa. Il morso, oltre al danno inflitto, risucchia 1 livello di esperienza. Se una vittima muore per via del risucchio di livello, rinasce istantaneamente come un'Ombra minore. Inoltre, con un 19 o un 20 sul dado di tiro per colpire, inghiotte una creatura grande come un cavallo o più piccola, uccidendola immediatamente. Le Ombre Millepiedi sono immuni agli incantesimi di 3° livello o minore. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare.
 
@@ -1375,7 +1375,7 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 *Movimento*: 30' (10') / 120' (40') quando vola  
 *DVE/PE*: <1/10
 
-I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono innocui, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione: un 10 o più pipistrelli oscurereranno la vista e, con una probabilità di 1-2 su d6, spegneranno le torce e interromperanno il lancio di incantesimi.
+I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono innocui, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione: un nugolo di 10 o più pipistrelli oscurereranno la vista e, con una probabilità di 1-2 su d6, spegneranno le torce e interromperanno il lancio di incantesimi.
 
 ### Pipistrello, Gigante
 
