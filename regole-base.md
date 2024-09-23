@@ -4,13 +4,13 @@ has_children: true
 title: Regole Base
 ---
 # L'Infausta Scatola
-*L'Infausta Scatola* (informalmente chiamata *"La Scatola Giacopo"*) è un gioco di Ruolo, hack de *L'Infausta Scatola*. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.
+*L'Infausta Scatola* (informalmente chiamata *"La Scatola Giacopo"*) è un gioco di Ruolo, hack de *La Scatola Bianca*. In questo libro troverete le regole del gioco e non vi servirà nient'altro che matite, carta, dadi e la vostra immaginazione.
 
-### Traduzione de *L'Infausta Scatola*
+### Traduzione de *La Scatola Bianca*
 Roberto Bisceglie  
 Alessio Persichetti
 
-L'Infausta Scatola è un progetto dell'[**Italian Translation Alliance**](https://italian-translation-alliance.github.io)
+*La Scatola Bianca* è un progetto dell'[**Italian Translation Alliance**](https://italian-translation-alliance.github.io)
 
 ### Ringraziamenti
 Matt Finch,Marv Breig, John M. Stater, Simon J. Bull, James M. Spahn, Doug ‘Merias’Maxwell,Travis Casey, James V.West e Arthur Braune 
