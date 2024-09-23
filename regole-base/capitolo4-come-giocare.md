@@ -128,7 +128,7 @@ I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si 
 
 ### Il Tiro d'Attacco
 
-Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere il modificatiore di Forza (per gli attacchi con armi a mano), il modificatore di Destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno.
+Per attaccare con un'arma, il giocatore tira un d20 e aggiunge qualsiasi bonus al risultato. Questi bonus "per colpire" ora includono il bonus base "per colpire" del personaggio, come indicato nella tabella delle classi personaggio, e possono includere il modificatiore di Forza (per gli attacchi con armi a mano), il modificatore di Destrezza (per gli attacchi con armi a distanza) e qualsiasi bonus per le armi magiche. Il giocatore, poi, sottrae al tiro qualsiasi penalità "per colpire" che potrebbe avere. Se il risultato è uguale o superiore alla CA ascendente dell'avversario, l'attacco va a segno. Un 1 sul d20 è sempre un fallimento.
 
 ### Danno e Morte
 
@@ -234,7 +234,7 @@ Se un PNG si trova in una situazione in cui una prova di morale può essere appr
 
 ### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "Tiro Salvezza". Un Tiro Salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del Tiro Salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un Tiro Salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo.
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "Tiro Salvezza". Un Tiro Salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del Tiro Salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un Tiro Salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo. Un 1 sul d20 è sempre un fallimento.
 
 ### Ricordate
 
