@@ -1370,12 +1370,12 @@ Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte pre
 
 *Classe Armatura*: 11  
 *Dadi Vita*: ½  
-*Attacchi*: Morso (1d6-1)  
-*Speciale*: Nessuno   
+*Attacchi*: Nessuno 
+*Speciale*: Vedi sotto   
 *Movimento*: 30' (10') / 120' (40') quando vola  
 *DVE/PE*: <1/10
 
-I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono per lo più innocui per gli uomini, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione. Un nugolo di pipistrelli che si agita oscurerà la vista e forse spegnerà le torce, farà cadere le attrezzature o interromperà il lancio di incantesimi.
+I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono innocui, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione: un 10 o più pipistrelli oscurereranno la vista e, con una probabilità di 1-2 su d6, spegneranno le torce e interromperanno il lancio di incantesimi.
 
 ### Pipistrello, Gigante
 
@@ -1386,7 +1386,7 @@ I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono per lo
 *Movimento*: 3/ 150' (50')
 *DVE/PE*: 5/240
 
-I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da sorprendere la loro preda con un tiro di 3 o più su un dado a sei facce. Se la loro preda resiste, strilleranno, inducendo le persone normali a coprirsi le orecchie per un Round piuttosto che combattere.
+I pipistrelli giganti sono neri come la notte e così silenziosi sulle ali da sorprendere la loro preda 1-3 su d6 volte. Se la loro preda resiste, strilleranno, inducendo le persone normali a coprirsi le orecchie per un Round piuttosto che combattere.
 
 ### Pixie
 
