@@ -117,13 +117,12 @@ Idealmente, i giocatori saranno abbastanza descrittivi durante una ricerca da tr
 ## Combattimento
 
 Quando il gruppo di avventurieri entra in contatto con i nemici, l'ordine degli eventi nel round di combattimento è il seguente:  
-1\) L'Arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un lancio di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
-2\) Tutte le parti fanno una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
-3\) Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.  
-
-- La parte che ha l'iniziativa agisce per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
-- La parte che ha perso l'iniziativa agisce; i risultati hanno effetto.  
-- Il round è concluso; mantenere l'ordine dei Turni per il round successivo se la battaglia non è stata risolta.
+1. L'Arbitro determina se una parte o l'altra abbia diritto a un attacco gratuito o a una mossa come risultato della sorpresa - questo è una valutazione o un lancio di dado di qualche tipo, a seconda delle circostanze. Normalmente, chiunque è sorpreso se tira un 1 o un 2 su un d6.  
+2. Tutte le parti fanno una "dichiarazione d'intenti" prima di tirare l'iniziativa, in modo da costringere i giocatori a decidere cosa stanno facendo prima di sapere chi vada per primo.
+3. Si determina l'iniziativa. Si effettua un tiro per ogni parte, non per ogni individuo in combattimento.
+4. La parte che ha l'iniziativa risolve le sue azioni per prima (lancio di dardi, incantesimi, movimento, attacchi in mischia, ecc.) e i risultati hanno effetto.
+5. La parte che ha perso l'iniziativa risolve le sue azioni, tenendo conto che alcune azioni non saranno più realizzabili e, conseguentemente, verranno sprecate; i risultati hanno effetto.  
+6. Il round è concluso; mantenere l'ordine dei Turni per il round successivo se la battaglia non è stata risolta.
 
 I tiri di iniziativa possono risultare in un pareggio. Quando questo accade, si considera che entrambe le parti agiscono simultaneamente. L'Arbitro può gestire questa situazione nel modo che preferisce, con un'avvertenza. I danni inflitti dai combattenti durante qualsiasi iniziativa simultanea sono inflitti anche se uno dei combattenti muore durante il round. È possibile che due combattenti si uccidano a vicenda in questa situazione. Se volete giocare in modo più semplice, se c'è un pareggio tirate nuovamente l'iniziativa semplicemente fino a quando una parte o l'altra vince l'iniziativa.  
 
@@ -137,7 +136,7 @@ Quando un personaggio (o una creatura) viene colpito, la quantità di danni subi
 
 ### Incantesimi in combattimento
 
-Se il PG o il PNG aveva dichiarato l'intenzione di lanciare un incantesimo in quel Round e subisce 1 o più Danni prima che questo abbia effetto (generalmente capita se ha perso l'iniziativa), l'incantesimo viene interrotto e sprecato.
+Se il PG o il PNG aveva dichiarato l'intenzione di lanciare un incantesimo in quel Round e subisce 1 o più Danni prima che questo abbia effetto (generalmente capita se ha perso l'iniziativa), l'incantesimo viene interrotto e sprecato. Altri effetti potrebbero interrompere gli incantesimi senza però fare effettivamente danno.
 
 ### Guarigione
 
