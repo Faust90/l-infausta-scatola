@@ -187,7 +187,7 @@ Metà uomo e metà cavallo, i centauri sono feroci guerrieri e creature mitologi
 *Movimento*: 120' (40')   
 *DVE/PE*: 4/120
 
-I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso Round - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus di +3).
+I cani intermittenti sono cacciatori in branchi, intelligenti e solitamente amichevoli con chi non ha intenti malvagi. Possono teletrasportarsi per brevi distanze (senza errori) e attaccare nello stesso Round - nella maggior parte dei casi (75%) un cane intermittente sarà in grado di teletrasportarsi dietro un avversario e attaccare da dietro (con bonus di +2).
 
 ### Cavaliere della Morte
 
@@ -829,7 +829,7 @@ I giganti della tempesta sono i più grandi tra i giganti, i più intelligenti, 
 *Movimento*: 90' (30')  
 *DVE/PE*: 2/30
 
-Gli gnoll sono crudeli umanoidi con teste simili a orrende iene sbavanti. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia. Sono frutto della corruzione demoniaca di uomini e animali comuni: per questo venerano i demoni e le creature infernali. La loro bava lurida e schiumosa è vettore di malattie: la vittima deve superare un TS con un bonus di +3 o essere debilitata da una forte febbre che da -2 a tutti i tiri per 1d6 Turni. 
+Gli gnoll sono crudeli umanoidi con teste simili a orrende iene sbavanti. Possono essere trovati sia in superficie che nelle caverne sotterranee. Si formano in clan vagamente organizzati, spesso vanno lontano da casa per rubare e uccidere con rapace ferocia. Sono frutto della corruzione demoniaca di uomini e animali comuni: per questo venerano i demoni e le creature infernali. La loro bava lurida e schiumosa è vettore di malattie: la vittima deve superare un TS con un bonus di +2 o essere debilitata da una forte febbre che da -2 a tutti i tiri per 1d6 Turni. 
 
 ### Goblin
 
@@ -1297,7 +1297,6 @@ Le ombre sono creature non-morte: sono immuni a *Sonno* e ad *Ammaliare*, ma son
 
 Giganti fatti di pura oscurità e malvagità. Viaggiano di piano in piano nel tentativo di estiguere ogni forma di vita. Ogni colpo di artiglio ha il 50% di spaccare le armature o gli scudi del bersaglio, anche se magici. Inoltre, oltre a questi effetti, risucchia 2 livelli di esperienza.Se una vittima muore per via del risucchio di livello, rinasce istantaneamente come un'Ombra minore. L'aura gelida che emanano uccide tutte le creature di 3 DV o meno entro 150'che non superino un Tiro Salvezza (da ripetere dopo un Turno) e distrugge immediatamente tutto il cibo e l'acqua nell'area: per questo non possono mai cogliere di sopresa altre creature (purché sopravvivano!). Le Ombre Viandanti sono immuni agli incantesimi di 4° livello o minore. Soffrono un -3 ai Tiri per colpire se esposti alla luce solare. Possono utilizzare *Volare* e *Accelerare / Rallentare* una volta al giorno.
 
-
 ### Millepiedi, Ombra
 
 *Classe Armatura*: 18  
@@ -1366,16 +1365,16 @@ Il pegaso era il cavallo alato della mitologia greca. Altre creature pegaso potr
 
 Le piovre giganti sono intelligenti e si annidano nei relitti e nelle grotte predando i nuotatori e le navi di passaggio. Possono afferrare e capovolgere piccole navi o effettuare 1d6 tiri per attaccare a ogni Round con i loro tentacoli. Non hanno ossa e possono infilarsi in spazi molto piccoli.
 
-### Pipistrello
+### Pipistrelli, Nugolo
 
 *Classe Armatura*: 11  
-*Dadi Vita*: ½  
+*Dadi Vita*: 2-5 (1d3+2)
 *Attacchi*: Nessuno 
 *Speciale*: Vedi sotto   
 *Movimento*: 30' (10') / 120' (40') quando vola  
 *DVE/PE*: <1/10
 
-I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono innocui, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione: un nugolo di 10 o più pipistrelli oscurereranno la vista e, con una probabilità di 1-2 su d6, spegneranno le torce e interromperanno il lancio di incantesimi.
+I pipistrelli si posano sottoterra in gran numero durante il giorno. Sono innocui, ma se una colonia viene spaventata e prende il volo in uno spazio ristretto, creano confusione: un nugolo di 10 o più pipistrelli oscurereranno la vista e, con una probabilità pari ai DV del Nugolo su 1d6, spegnerà le torce e interromperanno il lancio di incantesimi.
 
 ### Pipistrello, Gigante
 

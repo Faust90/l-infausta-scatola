@@ -291,7 +291,14 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 
 \*\*Attira Proiettili: Questo oggetto attira il fuoco dei proiettili (anche quelli sparati contro altri nelle vicinanze) e garantisce un bonus di +1 "per colpire" agli attacchi su tali proiettili.
 
-#### Tabella 56: Armi Magiche da Mischia
+
+#### Tabella 56: Armi Magiche
+
+| Tiro  |                     **Tipo**                     |
+| :---: | :----------------------------------------------: |
+|   1   |  +1 Arma contundente che distrugge i non morti   |
+
+#### Tabella 57: Armi Magiche da Mischia
 
 | Tiro  |      **Tipo**      |
 | :---: | :----------------: |
@@ -308,7 +315,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 |  11   | Spada a due mani  |
 |  12   | Martello da guerra |
 
-#### Tabella 57: Armi Magiche a Distanza
+#### Tabella 58: Armi Magiche a Distanza
 
 | Tiro  |      **Tipo**       |
 | :---: | :-----------------: |
@@ -318,25 +325,27 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 | 12-15 |      2d6 Dardi      |
 | 16-20 | 2d6 Dardi, balestra |
 
-#### Tabella 59: Armi Magiche
-
-| Tiro  |                     **Tipo**                     |
-| :---: | :----------------------------------------------: |
-|   1   |  +1 Arma contundente che distrugge i non morti   |
-
 ### Descrizioni delle Armi Magiche
 
-**Arma Anatema**: Le armi anatema hanno +3 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono molto rare e pericolose, perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista della creatura di cui l'arma è anatema, questa avrà +3 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
+**NOTA BENE:** Le Armi magiche possono essere utilizzati in modi imprevisti da giocatori particolarmente creativi. Come Arbitro, non lasciarti limitare agli effetti esplicitamente descritti in questo elenco, ma rimani aperto a proposte alternative interessanti che arrivano dai tuoi giocatori.
 
-**Arma Congelante**: emana un freddo gelido che gli permette di infliggere 1d6 danni da freddo addizionali, spegnere torce e piccoli fuochi e congelare piccole quantità d'acqua. Dona un bonus di +3 ai tiri per colpire contro creature affini al caldo intenso o al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di neve e brina, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto caldo, facendolo evaporare immediatamente).
+**Arma Anatema**: Le armi anatema hanno +2 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono molto rare e pericolose, perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista della creatura di cui l'arma è anatema, questa avrà +2 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
 
-**Arma Danzante**: Combatte da sola, volteggiando in aria per 3 Round e colpendo come un'arma +3. Dal quarto Round si mette a danzare e smette completamente di combattere. Il proprietario deve riacchiapparla con un Tiro Salvezza riuscito o con tentativi continui per un Turno intero. Solo così sarà possibile riutilizzarla.
+**Arma Congelante**: emana un freddo gelido che gli permette di infliggere 1d6 danni da freddo addizionali, spegnere torce e piccoli fuochi e congelare piccole quantità d'acqua. Dona un bonus di +2 ai tiri per colpire contro creature affini al caldo intenso o al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di neve e brina, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto caldo, facendolo evaporare immediatamente).
 
-**Arma Puzzolente**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché è una roba veramente insopportabile
+**Arma Danzante**: Combatte da sola liberando le mani dell'utilizzatore, volteggiando in aria per 3 Round e colpendo con un bonus di +2. Dal quarto Round si mette a danzare e smette completamente di combattere. Il proprietario deve riacchiapparla con un Tiro Salvezza riuscito o con tentativi continui per un Turno intero. Solo così sarà possibile riutilizzarla.
 
-**Arma Fiammeggiante**: è avvolta da fiamme caldissime che gli permettono di infliggere 1d6 danni da fuoco addizionali, fare luce come una torcia e da fuoco ad oggetti combustibili. Dona un bonus di +3 ai tiri per colpire contro creature affini al freddo o vulnerabili al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di cenere, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto ventoso, spargendo immediatamente la cenere).
+**Arma Fiammeggiante**: è avvolta da fiamme caldissime che gli permettono di infliggere 1d6 danni da fuoco addizionali, fare luce come una torcia e da fuoco ad oggetti combustibili. Dona un bonus di +2 ai tiri per colpire contro creature affini al freddo o vulnerabili al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di cenere, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto ventoso, spargendo immediatamente la cenere).
 
-**Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno. Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile. C'è anche il 33% di possibilità che sia ostile al suo utilizzatore, e faccia in modo di farlo ammazzare.
+**Arma Fulminante**: è avvolta da scariche elettriche che gli permettono di infliggere 1d6 danni elettrici addizionali. Dona un bonus di +2 ai tiri per colpire contro creature di metallo e da fuoco ad oggetti combustibili. Può attivare meccanismi basati sull'elettricità (potenzialmente in modi imprevedibili!). Emette un costante ronzio scoppiettante, e questo rende impossibile prendere gli avversari di sorpresa.
+
+**Arma Esplosiva**: Ha delle rune incise che, se lette ad alta voce, attivano un conto alla rovescia di 10 secondi (un Round), pronuciato da una voce femminile proveniente dall'arma stessa. Al termine del conto alla rovescia, l'arma esplode distruggendosi con un effetto uguale all'incantesimo *Palla di fuoco* da 10d6 danni. Le rune hanno una possibilità di 2 su 2d6 di innescare immediatamente l'esplosione una volta lette
+
+**Arma Intelligente**: Tirate 1d3 per il bonus "per colpire". C'è il 10% di possibilità che un'arma del genere abbia la capacità di lanciare un incantesimo una volta al giorno (livello casuale, 2d3-1). Tali spade generalmente possono comunicare con i loro portatori, e spesso (25% di probabilità) possono parlare in modo udibile. C'è anche il 33% di possibilità che sia ostile al suo utilizzatore, e faccia in modo di farlo ammazzare.
+
+**Arma Lucente**: Solo spade o armi taglienti possono essere di questo tipo: l'unica parte materiale è l'elsa, mentre la lama è fatta di pura luce e può assumere il colore preferito del personaggio che la impugna. Usando quest'Arma tutti i nemici sono considerati avere CA 10 (a meno che sia già naturalmente più bassa) e fa danni raddoppiati contro le creature d'ombra e i non morti. Inoltre, emana luce come una torcia. La sua leggerezza la rende piuttosto pericolosa: se il risultato del d20 per colpire è 1, l'utilizzatore deve fare un Tiro Salvezza o subire i danni del suo attacco mentra l'arma gli scivola di mano. 
+
+**Arma Puzzolente**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché stordite dall'afrore dell'arma. 
 
 
 #### Tabella 60: Armature insolite

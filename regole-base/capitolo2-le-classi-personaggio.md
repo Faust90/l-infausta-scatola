@@ -214,8 +214,8 @@ I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella
 #### Posizione strategica
 
 I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
-* Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +3.
-* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -3.
+* Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +2.
+* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -2.
 
 #### Tiro salvezza
 
@@ -232,7 +232,7 @@ La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio
 
 ## Il Dvergar
 
-Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura fatte di piccole radici, mentre la loro pelle ha l'aspetto della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per decorare i loro corpi terrosi: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
+Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura, mentre la loro pelle è del colore della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per realizzare gioielli da indossare: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
 
 #### Tabella 5: Avanzamento del Dvergar
 
@@ -253,11 +253,11 @@ Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta pelur
 
 #### Restrizioni su Armi e Armature
 
-I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani da mischia o utilizzare armature non adattate alla loro statura.
+I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armature che possono utilizzare. Tuttavia, la loro statura gli impedisce di usare Armi a due mani da mischia, archi o utilizzare armature non adattate alla loro statura.
 
 #### Infravisione
 
-I Dvergar possono utilizzare una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
+I Dvergar possono utilizzare una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio o addirittura se invisibili. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
 
 #### Sapere Dvergar
 
@@ -265,11 +265,11 @@ I Dvergar sono bravi a individuare anomalie strutturali di cunicoli o sotterrane
 
 #### Tiro Salvezza
 
-I Dvergar sono creature magiche di pietra, terra e radici: ricevono un bonus di +2 ai Tiri Salvezza contro effetti dannosi di fuoco, fulmini e aria (l'Arbitro ha l'ultima parola a riguardo). 
+I Dvergar sono creature naturalmente resistenti alla magia: ricevono un bonus di +2 ai Tiri Salvezza contro tutti gli incantesimi. 
 
 #### Lingue
 
-Per le campagne che danno a ogni razza il proprio dialetto, i Dvergar dovrebbero essere in grado di parlare con gnomi, goblin, orchi e coboldi.
+I Dvergar sanno parlare le lingue di molte creature del sottosuolo: quando provano a parlare con una creatura del sottosuolo che non hannp mai incontrato prima, c'è una possibilità di 1-3 sul d6 che conoscano la sua lingua.
 
 #### Costruire una Comunità
 
@@ -308,7 +308,7 @@ I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e perga
 
 #### Incantesimo
 
-A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" efficacemente per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. 
+A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. 
 
 Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi. In alternativa, in città con grandi biblioteche può copiare incantesimi al costo di 200 pezzi d'oro per livello dell'incantesimo: ad esempio un incantesimo di secondo livello costerà 400 pezzi d'oro. Copiare un incantesimo richiede mezza giorna di studio per livello, nella quale il mago non può fare altre attività impegnative
 
@@ -353,7 +353,7 @@ I Ladri sono agili e abili nel combattimento e possono impugnare qualsiasi arma,
 
 #### Pugnalata alla schiena
 
-Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza o che è stato colto di sorpresa dal gruppo, riceve un bonus di +3 al suo tiro per colpire. Se l'attacco ha successo, il ladro raddoppia i danni della sua arma.
+Ogni volta che un Ladro attacca un avversario che non è consapevole della sua presenza o che è stato colto di sorpresa dal gruppo, riceve un bonus di +2 al suo tiro per colpire. Se l'attacco ha successo, il ladro raddoppia i danni della sua arma.
 
 #### Tiro salvezza
 
@@ -419,7 +419,7 @@ Il Carisma è l'attributo principale dei Paladini, il che significa che un punte
 
 ## Il Silvano
 
-È un piccolo umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
+È un piccolo folletto umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
 
 #### Restrizioni su Armi e Armature
 
@@ -435,13 +435,10 @@ Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un a
 
 **Grande animale:** non potete usare alcun oggetto, ma avete un bonus di +3 ai tiri per colpire, infliggete 1d6+1 danni con le vostre armi naturali e la vostra CA aumenta di +3.
 
-I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. 
+I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. La loro intelligenza rimane quella di un normale Silvano.
 
 #### Difficile da colpire
 I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
-
-#### Lingue
-I Silvani sanno parlare con i Troll, loro mortali nemici, e le altre creature fatate, come le Banshee, le Sidhe e i Pixie.
 
 #### Boschetto sacro
 Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.

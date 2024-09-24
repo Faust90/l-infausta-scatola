@@ -35,9 +35,8 @@ Gli incantesimi sono suddivisi in tre fasi. La prima è la memorizzazione (un pe
 |           Comunione           | Incantesimo della Morte |
 |     Creare Cibo e Bevande     |        Missione         |
 | Dissolvere il Caos (la Legge) |     Muovere l'Acqua     |
-|       Piaga di Insetti        |    Scudo Anti-Magico    |
-|           Missione            |
-|    Resurrezione dei Morti     |
+|       Piaga di Insetti        | Resurrezione dei Morti  |
+|           Missione            |    Scudo Anti-Magico    |
 
 Il nome dell'incantesimo fra parentesi indica la versione "invertita" dell'incantesimo. Alcune fedi di divinità buone o legali potrebbero non vedere di buon occhio l'utilizzo continuato di queste varianti.
 \* Possono essere lanciati solo dalle pergamene
@@ -118,11 +117,10 @@ Il nome dell'incantesimo fra parentesi indica la versione "invertita" dell'incan
 
 |      Livello 5       |      Livello 6\*      |
 | :------------------: | :-------------------: |
-|  Crescita Animale   | Controllo Atmosferico |
+|   Crescita Animale   | Controllo Atmosferico |
 |  Esplosione Solare   |    Muovere l'Acqua    |
 | Risvegliare l'albero |   Muovere la Terra    |
-|      Terremoto       |                       |
-|    Reincarnazione    |                       |
+|      Terremoto       |    Reincarnazione     |
 
 \* Possono essere lanciati solo dalle pergamene
 
@@ -409,14 +407,14 @@ Un dardo di quasi 10' di larghezza si estende per 60' dalle dita dell'incantator
 *Raggio d'azione*: 120'  
 *Durata*: Finché non viene annullato
 
-Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone del Mago, ma colpisce gli animali.
+Questo incantesimo funziona allo stesso modo dell'incantesimo *Ammaliare Persone* del Mago, ma colpisce gli animali.
 
 ### Incantesimo di Morte
 *Livello:* M6  
 *Raggio d'azione:* 240'  
 *Durata:* Istantaneo
 
-Entro un raggio di 60', muoiono fino a 2d8 creature con meno di 7 DV.
+Entro un raggio di 60', muoiono fino a 2d6+2 creature con meno di 7 DV.
 
 ### Individuare il Caos (la Legge)
 *Livello:* C1, M2  
@@ -738,7 +736,7 @@ Ragnatele appiccicose e fibrose riempiono un'area fino a 10' per 10' per 20'. È
 Regressione Mentale è un incantesimo che affligge solo i Maghi. Il Tiro Salvezza contro l'incantesimo è fatto con una penalità di -4 e, se il Tiro Salvezza fallisce, il Mago regredirà mentalmente finché la magia non viene dissolta.
 
 ### Reincarnazione
-*Livello:* M6, S5  
+*Livello:* M6, S6  
 *Raggio d'azione:* Tocco  
 *Durata:* Istantaneo
 
@@ -752,11 +750,11 @@ Questo incantesimo riporta l'anima di un personaggio morto dall'aldilà, ma l'an
 Questo incantesimo conferisce l'abilità di respirare sott'acqua finché la durata dell'incantesimo non si esaurisce.
 
 ### Resurrezione dei Morti 
-*Livello:* C5  
+*Livello:* C6  
 *Raggio d'azione:* Linea di tiro  
 *Durata:* Vedi sotto
 
-Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che non sia morto da molto tempo. Il tempo massimo è 4 giorni, ma per ogni livello dell'incantatore superiore all'8°, il limite viene esteso di 4 giorni. I personaggi con una Costituzione bassa potrebbero non sopravvivere al rito; anche per coloro di costituzione robusta, un periodo di due settimane è richiesto prima che possa riprendersi. Questo incantesimo può funzionare solo su specie che possono essere usate dai personaggi giocanti (cioè "umanoidi"). 
+Resurrezione dei Morti permette al Chierico di far risorgere un corpo dalla morte, ammesso che sia morto da non più di 15 giorni. Questo incantesimo funziona solo su esseri umani, Silvani e Dvergar. 
 
 ### Rimuovere una Maledizione
 *Livello:* C3, M4  
