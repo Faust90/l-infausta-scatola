@@ -320,7 +320,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 | Tiro  |      **Tipo**       |
 | :---: | :-----------------: |
 |  1-8  |     2d6 Frecce      |
-| 9-10  |     1d10 Pietre     |
+| 9-10  |     2d6 Pietre     |
 |  11   |       Lancia        |
 | 12-15 |      2d6 Dardi      |
 | 16-20 | 2d6 Dardi, balestra |
@@ -329,7 +329,7 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 
 **NOTA BENE:** Le Armi magiche possono essere utilizzati in modi imprevisti da giocatori particolarmente creativi. Come Arbitro, non lasciarti limitare agli effetti esplicitamente descritti in questo elenco, ma rimani aperto a proposte alternative interessanti che arrivano dai tuoi giocatori.
 
-**Arma Anatema**: Le armi anatema hanno +2 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono molto rare e pericolose, perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista della creatura di cui l'arma è anatema, questa avrà +2 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
+**Arma Anatema**: Le armi anatema hanno +2 ai tiri per colpire verso tutte le creature di un certo tipo (demoni, folletti, non morti, animali ecc), che muoiono immediatamente una volta colpite da essa (a meno che abbiano 5 DV o più, in quel caso possono fare un Tiro Salvezza). Sono armi molto pericolose perché creano un odio furibondo verso chi la impugna: fintanto che rimane in vista di una creatura di cui l'arma è anatema, questa avrà +2 ai Tiri per colpire contro chi impugna l'arma e diventerà automaticamente ostile verso di lui, indipendetemente dal rapporto che avevano inizialmente.
 
 **Arma Congelante**: emana un freddo gelido che gli permette di infliggere 1d6 danni da freddo addizionali, spegnere torce e piccoli fuochi e congelare piccole quantità d'acqua. Dona un bonus di +2 ai tiri per colpire contro creature affini al caldo intenso o al fuoco. Ogni volta che la si usa si forma nella zona circostante uno strato sottile di neve e brina, che rende evidente il proprio passaggio in un determinato luogo per 1d6 Turni (a meno che questo sia molto caldo, facendolo evaporare immediatamente).
 
@@ -346,6 +346,10 @@ Tirate 1d6+1 e aggiungi +0, +6 o +12, a seconda che il tesoro sia minore, medio 
 **Arma Lucente**: Solo spade o armi taglienti possono essere di questo tipo: l'unica parte materiale è l'elsa, mentre la lama è fatta di pura luce e può assumere il colore preferito del personaggio che la impugna. Usando quest'Arma tutti i nemici sono considerati avere CA 10 (a meno che sia già naturalmente più bassa) e fa danni raddoppiati contro le creature d'ombra e i non morti. Inoltre, emana luce come una torcia. La sua leggerezza la rende piuttosto pericolosa: se il risultato del d20 per colpire è 1, l'utilizzatore deve fare un Tiro Salvezza o subire i danni del suo attacco mentra l'arma gli scivola di mano. 
 
 **Arma Puzzolente**: Emana una puzza così alluncinante che non è possibile avere sorpresa contro gli avversari dotato di olfatto, ma tutte le creature con l'olfatto sensibile hanno -2 a tutti i tiri perché stordite dall'afrore dell'arma. 
+
+**Arma Scuotiterra**: Solo martelli o armi contundenti possono essere di questo tipo. Colpendo con forza il terreno si replicano gli effetti dell'incantesimo *Terremoto* una volta al giorno. Inoltre, ha +2 ai tiri per colpire e ai danni contro le creature fatte di pietra o di terra. L'utilizzatore è subisce una forte nausea debilitante se per più di un Round non tocca con il suo corpo una superficie solida orizzontale fatta di terra, pietra o vegetazione: in questo stato ha -2 a tutti i Tiri. 
+
+**Arma Vorpale**: Solo spade o armi taglienti possono essere di questo tipo. Quando un tiro per colpire ha come risultato del d20 un 20, quest'arma decapita istantaneamente l'avversario. Funziona solo con creature che hanno effettivamente una testa. Il fatto che la creatura perda la testa non significa che questa muoia. Quest'arma è infusa dalle energie illogiche del regno dei folletti: se il risultato del d20 per colpire è 1, l'utilizzatore deve fare un Tiro Salvezza per non mettersi a scappare da ogni altra creatura che vede mentre urla frasi insensate per un Turno. 
 
 
 #### Tabella 60: Armature insolite

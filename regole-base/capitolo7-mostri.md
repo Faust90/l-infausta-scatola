@@ -154,7 +154,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 *Movimento*: 150' (50')
 *DVE/PE*: 1/15
 
-I cani sono animali da branco dall'olfatto acuto che abitano le pianure e le praterie. Possono essere addestrati solo se separati dal branco da cuccioli, ma poi avranno +2 di lealtà.
+I cani sono animali da branco dall'olfatto acuto che abitano le pianure e le praterie. Possono essere addestrati solo se separati dal branco da cuccioli, ma poi avranno +2 di Morale.
 
 ### Cavernicolo
 
@@ -328,7 +328,7 @@ I cubi gelatinosi sono cubi semitrasparenti che strisciano nei passaggi sotterra
 *Movimento*: 90' (30')  
 *DVE/PE*: 5/240
 
-I cyborg una volta erano uomini ma ora sono per lo più macchine; disumani e malvagi. Possono trovarsi in grandi numeri e mirano a spazzare via una popolazione assimilando tutti gli uomini in cyborg. Sono eccezionalmente forti e infliggono 3-8 punti danno per ciascun un colpo, non hanno bisogno di una prova di morale e non rinunceranno mai un inseguimento finché la preda è in vista.
+I cyborg una volta erano uomini ma ora sono per lo più macchine; disumani e malvagi. Possono trovarsi in grandi numeri e mirano a spazzare via una popolazione assimilando tutti gli uomini in cyborg. Sono eccezionalmente forti e infliggono 3-8 punti danno per ciascun un colpo, non hanno bisogno di una prova di Morale e non rinunceranno mai un inseguimento finché la preda è in vista.
 
 ## Demoni
 
@@ -971,18 +971,18 @@ Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Que
 
 Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
 
-Se si arriva a combattere in mischia, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di morale.
+Se si arriva a combattere in mischia, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di Morale.
 
 ### Idra
 
-*Classe Armatura*: 14  
+*Classe Armatura*: 14 , 16 (corpo)
 *Dadi Vita*: 7-12 (uguale al numero di teste, 1d6+6)  
 *Attacchi*: 7-12 morsi  
 *Speciale*: Vedi sotto  
 *Movimento*: 90' (30')  
 *DVE/PE*: 8/800; 9/1,100; 10/1,400; 11/1,700; 12/2,000; 13/2,300
 
-Le Idre sono grandi creature simili a lucertole o serpenti con 7-12 teste. Ogni testa ha un proprio dado vita, e quando la testa viene uccisa, quella testa muore. Il corpo ha tanti dadi vita quanti sono quelli delle teste, quindi è una questione di buona strategia per gli avventurieri concentrarsi o sull'uccisione delle teste (quando tutte le teste sono morte il corpo muore) o sull'uccidere la creatura attaccando il corpo (nel qual caso anche le teste muoiono). Si sa che esistono idre che sputano fuoco o che rigenerano le loro teste. 
+Le Idre sono grandi creature simili a lucertole o serpenti con 7-12 teste. Ogni testa ha un proprio DV, e subisce un numero proporzionale di danni ( PF dell'idra / numero delle teste. Arbitro mi dispiace ma ci sono le calcolatrici apposta), la testa viene uccisa. Per uccidere un'Idra bisogna colpire il corpo, che però è coperto da scaglie particolarmente dure. Una testa uccisa rinasce sdoppiandosi dopo 3 Round dalla sua morte: questo vuol dire che ripristina i suoi PF e aggiunge un ulteriore DV (max 12). Questo può essere evitato bruciando il moncherino con del fuoco prima che ricresca.
 
 ### Inseguitore Invisibile
 
@@ -1418,7 +1418,7 @@ I ragni giganti sono cacciatori aggressivi. Solo i ragni giganti maggiori sono c
 *Movimento*: 120' (40') /6  
 *DVE/PE*: 2/30
 
-I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo Tiro Salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di morale e fuggono dal fuoco.
+I ratti giganti sono grandi come un grosso gatto e sono una vera e propria piaga del sottosuolo, infilandosi in piccole fessure e gallerie nella terra e nei manufatti in pietra. Causano solo 1-3 punti di danno, ma ogni colpo può trasmettere una malattia debilitante agli umanoidi che non riescono a salvarsi dal veleno a +4 sul dado (un singolo Tiro Salvezza è richiesto per ogni incontro). A meno che non siano costretti a combattere da un vampiro o da un licantropo, hanno -2 ai tiri di Morale e fuggono dal fuoco.
 
 ### Ratto, Mostruoso
 
@@ -1451,7 +1451,7 @@ I rinoceronti lanosi sono enormi, pelosi, mammiferi simili a rinoceronti che si 
 *Movimento*: 60' (30')/6  
 *DVE/PE*: 8/800
 
-I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un Tiro Salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di morale.
+I robot sono complessi automi di metallo con insondabili cervelli elettronici. Sono auto-motivati e semi-intelligenti ed è possibile negoziarci fino a un certo punto. Di solito sono impostati su un "programma" che non interromperanno mai. I robot sono incredibilmente forti. Molti possono volare in un modo o nell'altro e gli altri sono dotati di un raggio di disintegrazione che può essere sparato fino a 6" tre volte al giorno. Per evitare il raggio è necessario un Tiro Salvezza riuscito contro le bacchette. I robot non possono essere sottomessi e non hanno mai bisogno di effettuare una prova di Morale.
 
 ### Roc
 
@@ -1696,7 +1696,7 @@ I treant sono protettori e "pastori" degli alberi della foresta. A seconda della
 *Movimento*: 3/ 150' (50')
 *DVE/PE*: 2/30
 
-I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e non hanno bisogno di effettuare prove di morale. Possono rimanere sott'acqua a tempo indeterminato e sono soggetti al tiro di dardi solo se salgono in superficie, che devono affrontare per afferrare o abbordare le navi. Sulla terraferma o a bordo delle navi subiscono una penalità di -2 ai tiri di attacco e alle prove di morale. La loro pelle squamosa è uguale a un'armatura di pelle e combattono con spade e pugnali. I Tritoni hanno dei capi come gli umani anche se sono esclusivamente dei combattenti.
+I Tritoni sono guerrieri acquatici. Contro gli umanoidi in mare attaccano a +2 e non hanno bisogno di effettuare prove di Morale. Possono rimanere sott'acqua a tempo indeterminato e sono soggetti al tiro di dardi solo se salgono in superficie, che devono affrontare per afferrare o abbordare le navi. Sulla terraferma o a bordo delle navi subiscono una penalità di -2 ai tiri di attacco e alle prove di Morale. La loro pelle squamosa è uguale a un'armatura di pelle e combattono con spade e pugnali. I Tritoni hanno dei capi come gli umani anche se sono esclusivamente dei combattenti.
 
 
 ### Troll
@@ -1745,7 +1745,7 @@ I Berserker sono esseri umani normali, ma combattono con una ferocia sbalorditiv
 *Movimento*: 120' (40')   
 *DVE/PE*: 1/15
 
-I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, portano scudi, sono armati di spade, asce, mazze, archi corti o lance e hanno un bonus di +1 alle prove di morale.
+I briganti sono ladri e briganti ben organizzati. Indossano armature di cuoio, portano scudi, sono armati di spade, asce, mazze, archi corti o lance e hanno un bonus di +1 alle prove di Morale.
 
 ### Umano, Mercenario
 
@@ -1778,7 +1778,7 @@ I Nomadi sono razziatori del deserto o della steppa che sono sempre a cavallo. P
 *Movimento*: 120' (40')   
 *DVE/PE*: 1/15
 
-I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. Hanno +1 alle prove di morale.
+I pirati sono spietati lupi di mare e tagliagole che saccheggiano i corsi d'acqua e le regioni costiere dai loro sloop e galee. Sono senza armatura e veloci e si armano con spade ricurve o mazze e pugnali come le manosinistre. Hanno +1 alle prove di Morale.
 
 ### Umano, Sergente d'armi
 
@@ -1811,7 +1811,7 @@ I soldati umani servono come guardia cittadina, mercenari e uomini d'arme. Sono 
 *Movimento*: 120' (40')   
 *DVE/PE*: 3/60
 
-Gli zeloti sono fanatici religiosi. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente chierici.
+Gli zeloti sono fanatici religiosi. Attaccano a +2 per colpire contro gli umanoidi e non hanno bisogno di effettuare prove di Morale a causa del loro fanatismo. Portano armi e scudi da chierico e i loro capi abituali sono esclusivamente chierici.
 
 ### Unicorno
 

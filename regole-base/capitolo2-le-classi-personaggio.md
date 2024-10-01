@@ -429,11 +429,9 @@ I Silvani possono usare solo clave, archi corti e balestre leggere. Possono indo
 I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
 
 #### Mutaforma
-Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. La trasformazione dura 24 ore ma il Silvano può tornare alla sua forma normale in qualsiasi momento. Durante la creazione del vostro personaggio, consultate il vostro Arbitro riguardo a quale sia l'animale piccolo (per esempio: lucertola, corvo) o grande (per esempio: orso, lupo) di cui potete assumere forma.
+Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. La trasformazione dura 24 ore ma il Silvano può tornare alla sua forma normale in qualsiasi momento.
 
-**Piccolo animale:** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6 (lanciato dall'Arbitro).
-
-**Grande animale:** non potete usare alcun oggetto, ma avete un bonus di +3 ai tiri per colpire, infliggete 1d6+1 danni con le vostre armi naturali e la vostra CA aumenta di +3.
+**Piccolo animale (per esempio: lucertola, corvo) :** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6 (lanciato dall'Arbitro).
 
 I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. La loro intelligenza rimane quella di un normale Silvano.
 

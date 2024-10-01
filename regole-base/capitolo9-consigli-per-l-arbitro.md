@@ -99,7 +99,7 @@ Il metodo più difficile per dare un nome agli oggetti magici è quello di dare 
 
 **Poteri speciali**: Date un potere aggiuntivo a un oggetto magico e probabilmente diventerà un tesoro per il suo proprietario.
 
-Dopotutto, passare da un'armatura a piastre +1 a un'armatura a piastre +2 dovrebbe essere un gioco da ragazzi. Ma cosa succede se l'armatura a piastre +1 fornisce anche un bonus al morale del servitore o un +1 ai Tiri Salvezza contro pietrificazione e polimorfia? Improvvisamente gli oggetti magici sono più difficili da valutare l'uno rispetto all'altro, basandosi solo sui loro "bonus".
+Dopotutto, passare da un'armatura a piastre +1 a un'armatura a piastre +2 dovrebbe essere un gioco da ragazzi. Ma cosa succede se l'armatura a piastre +1 fornisce anche un bonus al Morale dei Seguaci o un +1 ai Tiri Salvezza contro pietrificazione e polimorfia? Improvvisamente gli oggetti magici sono più difficili da valutare l'uno rispetto all'altro, basandosi solo sui loro "bonus".
 
 Se non usato con attenzione tutto questo può diventare una trappola. Anche se gli oggetti potenti potrebbero combinare i benefici di più oggetti magici "standard" (come un anello che fornisce sia protezione che invisibilità), questi dovrebbero essere rari e trattati dall'Arbitro come se fossero significativamente più potenti di uno dei due oggetti singoli. L'obiettivo con i poteri speciali è quello di fornire poteri minori a un oggetto che lo facciano risaltare, non di farlo sostituire a due o tre altri oggetti magici. Semplici poteri minori includono: l'oggetto che non si sporca mai; quello che brilla come una candela o anche una torcia; un'arma che beve il sangue quando colpisce un nemico; un anello che migliora la calligrafia di chi lo indossa; un mantello che migliora le prove di reazione nell'alta società.
 
@@ -115,9 +115,10 @@ Infine, ricordate che le indicazioni di questo libro non sono realmente "regole"
 
 Ci sono un gran numero di avventure gratuite e a basso costo disponibili in formato PDF sul web. Un buon modo per iniziare a cercare avventure gratuite è sulla pagina del [*Compendio delle Avventure OSR in Italiano*](https://dismastersden.blogspot.com/2020/12/compendio-delle-avventure-osr-in.html).
 
+
+### Numero di Personaggi in un'avventura
+
 Molte avventure scritte per i giochi della Vecchia Scuola sono progettate con l'assunzione che il tavolo abbia sei (o più!) giocatori. Mentre tali numeri erano abbastanza comuni negli anni '70 e nei primi anni '80, oggi sono piuttosto rari. Se l'avventura è stata scritta per 8 giocatori e ce ne sono solo 3 o 4 nella vostra campagna, avete un certo numero di opzioni (disposte dalla più facile alla più difficile per l'Arbitro):
 
-- Assicuratevi che i giocatori sappiano che sono disponibili gregari e mercenari e che ne avranno sicuramente bisogno.
+- Assicuratevi che i giocatori sappiano che sono disponibili Seguaci e mercenari e che ne avranno sicuramente bisogno.
 - Permettere ad ogni giocatore di avere due personaggi. Mentre le edizioni moderne dei GDR lo rendono difficile a causa delle molte opzioni e di tutti i poteri dei PG che un giocatore deve tenere sotto controllo, le regole più semplici e la meccanica dei personaggi di *L'Infausta Scatola* permettono alla maggior parte dei giocatori un po' esperti di giocare due personaggi senza tanti problemi.
-
-Le migliori ambientazioni e avventure, comunque, sono quelle che create voi stessi per la vostra campagna. Non c'è bisogno che siano elaborate come quelle prodotte per l'uso da parte di altri, né tanto meno così fantasiose come quelle scritte per la pubblicazione professionale.

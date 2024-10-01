@@ -53,7 +53,7 @@ I calamari giganti sono voraci predatori delle profondità marine che occasional
 *Movimento*: 15  
 *DVE/PE*: 1/15
 
-I cani sono animali da branco dal naso acuto che abitano le pianure e le praterie. Possono essere addestrati solo se separati dal branco da cuccioli, ma poi avranno +2 di lealtà.
+I cani sono animali da branco dal naso acuto che abitano le pianure e le praterie. Possono essere addestrati solo se separati dal branco da cuccioli, ma poi avranno +2 di Lealtà.
 
 ### Cavernicolo
 

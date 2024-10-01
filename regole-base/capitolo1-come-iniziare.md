@@ -42,10 +42,10 @@ L'Infausta Scatola non fornisce molti modificatori per la gamma di punteggi degl
 #### Tabella 1: Bonus Attributi
 
 | Tiro Attributo | Descrizione | Bonus |
-|:--------------:|:-----------:|:-----:|
-| 3-6            | Basso       | -1    |
-| 7-14           | Medio       | 0     |
-| 15-18          | Alto        | 1     |
+| :------------: | :---------: | :---: |
+|      3-6       |    Basso    |  -1   |
+|      7-14      |    Medio    |   0   |
+|     15-18      |    Alto     |   1   |
 
 ### Bonus Esperienza
 
@@ -75,19 +75,19 @@ La Destrezza è una combinazione di coordinazione e rapidità. È l'Attributo Pr
 
 ### Carisma
 
-Il Carisma si riferisce al magnetismo personale e alla capacità di leadership di un personaggio. Qualsiasi personaggio con un Carisma di 15+ riceve un bonus del 5% ai PE. Il carisma determina anche il numero di Personaggi Non Giocanti (PNG) gregari che un personaggio può acquisire. Questi gregari includono specialisti (capitani di navi, assassini, ecc.) e creature non umane, ma di solito non includono i soldati semplici. Il Carisma modifica la lealtà dei PNG (vedi "Lealtà").
+Il Carisma si riferisce al magnetismo personale e alla capacità di leadership di un personaggio. Il carisma determina anche il numero di Personaggi Non Giocanti (PNG) gregari che un personaggio può acquisire. Questi gregari includono specialisti (capitani di navi, assassini, ecc.) e creature non umane, ma di solito non includono i soldati semplici. Il Carisma modifica la Morale dei PNG (vedi "Morale").
 
 #### Tabella 2: Modificatori di Carisma
 
-| Carisma | Gregari (Max #) | Lealtà |
-|:-------:|:---------------:|:------:|
-| 3–4     | 1               | -2     |
-| 5–6     | 2               | -2     |
-| 7–8     | 3               | -1     |
-| 9–12    | 4               | 0      |
-| 13–15   | 5               | 1      |
-| 16–17   | 6               | 2      |
-| 18      | 7               | 2      |
+| Carisma | Gregari (Max #) |
+| :-----: | :-------------: |
+|   3–4   |        1        |
+|   5–6   |        2        |
+|   7–8   |        3        |
+|  9–12   |        4        |
+|  13–15  |        5        |
+|  16–17  |        6        |
+|   18    |        7        |
 
 ### Punti Ferita
 

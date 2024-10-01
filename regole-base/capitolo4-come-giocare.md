@@ -168,9 +168,9 @@ Gli attacchi a distanza sono effettuati con armi come balestre, fionde o asce la
 
 ### Morale
 
-Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il morale per determinare le azioni e la lealtà dei gregari o di altri PNG compagni.
+Alcuni mostri, come le creature senza intelletto o non-morte, non hanno paura e combatteranno sempre fino alla morte. La maggior parte, tuttavia, non continuerà a combattere una battaglia senza speranza e cercherà di ritirarsi, arrendersi o fuggire. L'Arbitro deciderà quando i mostri abbandonano la battaglia e si ritirano, basandosi sulla situazione e sull'intelligenza del mostro. Gli arbitri dovrebbero anche usare il Morale per determinare le azioni e la Morale dei gregari o di altri PNG compagni.
 
-Se c'è incertezza sul morale dei PNG o dei mostri, la tabella in questo paragrafo può essere utilizzata a discrezione dell'Arbitro. Il valore ottenuto dopo il tiro dei dadi può essere modificato da valori dipendenti dagli avvenimenti dell’incontro (la presenza di un comandante carismatico darà un valore positivo, la perdita di più di metà del gruppo un modificatore negativo e così via).
+Se c'è incertezza sul Morale dei PNG o dei mostri, la tabella in questo paragrafo può essere utilizzata a discrezione dell'Arbitro. Il valore ottenuto dopo il tiro dei dadi può essere modificato da valori dipendenti dagli avvenimenti dell’incontro (la presenza di un comandante carismatico darà un valore positivo, la perdita di più di metà del gruppo un modificatore negativo e così via).
 
 #### Tabella 20: Prova di Morale
 
@@ -212,25 +212,32 @@ In un duello il perdente deve rinunciare alla sua cavalcatura e alla sua armatur
 
 Il lancio degli incantesimi parte all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
 
-### Lealtà
+### Seguaci e Morale
 
-L'Arbitro potrebbe voler fare delle "prove di lealtà" per i PNG messi in situazioni pericolose o per quelli a cui vengono offerte tangenti per cambiare parte durante un conflitto. Quando viene effettuato una prova di lealtà, tirate 3d6 e consultate la tabella della lealtà per il risultato. Ricordate che queste prove possono essere modificate dal punteggio di Carisma del giocatore.
+Tutti i PNG che seguono i PG nelle loro avventure sono definiti **Seguaci**.
 
-#### Tabella 22: Lealtà
+Quando i PG vogliono assoldare come Seguace un PNG che hanno incontrato, gli faranno un'offerta formale. Se l'Arbitro è indeciso, può lanciare 2d6 per stabilire come viene accettata l'offerta, modificando il risultato con un bonus di -1 o +1 a seconda di quanto gli obiettivi del PNG siano affini a questa offerta: ha lui l'ultima parola a riguardo. Inoltre, questo lancio è modificato dal modificatore di Carisma del PG che ha iniziato la trattativa.
 
-| Tiro  |            **Lealtà**            |
-| :---: | :------------------------------: |
-|   3   |            Traditore             |
-|  4-5  | -2 alla prossima prova di lealtà |
-|  6-8  | -1 alla prossima prova di lealtà |
-| 9-12  |              Media               |
-| 13-15 | +1 alla prossima prova di lealtà |
-| 16-17 | +2 alla prossima prova di lealtà |
-|  18   |             Lealista             |
+| Tiro  |                      **Morale**                       |
+| :---: | :---------------------------------------------------: |
+|  1-2  |     Rifiuta sdegnato, diventa ostile verso il PG      |
+|  3-5  |                       Rifiuta.                        |
+|  6-8  |   Incerto. Cambiando offerta si può rifare il tiro    |
+| 9-11  |                       Accetta.                        |
+| 12-13 | Accetta con entusiasmo. +1 alla prima prova di Morale |
 
-Un buon trattamento, il rispetto e un'equa quota del tesoro guadagnato dovrebbero garantire bonus alle prove di lealtà, mentre l'abuso, fisico o di altro tipo, porterà a penalità, abbandono o peggio. I PNG dovrebbero essere trattati come individui distinti e non come semplici estensioni del personaggio del giocatore.
 
-Se un PNG si trova in una situazione in cui una prova di morale può essere appropriata, il modificatore di lealtà può essere applicato al tiro di morale (opzionale).
+L'Arbitro potrebbe voler fare delle "prove di Morale" per i Seguaci dei PG che hanno rischiato la vita o sono stati messi in situazioni pericolose. Quando viene effettuata una prova di Morale, L'Arbitro lancia 2d6, modificando il risultato con un bonus di -1 o +1 a seconda di quanto il patto iniziale con il Seguace sia stato rispettato nonostante il pericolo: ha lui l'ultima parola a riguardo. Inoltre, questo lancio è modificato dal modificatore di Carisma del PG a cui "appartiene" il Seguace.
+
+#### Tabella 22: Morale
+
+| Tiro  |                    **Morale**                     |
+| :---: | :-----------------------------------------------: |
+|  1-2  |        Abbandona il PG giurando vendetta.         |
+|  3-5  |                 Abbandona il PG.                  |
+|  6-8  | Rimane, ma demoralizzato. -1 alla prossima prova. |
+| 9-11  |                      Rimane.                      |
+| 12-13 |  Rimane con entusiasmo. +1 alla prossima prova.   |
 
 ### Tiri Salvezza
 

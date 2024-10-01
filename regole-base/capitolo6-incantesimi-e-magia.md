@@ -177,8 +177,8 @@ Questo incantesimo emette un piccolo bagliore magico dal dito del Silvano. Il ba
 *Durata:* 1 ora
 
 L'incantatore deve annunciare quale delle due opzioni deve essere lanciata. Chi subisce l'incantesimo non può essere in combattimento nel momento in cui viene lanciato. 
-- Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio non è un personaggio giocante, migliora il morale. 
-- Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio non è un personaggio giocante, soffre una diminuzione del morale.
+- Come incantesimo di Benedire, al ricevente viene garantito un bonus di +1 a tutti i ti d'attacco e, se il bersaglio  è un PNG, al Morale. 
+- Come incantesimo di Maledire, il ricevente è maledetto con una penalità di -1 a tutti gli attacchi, e se il bersaglio  è un PNG, al Morale.
 
 ### Bloccare i Mostri
 *Livello:* M5  
