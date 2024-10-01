@@ -180,11 +180,11 @@ Se c'è incertezza sul Morale dei PNG o dei mostri, la tabella in questo paragra
 |      3-5       |                     Fuga                     |
 |      6-8       |       Combatte per mantenere posizione       |
 |      9-11      | Combatte inseguendo i PG per un breve tratto |
-|    12 o più    |          Combatte fino alla morte           |
+|    12 o più    |           Combatte fino alla morte           |
 
 ### Negoziazione e diplomazia
 
-Alcuni combattimenti possono essere evitati con poche parole ben scelte (persino bugie). Se il gruppo è in svantaggio, o se non sembra che i mostri abbiano un gran bottino, il gruppo potrebbe scegliere di agire spudoratamente nel tentativo di evitare il combattimento o almeno di ritardarlo fino a quando non si presenteranno condizioni più favorevoli.
+Alcuni combattimenti possono essere evitati con poche parole ben scelte (persino bugie). Se il gruppo è in svantaggio, o se non sembra che i mostri abbiano un gran bottino, il gruppo potrebbe scegliere di agire spudoratamente nel tentativo di evitare il combattimento o almeno di ritardarlo fino a quando non si presenteranno condizioni più favorevoli. 
 
 ### Giostra
 
@@ -219,6 +219,7 @@ Tutti i PNG che seguono i PG nelle loro avventure sono definiti **Seguaci**.
 Quando i PG vogliono assoldare come Seguace un PNG che hanno incontrato, gli faranno un'offerta formale. Se l'Arbitro è indeciso, può lanciare 2d6 per stabilire come viene accettata l'offerta, modificando il risultato con un bonus di -1 o +1 a seconda di quanto gli obiettivi del PNG siano affini a questa offerta: ha lui l'ultima parola a riguardo. Inoltre, questo lancio è modificato dal modificatore di Carisma del PG che ha iniziato la trattativa.
 
 #### Tabella 22: Punti Giostra
+
 |   Tiro   |         **Risposta del Seguace all'offerta**          |
 | :------: | :---------------------------------------------------: |
 | 2 o meno |     Rifiuta sdegnato, diventa ostile verso il PG      |
