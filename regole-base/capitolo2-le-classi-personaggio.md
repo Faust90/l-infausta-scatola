@@ -207,15 +207,16 @@ Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e a
 
 I Campioni sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
 
-#### Attacchi aggiuntivi
-
-I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
-
 #### Posizione strategica
 
 I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
 * Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +2.
 * Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -2.
+  
+#### Attacchi aggiuntivi
+
+I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
+
 
 #### Tiro salvezza
 
@@ -282,7 +283,7 @@ La Costituzione è l'Attributo Primario dei Dvergar, il che significa che un pun
 
 ## Il Mago
 
-Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera. Possono essere avversari devastanti. Tuttavia, ai livelli più bassi, sono piuttosto vulnerabili e devono essere protetti dagli altri membri del gruppo. Man mano che progrediscono, i maghi diventano generalmente la più potente delle Classi Personaggio, in grado di influenzare i destini politici di grandi regni e di creare potenti artefatti magici.
+Il Mago è una figura misteriosa, uno studente di poteri arcani e di magia nera. Possono essere avversari devastanti. Tuttavia, ai livelli più bassi, sono piuttosto vulnerabili e devono essere protetti dagli altri membri del gruppo. Man mano che progrediscono, i maghi diventano una delle più potenti tra le Classi, in grado di influenzare i destini politici di grandi regni e di creare potenti artefatti magici.
 
 #### Tabella 6: Avanzamento del Mago
 
@@ -310,7 +311,7 @@ I Maghi tendono a trascorrere le loro ore di veglia nello studio di tomi e perga
 
 A differenza del Chierico, il Mago possiede un libro di incantesimi, che non include necessariamente tutti gli incantesimi presenti nelle liste standard. Leggendo da questo libro, il mago imprime nella sua mente la formula di un incantesimo scelto, "preparandolo" per essere lanciato. Una volta che un incantesimo preparato è stato lanciato, la formula dell'incantesimo scompare dalla mente del mago e deve essere preparata di nuovo prima di poter effettuare un altro tentativo di lancio; tuttavia, è possibile preparare un incantesimo più volte utilizzando gli "spazi" disponibili nella memoria del mago. 
 
-Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi. In alternativa, in città con grandi biblioteche può copiare incantesimi al costo di 200 pezzi d'oro per livello dell'incantesimo: ad esempio un incantesimo di secondo livello costerà 400 pezzi d'oro. Copiare un incantesimo richiede mezza giorna di studio per livello, nella quale il mago non può fare altre attività impegnative
+Se il mago trova delle pergamene di incantesimi durante un'avventura, può copiarle nel suo libro degli incantesimi. In alternativa, in città con grandi biblioteche può copiare incantesimi al costo di 200 pezzi d'oro per livello dell'incantesimo: ad esempio un incantesimo di secondo livello costerà 400 pezzi d'oro. Copiare un incantesimo richiede mezza giornata di studio per livello di incantesimo, nella quale il mago non può fare altre attività impegnative. Queste regole si applicano anche quando crea una copia di riserva (non si sà mai...) del suo libro attuale
 
 #### Tiro Salvezza
 
@@ -397,7 +398,7 @@ I Paladini sono cavalieri ben addestrati, quindi possono usare qualsiasi arma e 
 #### Voti
 I Paladini devono essere sempre legali. 
 Non possono mentire o rimangiarsi la parola data.
-Possono mantenere solo le ricchezze sufficienti a mantenere se stessi (e i loro uomini, ai livelli più alti). Qualsiasi ricchezza in eccesso viene donata a istituzioni politiche o religiose che rappresentano i loro ideali.
+Possono mantenere solo le ricchezze sufficienti a mantenere se stessi e i loro Seguaci. Qualsiasi ricchezza in eccesso viene donata a istituzioni politiche o religiose che rappresentano i loro ideali.
 
 Finché il Paladino mantiene i suoi voti è immune alla paura e alla magia che influenza la sua mente. Se un Paladino rompe i suoi voti, perde questa immunità e il suo Zelo viene azzerato.
 Per ottenere redenzione e avere indietro i suoi poteri, deve essere sottoposto all'incantesimo *Missione* da parte di un Chierico o un Mago legale e raggiungere l'obiettivo che gli viene dato.
