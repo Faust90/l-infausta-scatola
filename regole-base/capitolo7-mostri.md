@@ -110,7 +110,7 @@ Le arpie hanno la parte superiore del corpo di una femmina umana e la parte infe
 *Movimento*: 120' (40')   
 *DVE/PE*: 11/1,700
 
-Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 50% agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se camminassero, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 6d6 Turni. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli. Nonostante non siano non-morti, queste creature potrebbero essere non-morti invece che fate/folletti con l'equivalente di 9 DV per essere scacciate.
+Le banshee sono orribili Folletti simili a non-morti che vivono nelle paludi e altri luoghi desolati. Pur somigliando ad orribili fantasmi, non possono essere Scacciate dai Chierici. Possono essere danneggiate solo da armi magiche o d'argento. Le Banshee hanno una resistenza del 50% agli incantesimi. Il loro urlo (una volta al giorno) richiede un Tiro Salvezza contro la morte o l'ascoltatore morirà in 2d6 Round. Possono viaggiare sull'acqua e altri terreni come se camminassero, ma attraversare l'acqua corrente fa perdere loro la resistenza alla magia per 6d6 Turni. Hanno l'aspetto di esseri umani smilzi con lunghi capelli filiformi e occhi gialli. Spesso indossano mantelli.
 
 ### Basilisco
 
