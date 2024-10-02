@@ -3,7 +3,7 @@
 
 ## Gioco fantasy medievale d'avventura
 
-Benvenuti nel repository del testo sorgente di **L' Infausta Scatola***, una hack de *L'Infausta Scatola*.
+Benvenuti nel repository del testo sorgente di **L' Infausta Scatola**, una hack de *La Scatola Bianca*.
 
 ## Licenza aperta
 
