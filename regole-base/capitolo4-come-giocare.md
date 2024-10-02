@@ -224,7 +224,7 @@ Quando i PG vogliono assoldare come Seguace un PNG che hanno incontrato, gli far
 | :------: | :---------------------------------------------------: |
 | 2 o meno |     Rifiuta sdegnato, diventa ostile verso il PG      |
 |   3-5    |                       Rifiuta.                        |
-|   6-8    |   Incerto. Cambiando offerta si può rifare il tiro    |
+|   6-8    |   Incerto. Con un'offerta più conveniente per il PNG si rifà il tiro con un +1    |
 |   9-11   |                       Accetta.                        |
 | 12 o più | Accetta con entusiasmo. +1 alla prima prova di Morale |
 
