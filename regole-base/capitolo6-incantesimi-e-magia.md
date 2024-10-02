@@ -465,14 +465,14 @@ Questo incantesimo evoca uno Inseguitore Invisibile con 8 DV. L'inseguitore comp
 *Raggio d'azione:* 240'  
 *Durata:* Finché non viene dissolta o avviene un attacco.
 
-Il bersaglio dell'incantesimo, che sia un oggetto o una persona, diventa invisibile sia per la visione normale che per la scurovisione. Se l'Arbitro sta usando le regole dell'invisibilità non modificate, la creatura non può essere attaccata a meno che la posizione approssimativa non sia conosciuta, tutti gli attacchi subiscono -4 al tiro.
+Il bersaglio dell'incantesimo, che sia un oggetto o una persona, diventa invisibile: solo tramite l'Infrasione dei Dvergar, appositi incantesimi o sensi non convezionali è possibile vederlo. La creatura non può essere attaccato a meno che la posizione approssimativa non sia trovata in qualche modo, ma in ogni caso tutti gli attacchi subiscono -4 al tiro.
 
 ### Invisibilità, raggio 10'.
 *Livello:* M3  
 *Raggio d'azione:* 240'  
 *Durata:* Finché non viene dissolta o avviene un attacco.
 
-Identico all'incantesimo Invisibilità, il quale rende la creatura o l'oggetto bersaglio invisibile alla normale visione o scurovisione, eccezione fatta che lancia una sfera di invisibilità (con un raggio di 10') intorno al ricevente, che si muove assieme al bersaglio.
+Identico all'incantesimo *Invisibilità*, eccezione fatta che rende invisibili tutte le creature (non gli oggetti!) a scelta dell'incantatore, entro una sfera con raggio di 10' intorno al bersaglioricevente. L'area si muove assieme al bersaglio.
 
 ### Leggere il Pensiero
 *Livello:* M2  
