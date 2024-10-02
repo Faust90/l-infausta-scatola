@@ -224,7 +224,7 @@ Quando i PG vogliono assoldare come Seguace un PNG che hanno incontrato, gli far
 | :------: | :---------------------------------------------------: |
 | 2 o meno |     Rifiuta sdegnato, diventa ostile verso il PG      |
 |   3-5    |                       Rifiuta.                        |
-|   6-8    |   Incerto. Con un'offerta più conveniente per il PNG si rifà il tiro con un +1    |
+|   6-8    |   Incerto. Con un'offerta più conveniente per il PNG si rifà il tiro con un +1 aggiuntivo  |
 |   9-11   |                       Accetta.                        |
 | 12 o più | Accetta con entusiasmo. +1 alla prima prova di Morale |
 
@@ -247,4 +247,4 @@ Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di e
 
 ### Ricordate
 
-*L'Infausta Scatola* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro ha la responsabilità di gestire le situazioni che non sono coperte dalle regole, facendo valutazioni corrette su ciò che i personaggi fanno e decidendo cosa succede come risultato. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro collaborano tra loro per creare un'epopea fantasy, con l'Arbitro che crea l'ambientazione e i giocatori che sviluppano la storia degli eroi. Se essi non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose) e poi guidare la storia in modo equo.
+*L'Infausta Scatola* è un gioco di ruolo in forma libera, il che significa che non ci sono molte regole. L'Arbitro, con l'aiuto del resto del gruppo, può usare la **Regola fondamentale** per tutte le situazioni che non sono coperte dalle regole. Questo non è un gioco in cui i giocatori sono "contro" l'Arbitro, anche se l'Arbitro è responsabile della creazione di trappole insidiose, situazioni pericolose e della gestione dei mostri e degli altri nemici che i PG incontreranno durante il gioco. In realtà, i giocatori e l'Arbitro giocando insieme creano come conseguenza un'epopea fantasy, con l'Arbitro che si occupa dell'ambientazione e i giocatori che sviluppano la storia degli eroi tramite le loro azioni. Se essi non sono abili e intelligenti, l'epopea potrebbe essere molto breve. Ma non è compito dell'Arbitro sconfiggere i giocatori: è suo compito fornire sfide interessanti (e pericolose).
