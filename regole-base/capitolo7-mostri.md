@@ -56,6 +56,17 @@ La "Resistenza alla Magia" non è una delle voci, ma alcune creature possono ave
 
 Di seguito sono presentati tutti i mostri in ordine alfabetico.
 
+
+### Aboleth
+*Classe Armatura*: 15  
+*Dadi Vita*: 8  
+*Attacchi*: Tentacoli (2d6+2)  
+*Speciale*: vedi sotto
+*Movimento*: 30' (10') / 90' (30') mentre nuota    
+*DVE/PE*: 12/2000
+
+L'aboleth è un disgustoso essere anfibio simile ad un grande pesce mostruoso dotato di tentacoli a frusta. Abita laghi e fiumi sotterranei. Gli aboleth sono molto intelligenti e hanno una loro lingua estremamente complessa, ma spesso comunicano tramite telepatia e un linguaggio comprensibile agli umani. Quando è sott'acqua, l'Aboleth può secernere una nuova di muco velenoso entro un metro dal suo corpo: le creature che la toccano devono fare un Tiro Salvezza o morire soffocate in 2d6 Round. Il muco viene sciolto da sapone o vino. Un Aboleth può usare *Forza Fantasma* e *Terreno illusorio* a volontà. Inoltre, può rendere schiavo una creatura intelligente che fallisce un Tiro salvezza contro un'onda mentale dal mostro. La vittima diventa schiava dell'aboleth e guadagna l'abilità di respirare sott'acqua fino a che non viene liberata da un *Dissolvere il caos*, un *Rimuovere una Maledizione* o non viene incapacitata e trasportata a forza oltre un miglio dall'Aboleth: in quest'ultimo caso però deve comunque superare un Tiro salvezza che, in caso di fallimento, può essere ripetuto solo il giorno successivo 
+
 ### Androide
 
 *Classe Armatura*: 10  
