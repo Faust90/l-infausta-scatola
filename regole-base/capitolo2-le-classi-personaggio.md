@@ -492,7 +492,7 @@ I Raganellidi hanno un irresistibile impulso a viaggare per la terra in cerca di
 I Raganellidi possono combattere solo disarmati, usando una spada corta o utilizzando archi o balestre. I Raganellidi non possono indossare alcuna armatura: la loro pelle sensibile glielo impedisce, e comunque preferiscono usare la loro grande agilità.
 
 #### Arti marziali
-I Raganellidi combattono utilizzando bizzarre ma letali arti marziali. Infliggono 1d6 danni quando combattono disarmati. Inoltre, possono eseguire due attacchi per round mentre combattono a "mani" nude o con una spada corta. Inoltre, hanno un bonus alla loro CA pari al valore di Arti Marziali del loro attuale livello (vedi tabella 7). Possono per schivare i proiettili di armi a distanza facendo un Tiro salvezza con un bonus al tiro pari al loro livello di Arti Marziali corrente.
+I Raganellidi combattono utilizzando bizzarre ma letali arti marziali. Infliggono 1d6 danni quando combattono disarmati. Inoltre, possono eseguire due attacchi per round mentre combattono a "mani" nude o con una spada corta. Inoltre, hanno un bonus alla loro CA pari al valore di Arti Marziali del loro attuale livello (vedi tabella 9). Possono per schivare i proiettili di armi a distanza facendo un Tiro salvezza con un bonus al tiro pari al loro livello di Arti Marziali corrente.
 
 #### Corpo di raganella
 I Raganellidi possono saltare in verticale o in orizzontale di una distanza pari al triplo del loro movimento. 
