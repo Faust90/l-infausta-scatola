@@ -160,7 +160,7 @@ La Saggezza è l'Attributo Primario dei Chierici. I Chierici con Saggezza pari o
 
 Solamente i Chierici Legali hanno la capacità di scacciare i non-morti, facendoli fuggire o distruggendoli del tutto. Quando tentano di scacciare, tirano 3d6 e consultano la tabella Scacciare i non-morti per il risultato. Si può fare un solo tentativo per scacciare a ogni incontro.
 
-Se il risultato dei dadi è uguale o superiore al numero indicato sulla tabella, tutte le creature non-morte del tipo bersaglio vengono scacciate e fuggono per 3d6 round (o si accucciano impotenti, se non sono in grado di fuggire). 
+Se il risultato dei dadi è uguale o superiore al numero indicato sulla tabella, tutte le creature non-morte del tipo bersaglio che possono percepire il chierico vengono scacciate e fuggono per 3d6 round (o si accucciano impotenti, se non sono in grado di fuggire). 
 
 Per i Chierici allineati legalmente, se la tabella indica una "D" allora la creatura non-morta viene distrutta automaticamente e si sgretola in polvere.
 
@@ -405,9 +405,9 @@ Per ottenere redenzione e avere indietro i suoi poteri, deve essere sottoposto a
 L'Arbitro ha l'ultima parola sul'adeguatezza del compito quando l'incantesimo è lanciato da un compagno del Paladino.
 
 #### Zelo
-Il Paladino può spendere i suoi punti Zelo (che vengono ripristinati dopo ogni riposo) in due modi:
+Il Paladino può spendere i suoi punti Zelo (che vengono ripristinati ad ogni alba) in due modi:
 - **Rinvigorire:** il Paladino può toccare un alleato e spendere qualsiasi quantità di Zelo per ripristinare così la stessa quantità di PF.
-- **Colpire:** il Paladino può toccare un non morto, un demone o un folletto e spendere una quantità qualsiasi di Zelo per infliggere la stessa quantità di danni alla creatura. Non occorre fare un tiro per colpire.
+- **Colpire:** il Paladino può toccare un non morto, un demone o un folletto e spendere una quantità qualsiasi di Zelo per infliggere per magia la stessa quantità di danni alla creatura. Non occorre fare un tiro per colpire.
 
 #### Tiro salvezza
 I Paladini ricevono un bonus di +2 ai Tiri Salvezza contro qualsiasi effetto causato da non morti, folletti e demoni.
@@ -463,3 +463,50 @@ Un Silvano di nono livello o superiore può diventare custode di un boschetto sa
 #### Bonus di esperienza per la Saggezza
 
 La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di CostSaggezzaituzione di 15+ garantisce un ulteriore 5% di esperienza.
+
+
+## Il Raganellide 
+I Raganellidi sono raganelle antropomorfe in grado di combattere con sofisticate arti marziali. Furono create da un arcimago particolarmente matto durante la Grande Guerra Magica. Ovviamente l'idea di usarle nella guerra fu un fallimento, suscitando ilarità tra gli altri arcanisti che nel frattempo creavano orrendi non morti, potenti golem o convocano creature innominabili da altri mondi. Tuttavia, i Raganellidi hanno iniziato a diffondersi nel mondo e a creare piccole comunità illuminate dedite alla ricerca della perfezione fisica. 
+
+I Raganellidi hanno un irresistibile impulso a viaggare per la terra in cerca di sfide adeguate e degni avversari. Ogni Raganellide si è addestrato in una comunità di suoi simili, che ha le proprie regole, filosofie e tecniche di combattimento. Il Raganellide è un combattente non molto resistente, ma compensa la sua fragilità con abilità peculiari e la sua indipendenza dall'equipaggiamento.
+
+#### Tabella 9: Avanzamento del Raganellide
+
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Arti Marziali |
+| :-----: | :--------------: | :-------: | :---------: | :-----------: |
+|    1    |        0         |     1     |     +0      |       2       |
+|    2    |      2.000       |    1+1    |     +1      |       2       |
+|    3    |      4.000       |     2     |     +1      |       3       |
+|    4    |      8.000       |    2+1    |     +2      |       3       |
+|    5    |      16.000      |     3     |     +3      |       4       |
+|    6    |      32.000      |    3+1    |     +3      |       4       |
+|    7    |      64.000      |     4     |     +4      |       5       |
+|    8    |     128.000      |    4+1    |     +4      |       5       |
+|    9    |     256.000      |     5     |     +5      |       6       |
+|   10    |     512.000      |    5+1    |     +5      |       6       |
+
+
+### Abilità del Raganellide
+
+#### Restrizioni su armi e armature
+I Raganellidi possono combattere solo disarmati, usando una spada corta o utilizzando archi o balestre. I Raganellidi non possono indossare alcuna armatura: la loro pelle sensibile glielo impedisce, e comunque preferiscono usare la loro grande agilità.
+
+#### Arti marziali
+I Raganellidi combattono utilizzando bizzarre ma letali arti marziali. Infliggono 1d6 danni quando combattono disarmati. Inoltre, possono eseguire due attacchi per round mentre combattono a "mani" nude o con una spada corta. Inoltre, hanno un bonus alla loro CA pari al valore di Arti Marziali del loro attuale livello (vedi tabella 7). Possono per schivare i proiettili di armi a distanza facendo un Tiro salvezza con un bonus al tiro pari al loro livello di Arti Marziali corrente.
+
+#### Corpo di raganella
+I Raganellidi possono saltare in verticale o in orizzontale di una distanza pari al triplo del loro movimento. 
+Possono anche cadere da grandi altezze senza subire alcun danno. 
+Inoltre, il Raganellide può scalare (o correre su) pareti verticali, anche lisce, con facilità, ma solo impegnando mani e piedi nell'operazione.
+Infine, è in grado di trattenere il respiro sott'acqua per un Turno.
+
+#### Lingua Raganellide
+I Raganellidi possono conversare con i loro simili usando diversi tipi di gracidii per esprimere semplici concetti. Solo un Raganellide può capire questa lingua segreta senza utilizzare appositi incantesimi. 
+
+#### Maestro
+Un Raganellide di nono livello o di livello superiore può chiamarsi Maestro e addestrare altri suoi simili. 
+
+Altri adepti e maestri itineranti possono visitare il Raganellide quando si trova in una città o in altre aree civilizzate. Alcuni adepti potrebbero unirsi al Raganellide, i maestri potrebbero condividere sapienza e dicerie.
+
+#### Bonus di esperienza per la Saggezza
+La saggezza è l'attributo principale dei Raganellidi, il che significa che un punteggio di saggezza di 15+ garantisce un 5% di esperienza aggiuntiva.
