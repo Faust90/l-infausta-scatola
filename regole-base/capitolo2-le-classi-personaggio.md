@@ -270,7 +270,7 @@ I Dvergar sono creature naturalmente resistenti alla magia: ricevono un bonus di
 
 #### Lingue
 
-I Dvergar sanno parlare le lingue di molte creature del sottosuolo: quando provano a parlare con una creatura del sottosuolo che non hannp mai incontrato prima, c'è una possibilità di 1-3 sul d6 che conoscano la sua lingua.
+I Dvergar sanno parlare le lingue di molte creature del sottosuolo: quando provano a parlare con una creatura del sottosuolo che non hanno mai incontrato prima, c'è una possibilità di 1-3 sul d6 che conoscano la sua lingua.
 
 #### Costruire una Comunità
 
@@ -418,59 +418,13 @@ Un Paladino di decimo livello diventa un esemplare dell'ordine. A questo livello
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Il Silvano
-
-È un piccolo folletto umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
-
-#### Restrizioni su Armi e Armature
-
-I Silvani possono usare solo clave, archi corti e balestre leggere. Possono indossare solo armature di cuoio fatte su misura per loro.
-
-#### Lancio degli incantesimi
-I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
-
-#### Mutaforma
-Una volta al giorno il Silvano può mutare forma in un piccolo animale o in un animale più grande e feroce. La trasformazione dura 24 ore ma il Silvano può tornare alla sua forma normale in qualsiasi momento.
-
-**Piccolo animale (per esempio: lucertola, corvo) :** non potete usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6 (lanciato dall'Arbitro).
-
-I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. La loro intelligenza rimane quella di un normale Silvano.
-
-#### Difficile da colpire
-I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
-
-#### Boschetto sacro
-Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
-
-#### Tabella 8: Avanzamento del Silvano
-
-
-|         |                  |           |             |                Incantesimi               
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire |   1   |   2   |   3   |   4   |   5   |
-| :-----: | :--------------: | :-------: | :---------: | :---: | :---: | :---: | :---: | :---: |
-|    1    |        0         |     1     |     +0      |   1   |   -   |   -   |   -   |   -   |
-|    2    |      2,500       |    1+1    |     +0      |   2   |   -   |   -   |   -   |   -   |
-|    3    |      5,000       |     2     |     +0      |   2   |   1   |   -   |   -   |   -   |
-|    4    |      10,000      |    2+1    |     +0      |   3   |   2   |   -   |   -   |   -   |
-|    5    |      20,000      |     3     |     +0      |   3   |   2   |   1   |   -   |   -   |
-|    6    |      40,000      |    3+1    |     +0      |   3   |   3   |   2   |   -   |   -   |
-|    7    |      80,000      |     4     |     +0      |   3   |   3   |   2   |   1   |   -   |
-|    8    |     160,000      |    4+1    |     +0      |   3   |   3   |   3   |   2   |   -   |
-|    9    |     320,000      |     5     |     +0      |   3   |   3   |   3   |   2   |   1   |
-|   10    |     640,000      |    5+1    |     +0      |   3   |   3   |   3   |   3   |   2   |
-
-
-#### Bonus di esperienza per la Saggezza
-
-La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di CostSaggezzaituzione di 15+ garantisce un ulteriore 5% di esperienza.
-
 
 ## Il Raganellide 
 I Raganellidi sono raganelle antropomorfe in grado di combattere con sofisticate arti marziali. Furono create da un arcimago particolarmente matto durante la Grande Guerra Magica. Ovviamente l'idea di usarle nella guerra fu un fallimento, suscitando ilarità tra gli altri arcanisti che nel frattempo creavano orrendi non morti, potenti golem o convocano creature innominabili da altri mondi. Tuttavia, i Raganellidi hanno iniziato a diffondersi nel mondo e a creare piccole comunità illuminate dedite alla ricerca della perfezione fisica. 
 
 I Raganellidi hanno un irresistibile impulso a viaggare per la terra in cerca di sfide adeguate e degni avversari. Ogni Raganellide si è addestrato in una comunità di suoi simili, che ha le proprie regole, filosofie e tecniche di combattimento. Il Raganellide è un combattente non molto resistente, ma compensa la sua fragilità con abilità peculiari e la sua indipendenza dall'equipaggiamento.
 
-#### Tabella 9: Avanzamento del Raganellide
+#### Tabella 8: Avanzamento del Raganellide
 
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Arti Marziali |
 | :-----: | :--------------: | :-------: | :---------: | :-----------: |
@@ -510,3 +464,50 @@ Altri adepti e maestri itineranti possono visitare il Raganellide quando si trov
 
 #### Bonus di esperienza per la Saggezza
 La saggezza è l'attributo principale dei Raganellidi, il che significa che un punteggio di saggezza di 15+ garantisce un 5% di esperienza aggiuntiva.
+
+## Il Silvano
+
+È un piccolo folletto umanoide (mediamente alto 80 cm) dalla pelle verde e glabra. Ha due grandi occhi neri e un viso vagamente infantile. Vive in armonia con la natura in piccole comunità pacifiche. Alcuni individui molto curiosi, occasionalmente, decidono di avventurarsi fuori dai loro boschi per scoprire le meraviglie del mondo circostante.
+
+#### Restrizioni su Armi e Armature
+
+I Silvani possono usare solo clave, archi corti e balestre leggere. Possono indossare solo armature di cuoio fatte su misura per loro.
+
+#### Lancio degli incantesimi
+I Silvani lanciano incantesimi Silvanici da una specifica lista di incantesimi, come indicato nella tabella di avanzamento dei Silvani. Ogni giorno il Silvano medita per un certo numero di incantesimi, scegliendo un incantesimo qualsiasi dalla lista standard.
+
+#### Mutaforma
+Una volta al giorno il Silvano può mutare forma in un piccolo animale (ad esempio uno scoiattolo, un coniglio, un corvo o un rospo). La trasformazione dura 24 ore ma il Silvano può tornare alla sua forma normale in qualsiasi momento.
+
+Quando un Silvano è trasformato, non può usare nessun oggetto e combattere, ma siete più agili e potete raggiungere luoghi inaccessibili ai normali umanoidi. Rimanendo immobili in un piccolo nascondiglio, si può passare completamente inosservati con 1-5 sul d6.
+
+I Silvani non possono lanciare incantesimi mentre sono nella loro forma animale, poiché non possono parlare e non hanno mani. Il loro equipaggiamento "sparisce" temporaneamente, ricomparendogli addosso una volta trasformati nella loro forma normale. La loro intelligenza rimane quella di un normale Silvano.
+
+#### Difficile da colpire
+I Silvani subiscono la metà dei danni dagli attacchi di creature più grandi dell'uomo.
+
+#### Boschetto sacro
+Un Silvano di nono livello o superiore può diventare custode di un boschetto sacro, che diventerà una nuova oasi per creature della natura e, con il passare degli anni, una nuova foresta. Deve trovare un tale boschetto e meditare sotto l'albero più grande per un giorno per ottenere questo status.
+
+#### Tabella 9: Avanzamento del Silvano
+
+
+|         |                  |           |             |                Incantesimi               
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire |   1   |   2   |   3   |   4   |   5   |
+| :-----: | :--------------: | :-------: | :---------: | :---: | :---: | :---: | :---: | :---: |
+|    1    |        0         |     1     |     +0      |   1   |   -   |   -   |   -   |   -   |
+|    2    |      2,500       |    1+1    |     +0      |   2   |   -   |   -   |   -   |   -   |
+|    3    |      5,000       |     2     |     +0      |   2   |   1   |   -   |   -   |   -   |
+|    4    |      10,000      |    2+1    |     +0      |   3   |   2   |   -   |   -   |   -   |
+|    5    |      20,000      |     3     |     +0      |   3   |   2   |   1   |   -   |   -   |
+|    6    |      40,000      |    3+1    |     +0      |   3   |   3   |   2   |   -   |   -   |
+|    7    |      80,000      |     4     |     +0      |   3   |   3   |   2   |   1   |   -   |
+|    8    |     160,000      |    4+1    |     +0      |   3   |   3   |   3   |   2   |   -   |
+|    9    |     320,000      |     5     |     +0      |   3   |   3   |   3   |   2   |   1   |
+|   10    |     640,000      |    5+1    |     +0      |   3   |   3   |   3   |   3   |   2   |
+
+
+#### Bonus di esperienza per la Saggezza
+
+La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di CostSaggezzaituzione di 15+ garantisce un ulteriore 5% di esperienza.
+
