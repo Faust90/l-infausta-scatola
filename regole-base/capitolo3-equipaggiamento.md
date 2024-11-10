@@ -17,13 +17,13 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 | Aconito, mazzo                  | 10             |
 | Acqua Santa, fiala piccola      | 25             |
 | Aglio (1 libbra)                | 10             |
-| Asta, 10'                       | 1              |
+| Asta, 3 m                       | 1              |
 | Astuccio (mappa o pergamena)    | 3              |
 | Attrezzi da ladro               | 25             |
 | Belladonna, mazzo               | 10             |
 | Bottiglia (vino), bicchiere     | 1              |
-| Corda (50'), canapa             | 1              |
-| Corda (50'), seta               | 5              |
+| Corda (15 m), canapa             | 1              |
+| Corda (15 m), seta               | 5              |
 | Elmo                            | 10             |
 | Lanterna                        | 10             |
 | Libro degli incantesimi (vuoto) | 100            |
@@ -97,19 +97,19 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 | Arma                     | **Danno** | **Cadenza di fuoco\*** | **Gittata**† | **Peso** | **Costo (po)** |
 | ------------------------ | --------- | ---------------------- | ------------ | -------- | -------------- |
-| Accetta                  | 1d6       | 1                      | 10'          | 5        | 3              |
-| Arco, corto              | 1d6-1     | 2                      | 50'          | 5        | 25             |
-| Arco, lungo              | 1d6       | 2                      | 70'          | 5        | 40             |
-| Balestra, leggera        | 1d6-1     | 1                      | 60'          | 5        | 15             |
-| Balestra, pesante        | 1d6+1     | 1 ogni due Round       | 80'          | 5        | 25             |
+| Accetta                  | 1d6       | 1                      | 3 m          | 5        | 3              |
+| Arco, corto              | 1d6-1     | 2                      | 15 m          | 5        | 25             |
+| Arco, lungo              | 1d6       | 2                      | 21 m          | 5        | 40             |
+| Balestra, leggera        | 1d6-1     | 1                      | 18 m          | 5        | 15             |
+| Balestra, pesante        | 1d6+1     | 1 ogni due Round       | 24 m          | 5        | 25             |
 | Borsa (20 pietre)        | -         | -                      | -            | 1        | 1              |
 | Custodia (30 Quadrelli)  | -         | -                      | -            | 1        | 5              |
 | Faretra (20 frecce)      | -         | -                      | -            | 1        | 5              |
-| Fionda                   | -         | 1                      | 30'          | 1        | 2              |
+| Fionda                   | -         | 1                      | 9 m          | 1        | 2              |
 | Frecce (20)              | -         | -                      | -            | 1        | 5              |
 | Freccia, argento         | -         | -                      | -            | 1        | 5              |
-| Lancia                   | 1d6       | 1                      | 20'          | 10       | 2              |
-| Martello da guerra       | 1d6       | 1                      | 10'          | 10       | 5              |
+| Lancia                   | 1d6       | 1                      | 6 m          | 10       | 2              |
+| Martello da guerra       | 1d6       | 1                      | 3 m          | 10       | 5              |
 | Pietre per fionda (20)   | 1d6       | -                      | -            | 1        | 1              |
 | Quadrello, balestra (30) | -         | -                      | -            | 5        | 5              |
 

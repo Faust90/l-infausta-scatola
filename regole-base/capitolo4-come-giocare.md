@@ -68,10 +68,10 @@ La velocità di movimento base per tutte le razze è calcolata sulla tabella sot
 
 | Peso Portato (lb.) | **Umani** | **Dvergar e Silvani** |
 | :----------------: | :-------: | :-------------------: |
-|        0-75        |   120'    |          90'          |
-|       76-100       |    90'    |          60'          |
-|      101-150       |    60'    |          30'          |
-|      151-300       |    30'    |          15'          |
+|        0-75        |   36 m    |          27 m          |
+|       76-100       |    27 m    |          18 m          |
+|      101-150       |    18 m    |          9 m          |
+|      151-300       |    9 m    |          4,5 m          |
 
 Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
@@ -96,7 +96,7 @@ Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 30'. Le torce bruciano per un'ora (sei Turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 Turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
+Torce e lanterne illuminano un raggio di 9 m. Le torce bruciano per un'ora (sei Turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 Turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
 
 ### Ascolto alle porte
 
@@ -104,11 +104,11 @@ Gli umani hanno 1 probabilità su 6 di sentire i rumori, i non umani sentono i r
 
 ### Porte segrete
 
-Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Gli Elfi, tuttavia, trovano le porte segrete con un tiro di 1-4 su un d6 quando cercano o possono percepire con un 1-2 su un d6 che qualcosa non va semplicemente passando vicino a una porta segreta. Ci vuole un Turno per ogni area perlustrata di 10'x10'.
+Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Gli Elfi, tuttavia, trovano le porte segrete con un tiro di 1-4 su un d6 quando cercano o possono percepire con un 1-2 su un d6 che qualcosa non va semplicemente passando vicino a una porta segreta. Ci vuole un Turno per ogni area perlustrata di 3 m x 3m.
 
 ### Trappole
 
-La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i nani possono rilevare le trappole di pietra in modo simile a come gli elfi rilevano le porte segrete - hanno una probabilità di 1-4 su un d6 di rilevare tali trappole se cercano attivamente, o 1-2 su 6 se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 10' di caduta.
+La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i nani possono rilevare le trappole di pietra in modo simile a come gli elfi rilevano le porte segrete - hanno una probabilità di 1-4 su un d6 di rilevare tali trappole se cercano attivamente, o 1-2 su 6 se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 3 m di caduta.
 
 ### Nota sulla ricerca di porte segrete e trappole
 
@@ -160,7 +160,7 @@ L'olio lanciato che viene successivamente incendiato da una torcia gettata o qua
 
 ### Attacco in mischia
 
-Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 10' l'uno dall'altro sono considerati "in mischia".
+Un attacco in mischia è un attacco con un'arma a mano come una spada, una lancia o un pugnale. Due combattenti entro 3 m l'uno dall'altro sono considerati "in mischia".
 
 ### Attacco a distanza
 
@@ -210,7 +210,7 @@ In un duello il perdente deve rinunciare alla sua cavalcatura e alla sua armatur
 
 ### Incantesimi
 
-Il lancio degli incantesimi parte all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (10'), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
+Il lancio degli incantesimi parte all'inizio del round di combattimento. È possibile preparare un incantesimo mentre ci si trova nel raggio d'azione di mischia di un avversario (3 m), ma se l'incantatore subisce danni mentre prepara un incantesimo, l'incantesimo viene perso. A meno che non sia indicato diversamente, l'incantesimo viene lanciato (ha effetto) nella fase di iniziativa dell'incantatore.
 
 ### Seguaci e Morale
 

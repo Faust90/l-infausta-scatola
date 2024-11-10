@@ -113,7 +113,7 @@ Usa questa tabella per progettare trappole. Sarà necessario impiegare un po' di
 | d100  | Tipo di trappola                 | d100  | Tipo di trappola                                   |
 | ----- | -------------------------------- | ----- | -------------------------------------------------- |
 | 01-06 | Trappola a freccia <sup>1</sup>  | 41-43 | Fulmine                                            |
-| 07-08 | Crollo del soffitto <sup>5</sup> | 44-53 | Fossa (profonda 10') <sup>2</sup>                  |
+| 07-08 | Crollo del soffitto <sup>5</sup> | 44-53 | Fossa (profonda 3 m) <sup>2</sup>                  |
 | 09-10 | Soffitto che collassa            | 54-63 | Fossa (si chiude) <sup>2</sup>                     |
 | 11-12 | Compattamento delle pareti       | 64-67 | Trappola a saracinesca <sup>5</sup>                |
 | 13-14 | Soffitto che cade                | 68-72 | Stanza <sup>6</sup>                                |

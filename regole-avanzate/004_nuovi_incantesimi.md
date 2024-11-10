@@ -92,10 +92,10 @@ Il danno illusorio fa sì che una creatura con 0 PF sia messa fuori combattiment
 | Bloccare le Persone                 | Ammaliare i Mostri        |
 | Dardo Elettrico                     | Confusione                |
 | Dissolvere le Magie                 | Evocare le ombre          |
-| Invisibilità, raggio 10'            | Mutaforma di Massa        |
+| Invisibilità, raggio 3 m            | Mutaforma di Massa        |
 | Invisibilità migliorata             | Muro di Fuoco o Ghiaccio  |
 | Palla di Fuoco                      | Occhio del Mago           |
-| Protezione dal Caos, raggio 10'     | Polimorfismo              |
+| Protezione dal Caos, raggio 3 m     | Polimorfismo              |
 | Protezione dai Proiettili Normali   | Rimuovere una Maledizione |
 | Scurovisione                        | Terreno Illusorio         |
 | Sfera di Cristallo                  |                           |
@@ -126,7 +126,7 @@ Il Druido crea 1d6 bacche magiche nella sua mano. Ogni bacca ripristina 1 PF qua
 
 ### Bagliore
 *Livello*: D1  
-*Raggio d'azione*: 25'  
+*Raggio d'azione*: 7,5 m  
 *Durata*: Istantaneo
 
 Questo incantesimo emette un piccolo bagliore magico dal dito del Druido. Il bagliore può stordire un nemico per 1d6 round (Tiro Salvezza possibile). Non funziona sui mostri che non hanno occhi o non possono vedere.
@@ -140,21 +140,21 @@ Il Druido può camminare sull'aria, come se fosse un terreno solido. I venti for
 
 ### Caos
 Livello: I5  
-*Raggio d'azione*: 120'  
+*Raggio d'azione*: 36 m  
 *Durata*: Finché non viene negato o dissipato
 
-Tutte le creature entro un'area di 30 x 30' diventano confuse finché non lasciano l'area.
+Tutte le creature entro un'area di 30 x 9 m diventano confuse finché non lasciano l'area.
 
 ### Cerchio protettivo
 *Livello*: D3  
-*Raggio d'azione*: 20'  
+*Raggio d'azione*: 6 m  
 *Durata*: 2 minuti per livello dell'incantatore
 
 Questo incantesimo crea un cerchio magico stazionario intorno al Druido, che blocca completamente fuoco, fulmini, acqua e ghiaccio.
 
 ### Chiamare il Fulmine
 *Livello*: D3  
-*Raggio d'azione*: 240'  
+*Raggio d'azione*: 72 m  
 *Durata*: Istantaneo
 
 Un fulmine si abbatte sul bersaglio scelto e infligge 1d6 danni per livello dell'incantatore. Infligge 1d6 aggiuntivi se usato all'aperto e altri 1d6 se il bersaglio indossa oggetti metallici.
@@ -175,21 +175,21 @@ Questo incantesimo permette al Druido di prevedere il tempo nella posizione corr
 
 ### Esplosione Solare
 *Livello*: D5  
-*Raggio d'azione*: 300'  
+*Raggio d'azione*: 90 m  
 *Durata*: Istantaneo
 
-Questo incantesimo crea un globo esplosivo (80') di luce. Tutte le creature all'interno del globo diventano cieche e subiscono 1d6 punti di danno per livello dell'incantatore.
+Questo incantesimo crea un globo esplosivo (24 m) di luce. Tutte le creature all'interno del globo diventano cieche e subiscono 1d6 punti di danno per livello dell'incantatore.
 
 ### Evocare le ombre
 Livello: I4  
-*Raggio d'azione*: 30'  
+*Raggio d'azione*: 9 m  
 *Durata*: 1 giorno
 
 L'incantatore evoca 1d4 ombre che eseguiranno i suoi ordini e poi se ne andranno. Le Ombre vengono dissipate dal tocco della luce del sole.
 
 ### Evocare un animale
 *Livello*: D3  
-*Raggio d'azione*: 90'  
+*Raggio d'azione*: 27 m  
 *Durata*: 1 giorno
 
 Questo incantesimo evoca un alleato animale con 4 DV. Il Druido può anche dividere i DV in creature più piccole (per esempio: può evocare quattro animali con 1 DV). Tutti gli animali evocati scompaiono alla fine del giorno.
@@ -203,28 +203,28 @@ Questo incantesimo conferisce alla persona scelta un'immensa forza - in seguito 
 
 ### Illusione Uditiva
 Livello: I1  
-*Raggio d'azione*: 120'  
+*Raggio d'azione*: 36 m  
 *Durata*: Finché non viene negato o dissipato.
 
 Questo incantesimo crea un'illusione udibile. Può durare fino a un minuto, contenere fino a una dozzina di parole pronunciate, essere forte come la porta di un fienile che sbatte e può ripetersi ogni giorno a una certa ora o ripetersi continuamente.
 
 ### Incantare un animale
 *Livello*: D1  
-*Raggio d'azione*: 120'  
+*Raggio d'azione*: 36 m  
 *Durata*: Finché non viene annullato
 
 Questo incantesimo funziona allo stesso modo dell'incantesimo Ammaliare Persone del Mago, ma colpisce gli animali.
 
 ### Individuare un animale
 *Livello*: D1  
-*Raggio d'azione*: 90'  
+*Raggio d'azione*: 27 m  
 *Durata*: 1 minuto per livello
 
 Funziona allo stesso modo dell'incantesimo Localizzare oggetto, ma ha effetto sugli animali.
 
 ### Individuare trappole e fosse
 *Livello*: D1  
-*Raggio d'azione*: 90'  
+*Raggio d'azione*: 27 m  
 *Durata*: Istantaneo
 
 Funziona allo stesso modo dell'incantesimo Trovare trappole, ma colpisce le trappole e le fosse.
@@ -245,28 +245,28 @@ Il Druido evoca un piccolo animale nella sua mano (per esempio: un uccello, un r
 
 ### Muro del vento
 *Livello*: D3  
-*Raggio d'azione*: 100'  
+*Raggio d'azione*: 30 m  
 *Durata*: 1 round per livello dell'incantatore
 
 Questo incantesimo crea una cortina invisibile di aria che devia tutti i proiettili, i gas e le creature più piccole (DV 1/2). Le creature con DV pari a 1+ possono comunque tentare di fare breccia nel muro, ma devono effettuare un Tiro Salvezza per farlo.
 
 ### Nebbia
 *Livello*: D2  
-*Raggio d'azione*: 250'  
+*Raggio d'azione*: 75 m  
 *Durata*: Finché non viene dissipato
 
 Questo incantesimo crea una fitta nebbia magica nell'area. Ogni creatura, tranne il Druido, riesce a malapena a vedere in questa nebbia e riceve una penalità di -4 ai colpi mentre cerca di combattere in queste condizioni.
 
 ### Parlare con gli Animali
 *Livello:* D2  
-*Raggio d'azione:* 30'  
+*Raggio d'azione:* 9 m  
 *Durata:* 1 ora
 
 L'incantatore può parlare con gli animali entro il raggio d'azione. C'è la possibilità che gli animali lo assistano e che non attacchino né lui né i suoi alleati (a meno che non dica qualcosa di particolarmente offensivo). 
 
 ### Parlare con le Piante
 *Livello:* D4  
-*Raggio d'azione:* 30'  
+*Raggio d'azione:* 9 m  
 *Durata:* 1 ora
 
 L'incantatore può parlare alle piante e comprendere le loro risposte. Le piante obbediranno ai suoi comandi nei limiti del possibile (per esempio, girarsi o piegarsi di lato per facilitare il passaggio).
@@ -281,7 +281,7 @@ Il Druido deve lasciare l'albero se la durata dell'incantesimo termina, o se l'a
 
 ### Plasmare il Legno
 *Livello*: D2  
-*Raggio d'azione*: 30'  
+*Raggio d'azione*: 9 m  
 *Durata*: Permanente
 
 Questo incantesimo fa sì che il legno si pieghi e si deformi, distruggendo permanentemente la sua linearità, forma e forza. Una porta deformata si apre (o rimane bloccata, richiedendo una prova di Forza per aprirla, a vostra scelta). Una barca o una nave subisce una falla. Le armi a distanza deformate sono inutili. In alternativa, potete scardinare il legno (riportandolo effettivamente alla normalità) con questo incantesimo, raddrizzando il legno che è stato deformato da questo stesso incantesimo o da altri mezzi.
@@ -295,7 +295,7 @@ Questo incantesimo trasforma un albero toccato in un treant amichevole. I suoi D
 
 ### Schema Ipnotico
 Livello: I2  
-*Raggio d'azione*: 120'  
+*Raggio d'azione*: 36 m  
 *Durata*: Concentrazione
 
 L'incantatore crea un'immagine ipnotizzante di luci che tiene gli spettatori incantati mentre lo mantiene. Non c'è un Tiro Salvezza e l'incantesimo colpisce 4d6 creature fino a 1DV, 2d6 creature fino a 4DV o 1d6 creature fino a 6DV.
@@ -309,7 +309,7 @@ Una persona morta di recente viene restituita come Spettro con la propria person
 
 ### Terremoto
 *Livello*: D5  
-*Raggio d'azione*: 600'  
+*Raggio d'azione*:  180 m  
 *Durata*: fino a 1 minuto/round per livello dell'incantatore
 
 Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare tunnel e apre crepe nel terreno. Tutte le creature (tranne il Druido) nel raggio d'azione cadono a terra e non possono agire, finché il Druido continua a lanciare l'incantesimo (vedi Durata).
