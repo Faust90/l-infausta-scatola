@@ -12,41 +12,41 @@ A meno che indicato diversamente, ogni pezzo d'equipaggiamento pesa approssimati
 
 #### Tabella 9: Equipaggiamento Vario
 
-| Oggetto                         | **Costo (po)** |
-| ------------------------------- | -------------- |
-| Aconito, mazzo                  | 10             |
-| Acqua Santa, fiala piccola      | 25             |
-| Aglio (0,5 chili)               | 10             |
-| Asta, 3 m                       | 1              |
-| Astuccio (mappa o pergamena)    | 3              |
-| Attrezzi da ladro               | 25             |
-| Belladonna, mazzo               | 10             |
-| Bottiglia (vino), bicchiere     | 1              |
-| Corda (15 m), canapa            | 1              |
-| Corda (15 m), seta              | 5              |
-| Elmo                            | 10             |
-| Lanterna                        | 10             |
-| Libro degli incantesimi (vuoto) | 100            |
-| Martello                        | 2              |
-| Olio (lampada), 1 pinta         | 2              |
-| Pala                            | 5              |
-| Otre d'acqua                    | 1              |
-| Picchetti (12), legno           | 1              |
-| Picchi (12), ferro              | 1              |
-| Piede di porco                  | 5              |
-| Pietra focaia e acciaio         | 5              |
-| Rampino                         | 5              |
-| Razioni, da viaggio (giorno)    | 1              |
-| Razioni, essiccate (giorno)     | 3              |
-| Sacco (capacità 7,5 kg)         | 1              |
-| Sacco (capacità 15 kg)          | 2              |
-| Sacco a pelo                    | 2              |
-| Simbolo Sacro, argento          | 25             |
-| Simbolo Sacro, legno            | 2              |
-| Specchio (piccolo), acciaio     | 5              |
-| Tenda                           | 20             |
-| Torce (6)                       | 1              |
-| Zaino (capacità 15 kg)          | 5              |
+| Oggetto                              | **Costo (po)** |
+| ------------------------------------ | -------------- |
+| Aconito, mazzo                       | 10             |
+| Acqua Santa, fiala piccola           | 25             |
+| Aglio (0,5 chili)                    | 10             |
+| Asta, 3 m                            | 1              |
+| Astuccio (mappa o pergamena)         | 3              |
+| Attrezzi da ladro                    | 25             |
+| Belladonna, mazzo                    | 10             |
+| Bottiglia (vino), bicchiere          | 1              |
+| Corda (15 m), canapa                 | 1              |
+| Corda (15 m), seta                   | 5              |
+| Elmo                                 | 10             |
+| Lanterna                             | 10             |
+| Libro degli incantesimi (vuoto)      | 100            |
+| Martello                             | 2              |
+| Olio (lampada), 1 pinta              | 2              |
+| Pala                                 | 5              |
+| Otre d'acqua                         | 1              |
+| Picchetti (12), legno                | 1              |
+| Picchi (12), ferro                   | 1              |
+| Piede di porco                       | 5              |
+| Pietra focaia e acciaio              | 5              |
+| Rampino                              | 5              |
+| Razioni, da viaggio (giorno)         | 1              |
+| Razioni, essiccate (giorno)          | 3              |
+| Sacco (capacità 7,5 kg)              | 1              |
+| Sacco (capacità 15 kg)               | 2              |
+| Sacco a pelo                         | 2              |
+| Simbolo Sacro, argento   (0,5 chili) | 25             |
+| Simbolo Sacro, legno    (0,5 chili)  | 2              |
+| Specchio (piccolo), acciaio          | 5              |
+| Tenda                                | 20             |
+| Torce (6)                            | 1              |
+| Zaino (capacità 15 kg)               | 5              |
 
 #### Tabella 10: Trasporti
 
