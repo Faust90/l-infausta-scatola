@@ -52,7 +52,7 @@ L'unità di tempo di base per l'esplorazione della natura è il giorno. È una b
 5. **Incontro**: Eventuali incontri vengono risolti.
 6. **Accamparsi**: L'Arbitro indica quali opzioni ha il gruppo per accamparsi. 
 
-    Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 o -10% sui punteggi di abilità, sui tiri per colpire, sui tiri per danni e sui Tiri Salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
+    Il gruppo deve accamparsi se gli incantatori devono recuperare i loro incantesimi. I gruppi a cavallo avranno normalmente bisogno di far riposare i loro animali e i personaggi in armatura, o quelli fisicamente più deboli, avranno bisogno di riposare e dormire. In una situazione di marcia forzata, i personaggi potrebbero marciare per tutta la notte, ma una seconda notte senza riposo comporterà una penalità di -2 sui tiri per colpire, sui tiri per danni e sui Tiri Salvezza per esaurimento. Una terza notte senza riposo aumenterà questa penalità a -5 e gli incantatori cominceranno a dimenticare gli incantesimi che tengono ancora in memoria. A questo punto, i personaggi potrebbero addormentarsi involontariamente. Nessun umano o semi-umano può stare sveglio per quattro notti di fila.
 
     Gli avventurieri di buon senso stabiliranno un Turno di guardia durante la notte, con diversi personaggi che faranno a Turno per garantire la sicurezza dei dormienti.
 
@@ -62,16 +62,16 @@ Nelle scale di tempo consentite per le avventure nelle Terre Selvagge, la maggio
 
 ### Movimento
 
-La velocità di movimento base per tutte le razze è calcolata sulla tabella sottostante in decine di piedi per Turno, permettendo due mosse per Turno. 
+La velocità di movimento base per tutte le razze è calcolata sulla tabella sottostante. 
 
 #### Tabella 15: Velocità base
 
-| Peso Portato (lb.) | **Umani** | **Dvergar e Silvani** |
+| Peso Portato (kg.) | **Umani** | **Dvergar e Silvani** |
 | :----------------: | :-------: | :-------------------: |
-|        0-75        |   36 m    |          27 m          |
-|       76-100       |    27 m    |          18 m          |
-|      101-150       |    18 m    |          9 m          |
-|      151-300       |    9 m    |          4,5 m          |
+|       0-37,5       |   36 m    |         27 m          |
+|       38-50        |   27 m    |         18 m          |
+|      50,5-75       |   18 m    |          9 m          |
+|      75,5-150      |    9 m    |         4,5 m         |
 
 Il movimento cauto è usato per esplorare, controllare le trappole e ciò che è nascosto. Il movimento di corsa si usa quando si sta cercando di arrivare da qualche parte velocemente o di scappare da qualcosa di ostile. Il movimento normale copre praticamente tutto il resto. 
 
@@ -88,7 +88,9 @@ Il movimento di combattimento si usa quando i personaggi sono impegnati in comba
 
 ### Movimento all'aperto
 
-La velocità di movimento di base è in miglia al giorno, ma può essere raddoppiata durante una marcia forzata. Per la velocità di movimento per round di combattimento all'aperto, prendete la velocità di base, dividete per tre e moltiplica per 10 iarde. Per esempio una velocità di movimento base di 9 permette normalmente 9 miglia di viaggio al giorno, 18 miglia forzate e 30 iarde di movimento per round di combattimento. L'Arbitro dovrebbe diminuire la normale velocità di movimento per i viaggi su terreni difficili, come paludi o montagne.
+La velocità base indica anche i kilometri al giorno che un personaggio può compiere. Ad esempio, un personaggio con una velocità base di 36 m si può muovere per 36 km.
+Può essere aumentata di una volta e mezza durante una marcia forzata. Quindi, il personaggio di prima che viaggia in marcia forzata si muoverà di 54 km al giorno.
+L'Arbitro dovrebbe dimezzare la normale velocità di movimento per i viaggi su terreni difficili, come paludi o montagne.
 
 ### Porte dei dungeon
 
@@ -220,13 +222,13 @@ Quando i PG vogliono assoldare come Seguace un PNG che hanno incontrato, gli far
 
 #### Tabella 22: Punti Giostra
 
-|   Tiro   |         **Risposta del Seguace all'offerta**          |
-| :------: | :---------------------------------------------------: |
-| 2 o meno |     Rifiuta sdegnato, diventa ostile verso il PG      |
-|   3-5    |                       Rifiuta.                        |
-|   6-8    |   Incerto. Con un'offerta più conveniente per il PNG si rifà il tiro con un +1 aggiuntivo  |
-|   9-11   |                       Accetta.                        |
-| 12 o più | Accetta con entusiasmo. +1 alla prima prova di Morale |
+|   Tiro   |                          **Risposta del Seguace all'offerta**                           |
+| :------: | :-------------------------------------------------------------------------------------: |
+| 2 o meno |                      Rifiuta sdegnato, diventa ostile verso il PG                       |
+|   3-5    |                                        Rifiuta.                                         |
+|   6-8    | Incerto. Con un'offerta più conveniente per il PNG si rifà il tiro con un +1 aggiuntivo |
+|   9-11   |                                        Accetta.                                         |
+| 12 o più |                  Accetta con entusiasmo. +1 alla prima prova di Morale                  |
 
 
 L'Arbitro potrebbe voler fare delle "prove di Morale" per i Seguaci dei PG che hanno rischiato la vita o sono stati messi in situazioni pericolose. Quando viene effettuata una prova di Morale, L'Arbitro lancia 2d6, modificando il risultato con un bonus di -1 o +1 a seconda di quanto il patto iniziale con il Seguace sia stato rispettato nonostante il pericolo: ha lui l'ultima parola a riguardo. Inoltre, questo lancio è modificato dal modificatore di Carisma del PG a cui "appartiene" il Seguace.

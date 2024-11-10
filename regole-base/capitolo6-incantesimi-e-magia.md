@@ -852,7 +852,7 @@ Questo incantesimo crea una potente scossa, che distrugge strutture, fa crollare
 *Raggio d'azione:* 36 m  
 *Durata:* 1 ora
 
-L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 20 libbre (9 kg) per livello. 
+L'incantatore può muovere oggetti usando solamente il potere della mente. La quantità di peso che può alzare e muovere è 9 kg per livello. 
 
 ### Teletrasporto
 *Livello:* M5  

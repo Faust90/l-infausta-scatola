@@ -499,7 +499,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Stelle cadenti**: Una volta al giorno, questo anello può evocare 1d6 meteore infuocate dalle profondità dello spazio. Ogni meteora può colpire un nemico separato e infligge 3d6 danni. Se usate al chiuso o sottoterra, le meteore colpiranno qualsiasi cosa si trovi direttamente sopra il bersaglio.
 
-**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 200 libbre di peso a una distanza di 36 m.
+**Telecinesi**: Chi lo indossa può sollevare e spostare mentalmente fino a 90 kg di peso a una distanza di 36 m.
 
 **Tre desideri**: Concede a chi lo indossa 3 desideri; i desideri oltraggiosi si ritorcono contro.
 
@@ -637,7 +637,7 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Bicchiere delle Pozioni**: Questa piccola brocca si riempie con la pozione richiesta, tra le 1d6 pozioni che è in grado di produrre. La brocca può essere usata tante volte alla settimana quante sono le pozioni che può creare. Utilizzabile da: Tutte le Classi.
 
-**Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 3 m × 1,5 m × 1 m, ma la borsa può trasportare fino a 1.000 libbre di peso. Se non è vuota, la borsa pesa 50 libbre, non importa quanto peso contenga effettivamente. Utilizzabile da: tutte le classi.
+**Borsa di Raccolta**: L'interno di questa borsa è più grande dell'esterno. Le dimensioni interne sono circa 3 m × 1,5 m × 1 m, ma la borsa può trasportare fino a 450 kg di peso. Se non è vuota, la borsa pesa 250 kg, non importa quanto peso contenga effettivamente. Utilizzabile da: tutte le classi.
 
 **Bottiglia dell'Efreeti**: L'Efreeti della bottiglia servirà il suo proprietario per un anno e un giorno, a meno che non venga accidentalmente liberato dalla servitù. Utilizzabile da: tutte le classi.
 
@@ -661,11 +661,11 @@ Tirate 1d20 e aggiungi +0, +20 o +40, a seconda che il tesoro sia minore, medio 
 
 **Corno di Abbattimento**: Questo corno, quando viene soffiato, ha lo stesso effetto sulle strutture di una catapulta, e causa 2d6 punti di danno alle creature, assordandole anche per 10 minuti. Il cono di suono è lungo 30 m, e si allarga a una base di 6 m (la "punta" del cono, alla bocca del corno, è larga 3 m). Utilizzabile da: tutte le classi.
 
-**Corno del Valhalla, Argento**: Evoca 1d6+1 guerrieri berserk (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
+**Corno del Valhalla, Argento**: Evoca 1d6+1 guerrieri berserker (2 DV) per assistere colui che ha caricato il corno. Utilizzabile da: tutte le classi.
 
-**Corno di Valhalla, Bronzo**: Evoca 1d6+1 guerrieri berserk (3 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti e Clerici.
+**Corno di Valhalla, Bronzo**: Evoca 1d6+1 guerrieri berserker (3 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti e Clerici.
 
-**Corno del Valhalla, Ferro**: Evoca 1d6+1 guerrieri berserk (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
+**Corno del Valhalla, Ferro**: Evoca 1d6+1 guerrieri berserker (4 DV) per assistere colui che ha caricato il corno. Utilizzabile da: Combattenti.
 
 **Elmo della Brillanza Ardente**: Questo elmo prodigiosamente potente garantisce molti benefici a chi lo indossa. Guadagna un +10 ai Tiri Salvezza contro i danni da fuoco e può creare lui stesso un muro di fuoco. I Campioni che indossano l'elmo possono comandare un'arma a mano infuocata (+1d6 danni). I maghi che indossano l'elmo possono aggiungere +1 a ogni dado di danno inflitto da un incantesimo Palla di fuoco. I chierici che indossano l'elmo possono incendiare a volontà gli oggetti nel raggio di 9 m e possono lanciare due incantesimi di Luce o Luce Continua per ogni incantesimo effettivamente preparato. È probabile che chi indossa questo elmo venga attaccato da qualsiasi creatura dell'elemento aria, ma i tipi dell'elemento fuoco (come gli Efreet o le Salamandre) saranno favorevolmente disposti verso chi lo indossa. Utilizzabile da: tutte le classi.
 

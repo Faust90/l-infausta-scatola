@@ -492,7 +492,7 @@ I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili
 *Movimento*: 27 m (9 m)/ 72 m (24 m) quando vola  
 *DVE/PE*: 9/1,100
 
-I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 700 libbre (317 kg) di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 3 m). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
+I Djinn sono uno dei geni del folklore, creature dell'aria (e forse dei piani elementali). Possono trasportare 317 kg di peso e hanno una serie di poteri magici. Un djinni può creare cibo e acqua di alta qualità, così come oggetti di legno e stoffa; può anche creare oggetti di metallo (comprese le monete), ma tutti i metalli creati magicamente scompaiono nel tempo. I Djinn possono evocare delle illusioni che, sebbene siano a loro modo eccellenti, scompaiono quando vengono toccate. I djinn possono trasformarsi in forma gassosa (non possono attaccare o essere attaccati, possono entrare in qualsiasi area che non sia ermeticamente chiusa) e possono diventare invisibili a volontà. Infine, un djinni può trasformarsi in un turbine molto simile a un elementale dell'aria, spazzando via qualsiasi creatura con uno o meno dadi vita (il diametro del turbine è di 3 m). Tipi più potenti di djinn potrebbero essere in grado di concedere desideri limitati o addirittura veri desideri.
 
 ### Donnola, Gigante
 
@@ -645,7 +645,7 @@ Le statistiche di cui sopra sono per il Dvergar comune, senza particolari caratt
 *Movimento*: 27 m (9 m)/ 72 m (24 m) quando vola  
 *DVE/PE*: 12/2,000
 
-Gli Efreet sono un tipo di genio, associato al fuoco (a differenza dei djinn, che hanno poteri sull'aria). Gli efreet possono trasportare fino a mille libbre di peso, e nelle giuste circostanze possono essere asserviti (finché non capiscono come liberarsi). Un efreeti può lanciare *Muro di Fuoco*. Appaiono come umani giganti dai tratti crudeli e dalle barbe con acconciature elaborate, la loro pelle tremolante di fiamme.
+Gli Efreet sono un tipo di genio, associato al fuoco (a differenza dei djinn, che hanno poteri sull'aria). Gli efreet possono trasportare fino a 450 kg di peso, e nelle giuste circostanze possono essere asserviti (finché non capiscono come liberarsi). Un efreeti può lanciare *Muro di Fuoco*. Appaiono come umani giganti dai tratti crudeli e dalle barbe con acconciature elaborate, la loro pelle tremolante di fiamme.
 
 ## Elementali
 

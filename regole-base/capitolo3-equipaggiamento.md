@@ -8,7 +8,7 @@ Ogni personaggio inizia il gioco con 3d6x10 pezzi d'oro, che vengono usati per c
 
 ## Peso dell'equipaggiamento
 
-Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se il tesoro è aggiunto a quest'ultimo, ogni moneta e gemma si presume pesi 0,1 libbre.
+A meno che indicato diversamente, ogni pezzo d'equipaggiamento pesa approssimativamente 5 chili. Se il tesoro è aggiunto a quest'ultimo, ogni moneta e gemma si presume pesi 50 grammi (0,05 kg).
 
 #### Tabella 9: Equipaggiamento Vario
 
@@ -16,14 +16,14 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 | ------------------------------- | -------------- |
 | Aconito, mazzo                  | 10             |
 | Acqua Santa, fiala piccola      | 25             |
-| Aglio (1 libbra)                | 10             |
+| Aglio (0,5 chili)               | 10             |
 | Asta, 3 m                       | 1              |
 | Astuccio (mappa o pergamena)    | 3              |
 | Attrezzi da ladro               | 25             |
 | Belladonna, mazzo               | 10             |
 | Bottiglia (vino), bicchiere     | 1              |
-| Corda (15 m), canapa             | 1              |
-| Corda (15 m), seta               | 5              |
+| Corda (15 m), canapa            | 1              |
+| Corda (15 m), seta              | 5              |
 | Elmo                            | 10             |
 | Lanterna                        | 10             |
 | Libro degli incantesimi (vuoto) | 100            |
@@ -38,15 +38,15 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 | Rampino                         | 5              |
 | Razioni, da viaggio (giorno)    | 1              |
 | Razioni, essiccate (giorno)     | 3              |
-| Sacco (capacità 15 lb.)         | 1              |
-| Sacco (capacità 30 lb.)         | 2              |
+| Sacco (capacità 7,5 kg)         | 1              |
+| Sacco (capacità 15 kg)          | 2              |
 | Sacco a pelo                    | 2              |
 | Simbolo Sacro, argento          | 25             |
 | Simbolo Sacro, legno            | 2              |
 | Specchio (piccolo), acciaio     | 5              |
 | Tenda                           | 20             |
 | Torce (6)                       | 1              |
-| Zaino (capacità 30 lb.)         | 5              |
+| Zaino (capacità 15 kg)          | 5              |
 
 #### Tabella 10: Trasporti
 
@@ -98,10 +98,10 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 | Arma                     | **Danno** | **Cadenza di fuoco\*** | **Gittata**† | **Peso** | **Costo (po)** |
 | ------------------------ | --------- | ---------------------- | ------------ | -------- | -------------- |
 | Accetta                  | 1d6       | 1                      | 3 m          | 5        | 3              |
-| Arco, corto              | 1d6-1     | 2                      | 15 m          | 5        | 25             |
-| Arco, lungo              | 1d6       | 2                      | 21 m          | 5        | 40             |
-| Balestra, leggera        | 1d6-1     | 1                      | 18 m          | 5        | 15             |
-| Balestra, pesante        | 1d6+1     | 1 ogni due Round       | 24 m          | 5        | 25             |
+| Arco, corto              | 1d6-1     | 2                      | 15 m         | 5        | 25             |
+| Arco, lungo              | 1d6       | 2                      | 21 m         | 5        | 40             |
+| Balestra, leggera        | 1d6-1     | 1                      | 18 m         | 5        | 15             |
+| Balestra, pesante        | 1d6+1     | 1 ogni due Round       | 24 m         | 5        | 25             |
 | Borsa (20 pietre)        | -         | -                      | -            | 1        | 1              |
 | Custodia (30 Quadrelli)  | -         | -                      | -            | 1        | 5              |
 | Faretra (20 frecce)      | -         | -                      | -            | 1        | 5              |
@@ -119,12 +119,12 @@ Si presume che un equipaggiamento vario di livello "normale" pesi 10 libbre. Se 
 
 #### Tabella 13: Armature
 
-| Armatura           | **Effetto sulla CA** | **Peso (lb.)\*** | **Costo (po)** |
-| ------------------ | -------------------- | ---------------- | -------------- |
-| Armatura a piastre | +6                   | 75               | 50             |
-| Cotta di maglia    | +4                   | 50               | 30             |
-| Cuoio              | +2                   | 25               | 15             |
-| Scudo              | +1                   | 10               | 10             |
+| Armatura           | **Effetto sulla CA** | **Peso (kg)\*** | **Costo (po)** |
+| ------------------ | -------------------- | --------------- | -------------- |
+| Armatura a piastre | +6                   | 37,5            | 50             |
+| Cotta di maglia    | +4                   | 25              | 30             |
+| Cuoio              | +2                   | 12,5            | 15             |
+| Scudo              | +1                   | 5               | 10             |
 
 \* Un'armatura magica pesa la metà del suo peso normale.
 
