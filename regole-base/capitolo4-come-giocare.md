@@ -30,15 +30,15 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
     - **Ascoltare i rumori**: 1 Turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
     - **Aprire una porta bloccata o chiusa a chiave**: 1 round per tentativo, 2 probabilità di successo su 6.
     - **Cercare trappole**: 1 Round per tentativo, possibilità di successo determinata dalla razza (Dvergar), classe (Ladro) o negoziazione verbale in forma libera (a giudizio dall'Arbitro);
-    - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 Turno per ogni stanza o area di 20 piedi×20 piedi;
-    - **Esaminare a fondo e cercare porte segrete**: 1 Turno per ogni area di 10×10 piedi, 2 probabilità di successo su 6 (o in base alla Sapienza Dvergar);
+    - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 Turno per ogni stanza o area di 6 m x 6 m;
+    - **Esaminare a fondo e cercare porte segrete**: 1 Turno per ogni area di 3 m x 3 m, 2 probabilità di successo su 6 (o in base alla Sapienza Dvergar);
     - **Lanciare un incantesimo**: vedere le descrizioni specifiche degli incantesimi per i tempi di lancio e gli effetti;
     - **Riposare**: tipicamente 1 Turno ogni 6 deve essere speso a riposare, più 1 Turno dopo ogni combattimento  (cioè nessun movimento o altra attività faticosa);
     - **Altre attività**: durata del tentativo e probabilità di successo determinate e risolte specificamente dall'Arbitro.
 3. **Incontri**: Se si verifica un incontro (sia con un mostro errante che con un incontro pianificato), l'Arbitro determina la sorpresa, la distanza, le reazioni e risolve l'incontro normalmente (tramite negoziazione, fuga o combattimento).
 4. **Registrazione**: L'Arbitro registra che è trascorso un Turno e tutte le risorse che il gruppo ha utilizzato (punti ferita persi, durata degli incantesimi che scade, torce che si bruciano e così via).
 
-Poiché ogni Turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso Turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso Turno, per esempio. Le azioni più lunghe possono richiedere diversi Turni per essere risolte (come fare una perlustrazione di un muro di 500 piedi quadrati) e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
+Poiché ogni Turno rappresenta dieci minuti di tempo, i personaggi possono combinare diverse azioni nello stesso Turno se ognuna è ragionevolmente breve. Così un personaggio potrebbe estrarre una spada, avvicinarsi a una porta e tentare di aprirla nello stesso Turno, per esempio. Le azioni più lunghe possono richiedere diversi Turni per essere risolte e i giocatori ragionevoli prenderanno provvedimenti per proteggere un personaggio impegnato in tale attività da attacchi inaspettati.
 
 ### Esplorare le Terre Selvagge
 L'unità di tempo di base per l'esplorazione della natura è il giorno. È una buona idea, se possibile, che l'Arbitro utilizzi una carta contrassegnata da una griglia esagonale ("carta esagonale") per pre-disegnare le mappe della regione selvaggia prima che i giocatori la esplorino. In alternativa, è possibile avere dei punti di interesse uniti da linee e un'indicazione di massima dei giorni di viaggio ("pointcrawl")

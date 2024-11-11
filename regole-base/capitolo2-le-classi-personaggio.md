@@ -258,7 +258,7 @@ I Dvergar sono un popolo avvezzo alla guerra e non hanno restrizioni sulle armat
 
 #### Infravisione
 
-I Dvergar possono utilizzare una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio o addirittura se invisibili. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 60 piedi.
+I Dvergar possono utilizzare una speciale vista che gli permette di vedere il calore emanato dalle creature, potendole così percepepire anche al buio o addirittura se invisibili. Non possono però distinguere i colori, i dettagli delle superfici e le creature che non emanano calore, come non morti o alcuni mostri affini al freddo. Inoltre, il raggio di questa visione è limitato a 20 metri.
 
 #### Sapere Dvergar
 

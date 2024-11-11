@@ -794,11 +794,11 @@ Il beneficiario dell'incantesimo può vedere nell'oscurità più totale. Il bene
 
 #### Tabella 31: Raggio della Scurovisione
 
-| Tirare 1d6 | Raggio di Visione (piedi) |
+| Tirare 1d6 | Raggio di Visione (metri) |
 | :--------: | :-----------------------: |
-|    1-2     |            40             |
-|    3-4     |            50             |
-|    5-6     |            60             |
+|    1-2     |            12             |
+|    3-4     |            15             |
+|    5-6     |            18             |
 
 ### Serratura del Mago
 *Livello:* M2  

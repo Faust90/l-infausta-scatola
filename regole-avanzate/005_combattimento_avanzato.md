@@ -60,7 +60,7 @@ Si presume che le piccole galee portino una singola batteria di artiglieria sul 
 Le navi medievali non sono generalmente costruite per lo speronamento, ma una nave più veloce può speronare una nave più lenta sul fianco, circostanze permettendo. La nave che sperona subisce un danno allo scafo, mentre la nave speronata subisce la metà del danno dello scafo dell'invasore (arrotondato per difetto). Se vengono subiti 10 o più punti scafo, la nave viene forata sotto la linea di galleggiamento e affonda in 3-18 Turni. Nel frattempo, l'abbordaggio può avvenire.
 
 ### Mischia
-Quando le navi si scontrano, si incagliano o si affiancano per l'abbordaggio, si consiglia all'Arbitro di usare la scala di combattimento del Dungeon (1" a 10 piedi e un minuto di tempo) per risolvere qualsiasi combattimento corpo a corpo. I piani del ponte della nave possono essere usati come mappe del Dungeon per questo scopo. Le truppe che fuggono dal combattimento si gettano in mare solo in condizioni di bel tempo vicino a terra, altrimenti si arrendono.
+Quando le navi si scontrano, si incagliano o si affiancano per l'abbordaggio, si consiglia all'Arbitro di usare la scala di combattimento del Dungeon (1" a 3 m e un minuto di tempo) per risolvere qualsiasi combattimento corpo a corpo. I piani del ponte della nave possono essere usati come mappe del Dungeon per questo scopo. Le truppe che fuggono dal combattimento si gettano in mare solo in condizioni di bel tempo vicino a terra, altrimenti si arrendono.
 
 ## Combattimento aereo
 I giocatori con cavalcature alate o altri mezzi volanti possono ingaggiare un combattimento aereo. Tranne gli elementali dell'aria, le creature più grandi volano più goffamente delle creature più piccole. La risalita è lenta e la picchiata è rapida.

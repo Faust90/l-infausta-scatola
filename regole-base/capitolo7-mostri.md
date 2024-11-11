@@ -251,7 +251,7 @@ La chimera è una bestia alata a tre teste; una è una testa di capra, l'altra d
 *Movimento*: 45 m (15 m) 
 *DVE/PE*: 17/3.500
 
-I ciclopi sono giganti alti 20 piedi con un solo grande occhio che causa una scarsa percezione della profondità e una correzione di -2 su tutti i tiri di attacco. Abitano in rovine abbandonate e fuori mano, isole o grotte sottomarine dove si scontrano con gli altri. Sono abili fabbri e se un giocatore offre un dono utile e ottiene una reazione positiva, i ciclopi possono offrire in cambio un'armatura magica. Un ciclope combatte con un'enorme mazza e infligge  punti di danno e può scagliare rocce fino a 20". Apprezzano particolarmente l'oro e il loro tesoro contiene sempre 1d6 x 1.000 po in più.
+I ciclopi sono giganti alti 6 m con un solo grande occhio che causa una scarsa percezione della profondità e una correzione di -2 su tutti i tiri di attacco. Abitano in rovine abbandonate e fuori mano, isole o grotte sottomarine dove si scontrano con gli altri. Sono abili fabbri e se un giocatore offre un dono utile e ottiene una reazione positiva, i ciclopi possono offrire in cambio un'armatura magica. Un ciclope combatte con un'enorme mazza e infligge  punti di danno e può scagliare rocce fino a 20". Apprezzano particolarmente l'oro e il loro tesoro contiene sempre 1d6 x 1.000 po in più.
 
 ### Cinghiale
 
@@ -414,7 +414,7 @@ I dinosauri sono grandi esseri preistorici e possono essere avversari temibili. 
 *Movimento*: 18 m (6 m)  
 *DVE/PE*: 33/8.000
 
-I  Brontosauri sono tra le creature più grandi che camminano sulla terra. Sono lunghi fino a 80 piedi, alti 20 piedi alla spalla e possono pesare più di 30 tonnellate. Passano il loro tempo pascolando la vegetazione delle grandi pianure e delle paludi. 
+I  Brontosauri sono tra le creature più grandi che camminano sulla terra. Sono lunghi fino a 24 metri, alti 6 m alla spalla e possono pesare più di 30 tonnellate. Passano il loro tempo pascolando la vegetazione delle grandi pianure e delle paludi. 
 Fortunatamente, sono erbivori pacifici e difficilmente attaccano se non provocati. Il principale pericolo che presentano è lo schiacciamento o la fuga in preda al panico davanti ai predatori o al fuoco.
 
 ### Dinosuaro, Deinonychus
@@ -437,7 +437,7 @@ I Deinonychus comprendono tutti i carnivori relativamente piccoli che cacciano i
 *Movimento*: 3/ 45 m (15 m)
 *DVE/PE*: 15/2.900
 
-I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste lucertole marine hanno arti a forma di pagaia, code pinnate, e mascelle enormi irte di denti ricurvi. Si trovano in tutte le acque profonde ma devono emergere per respirare aria. Se mai un tiro di attacco supera di 4 o più il numero necessario per colpire, o è comunque un 20, un mosasauro ingoia un bersaglio di dimensioni umane.
+I Mosasauri sono enormi rettili nuotatori fino a 12 metri di lunghezza. Queste lucertole marine hanno arti a forma di pagaia, code pinnate, e mascelle enormi irte di denti ricurvi. Si trovano in tutte le acque profonde ma devono emergere per respirare aria. Se mai un tiro di attacco supera di 4 o più il numero necessario per colpire, o è comunque un 20, un mosasauro ingoia un bersaglio di dimensioni umane.
 
 ### Dinosauro, Pterodattilo
 
@@ -448,7 +448,7 @@ I Mosasauri sono enormi rettili nuotatori fino a 40 piedi di lunghezza. Queste l
 *Movimento*: 9 m (3 m) / 36 m (12 m) quando vola  
 *DVE/PE*: 2/30
 
-Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi che dominano i cieli preistorici. Si trovano nelle regioni costiere e paludose dove nidificano in colonie che si aggrappano alle pareti delle scogliere, alle pareti delle grotte e alle scarpate e sono sempre affamati. Le forme più comuni sono approssimativamente di dimensioni umane con un'apertura alare di 10-25 piedi, ma gli esemplari più grandi sono alti fino a 20 piedi con un'apertura alare fino a 40 piedi.
+Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi che dominano i cieli preistorici. Si trovano nelle regioni costiere e paludose dove nidificano in colonie che si aggrappano alle pareti delle scogliere, alle pareti delle grotte e alle scarpate e sono sempre affamati. Le forme più comuni sono approssimativamente di dimensioni umane con un'apertura alare da 3 a 7,5 metri, ma gli esemplari più grandi sono alti fino a 6 m con un'apertura alare fino a 12 metri.
 
 ### Dinosauro, Stegosauro
 
@@ -459,7 +459,7 @@ Gli pterodattili sono rettili volanti di dimensioni umane e anche più grandi ch
 *Movimento*: 18 m (6 m)  
 *DVE/PE*: 8/800
 
-Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 piedi e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 17 contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe 2 piedi sulla coda che colpiscono al fianco o alla parte posteriore; altrimenti, il danno è ridotto.
+Gli Stegosauri sono grandi erbivori lunghi fino a 9 metri e alti fino a 3 metri e fino a 3 tonnellate di peso. Questi hanno un cervello molto piccolo e una caratteristica serie di piastre simili a scudi lungo la cresta della spina dorsale, che garantiscono CA 17 contro gli attacchi che non provengono dal fianco. Hanno una "mazza" di spine lunghe un metro sulla coda che colpiscono al fianco o alla parte posteriore; altrimenti, il danno è ridotto.
 
 ### Dinosauro, Triceratopo
 
@@ -470,7 +470,7 @@ Gli Stegosauri sono grandi erbivori lunghi fino a 30 piedi e alti fino a 10 pied
 *Movimento*: 27 m (9 m)  
 *DVE/PE*: 16/3.200
 
-I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minaccia al branco. Sono lunghi fino a 30 piedi e alti 10 piedi e possono pesare fino a 10 tonnellate. Un triceratopo ha un enorme cranio con un caratteristico bordo osseo e tre grandi corna che garantiscono CA 17 dal davanti. Se carica un nemico, infligge 4-24 punti di danno; altrimenti, il danno è di 2-12 punti di danno.
+I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minaccia al branco. Sono lunghi fino a 9 m e alti 3 m e possono pesare fino a 10 tonnellate. Un triceratopo ha un enorme cranio con un caratteristico bordo osseo e tre grandi corna che garantiscono CA 17 dal davanti. Se carica un nemico, infligge 4-24 punti di danno; altrimenti, il danno è di 2-12 punti di danno.
 
 ### Dinosauro, Tyrannosaurus Rex
 
@@ -481,7 +481,7 @@ I Triceratopi sono enormi, aggressivi erbivori che abbatteranno qualsiasi minacc
 *Movimento*: 45 m (15 m) 
 *DVE/PE*: 22/5.000
 
-I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili. Sono alti fino a 20 piedi e lunghi 40 piedi e possono pesare fino a 7 tonnellate. Le mascelle contengono decine di zanne simili a pugnali e ogni colpo provoca 4-24 punti di danno. Ad ogni tiro di attacco che supera di 4 o più il numero richiesto per colpire, o che comunque è un 20, ingoia un bersaglio di dimensioni umane.
+I Tyrannosaurus Rex sono enormi lucertole carnivore e predatori davvero temibili. Sono alti fino a 6 m e lunghi 12 m e possono pesare fino a 7 tonnellate. Le mascelle contengono decine di zanne simili a pugnali e ogni colpo provoca 4-24 punti di danno. Ad ogni tiro di attacco che supera di 4 o più il numero richiesto per colpire, o che comunque è un 20, ingoia un bersaglio di dimensioni umane.
 
 ### Djinni
 
@@ -726,7 +726,7 @@ Questi piccoli draghi con le ali di farfalla non sono più grandi di un gatto do
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 2/30
 
-Lunghe 2-3 piedi. Sono industriose scavatrici e raccoglitrici che si presentano in grandi colonie. Fuori dalla tana si incontrano solo i tipi soldato. All'interno della tana, due terzi delle formiche che si incontrano sono operaie da 1 dado vita che non attaccano se non provocate. Il resto sono soldati che attaccheranno tutto ciò che ostacola gli affari della colonia. Un nido ha sempre una formica regina da 10 dadi vita che è immobile e non aggressiva. Le formiche non fuggiranno mai dal loro nido a meno che la regina non venga uccisa.
+Lunghe 1 m. Sono industriose scavatrici e raccoglitrici che si presentano in grandi colonie. Fuori dalla tana si incontrano solo i tipi soldato. All'interno della tana, due terzi delle formiche che si incontrano sono operaie da 1 dado vita che non attaccano se non provocate. Il resto sono soldati che attaccheranno tutto ciò che ostacola gli affari della colonia. Un nido ha sempre una formica regina da 10 dadi vita che è immobile e non aggressiva. Le formiche non fuggiranno mai dal loro nido a meno che la regina non venga uccisa.
 
 ### Gargoyle
 
@@ -1037,7 +1037,7 @@ Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 6/400
 
-I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da caldo a tropicale e sono cacciatori territoriali che seguono pazientemente la preda per attaccare a sorpresa. Possono saltare 30 piedi in avanti ma non amano arrampicarsi e nuotare.
+I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da caldo a tropicale e sono cacciatori territoriali che seguono pazientemente la preda per attaccare a sorpresa. Possono saltare 9 m in avanti ma non amano arrampicarsi e nuotare.
 
 ### Leone, Maculato
 
@@ -1118,7 +1118,7 @@ Queste enormi masse di carne viscida e gommosa sono completamente immuni alle ar
 *Movimento*: 36 m (12 m) , 15   
 *DVE/PE*: >1/10, 4/120
 
-Si trovano in climi deserto e giungla. Le lucertole grandi possono essere fino a 6 piedi di lunghezza e le lucertole giganti fino a 15 piedi. Entrambi i tipi hanno superbe marcature mimetiche e possono mantenere una posizione assolutamente immobile a tempo indeterminato. Se una lucertola gigante dovesse effettuare un tiro di attacco di 20, il suo morso la aggrapperà alla sua preda e non la lascerà andare, causando automaticamente danni fino a quando non essa o la sua prenda non saranno uccise.
+Si trovano in climi deserto e giungla. Le lucertole grandi possono essere fino a 1,5 m di lunghezza e le lucertole giganti fino a 4,5 m. Entrambi i tipi hanno superbe marcature mimetiche e possono mantenere una posizione assolutamente immobile a tempo indeterminato. Se una lucertola gigante dovesse effettuare un tiro di attacco di 20, il suo morso la aggrapperà alla sua preda e non la lascerà andare, causando automaticamente danni fino a quando non essa o la sua prenda non saranno uccise.
 
 ### Lupo
 
@@ -1594,7 +1594,7 @@ I segugi infernale sono cani sputafuoco degli inferi o dei piani inferiori. Oltr
 *Movimento*: 18 m (9 m)/6, 9/9  
 *DVE/PE*: 2/30, 8/800
 
-I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 10 piedi, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1d2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2d6 punti di danno a Round. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1d6 Round.
+I serpenti, giganti e grandi, si incontrano quasi ovunque. I serpenti grandi sono lunghi fino a 3 m, ma generalmente non sono aggressivi, a meno che non vengano cacciati o provocati; hanno il 50% di probabilità di essere velenosi. Le vipere strisciano silenziosamente e sono mortalmente velenose. I costrittori non sono velenosi e il loro morso infligge solo 1d2 punti di danno. Tuttavia, se attacca a sorpresa o se un tiro di attacco supera di 4 o più il numero richiesto per colpire, un costrittore invece circonda il suo bersaglio, schiacciando gli umanoidi per 2d6 punti di danno a Round. I tipi costrittore si possono incontrare anche in mare e sono in grado di accerchiare e distruggere piccole imbarcazioni nelle loro spire in 1d6 Round.
 
 ### Serpente Marino
 
@@ -1649,7 +1649,7 @@ Questi minuscoli uccelli hanno becchi simili ad aghi che usano per infilzare le 
 *Movimento*: 3/9  
 *DVE/PE*: 14/2.600
 
-Le tartarughe drago sono tartarughe di 30 piedi di diametro con colli lunghi e sinuosi e teste di drago. Si trovano solo in grandi masse d'acqua e si nascondono in profonde grotte subacquee.
+Le tartarughe drago sono tartarughe di 9 m di diametro con colli lunghi e sinuosi e teste di drago. Si trovano solo in grandi masse d'acqua e si nascondono in profonde grotte subacquee.
 
 Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante che funziona come il soffio di drago. Può emergere anche sotto una grande nave, avendo una probabilità del 50% di capovolgere l'imbarcazione.
 
@@ -1662,7 +1662,7 @@ Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante c
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 7/600
 
-Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. Sono furbi, agili e superbi cacciatori che seguono pazientemente la preda per attaccare a sorpresa. Si arrampicano e nuotano e possono saltare 10 piedi verso l'alto o 40 piedi in avanti. 
+Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. Sono furbi, agili e superbi cacciatori che seguono pazientemente la preda per attaccare a sorpresa. Si arrampicano e nuotano e possono saltare 3 m verso l'alto o 12 m in avanti. 
 
 ### Tigre dai denti a sciabola
 

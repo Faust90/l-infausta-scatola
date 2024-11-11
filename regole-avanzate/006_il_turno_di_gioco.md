@@ -29,8 +29,8 @@ Molte avventure della *L'Infausta Scatola* coinvolgeranno i personaggi nell'espl
     - **Ascoltare i rumori**: 1 turno per tentativo, 1 probabilità di successo su 6 per gli umani, 2 probabilità su 6 per i semi-umani;
     - **Aprire una porta bloccata o chiusa a chiave**: 1 round per tentativo, 2 probabilità di successo su 6.
     - **Cercare trappole**: 1-4 round per tentativo, possibilità di successo determinata dalla razza (nano), classe (ladro o assassino) o negoziazione verbale in forma libera (a discrezione dall'Arbitro);
-    - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 turno per ogni stanza o area di 20 piedi×20 piedi;
-    - **Esaminare a fondo e cercare porte segrete**: 1 turno per ogni area di 10×10 piedi, 2 probabilità di successo su 6 (4 su 6 per elfi);
+    - **Esaminare casualmente (e mappare) una stanza o un'area**: 1 turno per ogni stanza o area di 6 m×6 m;
+    - **Esaminare a fondo e cercare porte segrete**: 1 turno per ogni area di 10×3 m, 2 probabilità di successo su 6 (4 su 6 per elfi);
     - **Lanciare un incantesimo**: vedere le descrizioni specifiche degli incantesimi per i tempi di lancio e gli effetti;
     - **Riposare**: tipicamente 1 turno ogni 6 deve essere speso a riposare, più 1 turno dopo ogni combattimento  (cioè nessun movimento o altra attività faticosa);
     - **Altre attività**: durata del tentativo e probabilità di successo determinate e risolte specificamente dall'Arbitro.
