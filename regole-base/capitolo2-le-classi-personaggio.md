@@ -32,13 +32,11 @@ I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più
 #### Restrizioni su armi e armature
 I Bardi sono deboli in battaglia. Non possono usare armi a due mani, archi lunghi e balestre pesanti. Possono indossare solo armature di cuoio.
 
-#### Incoraggiare
-Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incoraggia e rafforza i suoi alleati che riescono a sentirla: diventano immuni alla paura e hanno +2 ai Tiri per colpire e ai Tiri Salvezza. Se il Bardo viene distratto o subisce danni, l'incoraggiamento viene interrotto fino a che non ricomincia a suonare
+#### Strumento musicale
+Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare queste due canzoni magiche:
 
-#### Incanto
-Ogni Bardo ha uno strumento musicale a discrezione del giocatore. In qualsiasi momento, può suonare una canzone magica che incanta le creature con DV inferiore o uguale al suo livello. Possono anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare 5 mostri con 1 DV). Finché suona il suo strumento, le creature incantate vi seguiranno senza attaccare. Se il Bardo viene distratto, subisce danni o se le creature vengono attaccate dagli alleati del Bardo, l'incanto si rompe e la canzone smette di funzionare: in questo caso non è possibile Incantare di nuovo la creatura fino alla fine del Turno corrente.
-
-Non potete incantare non morti, demoni, i golem, le melme e le creature che non hanno udito. Nelle situazioni dubbie l'Arbitro ha l'ultima parola a riguardo.
+- **Incoraggiare:** Suonando, il Bardo incoraggia e rafforza i suoi alleati che riescono a sentire la musica: gli alleati diventano immuni alla paura e hanno +2 ai Tiri per colpire e ai Tiri Salvezza. Se il Bardo viene distratto o subisce danni, l'incoraggiamento viene interrotto fino a che non ricomincia a suonare
+- **Incanto:** Suonando, il Bardo incanta le creature con DV inferiore o uguale al suo livello. Può anche dividere questo effetto tra più mostri più deboli (per esempio: un Bardo di livello 5 può incantare 5 mostri con 1 DV). Finché suona il suo strumento, le creature incantate seguiranno il Bardo senza attaccare. Se viene distratto, subisce danni o se le creature vengono attaccate dagli alleati del Bardo, l'incanto si rompe e la canzone smette di funzionare: in questo caso non è possibile Incantare di nuovo la creatura fino alla fine del Turno corrente. Non potete incantare non morti, demoni, i golem, le melme e le creature che non hanno udito. Nelle situazioni dubbie l'Arbitro ha l'ultima parola a riguardo.
 
 #### Sapienza
 I Bardi hanno una profonda conoscenza di diverse cose - leggende, magia e creature. Ogni qualvolta si deve determinare se un oggetto, un luogo, una creatura o un incantesimo fanno parte delle conoscenze del Bardo, l'Arbitro tira 1d6. Se il risultato del tiro è uguale o inferiore al punteggio dell'abilità di Sapienza del Bardo, l'Arbitro rivela informazioni utili sull'oggetto o sul luogo.
@@ -184,7 +182,7 @@ Per i Chierici allineati legalmente, se la tabella indica una "D" allora la crea
 
 ## Il Campione
 
-Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone vichingo, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Campioni finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Campione del gruppo, il lavoro sporco spetta a voi.
+Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Campioni finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Campione del gruppo, il lavoro sporco spetta a voi.
 
 #### Tabella 5: Avanzamento del Campione
 
@@ -216,7 +214,6 @@ I Campioni possono mettersi in una posizione strategica per un Round, durante il
 #### Attacchi aggiuntivi
 
 I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
-
 
 #### Tiro salvezza
 
@@ -509,5 +506,5 @@ Un Silvano di nono livello o superiore può diventare custode di un boschetto sa
 
 #### Bonus di esperienza per la Saggezza
 
-La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di CostSaggezzaituzione di 15+ garantisce un ulteriore 5% di esperienza.
+La Saggezza è l'Attributo Primario dei Silvani, il che significa che un punteggio di Saggezza di 15+ garantisce un ulteriore 5% di esperienza.
 
