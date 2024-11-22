@@ -853,7 +853,7 @@ Gli gnoll sono crudeli umanoidi con teste simili a orrende iene sbavanti. Posson
 
 I goblin sono piccole creature (alte circa un 120 cm ) che abitano i boschi oscuri, le caverne sotterranee e i regni ultraterreni dei Folletti. Hanno una grossa testa sproporzionata e una bocca piena di piccoli denti acuminati. Attaccano con un -1 "per colpire" in piena luce del sole.
 
-I capi goblin sono sciamani che hanno 2 DV e lanciano incantesimi come un Chierico di 2° Livello. Venerano una divinità del mondo fatato che non è in grado di ascoltare le loro preghiere dal mondo materiale, per questo non è ben chiaro chi conceda agli sciamani le loro capacità clericali.
+I capi goblin sono sciamani che hanno 2 DV e lanciano incantesimi come un Chierico di 2° Livello. Venerano una divinità del mondo fatato che non dovrebbe essere in grado di ascoltare le loro preghiere dal mondo materiale: per questo non è ben chiaro chi conceda agli sciamani le loro capacità clericali.
 
 ## Golem
 
@@ -980,7 +980,7 @@ I grifoni hanno il corpo di un leone, con le ali, la testa e le zampe anteriori 
 
 Uno Juggernaut è una creatura incredibilmente massiccia di minerale solido. Questi bestioni si avvistano da soli e possono assumere qualsiasi forma tra cui un grande cavaliere corazzato, un mammut e un rinoceronte. Un juggernaut è così massiccio che si muove su enormi rulli di pietra e tutto ciò che cade sul suo cammino viene schiacciato completamente sotto il suo peso. Era stata creata come arma finale durante una grande guerra tra arcimaghi, nessuno sa se sia stata effettivamente utilizzata o no.
 
-Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un incantesimo di uccisione o un incantesimo migliorato di Bloccare le Persone che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
+Indipendentemente dalla sua forma, un juggernaut ha sempre un enorme gioiello scuro apposto su di esso; tra gli occhi, nel petto, o in cima ad un elmo, un bastone, una spada, e così via. Il gioiello brilla di una luce eterea e può emettere un *Incantesimo della Morte* o un incantesimo migliorato di *Bloccare le Persone* che colpirà 2d6 uomini che avranno -2 al Tiro Salvezza, oppure bersaglia un singolo umanoide che avrà però -6. I malcapitati così trattenuti saranno presto schiacciati sotto lo juggernaut. Se il gioiello viene in qualche modo rimosso da uno juggernaut non ha proprietà magiche ma vale 2d6 x 10.000 po.
 
 Se si arriva a combattere in mischia, lo juggernaut infligge uno schiacciamento di 5d6 punti di danno. Ignora il 90% degli incantesimi lanciati contro di lui e può essere danneggiato solo da armi magiche di qualità +3 o superiore. Uno juggernaut non deve mai effettuare prove di Morale.
 
@@ -1004,7 +1004,7 @@ Le Idre sono grandi creature simili a lucertole o serpenti con 7-12 teste. Ogni 
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 9/1,100
 
-Gli inseguitori invisibili si trovano generalmente solo come risultato dell'incantesimo Inseguitore Invisibile. Sono esseri volanti invisibili creati per seguire un singolo comando fatto dall'incantatore.
+Gli inseguitori invisibili si trovano generalmente solo come risultato dell'incantesimo *Inseguitore Invisibile*. Sono esseri volanti invisibili creati per seguire un singolo comando fatto dall'incantatore.
 
 ### Ippogrifo
 
@@ -1032,7 +1032,7 @@ Questi enormi mostri marini assomigliano a calamari di dimensioni inimmaginabili
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 5+2  
-*Attacchi*: Fauci, artigli (1d6+1. 2d6 se tiro per colpire è 20 o CA bersaglio+4)  
+*Attacchi*: Fauci, artigli (1d6+1. 2d6 se tiro per colpire è 20)  
 *Speciale*: Nessuno  
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 6/400
@@ -1043,7 +1043,7 @@ I leoni sono i grandi felini delle pianure. Sono presenti in climi che vanno da 
 
 *Classe Armatura*: 14  
 *Dadi Vita*: 6+2  
-*Attacchi*: Fauci, artigli (1d6+2. 2d6+2 se tiro per colpire è 20 o CA bersaglio+4)   
+*Attacchi*: Fauci, artigli (1d6+2. 2d6+2 se tiro per colpire è 20)   
 *Speciale*: Vedi sotto  
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 7/600
@@ -1336,7 +1336,7 @@ Gli orchi sono malvagi, brutali e, nonostante l'aspetto grottesco, particolarmen
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 5+5  
-*Attacchi*: Zampe (1d6+2. 2d6+2 se tiro per colpire è 20 o CA bersaglio+4)   
+*Attacchi*: Zampe (1d6+2. 2d6+2 se tiro per colpire è 20)   
 *Speciale*: Nessuno   
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 6/400
@@ -1347,7 +1347,7 @@ Gli orsi sono onnivori ma preferiscono la carne. Hanno una vista piuttosto scars
 
 *Classe Armatura*: 13 
 *Dadi Vita*: 6+6  
-*Attacchi*: Artigli (2d6-1. 3d6 se tiro per colpire è 20 o CA bersaglio+4)   
+*Attacchi*: Artigli (2d6-1. 3d6 se tiro per colpire è 20)   
 *Speciale*: Ultimo colpo prima di morire   
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 7/600
@@ -1657,7 +1657,7 @@ Una tartaruga drago ha un soffio a forma di cono di 9"×3" di vapore scottante c
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 5+4  
-*Attacchi*: Artigli (1d6+1. 2d6 se tiro per colpire è 20 o CA bersaglio+4)    
+*Attacchi*: Artigli (1d6+1. 2d6 se tiro per colpire è 20)    
 *Speciale*: Saltatore   
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 7/600
@@ -1668,7 +1668,7 @@ Le tigri sono grandi felini che si trovano nelle foreste da fredde a tropicali. 
 
 *Classe Armatura*: 13  
 *Dadi Vita*: 7+2  
-*Attacchi*: Denti, artigli (1d6+2. 2d6+2 se tiro per colpire è 20 o CA bersaglio+4)    
+*Attacchi*: Denti, artigli (1d6+2. 2d6+2 se tiro per colpire è 20)    
 *Speciale*: Vedi sotto   
 *Movimento*: 36 m (12 m)   
 *DVE/PE*: 8/800

@@ -9,7 +9,7 @@ parent: Regole Base
 ## Il Bardo
 Menestrelli, artisti, poeti... i Bardi hanno molti nomi. Li incontrerete nella maggior parte delle taverne dove cantano gesta di potenti uccisori di draghi e di terre mistiche oltre l'orizzonte conosciuto.
 
-I Bardi sono avventurieri purosangue e Cacciatori di tesori... o per essere più precisi, *Cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
+I Bardi sono avventurieri purosangue e cacciatori di tesori... o per essere più precisi, *cacciatori di avventure*. I Bardi sono esperti in molte aree e sono custodi delle tradizioni. Giocano un ruolo di supporto nel gruppo - non sono poi così forti in battaglia, ma sono maestri quando si tratta di risolvere enigmi, rivelare segreti o barattare con personaggi non giocanti.
 
 #### Tabella 3: Avanzamento del Bardo
 
@@ -50,61 +50,54 @@ Un Bardo di nono livello o superiore può scrivere un libro che racconti le legg
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Bardi, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
 
-## Il Cacciatore
-A differenza dei combattenti e dei Campioni, i Cacciatori non passano il loro tempo a padroneggiare le armi, le arti marziali o a cercare la gloria. Invece, questi eroi studiano la vita e la biologia dei mostri... per trovare un modo per ucciderli il più velocemente possibile. I Cacciatori preferiscono seguire le loro prede e combattere i nemici usando armi a distanza o lunghe.
+## Il Campione
 
-I Cacciatori non sono solo abili combattenti di supporto - possono anche seguire le tracce dei mostri, e quindi preparare il gruppo al peggio...
+Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Campioni finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Campione del gruppo, il lavoro sporco spetta a voi.
 
-#### Tabella 4: Avanzamento del Cacciatore
+#### Tabella 5: Avanzamento del Campione
 
-| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Caccia |
-| :-----: | :--------------: | :-------: | :---------: | :----: |
-|    1    |        0         |     1     |     +0      |   2    |
-|    2    |      2.000       |     2     |     +1      |   2    |
-|    3    |      4.000       |     3     |     +2      |   2    |
-|    4    |      8.000       |     4     |     +3      |   3    |
-|    5    |      16.000      |     5     |     +4      |   3    |
-|    6    |      32.000      |     6     |     +5      |   3    |
-|    7    |      64.000      |     7     |     +6      |   4    |
-|    8    |     128.000      |     8     |     +7      |   4    |
-|    9    |     256.000      |     9     |     +8      |   4    |
-|   10    |     512.000      |    10     |     +9      |   5    |
+| Livello | Punti Esperienza | Dado Vita | Per Colpire | Attacchi aggiuntivi |
+| ------- | ---------------- | :-------: | :---------: | :-----------------: |
+| 1       | 0                |    1+1    |     +0      |          0          |
+| 2       | 2,000            |     2     |     +1      |          0          |
+| 3       | 4,000            |     3     |     +2      |          1          |
+| 4       | 8,000            |     4     |     +3      |          1          |
+| 5       | 16,000           |     5     |     +4      |          1          |
+| 6       | 32,000           |     6     |     +5      |          2          |
+| 7       | 64,000           |     7     |     +6      |          2          |
+| 8       | 128,000          |     8     |     +7      |          2          |
+| 9       | 256,000          |     9     |     +8      |          3          |
+| 10      | 512,000          |    10     |     +9      |          3          |
 
+### Abilità del Campione
 
-### Abilità del Cacciatore
+#### Restrizioni su Armi e Armature
 
-#### Restrizioni su armi e armature
-I Cacciatori possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché hanno bisogno di mobilità.
+I Campioni sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
 
-#### Caccia
-I Cacciatori possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Cacciatore controlla il terreno vicino, effettua un tiro di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate e in quante sono.
+#### Posizione strategica
 
-#### Trofei
-Ogni volta che il Cacciatore e il suo gruppo uccidono un mostro, può prendere un piccolo trofeo (osso, pelliccia, dente...) dal cadavere di quella creatura. L'Arbitro comunica al Cacciatore in quale categoria rientra il trofeo:
+I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
+* Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +2.
+* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -2.
+  
+#### Attacchi aggiuntivi
 
-- Demone
-- Essere magico (elementale, golem)
-- Non-morto
-- Gigante (gigante, orco)
-- Draconico (coboldo, drago, viverne)
-- Pelle verde (goblin, orchi, troll)
-- Animale
-- Sottomondo (trogloditi, melme)
-- Folletti (banshee, nixie, pixie, goblin, bugbear)
-- Costrutti (Golem, robot)
-
-Un Cacciatore può ottenere un solo trofeo da ogni cadavere. Dopo aver raccolto 20 trofei che rientrano in una singola categoria, è ufficialmente dichiarato Cacciatore di questo tipo di mostri (Cacciatore di demoni, Cacciatore di giganti ecc.). Quando combattono un mostro di una categoria padroneggiata I Cacciatori ricevono un bonus ai danni inflitti di 1d6. I Cacciatori possono avere più titoli.
+I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
 
 #### Tiro salvezza
-I Cacciatori ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
 
-#### Uccisore
-Un Cacciatore di nono livello o di livello superiore può chiamarsi Uccisore. 
+I Campioni ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno.
 
-I Cacciatori viaggiano per il mondo e sono rispettati da tutti. Le gilde e i nobili danno sempre il benvenuto agli Uccisori e le taverne permettono a questi eroi di soggiornare gratuitamente.
+#### Costruire un Castello
 
-#### Bonus di esperienza per la Destrezza
-La Destrezza è l'attributo principale dei Cacciatori, il che significa che un punteggio di Destrezza di 15+ garantisce un ulteriore 5% di esperienza.
+Al nono livello, un Campione che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
+Il personaggio può scegliere di attirare un seguito di soldati, che giureranno la loro lealtà come fedeli seguaci.
+
+### Bonus di Esperienza per la Forza
+
+La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
+
 
 ## Il Chierico
 
@@ -180,57 +173,10 @@ Per i Chierici allineati legalmente, se la tabella indica una "D" allora la crea
 | 10  | Lich        | –                    | –   | –   | –   | –   | –   | –   | 17  | 15  | 13  |
 | 11+ | Speciali    | –                    | –   | –   | –   | –   | –   | –   | -   | 17  | 15  |
 
-## Il Campione
-
-Il Campione è un guerriero, addestrato alla battaglia e all'uso di armature e armi. Il vostro personaggio potrebbe essere un feroce predone, un samurai vagabondo o un cavaliere medievale. Poiché è la meglio equipaggiata tra tutte le classi personaggio a infliggere e assorbire danni, i Campioni finiscono spesso in prima linea, affrontando draghi, goblin e cultisti malvagi. Se siete il Campione del gruppo, il lavoro sporco spetta a voi.
-
-#### Tabella 5: Avanzamento del Campione
-
-| Livello | Punti Esperienza | Dado Vita | Per Colpire | Attacchi aggiuntivi |
-| ------- | ---------------- | :-------: | :---------: | :-----------------: |
-| 1       | 0                |    1+1    |     +0      |          0          |
-| 2       | 2,000            |     2     |     +1      |          0          |
-| 3       | 4,000            |     3     |     +2      |          1          |
-| 4       | 8,000            |     4     |     +3      |          1          |
-| 5       | 16,000           |     5     |     +4      |          1          |
-| 6       | 32,000           |     6     |     +5      |          2          |
-| 7       | 64,000           |     7     |     +6      |          2          |
-| 8       | 128,000          |     8     |     +7      |          2          |
-| 9       | 256,000          |     9     |     +8      |          3          |
-| 10      | 512,000          |    10     |     +9      |          3          |
-
-### Abilità del Campione
-
-#### Restrizioni su Armi e Armature
-
-I Campioni sono addestrati alla guerra e, come tali, non hanno restrizioni sul tipo di armi o armature che possono utilizzare.
-
-#### Posizione strategica
-
-I Campioni possono mettersi in una posizione strategica per un Round, durante il quale:
-* Se in posizione offensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un bonus di +2.
-* Se in posizione difensiva, tutti i tiri per colpire fatti e subiti dal Campione hanno un malus di -2.
-  
-#### Attacchi aggiuntivi
-
-I Campioni ottengono un attacco aggiuntivo per Round come indicato nella tabella 5, ma solo con le armi da mischia.
-
-#### Tiro salvezza
-
-I Campioni ricevono un bonus di +2 ai Tiri Salvezza contro Morte e Veleno.
-
-#### Costruire un Castello
-
-Al nono livello, un Campione che sceglie di costruire un castello si considera aver raggiunto il grado di "barone" o "baronessa", conferitogli dal sovrano o dal monarca locale.
-Il personaggio può scegliere di attirare un seguito di soldati, che giureranno la loro lealtà come fedeli seguaci.
-
-### Bonus di Esperienza per la Forza
-
-La Forza è l'Attributo Primario dei Campioni, il che significa che un punteggio di Forza di 15+ garantisce un 5% di esperienza aggiuntiva.
 
 ## Il Dvergar
 
-Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura, mentre la loro pelle è del colore della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per realizzare gioielli da indossare: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili un corpo adornato dei più pregiati materiali.
+Umanoidi tozzi e alti mediamente 120 cm. Il loro corpo è coperto di folta peluria e una lunga barba scura, mentre la loro pelle è del colore della terra. Vivono in cunicoli sotterranei e cercano metalli e pietre preziose per realizzare gioielli da indossare: non c'è niente di più soddisfacente per un Dvergar di poter ostentare con i suoi simili tesori e gingilli dei più pregiati materiali.
 
 #### Tabella 5: Avanzamento del Dvergar
 
@@ -414,6 +360,50 @@ Un Paladino di decimo livello diventa un esemplare dell'ordine. A questo livello
 
 #### Bonus di esperienza per il Carisma
 Il Carisma è l'attributo principale dei Paladini, il che significa che un punteggio di Carisma di 15+ garantisce un 5% di esperienza aggiuntiva.
+
+## Il Porcone
+
+I Porconi sono una razza di maiali antropomorfi che esiste dopo un curioso quanto incredibile incidente presso la torre di un antico arcimago. Da quel momento, in tutta la regione, c'è una possibilità su 5000 che da una famiglia umana poco religiosa nasca un Porcone. Tuttavia, oggigiorno la maggiorparte dei Porconi vive in tribù nomadi che prosperano in autonomia nelle terre selvagge. Sono barbari ed eccellenti cacciatori con armi da lancio. I Porconi non sono solo abili combattenti di supporto - possono anche seguire le tracce dei mostri, e quindi preparare il gruppo al peggio...
+
+#### Tabella 4: Avanzamento del Porcone
+
+| Livello | Punti Esperienza | Dadi Vita | Per Colpire | Caccia |
+| :-----: | :--------------: | :-------: | :---------: | :----: |
+|    1    |        0         |     1     |     +0      |   2    |
+|    2    |      2.000       |     2     |     +1      |   2    |
+|    3    |      4.000       |     3     |     +2      |   2    |
+|    4    |      8.000       |     4     |     +3      |   3    |
+|    5    |      16.000      |     5     |     +4      |   3    |
+|    6    |      32.000      |     6     |     +5      |   3    |
+|    7    |      64.000      |     7     |     +6      |   4    |
+|    8    |     128.000      |     8     |     +7      |   4    |
+|    9    |     256.000      |     9     |     +8      |   4    |
+|   10    |     512.000      |    10     |     +9      |   5    |
+
+### Abilità del Porcone
+
+#### Restrizioni su armi e armature
+I Porconi possono usare qualsiasi arma. Non possono indossare armature più pesanti della cotta di maglia, poiché preferiscono avere il corpo libero da impedimenti.
+
+#### Caccia
+I Porconi possono cercare di individuare orme o altri segni di mostri mentre sono nelle Terre Selvagge. Ogni volta che il Porcone controlla il terreno vicino, effettua un tiro di 1d6 e confronta il risultato con il livello attuale di Caccia. Se il tiro è uguale o inferiore, l'Arbitro informa i giocatori riguardo a quali creature sono state qui recentemente, dove sono andate e in quante sono.
+
+#### I Porconi tirano te!
+
+I Porconi sono particolarmente bravi a usare armi da lancio come giavellotti, martelli da guerra, dardi o addirittura proiettili per fionda (senza dover usare l'arma vera e propria!). Questo gli concede +1 ai danni inflitti e + 3 m di gittata con tutte le suddente armi. 
+
+Sono sufficientemente forti da poter lanciare grossi sassi (se disponibili) e piccole creature (come Silvani, Goblin, cani di grossa taglia e così via) fino a 6 metri di distanza. In questo caso, il Porcone non può muoversi in quel Round di combattimento e il proiettile infligge 2d6+1 danni quando colpisce una creatura (danni che vengono subiti anche dall'eventuale individuo lanciato).
+
+#### Tiro salvezza
+I Porconi ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
+
+#### Gran Porcone
+Un Porcone di nono livello o di livello superiore può chiamarsi Gran Porcone. 
+
+I Gran Porconi sono rispettati da tutte le tribù Porcone e anche dalla maggiorparte dei politici umani. Attireranno con sé un seguito di giovani Porconi da addestrare.
+
+#### Bonus di esperienza per la Forza
+La Forza è l'attributo principale dei Porconi, il che significa che un punteggio di Forza di 15+ garantisce un ulteriore 5% di esperienza.
 
 
 ## Il Raganellide 

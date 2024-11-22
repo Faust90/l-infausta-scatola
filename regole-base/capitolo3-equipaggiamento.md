@@ -91,7 +91,7 @@ A meno che indicato diversamente, ogni pezzo d'equipaggiamento pesa approssimati
 
 \* Arma a due mani
 
-‡ Può essere usata sia come arma da mischia che come arma a distanza (vedi sotto)
+† Può essere usata sia come arma da mischia che come arma a distanza (vedi sotto)
 
 #### Tabella 12: Armi a distanza
 
