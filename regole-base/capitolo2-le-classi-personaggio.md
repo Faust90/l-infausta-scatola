@@ -395,7 +395,7 @@ I Porconi sono particolarmente bravi a usare armi da lancio come giavellotti, ma
 Sono sufficientemente forti da poter lanciare grossi sassi (se disponibili) e piccole creature (come Silvani, Goblin, cani di grossa taglia e così via) fino a 6 metri di distanza. In questo caso, il Porcone non può muoversi in quel Round di combattimento e il proiettile infligge 2d6+1 danni quando colpisce una creatura (danni che vengono subiti anche dall'eventuale individuo lanciato).
 
 #### Tiro salvezza
-I Porconi ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti delle Creature per cui ha almeno un Trofeo.
+I Porconi ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti di veleni e pericoli naturali (frane, valanghe, alberi che cadono e qualunque cosa l'Arbitro ritenga sia applicabile)
 
 #### Gran Porcone
 Un Porcone di nono livello o di livello superiore può chiamarsi Gran Porcone. 
