@@ -225,14 +225,14 @@ Per la classe dei personaggi incontrati, tirare un d6 per il loro allineamento: 
 | Tiro  | Aperto, Foresta |   Fiume, Costa   | Palude, Giungla  | Colline, Montagne, Arido | Civilizzato |
 | :---: | :-------------: | :--------------: | :--------------: | :----------------------: | :---------: |
 |   1   |      Orchi      |      Orchi       |      Orchi       |        Orco Mago         |   Goblin    |
-|   2   |      Gnoll      |      Gnoll       |     Bugbear      |          Gnoll           |    Nani     |
+|   2   |      Gnoll      |      Gnoll       |     Bugbear      |          Gnoll           |   Dvergar   |
 |   3   |    Hobgoblin    |     Orchetti     |     Orchetti     |        Hobgoblin         |    Elfi     |
-|   4   |      Elfi       | Uomini Lucertola | Uomini Lucertola |           Nani           |   Coboldi   |
-|   5   |      Gnomi      |    Hobgoblin     | Uomini Lucertola |         Coboldi          |    Gnomi    |
-|   6   |    Orchetti     |      Troll       |     Coboldi      |         Orchetti         |      —      |
+|   4   |     Silvani     | Uomini Lucertola | Uomini Lucertola |         Dvergar          |   Silvani   |
+|   5   |   Raganellidi   |    Hobgoblin     | Uomini Lucertola |         Coboldi          |   Porconi   |
+|   6   |    Orchetti     |      Troll       |     Coboldi      |         Orchetti         | Raganellidi |
 |   7   |      Sidhe      |        —         |    Hobgoblin     |          Goblin          |      —      |
 |   8   |     Coboldi     |        —         |      Troll       |          Troll           |      —      |
-|   9   |     Bugbear     |        —         |        —         |          Orchi           |      —      |
+|   9   |     Bugbear     |        —         |     Silvani      |          Orchi           |      —      |
 |  10   |      Troll      |        —         |        —         |        Minotauri         |      —      |
 
 

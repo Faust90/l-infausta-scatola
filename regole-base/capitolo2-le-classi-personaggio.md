@@ -370,15 +370,15 @@ I Porconi sono una razza di maiali antropomorfi che esiste dopo un curioso quant
 | Livello | Punti Esperienza | Dadi Vita | Per Colpire | Caccia |
 | :-----: | :--------------: | :-------: | :---------: | :----: |
 |    1    |        0         |     1     |     +0      |   2    |
-|    2    |      2.000       |     2     |     +1      |   2    |
-|    3    |      4.000       |     3     |     +2      |   2    |
-|    4    |      8.000       |     4     |     +3      |   3    |
-|    5    |      16.000      |     5     |     +4      |   3    |
-|    6    |      32.000      |     6     |     +5      |   3    |
-|    7    |      64.000      |     7     |     +6      |   4    |
-|    8    |     128.000      |     8     |     +7      |   4    |
-|    9    |     256.000      |     9     |     +8      |   4    |
-|   10    |     512.000      |    10     |     +9      |   5    |
+|    2    |      2.500       |     2     |     +1      |   2    |
+|    3    |      5.000       |     3     |     +2      |   2    |
+|    4    |      10.000      |     4     |     +3      |   3    |
+|    5    |      20.000      |     5     |     +4      |   3    |
+|    6    |      40.000      |     6     |     +5      |   3    |
+|    7    |      80.000      |     7     |     +6      |   4    |
+|    8    |     160.000      |     8     |     +7      |   4    |
+|    9    |     320.000      |     9     |     +8      |   4    |
+|   10    |     640.000      |    10     |     +9      |   5    |
 
 ### Abilità del Porcone
 
@@ -392,7 +392,7 @@ I Porconi possono cercare di individuare orme o altri segni di mostri mentre son
 
 I Porconi sono particolarmente bravi a usare armi da lancio come giavellotti, martelli da guerra, dardi o addirittura proiettili per fionda (senza dover usare l'arma vera e propria!). Questo gli concede +1 ai danni inflitti e + 3 m di gittata con tutte le suddente armi. 
 
-Sono sufficientemente forti da poter lanciare grossi sassi (se disponibili) e piccole creature (come Silvani, Goblin, cani di grossa taglia e così via) fino a 6 metri di distanza. In questo caso, il Porcone non può muoversi in quel Round di combattimento e il proiettile infligge 2d6+1 danni quando colpisce una creatura (danni che vengono subiti anche dall'eventuale individuo lanciato).
+Sono sufficientemente forti da poter lanciare grossi sassi (se disponibili) e piccole creature indifese o volontarie (come Silvani, Goblin, cani di grossa taglia e così via) fino a 6 metri di distanza. In questo caso, il Porcone non può muoversi in quel Round di combattimento e il proiettile infligge 2d6+1 danni quando colpisce una creatura (danni che vengono subiti anche dall'eventuale individuo lanciato).
 
 #### Tiro salvezza
 I Porconi ricevono un bonus di +2 ai Tiri Salvezza contro gli effetti di veleni e pericoli naturali (frane, valanghe, alberi che cadono e qualunque cosa l'Arbitro ritenga sia applicabile)

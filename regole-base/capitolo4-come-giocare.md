@@ -94,23 +94,23 @@ L'Arbitro dovrebbe dimezzare la normale velocità di movimento per i viaggi su t
 
 ### Porte dei dungeon
 
-Le porte dei dungeon sono grandi, pesanti e anche se sbloccate sono difficili da aprire. Umani ed elfi apriranno una porta aperta con un tiro di 1-2 su 6, mentre nani e halfling hanno una probabilità di base di 1 su 6. A discrezione dell'Arbitro, i personaggi possono applicare qualsiasi bonus o penalità di forza a questo tiro. Si presume che la maggior parte dei mostri possa facilmente aprire le porte e che, una volta aperte, le porte si richiudano da sole.
+Le porte dei dungeon sono grandi, pesanti e occasionalmente possono essere bloccate o incastrate. Aprire una porta bloccata richiede un tiro di 1-2 su 1d6. I personaggi applicano il bonus o penalità di For a questo tiro. Si presume che la maggior parte dei mostri possa facilmente aprire le porte.
 
 ### Luce
 
-Torce e lanterne illuminano un raggio di 9 m. Le torce bruciano per un'ora (sei Turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 Turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio, a meno che non siano incantati o asserviti ai giocatori.
+Torce e lanterne illuminano un raggio di 9 m. Le torce bruciano per un'ora (sei Turni), mentre le lanterne bruciano una pinta di olio in quattro ore (24 Turni). I giocatori che usano una fonte di luce non possono normalmente sorprendere i mostri, ma possono comunque essere sorpresi. Si presume che tutti i mostri vedano al buio.
 
-### Ascolto alle porte
+### Origliare dalle porte
 
-Gli umani hanno 1 probabilità su 6 di sentire i rumori, i non umani sentono i rumori con un tiro di 1-2 su 6. Notate che il successo indica che il giocatore ha sentito qualcosa, ma potrebbe non sapere cosa ha causato il suono.
+Gli umani hanno 1 probabilità su 6 di sentire i rumori da dietro una porta, i Silvani sentono i rumori con un tiro di 1-2 su 6. Notate che il successo indica che il giocatore ha sentito qualcosa, ma potrebbe non sapere cosa ha causato il suono.
 
 ### Porte segrete
 
-Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Gli Elfi, tuttavia, trovano le porte segrete con un tiro di 1-4 su un d6 quando cercano o possono percepire con un 1-2 su un d6 che qualcosa non va semplicemente passando vicino a una porta segreta. Ci vuole un Turno per ogni area perlustrata di 3 m x 3m.
+Le porte segrete possono essere individuate da qualsiasi giocatore che ne stia attivamente cercando una con un tiro di 1-2 su un d6. Ci vuole un Turno per ogni area perlustrata di 3 m x 3m.
 
 ### Trappole
 
-La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i nani possono rilevare le trappole di pietra in modo simile a come gli elfi rilevano le porte segrete - hanno una probabilità di 1-4 su un d6 di rilevare tali trappole se cercano attivamente, o 1-2 su 6 se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 3 m di caduta.
+La maggior parte delle trappole e delle fosse si attivano con un tiro di 1-2 su un d6 quando un giocatore passa sopra il meccanismo di attivazione. Nota che i Dvergar hanno una probabilità pari al loro Sapere Dvergar di rilevare tali trappole se cercano attivamente, con un -1 al tiro se semplicemente ci passano accanto. I giocatori che cadono in una trappola prendono 1d6 danni ogni 3 m di caduta.
 
 ### Nota sulla ricerca di porte segrete e trappole
 
@@ -144,21 +144,13 @@ Se il PG o il PNG aveva dichiarato l'intenzione di lanciare un incantesimo in qu
 
 Oltre ai vari mezzi magici per ripristinare i PF, un personaggio recupera 1 PF per ogni notte di riposo. Una settimana di riposo completo ripristinerà tutti i PF di un personaggio, indipendentemente da quanti ne abbia persi. Per riposo completo si intende che il PG non può combattere, studiare incantesimi, viaggiare nelle terre selvagge o fare attività faticose. L'Arbitro ha l'ultima parola a riguardo.
 
-### Bendare le ferite (opzionale)
-
-Gli Arbitri possono permettere ai personaggi di guarire 1d6 PF bendando le ferite dopo una battaglia. Questo è particolarmente utile in campagne con poca magia o in avventure in cui nessuno dei giocatori ha scelto di giocare un Chierico.
-
-Si noti che il personaggio può solo recuperare i PF persi durante questa particolare battaglia. I PF recuperati non possono far sì che un personaggio abbia più punti ferita del normale.
-
-Alcuni Arbitri considerano i Punti Ferita come una misura astratta della resistenza di un personaggio, mentre l'attacco finale che porta un personaggio a zero punti ferita rappresenta un colpo effettivo e significativo inferto da un'arma. In tal senso, possono permettere ai personaggi di guarire più punti ferita per ogni giorno di riposo e permettere di tirare i dadi per le ferite curate con bende.
-
 ### Avversari invisibili
 
 Un avversario invisibile può essere attaccato solo se la sua posizione è nota a grandi linee e l'attacco subisce una penalità di -4 "per colpire". Nota che i mostri più potenti (quelli con olfatto e udito sensibili o quelli con più di 6 DV) saranno spesso in grado di individuare gli avversari invisibili; l'Arbitro dovrebbe determinare la possibilità di ciò in base alla creatura e alla situazione.
 
 ### Olio
 
-L'olio lanciato che viene successivamente incendiato da una torcia gettata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 11. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire rispetto, per esempio, a ragni giganti.
+L'olio lanciato che viene successivamente incendiato da una torcia gettata o qualcosa di simile brucerà per due round, facendo 1d6 danni per round su un colpo a segno di CA 11. L'Arbitro dovrebbe regolare la probabilità di colpire in base alla dimensione della creatura bersaglio, ovviamente creature grandi come orchi e giganti saranno più facili da colpire.
 
 ### Attacco in mischia
 
@@ -245,7 +237,7 @@ L'Arbitro potrebbe voler fare delle "prove di Morale" per i Seguaci dei PG che h
 
 ### Tiri Salvezza
 
-Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "Tiro Salvezza". Un Tiro Salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Ogni classe personaggio ha un numero obiettivo del Tiro Salvezza che diventa più basso man mano che il personaggio aumenta di livello. Per effettuare un Tiro Salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo. Un 1 sul d20 è sempre un fallimento.
+Di tanto in tanto, un incantesimo o qualche altro tipo di pericolo richiede di effettuare un "Tiro Salvezza". Un Tiro Salvezza riuscito significa che il personaggio evita la minaccia o ne riduce l'effetto. Per effettuare un Tiro Salvezza, tirate un d20 + Livello del personaggio. Se il risultato è maggiore o uguale a 15, il Tiro Salvezza ha successo. Un 1 sul d20 è sempre un fallimento.
 
 ### Ricordate
 

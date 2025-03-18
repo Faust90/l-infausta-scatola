@@ -94,7 +94,7 @@ I **muri mobili** possono essere spostati dall'azione del giocatore o dall'autom
 
 Le **stanze affondanti** possono sigillare i giocatori chiudendo i portali o sbarrando le uscite con pesi pesanti. Alcune si riempiranno di acqua, melma verde o mostri. Altre porteranno i giocatori a un livello più basso del sotterraneo senza possibilità di ricorso, o sembreranno farlo mentre in realtà girano solo sullo stesso livello.
 
-**Passaggi o sale in pendenza** scendono dolcemente e non saranno notati dai giocatori (a parte i nani). Questi possono vedere i giocatori esplorare inavvertitamente il prossimo livello più profondo del dungeon.
+**Passaggi o sale in pendenza** scendono dolcemente e non saranno notati dai giocatori (a parte i Dvergar). Questi possono vedere i giocatori esplorare inavvertitamente il prossimo livello più profondo del dungeon.
 
 Il **teletrasporto** invia istantaneamente un individuo o un gruppo altrove dopo aver toccato una gemma, un teschio o uno specchio, o dopo aver attraversato un portale. Le destinazioni possibili includono una stanza identica senza nulla che indichi che il teletrasporto è avvenuto, la tana di un drago, un rifugio sicuro, un altro livello del sotterraneo, un luogo a migliaia di chilometri di distanza, o anche un altro pianeta o una dimensione alternativa.
 
